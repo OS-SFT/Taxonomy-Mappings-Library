@@ -1,0 +1,40 @@
+﻿Target object,Target attribute,Source object,Source attribute,Full or Partial,Delta,Proxy,Depemds on Industry,Calculation Required
+Governance,Recommended Disclosure a),Governance,S2.5a,Part,Specific identity of responsible body or individual,No,No,No
+Governance,Recommended Disclosure a),Governance,S2.5b,Part,"Details on TORs, board mandates etc.",No,No,No
+Governance,Recommended Disclosure a),Governance,S2.5d,Yes,0,No,No,No
+Governance,Recommended Disclosure a),Governance,S2.5e,Yes,0,No,No,No
+Governance,Recommended Disclosure a),Governance,S2.5f,Yes,0,No,No,No
+Governance,Recommended Disclosure b),Governance,S2.5c,Part,Details on skills and competencies,No,No,No
+Governance,Recommended Disclosure b),Governance,S2.5g,Part,Whether dedicated control/procedures applied to climate risk management,No,No,No
+Strategy,Supplemental Guidance for Banks,B16 - Commercial Banks,FN-CB-1,Yes,0,No,No,No
+Strategy,Supplemental Guidance for Insurance Companies,B17 - Insurance,FN-IN-410b.2,Part,"TCFD suggests discussion of climate-related products, however does not address incentivisation of sustainable activities",No,No,No
+Strategy,Supplemental Guidance for Asset Managers,B15 - Asset Management and Custody Activities,FN-AC-410a.2,Part,TCFD addresses climate-related factors only,No,No,No
+Strategy,Supplemental Guidance for Insurance Companies,B17 - Insurance,FN-IN-450a.3,Part,"TCFD refers specifically to climate-related scenario analysis on underwriting activities, and key tools for managing climate-related risks in relation to product development and pricing",No,No,No
+Risk Management,Supplemental Guidance for Asset Managers,B15 - Asset Management and Custody Activities,FN-AC-410a.3,Part,TCFD does not address proxy voting,No,No,No
+Risk Management,Supplemental Guidance for Insurance Companies,B17 - Insurance,FN-IN-450a.3,Part,"TCFD refers specifically to climate-related scenario analysis on underwriting activities, and key tools for managing climate-related risks in relation to product development and pricing",No,No,No
+Risk Management,Recommended Disclosure c),Risk Management,S2.17e,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Banks,B16 - Commercial Banks,FN-CB-1,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Insurance Companies,B17 - Insurance,FN-IN-450a.1,Part,"PML is not specified, however TCFD does address expected losses from weather-related catastrophes",No,No,No
+Metrics and Targets,Supplemental Guidance for Asset Managers,B15 - Asset Management and Custody Activities,FN-AC-410a.2,Part,TCFD addresses climate-related factors only,No,No,No
+Metrics and Targets,Supplemental Guidance for Banks,B16 - Commercial Banks,FN-CB-3,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Banks,B16 - Commercial Banks,FN-CB-4,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Banks,B18 - Investment Banking & Brokerage,FN-IB-1,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Insurance Companies,B17 - Insurance,FN-IN-3,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Insurance Companies,B17 - Insurance,FN-IN-4,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Asset Managers,B15 - Asset Management and Custody Activities,FN-AC-2,Yes,0,No,No,No
+Metrics and Targets,Supplemental Guidance for Asset Managers,B15 - Asset Management and Custody Activities,FN-AC-3,Yes,0,No,No,No
+Metrics and Targets,Recommended Disclosure c),Metrics and Targets,S2.23,Yes,0,No,No,No
+Metrics and Targets,Recommended Disclosure c),Metrics and Targets,S2.23b,Yes,0,No,No,No
+Metrics and Targets,Recommended Disclosure c),Metrics and Targets,S2.23c,Yes,0,No,No,No
+Metrics and Targets,Recommended Disclosure c),Metrics and Targets,S2.23g,Yes,0,No,No,No
+Metrics and Targets,Recommended Disclosure c),Metrics and Targets,S2.23h,Yes,0,No,No,No
+Metrics and Targets,Recommended Disclosure c),Metrics and Targets,S2.23i,Yes,0,No,No,No
+Metrics and Targets,GHG Emissions,Metrics and Targets,S2.21a(i),Yes,0,No,No,No
+Metrics and Targets,GHG Emissions,Metrics and Targets,S2.21a(ii),Yes,0,No,No,No
+Metrics and Targets,GHG Emissions,Metrics and Targets,S2.21a(vi),Yes,"Disclosure is required, not optional",No,No,No
+Metrics and Targets,Transition Risks,Metrics and Targets,S2.21b,Yes,0,No,No,No
+Metrics and Targets,Physical Risks,Metrics and Targets,S2.21c,Yes,0,No,No,No
+Metrics and Targets,Climate-Related Opportunities,Metrics and Targets,S2.21d,Yes,0,No,No,No
+Metrics and Targets,Capital Deployment,Metrics and Targets,S2.21e,Yes,0,No,No,No
+Metrics and Targets,Internal Carbon Prices,Metrics and Targets,S2.21f,Yes,0,No,No,No
+Metrics and Targets,Remuneration,Metrics and Targets,S2.21g,Yes,0,No,No,No

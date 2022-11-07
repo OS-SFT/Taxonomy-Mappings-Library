@@ -1,0 +1,38 @@
+![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
+**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+
+# Mapping: TCFD - CDP
+
+## Project Summary
+- Taxonomy Files: See files within this repository
+- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/LppTBM4CO5OFDVBTqmu6NLUIl8PSiLjg) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Link: Use Case(s) - [ADD]
+
+## Summary Observations
+The CDP's disclosure platform provides a method for reporting in accordance with the TCFD recommendations. The TCFD framework may be applied in the real world thanks to CDP's ability to translate the guidelines and pillars of the TCFD into concrete disclosure questions and a uniform yearly format. Companies who use CDP to disclose do so in accordance with the TCFD's guidelines and in a manner that is comparable to other companies' disclosures and commensurate with the needs of the global economy.
+
+Because of this, CDP has the biggest TCFD-aligned environmental database in the world, which is frequently used to influence investment and procurement choices in the direction of a zero-carbon, sustainable, and resilient economy.
+
+## Taxonomy versioning
+- [TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES) - Source - FD Research
+- [CDP](https://github.com/FD-SustainableFinance/RESEARCH---CLIMATE-DISCLOSURE-PROJECT-)
+
+## Background Links
+[How is CDP aligned to TCFD](https://www.cdp.net/en/guidance/how-cdp-is-aligned-to-the-tcfd)
+
+## Visualisation of Taxonomy Mapping
+[![Image](https://user-images.githubusercontent.com/112077283/194526024-370aad86-c7d0-4f4a-89ec-4f6b83375621.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/LppTBM4CO5OFDVBTqmu6NLUIl8PSiLjg)
+
+## Further Commentary
+In 2018, the CDP released a questionnaire to align with a large proportion of the TCFD recommendations. Over 25 questions in the CDP questionnaire are TCFD-related. The questions that are disclosed in the CDP questionnaire include methodologies, for sectors including financial services, energy, agriculture, materials, and transport, that are aligned with the TCFD disclosures related to Governance, Strategy, Risk Management, and Metrics and Targets.
+
+Since CDP and the TCFD are aligned, CDP reporting firms can employ material, ready-to-use climate and natural capital declarations in their annual reports. Many investors use CDP's data to reduce financial risk in their portfolios and to identify which firms are preparing for a future with more stringent climate regulations.
+
+The following areas collectively demonstrate the crossover between CDP and TCFD:
+
+* Climate effect of businesses as measured by greenhouse gas emissions and emissions reduction goals
+* How risk assessments and disclosure of risk management procedures, especially those connected to climate-related risks and opportunities, might have an influence on the firm
+* The incorporation of climate-related risks and opportunities into corporate strategy, frequently in conjunction with scenario analysis especially focused on potential effects of climate change
+* Management of risks and opportunities associated to climate change within companies by the board and management.

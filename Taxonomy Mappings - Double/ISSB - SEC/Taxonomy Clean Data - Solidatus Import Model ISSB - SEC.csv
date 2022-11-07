@@ -1,0 +1,108 @@
+﻿Target object,Target attribute,Source object,Source attribute,Full or Partial,Delta,Proxy,Depends on Industry,Calculation
+Governance,S2.5a,D. Governance Disclosure,1. Board Oversight,Part,Opportunities not specified by SEC,No,No,No
+Governance,S2.5b,N/A,,No,0,No,No,No
+Governance,S2.5c,D. Governance Disclosure,1. Board Oversight,Part,"SEC requires disclosure of climate-related expertise of the board/committee, however does not require a description of how they ensure relevant skills are present",No,No,No
+Governance,S2.5d,D. Governance Disclosure,1. Board Oversight,Yes,0,No,No,No
+Governance,S2.5e,D. Governance Disclosure,1. Board Oversight,Yes,0,No,No,No
+Governance,S2.5f,D. Governance Disclosure,1. Board Oversight,Yes,0,No,No,No
+Governance,S2.5g,D. Governance Disclosure,2. Management Oversight,Yes,0,No,No,No
+Strategy,S2.9a,B. Disclosure of Climate-Related Risks,1. Definitions of Climate-Related Risks and Climate-Related Opportunities,Yes,0,No,No,No
+Strategy,S2.9a,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Yes,0,No,No,No
+Strategy,S2.9b,B. Disclosure of Climate-Related Risks,2. Proposed Time Horizons and the Materiality Determination,Yes,0,No,No,No
+Strategy,S2.9c,B. Disclosure of Climate-Related Risks,1. Definitions of Climate-Related Risks and Climate-Related Opportunities,Yes,0,No,No,No
+Strategy,S2.9c,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Yes,0,No,No,No
+Strategy,S2.12a,B. Disclosure of Climate-Related Risks,1. Definitions of Climate-Related Risks and Climate-Related Opportunities,Yes,0,No,No,No
+Strategy,S2.12a,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Yes,0,No,No,No
+Strategy,S2.12b,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Yes,0,No,No,No
+Strategy,S2.13a,E. Risk Management Disclosure,2. Transition Plan Disclosure,Yes,0,No,No,No
+Strategy,S2.13b,E. Risk Management Disclosure,2. Transition Plan Disclosure,Yes,0,No,No,No
+Strategy,S2.13c,E. Risk Management Disclosure,2. Transition Plan Disclosure,Yes,0,No,No,No
+Strategy,S2.14a,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Yes,0,No,No,No
+Strategy,S2.14a,F. Financial Statement Metrics,1. Overview,Yes,0,No,No,No
+Strategy,S2.14a,F. Financial Statement Metrics,2. Financial Impact Metrics,Yes,0,No,No,No
+Strategy,S2.14a,F. Financial Statement Metrics,3. Expenditure Metrics,Yes,0,No,No,No
+Strategy,S2.14b,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Potential effects of climate risks on future outlook are only required in qualitative form. Quantitative metrics and disclosures are only required in relation to climate effects that have materialised and already affected the company's financial position/performance.,No,No,No
+Strategy,S2.14c,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Potential effects of climate risks on future outlook are only required in qualitative form. Quantitative metrics and disclosures are only required in relation to climate effects that have materialised and already affected the company's financial position/performance.,No,No,No
+Strategy,S2.14d,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Potential effects of climate risks on future outlook are only required in qualitative form. Quantitative metrics and disclosures are only required in relation to climate effects that have materialised and already affected the company's financial position/performance.,No,No,No
+Strategy,S2.14e,N/A,,No,Potential effects of climate risks on future outlook are only required in qualitative form. Quantitative metrics and disclosures are only required in relation to climate effects that have materialised and already affected the company's financial position/performance.,No,No,No
+Strategy,S2.15a,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook","4. Disclosure of Scenario Analysis, if Used",Yes,0,No,No,No
+Strategy,S2.15b,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook","4. Disclosure of Scenario Analysis, if Used",Yes,0,No,No,No
+Risk Management,S2.17a,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,Opportunities not specified by SEC,No,No,No
+Risk Management,S2.17b,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,"SEC does not specify: (iii) the input parameters it uses (for example, data sources, the scope of operations covered and the detail used in assumptions); or (iv) whether it has changed the processes used compared to the prior reporting period",No,No,No
+Risk Management,S2.17c,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Yes,0,No,No,No
+Risk Management,S2.17d,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,Opportunities not specified by SEC,No,No,No
+Risk Management,S2.17e,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Yes,0,No,No,No
+Risk Management,S2.17f,N/A,,No,Opportunities not specified by SEC,No,No,No
+Metrics and Targets,S2.21a(i),G. GHG Emissions Metrics Disclosure/1. GHG Emissions Disclosure Requirement,a. Overview,Yes,0,No,No,No
+Metrics and Targets,S2.21a(i),G. GHG Emissions Metrics Disclosure/1. GHG Emissions Disclosure Requirement,b. The Treatment of Scopes 1 and 2 Emissions Compared to Scope 3 Emissions,Yes,0,No,No,No
+Metrics and Targets,S2.21a(ii),G. GHG Emissions Metrics Disclosure/1. GHG Emissions Disclosure Requirement,c. GHG Intensity,Yes,0,No,No,No
+Metrics and Targets,S2.21a(iii),N/A,,No,Emissions for other group entities not required by SEC,No,No,No
+Metrics and Targets,S2.21a(vi),G. GHG Emissions Metrics Disclosure/1. GHG Emissions Disclosure Requirement,a. Overview,Yes,0,No,No,No
+Metrics and Targets,S2.21a(vi),G. GHG Emissions Metrics Disclosure/1. GHG Emissions Disclosure Requirement,b. The Treatment of Scopes 1 and 2 Emissions Compared to Scope 3 Emissions,Yes,0,No,No,No
+Metrics and Targets,S2.21b,N/A,,No,Specific proportion of assets subject to climate risk not required by SEC,No,No,No
+Metrics and Targets,S2.21c,N/A,,No,Specific proportion of assets subject to climate risk not required by SEC,No,No,No
+Metrics and Targets,S2.21d,N/A,,No,Opportunities not specified by SEC,No,No,No
+Metrics and Targets,S2.21e,F. Financial Statement Metrics,3. Expenditure Metrics,Part,"Requirements are formulated differently, however are similar in that SEC requires ""amount[s] incurred during the fiscal years presented (i) toward positive and negative impacts associated with the climate-related events (i.e., severe weather events and other natural conditions and identified physical risks) and (ii) toward transition activities, specifically, to reduce GHG emissions or otherwise mitigate exposure to transition risks (including identified transition risks). The registrant may also choose to disclose the impact of efforts to pursue climate-related opportunities associated with transition activities.",Yes,No,No
+Metrics and Targets,S2.21f,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",3. Disclosure of a Maintained Internal Carbon Price,Yes,0,No,No,No
+Metrics and Targets,S2.21g,N/A,,No,SEC is not proposing a compensation-related disclosure requirement at this time,No,No,No
+Metrics and Targets,S2.23,I. Targets and Goals Disclosure,,Yes,0,No,No,No
+Metrics and Targets,S2.23a,I. Targets and Goals Disclosure,,Yes,0,No,No,No
+Metrics and Targets,S2.23b,I. Targets and Goals Disclosure,,Part,Opportunities not specified by SEC,No,No,No
+Metrics and Targets,S2.23c,I. Targets and Goals Disclosure,,Yes,0,No,No,No
+Metrics and Targets,S2.23d,N/A,,No,Not specified by SEC,No,No,No
+Metrics and Targets,S2.23e,N/A,,No,Not specified by SEC,No,No,No
+Metrics and Targets,S2.23f,N/A,,No,Not specified by SEC,No,No,No
+Metrics and Targets,S2.23g,I. Targets and Goals Disclosure,,Yes,0,No,No,No
+Metrics and Targets,S2.23h,I. Targets and Goals Disclosure,,Yes,0,No,No,No
+Metrics and Targets,S2.23i,I. Targets and Goals Disclosure,,Yes,0,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-410a.1,N/A,,No,0,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-410a.2,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-410a.2,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-410a.3,N/A,,No,0,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-1,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,"Quantitative disclosure not required by SEC, but qualitative discussion may be covered",No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-2,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,Part of overall SEC requirement for companies to disclose Scope 3 emissions. Not specified in relation to total AUM. SEC suggests PCAF methodology.,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-3,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,Part of overall SEC requirement for companies to disclose Scope 3 emissions. Not specified in relation to total AUM. SEC suggests PCAF methodology.,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-4,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Yes,0,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-000.A,N/A,,No,0,No,No,No
+B15 - Asset Management and Custody Activities,FN-AC-000.B,N/A,,No,0,No,No,No
+B16 - Commercial Banks,FN-CB-410a.2,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B16 - Commercial Banks,FN-CB-410a.2,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B16 - Commercial Banks,FN-CB-1,B. Disclosure of Climate-Related Risks,1. Definitions of Climate-Related Risks and Climate-Related Opportunities,Part,"Quantitative disclosure not required by SEC, but qualitative discussion may be covered",No,No,No
+B16 - Commercial Banks,FN-CB-1,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,"Quantitative disclosure not required by SEC, but qualitative discussion may be covered",No,No,No
+B16 - Commercial Banks,FN-CB-2,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,"Quantitative disclosure not required by SEC, but qualitative discussion may be covered",No,No,No
+B16 - Commercial Banks,FN-CB-3,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,Part of overall SEC requirement for companies to disclose Scope 3 emissions. SEC suggests PCAF methodology.,No,No,No
+B16 - Commercial Banks,FN-CB-4,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,Part of overall SEC requirement for companies to disclose Scope 3 emissions. SEC suggests PCAF methodology.,No,No,No
+B16 - Commercial Banks,FN-CB-5,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Yes,0,No,No,No
+B16 - Commercial Banks,FN-CB-000.A,N/A,,No,0,No,No,No
+B16 - Commercial Banks,FN-CB-000.B,N/A,,No,0,No,No,No
+B17 - Insurance,FN-IN-410a.2,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B17 - Insurance,FN-IN-410a.2,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B17 - Insurance,FN-IN-410b.1,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,May be covered under SEC optional climate-related opportunity disclosures,No,No,No
+B17 - Insurance,FN-IN-410b.2,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,May be covered under SEC optional climate-related opportunity disclosures,No,No,No
+B17 - Insurance,FN-IN-450a.1,N/A,,No,0,No,No,No
+B17 - Insurance,FN-IN-450a.2,N/A,,No,0,No,No,No
+B17 - Insurance,FN-IN-450a.3,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,"SEC does not specify insurance related processes, however this would likely be covered under SEC strategy disclosure requirements.",No,No,No
+B17 - Insurance,FN-IN-1,B. Disclosure of Climate-Related Risks,1. Definitions of Climate-Related Risks and Climate-Related Opportunities,Part,"Quantitative disclosure not required by SEC, but qualitative discussion may be covered",No,No,No
+B17 - Insurance,FN-IN-1,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,"Quantitative disclosure not required by SEC, but qualitative discussion may be covered",No,No,No
+B17 - Insurance,FN-IN-2,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,"Quantitative disclosure not required by SEC, but qualitative discussion may be covered",No,No,No
+B17 - Insurance,FN-IN-3,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,Part of overall SEC requirement for companies to disclose Scope 3 emissions. SEC suggests PCAF methodology.,No,No,No
+B17 - Insurance,FN-IN-4,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,Part of overall SEC requirement for companies to disclose Scope 3 emissions. SEC suggests PCAF methodology.,No,No,No
+B17 - Insurance,FN-IN-5,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Yes,0,No,No,No
+B17 - Insurance,FN-IN-000.A,N/A,,No,0,No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-410a.1,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,"Quantitative disclosure not required by SEC, but qualitative discussion of incorporation of environmental factors may be covered under SEC strategy and risk management disclosure requirements",No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-410a.1,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,"Quantitative disclosure not required by SEC, but qualitative discussion of incorporation of environmental factors may be covered under SEC strategy and risk management disclosure requirements",No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-410a.2,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,"Quantitative disclosure not required by SEC, but qualitative discussion of incorporation of environmental factors may be covered under SEC strategy and risk management disclosure requirements",No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-410a.2,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,"Quantitative disclosure not required by SEC, but qualitative discussion of incorporation of environmental factors may be covered under SEC strategy and risk management disclosure requirements",No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-410a.3,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-410a.3,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-1,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Part,Part of overall SEC requirement for companies to disclose Scope 3 emissions. Associated revenues not specified. SEC suggests PCAF methodology.,No,No,No
+B18 - Investment Banking & Brokerage,FN-IB-2,G. GHG Emissions Metrics Disclosure/2. GHG Emissions Methodology and Related Instructions,"c. The Selection and Disclosure of a GHG Emissions Calculation Approach, including Emission Factors",Yes,0,No,No,No
+B18 - Investment Banking & Brokerage,FN-IB.000.A,N/A,,No,0,No,No,No
+B18 - Investment Banking & Brokerage,FN-IB.000.B,N/A,,No,0,No,No,No
+B18 - Investment Banking & Brokerage,FN-IB.000.C,N/A,,No,0,No,No,No
+B19 - Mortgage Finance,FN-MF-450a.1,N/A,,No,0,No,No,No
+B19 - Mortgage Finance,FN-MF-450a.2,N/A,,No,0,No,No,No
+B19 - Mortgage Finance,FN-MF-450a.3,"C. Disclosure Regarding Climate-Related Impacts on Strategy, Business Model, and Outlook",1. Disclosure of Material Impacts,Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B19 - Mortgage Finance,FN-MF-450a.3,E. Risk Management Disclosure,"1. Disclosure of Processes for Identifying, Assessing, and Managing Climate-Related Risks",Part,Incorporation of Environmental factors may be covered under SEC strategy and risk management disclosure requirements,No,No,No
+B19 - Mortgage Finance,FN-MF-000.A,N/A,,No,0,No,No,No
+B19 - Mortgage Finance,FN-MF-000.B,N/A,,No,0,No,No,No
