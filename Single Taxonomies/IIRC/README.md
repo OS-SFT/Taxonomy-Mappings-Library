@@ -1,0 +1,63 @@
+![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
+**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+
+# IIRC: International Integrated Reporting Council
+
+## Project Summary
+- Link: Taxonomy Files - See files within this repository
+- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/x89YaJpY2tTXPAw4vDmIX57WSZQpgILR) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-IIRC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Link: Use Case(s) - [ADD]
+## Summary Observations
+
+The International Integrated Reporting Council (IIRC) was a global task force of regulators, investors, companies, standard setters, the accounting profession, academia and NGOs. Together, this coalition shared the view that communication about value creation, preservation or erosion is the next step in the evolution of corporate reporting.
+
+The IIRC developed the International Integrated Reporting "IR" Framework to meet this need and provide a foundation for the future through:
+  - A meaningful assessment of the long-term viability of the organisation’s business model and strategy;
+  - Meeting the information needs of investors and other stakeholders; and
+  - Ultimately, the effective allocation of scarce resources.
+  
+## Taxonomy versioning
+- IIRC January 2021 - Source [https://www.integratedreporting.org/wp-content/uploads/2021/01/InternationalIntegratedReportingFramework.pdf]
+
+## Background Links
+
+NBA (NL Regulator) - On Capitals Framework
+https://www.integratedreporting.org/wp-content/uploads/2013/03/IR-Background-Paper-Capitals.pdf
+
+https://www.integratedreporting.org/wp-content/uploads/2021/01/InternationalIntegratedReportingFramework.pdf
+
+VRF Consolidation: https://www.ifrs.org/news-and-events/news/2022/08/ifrs-foundation-completes-consolidation-with-value-reporting-foundation/
+
+## Visualisation of Taxonomy Mapping
+
+[![Image](https://user-images.githubusercontent.com/113118809/194842932-02e80496-6359-4025-bb4e-71abc3570af3.png "Click here to use Solidatus Interactive Tool")](https://partners.solidatus.com/viewer/share/x89YaJpY2tTXPAw4vDmIX57WSZQpgILR)
+
+[![Image](https://user-images.githubusercontent.com/113118809/194843027-1a24aa72-d82c-450e-97d4-5f790e97dbbe.png "Click here to use the Solidatus Interactive Tool")](https://partners.solidatus.com/viewer/share/x89YaJpY2tTXPAw4vDmIX57WSZQpgILR)
+
+## Further Commentary
+
+
+**Integrated Reporting - IR**
+- Concise communication about how an organisation's strategy, governance, performance and prospects lead to the creation of value over the short, medium and long term.
+- Results in a broader explanation of performance than traditional reporting. 
+- Makes visible an organisation’s use of and dependence on different resources and relationships, or ‘Capitals’, and the organisation’s access to and impact on them.
+  - The term 'Capitals' is used broadly to refer to any store of value that an organisation can use in the production of goods or services.
+  
+**Categories of Capitals Identified in IR Framework**
+
+- Financial 
+- Manufactured
+- Human
+- Intellectual
+- Natural
+- Social
+
+![image](https://user-images.githubusercontent.com/112971360/191385926-b9cf30e8-40f2-4de8-8431-362dfa1301b2.png)
+
+### Footnotes
+
+Consultation Draft of the Framework issued in April 2013.
+
+International IR Framework (January 2021) supersedes the International IR Framework (December 2013)
