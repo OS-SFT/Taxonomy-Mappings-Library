@@ -1,0 +1,1066 @@
+﻿TYPE,NAME,Industry Code,TARGET,REFERENCE_MODEL_ID,TERM_ID,LABEL,,PROPERTIES:,Industry Code
+Structure,TRBC,,,,,,,,
+Economic Sector,Energy,,,,,,,,50
+Business Sector,Energy - Fossil Fuels,,,,,,,,5010
+Industry,Coal,,,,,,,,501010
+Industry Group,Coal,,,,,,,,50101010
+Activity,Other Coal,,,,,,,,5010101010
+Activity,Coal Mining Support,,,,,,,,5010101011
+Activity,Coal Wholesale,,,,,,,,5010101012
+Industry,Oil & Gas,,,,,,,,501020
+Indsutry Group,Integrated Oil & Gas,,,,,,,,50102010
+Activity,Integrated Oil & Gas,,,,,,,,5010201010
+Industry Group,Oil & Gas Exploration and Production,,,,,,,,50102020
+Activity,Other Oil & Gas Exploration and Production,,,,,,,,5010202010
+Activity,Oil Exploration & Production - Onshore,,,,,,,,5010202011
+Activity,Oil Exploration & Production - Offshore,,,,,,,,5010202012
+Activity,Natural Gas Exploration & Production - Onshore,,,,,,,,5010202013
+Activity,Natural Gas Exploration & Production - Offshore,,,,,,,,5010202014
+Activity,Unconventional Oil & Gas Production,,,,,,,,5010202015
+Industry Group,Oil & Gas Refining and Marketing,,,,,,,,50102030
+Activity,Other Oil & Gas Refining and Marketing,,,,,,,,5010203010
+Activity,Petroleum Refining,,,,,,,,5010203011
+Activity,Gasoline Stations,,,,,,,,5010203012
+Activity,Petroleum Product Wholesale,,,,,,,,5010203013
+Industry,Oil & Gas Related Equipment and Services,,,,,,,,501030
+Industry Group,Oil & Gas Drilling,,,,,,,,50103010
+Activity,Other Oil & Gas Drilling,,,,,,,,5010301010
+Activity,Oil Drilling - Onshore,,,,,,,,5010301011
+Activity,Gas Drilling - Onshore,,,,,,,,5010301012
+Activity,Oil Drilling - Offshore,,,,,,,,5010301013
+Activity,Gas Drilling - Offshore,,,,,,,,5010301014
+Activity,Unconventional Oil & Gas Drilling,,,,,,,,5010301015
+Industry Group,Oil Related Services and Equipment ,,,,,,,,50103020
+Activity,Other Oil Related Services and Equipment,,,,,,,,5010302010
+Activity,Oil Related Services,,,,,,,,5010302011
+Activity,Oil Related Equipment,,,,,,,,5010302012
+Activity,Oil Related - Surveying & Mapping Services,,,,,,,,5010302013
+Industry Group,Oil & Gas Transporttation Services,,,,,,,,50103020
+Activity,Other Oil & Gas Transportation Services,,,,,,,,5010303010
+Activity,LNG Transportation & Storage,,,,,,,,5010303011
+Activity,Natural Gas Pipeline,,,,,,,,5010303012
+Activity,Oil Pipeline,,,,,,,,5010303013
+Activity,Sea-Borne Tankers,,,,,,,,5010303014
+Activity,Oil & Gas Storage,,,,,,,,5010303015
+Business Sector,Renewable Energy,,,,,,,,502010
+Industry,Remewable Energy,,,,,,,,50201010
+Industry Group,Renewable Energy Equipment & Services,,,,,,,,50201020
+Activity,Other Renewable Energy Equipment & Services,,,,,,,,5020101010
+Activity,Wind Systems & Equipment,,,,,,,,5020101011
+Activity,Stationary Fuel Cells,,,,,,,,5020101012
+Activity,Photovoltaic Solar Systems & Equipment,,,,,,,,5020101013
+Activity,Thermal Solar Systems & Equipment,,,,,,,,5020101014
+Activity,Biomass Power Energy Equipment,,,,,,,,5020101015
+Activity,Waste to Energy Systems & Equipment,,,,,,,,5020101016
+Activity,Hydropower Equipment,,,,,,,,5020101017
+Activity,Wave Power Energy Equipment,,,,,,,,5020101018
+Activity,Renewable Energy Services,,,,,,,,5020101019
+Activity,Geothermal Equipment,,,,,,,,5020101020
+Industry Group,Renewable Fuels,,,,,,,,50201020
+Activity,Other Renewable Fuels,,,,,,,,5020102010
+Activity,Biodiesel,,,,,,,,5020102011
+Activity,Ethanol Fuels,,,,,,,,5020102012
+Activity,Pyrolytic & Synthetic Fuels,,,,,,,,5020102013
+Activity,Biomass & Biogas Fuels,,,,,,,,5020102014
+Activity,Hydrogen Fuel,,,,,,,,5020102015
+Industry Group,Uranium,,,,,,,,503010
+Industry Group,Uranium,,,,,,,,50301010
+Activity,Other Uranium,,,,,,,,5030101010
+Activity,Uranium Mining,,,,,,,,5030101011
+Activity,Uranium Processing,,,,,,,,5030101012
+Economic Sector,Basic Materials,,,,,,,,51
+Business Sector,Chemicals,,,,,,,,5110
+Industry,Chemcials,,,,,,,,511010
+Industry Group,Commodity Chemicals,,,,,,,,51101010
+Activity,Other Commodity Chemicals,,,,,,,,5110101010
+Activity,Plastics,,,,,,,,5110101011
+Activity,Paint & Coating,,,,,,,,5110101012
+Activity,Tanning & Softening Agents,,,,,,,,5110101013
+Activity,Explosives,,,,,,,,5110101014
+Activity,Industrial Gas,,,,,,,,5110101015
+Activity,Commodity Chemicals Wholesale,,,,,,,,5110101016
+Industry Group,Agriucluture Chemicals,,,,,,,,51101020
+Activity,Other Agricultural Chemicals,,,,,,,,5110102010
+Activity,Fertilizer,,,,,,,,5110102011
+Activity,Pesticide,,,,,,,,5110102012
+Activity,Organic Fertilizer,,,,,,,,5110102013
+Industry Group,Speciality Chemicals,,,,,,,,51101030
+Activity,Agricultural Chemicals Wholesale,,,,,,,,5110102014
+Activity,Other Specialty Chemicals,,,,,,,,5110103010
+Activity,Coloring Agent,,,,,,,,5110103011
+Activity,Cellular Fiber,,,,,,,,5110103012
+Activity,Adhesive,,,,,,,,5110103013
+Activity,Advanced Polymer,,,,,,,,5110103014
+Activity,Epoxy,,,,,,,,5110103015
+Activity,Industrial Biotechnology Chemicals,,,,,,,,5110103016
+Activity,Specialty Chemicals Wholesale,,,,,,,,5110103017
+Industry Group,Diversified Chemicals,,,,,,,,51101090
+Activity,Diversified Chemicals,,,,,,,,5110109010
+Business Sector,Mineral Resources,,,,,,,,5120
+Industry,Metals & Mining,,,,,,,,512010
+Industry Group,Precious Metals & Minerals,,,,,,,,51201010
+Activity,Other Precious Metals & Minerals,,,,,,,,5120101010
+Activity,Silver Mining,,,,,,,,5120101011
+Activity,Platinum Mining,,,,,,,,5120101012
+Activity,Diamond Mining,,,,,,,,5120101013
+Activity,Semiprecious Gem Stones,,,,,,,,5120101014
+Activity,Pearl Cultivation,,,,,,,,5120101015
+Activity,Rare Earth Minerals,,,,,,,,5120101016
+Industry Group,Gold,,,,,,,,51201060
+Activity,Other Gold,,,,,,,,5120106010
+Activity,Gold Mining,,,,,,,,5120106011
+Activity,Gold Refining,,,,,,,,5120106012
+Activity,Geophysical Surveying & Mapping Services,,,,,,,,5120107011
+Activity,Mining Support Activities,,,,,,,,5120107012
+Activity,Mining Machinery & Equipment Manufacturing,,,,,,,,5120107013
+Industry Group,Mining Support Services & Equipment,,,,,,,,51201070
+Activity,Other Mining Support Services & Equipment,,,,,,,,5120107010
+Industry Group,Intergrated Mining,,,,,,,,51201080
+Activity,Integrated Mining,,,,,,,,5120108010
+Industry Group,Steel,,,,,,,,51201020
+Activity,Other Steel,,,,,,,,5120102010
+Activity,Iron Ore Mining,,,,,,,,5120102011
+Activity,Coke Coal Mining,,,,,,,,5120102012
+Activity,"Iron, Steel Mills & Foundries",,,,,,,,5120102013
+Activity,Metal Service Centers,,,,,,,,5120102014
+Activity,Metallic Rolling & Drawing Products,,,,,,,,5120102015
+Activity,Metal Merchant Wholesalers,,,,,,,,5120102016
+Industry Group,Aluminium,,,,,,,,51201030
+Activity,Other Aluminum,,,,,,,,5120103010
+Activity,Primary Aluminum Production,,,,,,,,5120103011
+Activity,Secondary Smelting & Alloying of Aluminum,,,,,,,,5120103012
+Activity,Aluminum Rolling,,,,,,,,5120103013
+Activity,Aluminum Refining,,,,,,,,5120103014
+Activity,Aluminum Wholesalers,,,,,,,,5120103015
+Activity,Bauxite Mining,,,,,,,,5120103016
+Industry Group,Speciality Mining and Metals,,,,,,,,51201050
+Activity,Other Specialty Mining & Metals,,,,,,,,5120103017
+Activity,Lead Ore Mining,,,,,,,,5120105010
+Activity,Copper Ore Mining,,,,,,,,5120105011
+Activity,Nickel Ore Mining,,,,,,,,5120105012
+Activity,Zinc Ore Mining,,,,,,,,5120105013
+Activity,Nonferrous Metal Mining,,,,,,,,5120105014
+Activity,Nonferrous Metal Processing,,,,,,,,5120105015
+Activity,Specialty Mining & Metals Wholesale,,,,,,,,5120105016
+Industry,Construction Materials,,,,,,,,512020
+Industry Group,Construction Materials,,,,,,,,51202010
+Activity,Other Construction Materials,,,,,,,,5120105017
+Activity,Construction Material Processing,,,,,,,,5120201010
+Activity,Cement & Concrete Manufacturing,,,,,,,,5120201011
+Activity,Tile & Paving Material Manufacturing,,,,,,,,5120201012
+Activity,Rock Mining,,,,,,,,5120201013
+Activity,Construction Material Wholesale,,,,,,,,5120201014
+Business Sector,Applied Resources,,,,,,,,5130
+Industry,Paper & Forest Products,,,,,,,,513010
+Industry Group,Forest & Wood Products,,,,,,,,51301010
+Activity,Other Forest & Wood Products,,,,,,,,5120201015
+Activity,Timber Tract Operations,,,,,,,,5130101010
+Activity,Forest Nurseries & Gathering of Forest Products,,,,,,,,5130101011
+Activity,Logging & Sawmills,,,,,,,,5130101012
+Activity,Forest Support & Services,,,,,,,,5130101013
+Activity,Wood Products,,,,,,,,5130101014
+Industry Group,Paper Products,,,,,,,,51301020
+Activity,Wood Product Wholesale,,,,,,,,5130101015
+Activity,Other Paper Products,,,,,,,,5130101016
+Activity,Paper Mills & Products,,,,,,,,5130102010
+Activity,Newsprint Mills,,,,,,,,5130102011
+Activity,Pulp Mills,,,,,,,,5130102012
+Activity,Paper Product Wholesale,,,,,,,,5130102013
+Industry,Containers & Packaging,,,,,,,,513020
+Industry Group,Non-Paper Containers & Packaging,,,,,,,,5132010
+Activity,Other Non-Paper Containers & Packaging,,,,,,,,5130102014
+Activity,Textile Containers & Packaging,,,,,,,,5130201010
+Activity,Glass Containers & Packaging,,,,,,,,5130201011
+Activity,Metal Containers & Packaging,,,,,,,,5130201012
+Activity,Plastic Containers & Packaging,,,,,,,,5130201013
+Activity,Wood Container & Packaging,,,,,,,,5130201014
+Activity,Container & Packaging Material Wholesale,,,,,,,,5130201015
+Industry Group,Paper Packaging,,,,,,,,51302020
+Activity,Other Paper Packaging,,,,,,,,5130201016
+Activity,Paper Packaging Wholesale,,,,,,,,5130202010
+Economic Sector,Industrials,,,,,,,,52
+Business Sector,Industrials Goods,,,,,,,,5210
+Industry,Aerospace & Defense,,,,,,,,521010
+Industry Group,Aerospace & Defense,,,,,,,,52101010
+Activity,Other Aerospace & Defense,,,,,,,,5210101010
+Activity,Arms & Ammunitions Manufacturing,,,,,,,,5210101011
+Activity,Commercial Aircraft Manufacturing,,,,,,,,5210101012
+Activity,Military Aircraft Manufacturing,,,,,,,,5210101013
+Activity,Other Aircraft Parts Manufacturing,,,,,,,,5210101014
+Activity,Military Vehicles Manufacturing,,,,,,,,5210101015
+Activity,Satellite Design & Manufacture,,,,,,,,5210101016
+Activity,Spacecraft Manufacturing,,,,,,,,5210101017
+Activity,Military Clothing & Accessories,,,,,,,,5210101018
+Activity,Aircraft Equipment Wholesale,,,,,,,,5210101019
+Industry,"Machinery, Equipment & Components",,,,,,,,521020
+Industry Group,Industry Machinery & Equipemt,,,,,,,,52102010
+Activity,Other Industrial Machinery & Equipment,,,,,,,,5210201010
+Activity,Industrial Parts & Components,,,,,,,,5210201011
+Activity,Industrial Machinery,,,,,,,,5210201012
+Activity,Ball & Roller Bearings,,,,,,,,5210201013
+Activity,Testing & Measuring Equipment,,,,,,,,5210201014
+Activity,Pump & Pumping Equipment,,,,,,,,5210201015
+Activity,Air & Gas Compressors,,,,,,,,5210201016
+Activity,Welding & Soldering Equipment,,,,,,,,5210201017
+Activity,Industrial Process Furnace & Ovens,,,,,,,,5210201018
+Activity,Fluid Power Cylinder & Actuators,,,,,,,,5210201019
+Activity,Automatic Vending Machines,,,,,,,,5210201020
+Activity,Industrial Moulds,,,,,,,,5210201021
+Activity,Machine Tools,,,,,,,,5210201022
+Activity,Industrial Valve Manufacturing,,,,,,,,5210201023
+Activity,Industrial Machinery & Equipment Wholesale,,,,,,,,5210201024
+Industry Group,Heavy Machinery & Vehicles,,,,,,,,52102020
+Activity,Other Heavy Machinery & Vehicles,,,,,,,,5210202010
+Activity,Construction Machinery,,,,,,,,5210202011
+Activity,Heavy Trucks,,,,,,,,5210202012
+Activity,Heavy Buses & Coaches,,,,,,,,5210202013
+Activity,Locomotive Engines & Rolling Stock,,,,,,,,5210202014
+Activity,Agricultural Machinery,,,,,,,,5210202015
+Activity,Commercial Landscaping Equipment,,,,,,,,5210202016
+Activity,Heavy Machinery & Vehicles Wholesale,,,,,,,,5210202017
+Industry Group,Shipbuilding,,,,,,,,52102050
+Activity,Other Shipbuilding,,,,,,,,5210205010
+Activity,Ship Part Manufacturer,,,,,,,,5210205011
+Industry Group,Electrical Components & Equipement,,,,,,,,52102030
+Activity,Ship Repairing & Maintenance,,,,,,,,5210205012
+Activity,Other Electrical Components & Equipment,,,,,,,,5210203010
+Activity,Batteries & Uninterruptable Power Supplies,,,,,,,,5210203011
+Activity,Wires & Cables,,,,,,,,5210203012
+Activity,Electrical Component,,,,,,,,5210203013
+Activity,Lighting Equipment,,,,,,,,5210203014
+Activity,"Heating, Ventilation & Air Conditioning Systems",,,,,,,,5210203015
+Activity,Electron Tubes & Insulators,,,,,,,,5210203016
+Activity,Switchgear,,,,,,,,5210203017
+Activity,Portable Motors & Generators,,,,,,,,5210203018
+Activity,Electrical Measuring & Testing Instruments,,,,,,,,5210203019
+Activity,Electric Equipment Wholesale,,,,,,,,5210203020
+Industry Group,Heavy Electrical Equipment ,,,,,,,,52102040
+Activity,Other Heavy Electrical Equipment,,,,,,,,5210204010
+Activity,Smart Grid & Electrical Transmission,,,,,,,,5210204011
+Activity,Elevator & Conveying Equipment,,,,,,,,5210204012
+Activity,Turbine Manufacturing,,,,,,,,5210204013
+Activity,Heavy Motors & Generators,,,,,,,,5210204014
+Activity,Industrial Electrical Switchgear,,,,,,,,5210204015
+Activity,Nuclear Generators & Components,,,,,,,,5210204016
+Business Sector,Industrials & Commercial Services,,,,,,,,5220
+Industry,Construction & Equipment,,,,,,,,522010
+Industry Group,Construction & Engineering,,,,,,,,52201020
+Activity,Other Construction & Engineering,,,,,,,,5220102010
+Activity,Commercial Buildings,,,,,,,,5220102011
+Activity,Highway & Bridge Construction,,,,,,,,5220102012
+Activity,Railway Construction,,,,,,,,5220102013
+Activity,Smart Grid & Power Distribution Construction,,,,,,,,5220102014
+Activity,Civil Engineers & Architects,,,,,,,,5220102015
+Activity,Building Contractors,,,,,,,,5220102016
+Activity,Industrial Plant,,,,,,,,5220102017
+Activity,Water & Sewage Construction,,,,,,,,5220102018
+Activity,Land Division & Subdivision,,,,,,,,5220102019
+Activity,Gas Construction,,,,,,,,5220102020
+Activity,Electric Construction,,,,,,,,5220102021
+Activity,Nuclear Construction,,,,,,,,5220102022
+Activity,Telecommunication Construction,,,,,,,,5220102023
+Industry,Diversified Trading & Distributing,,,,,,,,522020
+Industry Group,Diversified Trading & Distributing,,,,,,,,52202010
+Activity,Diversified Trading & Distributing,,,,,,,,5220201010
+Industry,Professional & Commercial Services,,,,,,,,522030
+Industry Group,Environmental Services & Equipment,,,,,,,,52203010
+Activity,Other Environmental Services & Equipment,,,,,,,,5220301010
+Activity,Purification & Treatment Equipment,,,,,,,,5220301011
+Activity,"Waste Management, Disposal & Recycling Services",,,,,,,,5220301012
+Activity,Environmental Consultancy Services,,,,,,,,5220301013
+Activity,Environmental Biotechnology,,,,,,,,5220301014
+Activity,Carbon Capture & Storage,,,,,,,,5220301015
+Industry Group,Commercial Printing Services,,,,,,,,52203020
+Activity,Other Commercial Printing Services,,,,,,,,5220302010
+Activity,Specialized Printing Services,,,,,,,,5220302011
+Activity,Newspaper & Magazine Printing Services,,,,,,,,5220302012
+Activity,Book Printing Services,,,,,,,,5220302013
+Industry Group,Employment Services,,,,,,,,52203030
+Activity,Other Employment Services,,,,,,,,5220303010
+Activity,Human Resources Consulting Services,,,,,,,,5220303011
+Activity,Outsourcing & Staffing Services,,,,,,,,5220303012
+Activity,Executive Search Services,,,,,,,,5220303013
+Activity,Online Job Portals,,,,,,,,5220303014
+Industry Group,Business Support Services,,,,,,,,52203040
+Activity,Other Business Support Services,,,,,,,,5220304010
+Activity,Corporate Accounting Services,,,,,,,,5220304011
+Activity,Legal Services,,,,,,,,5220304012
+Activity,Management Consulting Services,,,,,,,,5220304013
+Activity,Security Services,,,,,,,,5220304014
+Activity,Educational Services,,,,,,,,5220304015
+Activity,Cleaning Services,,,,,,,,5220304016
+Activity,Data Processing Services,,,,,,,,5220304017
+Activity,Commercial Equipment Rental,,,,,,,,5220304018
+Activity,Office Equipment & Supplies Rental,,,,,,,,5220304019
+Activity,Pest Control Services,,,,,,,,5220304020
+Activity,Maintenance & Repair Services,,,,,,,,5220304021
+Activity,Design Services,,,,,,,,5220304022
+Activity,Translation & Interpretation Services,,,,,,,,5220304023
+Activity,Testing Laboratories,,,,,,,,5220304024
+Activity,Call Center Services,,,,,,,,5220304025
+Activity,Exhibition & Conference Services,,,,,,,,5220304026
+Activity,Transaction & Payment Services,,,,,,,,5220304027
+Industry Group,Professional Information Services,,,,,,,,52203070
+Activity,Other Professional Information Services,,,,,,,,5220307010
+Activity,Financial Information Providers,,,,,,,,5220307011
+Activity,Compliance & Investor Communication,,,,,,,,5220307012
+Activity,Rating Agencies,,,,,,,,5220307013
+Activity,Trade & Business Publishing,,,,,,,,5220307014
+Activity,Legal & Tax Information Providers,,,,,,,,5220307015
+Activity,Education & Training Information Providers,,,,,,,,5220307016
+Activity,Journals & Scholarly Research,,,,,,,,5220307017
+Activity,News Agencies,,,,,,,,5220307018
+Activity,Office Furniture,,,,,,,,5220306011
+Activity,Office Supplies,,,,,,,,5220306012
+Activity,Office Equipment Rental,,,,,,,,5220306013
+Activity,Office Supplies Wholesale,,,,,,,,5220306014
+Industry Group,Business Support Supplies,,,,,,,,52203060
+Activity,Other Business Support Supplies,,,,,,,,5220306010
+Industry,Industrial Conglomerate,,,,,,,,5230
+Industry Group,Industrial Conglomerate,,,,,,,,523010
+Industry Group,Industrial Conglomerate,,,,,,,,52301010
+Activity,Industrial Conglomerates,,,,,,,,5230101010
+Business Sector,Transportation,,,,,,,,5240
+Industry ,Freaight & Logistics,,,,,,,,524050
+Industry Group,Air Freight & Logistics,,,,,,,,52405010
+Activity,Other Air Freight & Logistics,,,,,,,,5240501010
+Activity,Freight Logistics,,,,,,,,5240501011
+Activity,Air Freight,,,,,,,,5240501012
+Activity,Courier Services,,,,,,,,5240501013
+Activity,Integrated Logistics Operators,,,,,,,,5240501014
+Industry Group,Marine Freight & Logistics,,,,,,,,52405020
+Activity,Other Marine Freight & Logistics,,,,,,,,5240502010
+Activity,Marine Logistics,,,,,,,,5240502011
+Activity,Inland Water Freight,,,,,,,,5240502012
+Activity,Deep Sea Freight,,,,,,,,5240502013
+Industry Group,Ground Freight & Logistics,,,,,,,,52405030
+Activity,Other Ground Freight & Logistics,,,,,,,,5240503010
+Activity,Railway Freight Operators,,,,,,,,5240503011
+Activity,Freight Trucking,,,,,,,,5240503012
+Activity,Warehousing,,,,,,,,5240503013
+Activity,Truck Rental,,,,,,,,5240503014
+Industry ,Passenger Transportation Services,,,,,,,,524060
+Industry Group,Airlines,,,,,,,,52406010
+Activity,Other Airlines,,,,,,,,5240601010
+Activity,Regional Airlines,,,,,,,,5240601011
+Activity,Charter & Private Air Services,,,,,,,,5240601012
+Activity,Specialized Aviation Services,,,,,,,,5240601013
+Activity,Inter-Modal Passenger Transportation,,,,,,,,5240601014
+Industry Group,"Passenger Transportation, Ground & Sea",,,,,,,,52406020
+Activity,"Other Passenger Transportation, Ground & Sea",,,,,,,,5240602010
+Activity,Commuting Services,,,,,,,,5240602011
+Activity,Charter Bus Services,,,,,,,,5240602012
+Activity,Rail Services,,,,,,,,5240602013
+Activity,Marine Passenger Transportation,,,,,,,,5240602014
+Activity,Commuter Ferry,,,,,,,,5240602015
+Activity,Taxi & Limousine,,,,,,,,5240602016
+Activity,Passenger Car Rental,,,,,,,,5240602017
+Industry ,Transporttation Infrastructure,,,,,,,,524070
+Industry Group,Highways & Rail Tracks,,,,,,,,52407030
+Activity,Other Highways & Rail Tracks,,,,,,,,5240703010
+Activity,Highway Operators,,,,,,,,5240703011
+Activity,Railway Operators,,,,,,,,5240703012
+Activity,Parking Lot Operators,,,,,,,,5240703013
+Industry Group,Airport Services,,,,,,,,52407010
+Activity,Other Airport Services,,,,,,,,5240701010
+Activity,Airport Operators,,,,,,,,5240701011
+Activity,Duty Free Shops,,,,,,,,5240701012
+Activity,Airport Fueling Services,,,,,,,,5240701013
+Industry Group,Marine Port Services,,,,,,,,52407010
+Activity,Airline Catering Services,,,,,,,,5240701014
+Activity,Other Marine Port Services,,,,,,,,5240702010
+Activity,Port Warehousing Services,,,,,,,,5240702011
+Activity,Port Operators,,,,,,,,5240702012
+Activity,Marine Cargo Handling Services,,,,,,,,5240702013
+Economic Sector,Consumer Cyclicals,,,,,,,,53
+Business Sector,Automobiles & Auto Parts,,,,,,,,5310
+Industry,Automobiles & Auto Parts,,,,,,,,531010
+Industry Group,Auto & Truck Manufacterer,,,,,,,,53101010
+Activity,Other Auto & Truck Manufacturers,,,,,,,,5310101010
+Activity,Motorcycles & Scooters,,,,,,,,5310101011
+Activity,Automobiles & Multi Utility Vehicles,,,,,,,,5310101012
+Activity,Light Trucks,,,,,,,,5310101013
+Activity,Electrical (Alternative) Vehicles,,,,,,,,5310101014
+Activity,Luxury Vehicles,,,,,,,,5310101015
+Activity,Auto & Truck Wholesale,,,,,,,,5310101016
+Industry Group,Auto Truck and Motorcycle Parts,,,,,,,,53101020
+Activity,"Other Auto, Truck & Motorcycle Parts",,,,,,,,5310102010
+Activity,Automotive Body Parts,,,,,,,,5310102011
+Activity,Engine & Powertrain Systems,,,,,,,,5310102012
+Activity,Automotive Batteries,,,,,,,,5310102013
+Activity,Automotive Systems,,,,,,,,5310102014
+Activity,Automotive Accessories,,,,,,,,5310102015
+Activity,Motorcycle Parts & Accessories,,,,,,,,5310102016
+Activity,Auto & Truck Parts Wholesale,,,,,,,,5310102017
+Industry Group,Tires & Rubber Products,,,,,,,,53101030
+Activity,Other Tires & Rubber Products,,,,,,,,5310103010
+Activity,Tire & Tube Manufacturers,,,,,,,,5310103011
+Activity,Tire Retreading,,,,,,,,5310103012
+Activity,Industrial Rubber Products,,,,,,,,5310103013
+Activity,Rubber Plantation,,,,,,,,5310103014
+Activity,Tires & Rubber Products Wholesale,,,,,,,,5310103015
+Business Sector,Cyclical Consumer Product,,,,,,,,5320
+Industry ,Textiles & Apparel,,,,,,,,532010
+Industry Group,Textiles & Leather Goods,,,,,,,,53201010
+Activity,Other Textiles & Leather Goods,,,,,,,,5320201010
+Activity,Synthetic Fabrics,,,,,,,,5320201011
+Activity,Natural Fabrics,,,,,,,,5320201012
+Activity,Organic & Ecologically Produced Fabric,,,,,,,,5320201013
+Activity,Leather Goods,,,,,,,,5320201014
+Activity,Fur Goods,,,,,,,,5320201015
+Activity,Fabric Dyeing & Finishing,,,,,,,,5320201016
+Activity,Yarn Goods,,,,,,,,5320201017
+Activity,Cotton Farming,,,,,,,,5320201018
+Activity,Textiles & Leather Goods Wholesale,,,,,,,,5320201019
+Industry Group,Apparel & Accessories,,,,,,,,53202020
+Activity,Other Apparel & Accessories,,,,,,,,5320202010
+Activity,Men's Clothing,,,,,,,,5320202011
+Activity,Women's Clothing,,,,,,,,5320202012
+Activity,Children & Infants Clothing,,,,,,,,5320202013
+Activity,Sportswear & Outdoors Clothing,,,,,,,,5320202014
+Activity,Jeans,,,,,,,,5320202015
+Activity,Knitwear,,,,,,,,5320202016
+Activity,Lingerie,,,,,,,,5320202017
+Activity,Hosiery & Sock,,,,,,,,5320202018
+Activity,Industrial Clothing & Uniforms,,,,,,,,5320202019
+Activity,Fair Trade & Ethical Clothing,,,,,,,,5320202020
+Activity,Luxury Clothing,,,,,,,,5320202021
+Activity,Theatrical Costumes,,,,,,,,5320202022
+Activity,Animal & Pet Clothing,,,,,,,,5320202023
+Activity,Luxury Accessories,,,,,,,,5320202024
+Activity,Accessories,,,,,,,,5320202025
+Activity,Jewelry,,,,,,,,5320202026
+Activity,Watches,,,,,,,,5320202027
+Activity,Handbags & Luggage,,,,,,,,5320202028
+Activity,Fashion Eyewear,,,,,,,,5320202029
+Activity,Apparel Wholesale,,,,,,,,5320202030
+Industry Group,Footwear,,,,,,,,53202030
+Activity,Other Footwear,,,,,,,,5320203010
+Activity,Men's Footwear,,,,,,,,5320203011
+Activity,Women's Footwear,,,,,,,,5320203012
+Activity,Children & Infants Footwear,,,,,,,,5320203013
+Activity,Sports & Outdoor Footwear,,,,,,,,5320203014
+Activity,Luxury Footwear,,,,,,,,5320203015
+Activity,Functional Footwear,,,,,,,,5320203016
+Activity,Footwear Wholesale,,,,,,,,5320203017
+Industry ,Homebuilding & Construction Supplies & Fixtures,,,,,,,,532030
+Industry Group,Homebuilding,,,,,,,,53203010
+Activity,Other Homebuilding,,,,,,,,5320301010
+Activity,Residential Builders - Single Homes,,,,,,,,5320301011
+Activity,Residential Builders - Multifamily Homes,,,,,,,,5320301012
+Activity,Prefabricated Homes,,,,,,,,5320301013
+Activity,Sustainable & Energy Efficient Home Builders,,,,,,,,5320301014
+Activity,Retirement Home Builders,,,,,,,,5320301015
+Activity,Residential Architectural & Interior Design Services,,,,,,,,5320301016
+Industry Group,Construction Supplies & Fixtures,,,,,,,,53203020
+Activity,Other Construction Supplies & Fixtures,,,,,,,,5320302010
+Activity,Construction Supplies,,,,,,,,5320302011
+Activity,Luxury Construction Supplies & Fixtures,,,,,,,,5320302012
+Activity,Doors & Window Frames,,,,,,,,5320302013
+Activity,Flooring & Interior Tile Manufacturers,,,,,,,,5320302014
+Activity,Plumbing Fixtures & Fittings,,,,,,,,5320302015
+Activity,Kitchen Cabinets,,,,,,,,5320302016
+Activity,Bathroom Fixtures,,,,,,,,5320302017
+Activity,Roofing Supplies,,,,,,,,5320302018
+Activity,Lighting Fixtures,,,,,,,,5320302019
+Activity,Construction Supplies & Fixtures Wholesale,,,,,,,,5320302020
+Industry ,Household Goods,,,,,,,,532040
+Industry Group,"Appliances, Tools & Housewares",,,,,,,,53204030
+Activity,"Other Appliances, Tools & Housewares",,,,,,,,5320403010
+Activity,Household Appliances,,,,,,,,5320403011
+Activity,Tools & Housewares,,,,,,,,5320403012
+Activity,Kitchen Appliances,,,,,,,,5320403013
+Activity,Cutlery & Flatware,,,,,,,,5320403014
+Activity,Appliance & Houseware Wholesale,,,,,,,,5320403015
+Activity,Luxury Appliances,,,,,,,,5320403016
+Industry Group,Home Furnishings,,,,,,,,53204040
+Activity,Other Home Furnishings,,,,,,,,5320404010
+Activity,Carpets & Curtains,,,,,,,,5320404011
+Activity,Wallpaper,,,,,,,,5320404012
+Activity,Furniture,,,,,,,,5320404013
+Activity,Luxury Furnishing,,,,,,,,5320404014
+Activity,Antiques,,,,,,,,5320404015
+Industry ,Lesiure Products,,,,,,,,532040
+Industry Group,Toys & Juvenile Products,,,,,,,,53204040
+Activity,Home Furnishings Wholesale,,,,,,,,5320404016
+Activity,Other Toys & Juvenile Products,,,,,,,,5320501010
+Activity,Dolls & Stuffed Toys,,,,,,,,5320501011
+Activity,"Games, Toys & Children Vehicles",,,,,,,,5320501012
+Activity,Juvenile Safety Products,,,,,,,,5320501013
+Activity,Juvenile Furniture,,,,,,,,5320501014
+Activity,Juvenile Products & Accessories,,,,,,,,5320501015
+Activity,Toys & Juvenile Products Wholesale,,,,,,,,5320501016
+Industry Group,Recreational Products,,,,,,,,53205020
+Activity,Other Recreational Products,,,,,,,,5320502010
+Activity,Sailing Yachts & Motorboats,,,,,,,,5320502011
+Activity,Bicycle Manufacturing,,,,,,,,5320502012
+Activity,Sporting & Outdoor Goods,,,,,,,,5320502013
+Activity,Musical Instruments,,,,,,,,5320502014
+Activity,Luxury Recreational Products,,,,,,,,5320502015
+Activity,Leisure Products Wholesale,,,,,,,,5320502016
+Business Sector,Cyclical Consumer Services,,,,,,,,5330
+Industry ,Hotels & Entertainment Services,,,,,,,,533010
+Industry Group,"Hotels, Motels & Cruise Lines",,,,,,,,53301010
+Activity,"Other Hotels, Motels & Cruise Lines",,,,,,,,5330101010
+Activity,Hotels & Motels,,,,,,,,5330101011
+Activity,Cruise Lines,,,,,,,,5330101012
+Activity,Luxury Hotels,,,,,,,,5330101013
+Activity,Resort Operators,,,,,,,,5330101014
+Activity,Bed & Breakfast,,,,,,,,5330101015
+Activity,Self-Catering Accommodation,,,,,,,,5330101016
+Activity,Campsite Operators,,,,,,,,5330101017
+Industry Group,Restaurants & Bars,,,,,,,,53301020
+Activity,Other Restaurants & Bars,,,,,,,,5330102010
+Activity,"Pubs, Bars & Night Clubs",,,,,,,,5330102011
+Activity,Commercial Food Services,,,,,,,,5330102012
+Activity,Quick Service Restaurants,,,,,,,,5330102013
+Activity,Mobile Caterers,,,,,,,,5330102014
+Activity,Banquet Halls & Catering,,,,,,,,5330102015
+Activity,Cafés,,,,,,,,5330102016
+Industry Group,Casinos & Gaming,,,,,,,,53301030
+Activity,Other Casinos & Gaming,,,,,,,,5330103010
+Activity,Gambling & Gaming Machine Manufacturers,,,,,,,,5330103011
+Activity,Gaming Machine Operators,,,,,,,,5330103012
+Activity,Casinos,,,,,,,,5330103013
+Activity,Horse & Dog Race Tracks,,,,,,,,5330103014
+Activity,Lottery Operators,,,,,,,,5330103015
+Industry Group,Leisure & Recreation,,,,,,,,53301040
+Activity,Other Leisure & Recreation,,,,,,,,5330104010
+Activity,Movie Theaters & Movie Products,,,,,,,,5330104011
+Activity,Theatres & Performing Arts,,,,,,,,5330104012
+Activity,Museums & Historic Places,,,,,,,,5330104013
+Activity,Travel Agents,,,,,,,,5330104014
+Activity,Amusement Parks and Zoos,,,,,,,,5330104015
+Activity,"Gyms, Fitness and Spa Centers",,,,,,,,5330104016
+Activity,Adventure Sports Facilities & Ski Resorts,,,,,,,,5330104017
+Activity,Public Sport Facilities,,,,,,,,5330104018
+Activity,Professional Sports Venues,,,,,,,,5330104019
+Activity,Golf Courses,,,,,,,,5330104020
+Activity,Hunting & Fishing,,,,,,,,5330104021
+Activity,Marinas,,,,,,,,5330104022
+Activity,Guided Tour Operators,,,,,,,,5330104023
+Industry,Media & Publishing,,,,,,,,533020
+Industry Group,Advertsing & Marketing,,,,,,,,53302010
+Activity,Other Advertising & Marketing,,,,,,,,5330201010
+Activity,Advertising Agency,,,,,,,,5330201011
+Activity,Media Buying Agency,,,,,,,,5330201012
+Activity,Signs & Advertising Specialty Producers,,,,,,,,5330201013
+Activity,Outdoor Advertising,,,,,,,,5330201014
+Activity,Direct Marketing,,,,,,,,5330201015
+Activity,Sales Promotions & Events Management,,,,,,,,5330201016
+Activity,Guerrilla Marketing,,,,,,,,5330201017
+Activity,Public Relations,,,,,,,,5330201018
+Activity,Digital Media Agencies,,,,,,,,5330201019
+Activity,Branding & Naming,,,,,,,,5330201020
+Activity,Market Research,,,,,,,,5330201021
+Activity,Marketing Consulting Services,,,,,,,,5330201022
+Industry Group,Broadcasting,,,,,,,,53302020
+Activity,Other Broadcasting,,,,,,,,5330202010
+Activity,Television Broadcasting,,,,,,,,5330202011
+Activity,Radio Broadcasting,,,,,,,,5330202012
+Activity,Cable Service Providers,,,,,,,,5330202013
+Industry Group,Entertainment Production,,,,,,,,53302030
+Activity,Other Entertainment Production,,,,,,,,5330203010
+Activity,"Movie, TV Production & Distribution",,,,,,,,5330203011
+Activity,"Music, Music Video Production & Distribution",,,,,,,,5330203012
+Activity,Plays & Concert Production,,,,,,,,5330203013
+Activity,Entertainment Production Equipment & Services,,,,,,,,5330203014
+Activity,Copyright Management,,,,,,,,5330203015
+Activity,Adult Entertainment Production & Broadcasting,,,,,,,,5330203016
+Industry Group,Consumer Publisihing,,,,,,,,52202040
+Activity,Other Consumer Publishing,,,,,,,,5330204010
+Activity,Newspaper Publishing,,,,,,,,5330204011
+Activity,Magazine Publishing,,,,,,,,5330204012
+Activity,Book Publishing,,,,,,,,5330204013
+Activity,Directory Publishing,,,,,,,,5330204014
+Activity,Digital Publishing,,,,,,,,5330204015
+Activity,Adult Publishing,,,,,,,,5330204016
+Business Sector,Retailers,,,,,,,,5340
+Industry,Diversified Retail,,,,,,,,534020
+Industry Group,Department Stores,,,,,,,,53403010
+Activity,Other Department Stores,,,,,,,,5340201010
+Activity,Retail - Department Stores,,,,,,,,5340201011
+Activity,Luxury Department Stores,,,,,,,,5340201012
+Activity,Internet & Mail Order Department Stores,,,,,,,,5340201013
+Industry Group,Discount Stores,,,,,,,,53402020
+Activity,Other Discount Stores,,,,,,,,5340202010
+Activity,Internet & Mail Order Discount Stores,,,,,,,,5340202011
+Activity,Discount Stores with Grocery,,,,,,,,5340202012
+Activity,Discount Stores without Grocery,,,,,,,,5340202013
+Activity,Discount Stores with Gasoline,,,,,,,,5340202014
+Activity,Discount Stores without Gasoline,,,,,,,,5340202015
+Industry,Other Specifiy Retailers,,,,,,,,534030
+Industry Group,"Auto Vehicles, Parts & Services Retailers",,,,,,,,53403010
+Activity,"Other Auto Vehicles, Parts & Service Retailers",,,,,,,,5340301010
+Activity,New Car Dealers,,,,,,,,5340301011
+Activity,Used Car Dealers,,,,,,,,5340301012
+Activity,Motorcycle Dealers,,,,,,,,5340301013
+Activity,Automotive Parts & Accessories Retailers,,,,,,,,5340301014
+Activity,Tire Dealers,,,,,,,,5340301015
+Activity,Luxury Car Dealers,,,,,,,,5340301016
+Industry Group,Home Improvement Products & Services Retailers,,,,,,,,53403020
+Activity,Other Home Improvement Products & Services Retailers,,,,,,,,5340302010
+Activity,Paint & Wallpaper Retailers,,,,,,,,5340302011
+Activity,Builder Merchants,,,,,,,,5340302012
+Activity,Nursery & Garden Centers,,,,,,,,5340302013
+Activity,Kitchen & Bathroom Retailers,,,,,,,,5340302014
+Activity,Home Décor Retailers,,,,,,,,5340302015
+Activity,Interior Design Services,,,,,,,,5340302016
+Activity,Luxury Home Improvement Product Retailers,,,,,,,,5340302017
+Industry Group,Home Furnishings Retailers,,,,,,,,53403030
+Activity,Other Home Furnishings Retailers,,,,,,,,5340303010
+Activity,Furniture Retailers,,,,,,,,5340303011
+Activity,Floor Covering Retailers,,,,,,,,5340303012
+Activity,Soft Furnishing Retailers,,,,,,,,5340303013
+Activity,Luxury Furnishing Retailers,,,,,,,,5340303014
+Activity,Antique Dealers,,,,,,,,5340303015
+Industry Group,Other Speciality Retailers,,,,,,,,53403090
+Activity,Other Miscellaneous Specialty Retailers,,,,,,,,5340309010
+Activity,Luxury Beauty Supply Retailers,,,,,,,,5340309011
+Activity,Beauty Supply Shop,,,,,,,,5340309012
+Activity,Optical Goods Stores,,,,,,,,5340309013
+Activity,Health Food Stores,,,,,,,,5340309014
+Activity,Musical Instrument Retailers,,,,,,,,5340309015
+Activity,Hobby & Craft Product Retailers,,,,,,,,5340309016
+Activity,Toys & Games Retailers,,,,,,,,5340309017
+Activity,Book & Magazine Retailers,,,,,,,,5340309018
+Activity,Florists,,,,,,,,5340309019
+Activity,Office Supplies & Stationery Stores,,,,,,,,5340309020
+Activity,"Gift, Novelty & Souvenir Stores",,,,,,,,5340309021
+Activity,Used Merchandise Stores,,,,,,,,5340309022
+Activity,Sporting Goods Stores,,,,,,,,5340309023
+Activity,Pet & Pet Supplies Retailers,,,,,,,,5340309024
+Activity,Adult Products Retailers,,,,,,,,5340309025
+Industry Group,Apparel & Accessories Retailers,,,,,,,,53403040
+Activity,Other Apparel & Accessories Retailers,,,,,,,,5340304010
+Activity,Footwear Retailers,,,,,,,,5340304011
+Activity,Jewelry & Watch Retailers,,,,,,,,5340304012
+Activity,Men's Apparel Retailers,,,,,,,,5340304013
+Activity,Women's Apparel Retailers,,,,,,,,5340304014
+Activity,Children & Infants Clothing Retailers,,,,,,,,5340304015
+Activity,Teen Fashion Retailers,,,,,,,,5340304016
+Activity,Handbags & Luggage Retailers,,,,,,,,5340304017
+Activity,Luxury Apparel Retailers,,,,,,,,5340304018
+Activity,Sports & Outdoors Retailers,,,,,,,,5340304019
+Industry Group,Computer & Electronics Retailers,,,,,,,,53403050
+Activity,Other Computer & Electronics Retailers,,,,,,,,5340305010
+Activity,Computer Hardware & Software Retailers,,,,,,,,5340305011
+Activity,Consumer Electronics Retailers,,,,,,,,5340305012
+Activity,Mobile Phone Retailers,,,,,,,,5340305013
+Economic Sector,Consumer Non Cyclicals,,,,,,,,54
+Business Sector,Food & Beverage,,,,,,,,5410
+Industry ,Beverages,,,,,,,,541010
+Industry Group,Brewers,,,,,,,,54101010
+Activity,Other Brewers,,,,,,,,5410101010
+Activity,Craft & Micro Brewers,,,,,,,,5410101011
+Industry Group,Distillers & Wineries,,,,,,,,54101020
+Activity,Other Distillers & Wineries,,,,,,,,5410102010
+Activity,Wineries,,,,,,,,5410102011
+Activity,Distilleries,,,,,,,,5410102012
+Activity,Malt Producers,,,,,,,,5410102013
+Industry Group,Non-Alcoholic Beverages,,,,,,,,54101030
+Activity,Other Non-Alcoholic Beverages,,,,,,,,5410103010
+Activity,Carbonated Soft Drinks,,,,,,,,5410103011
+Activity,Fruit Drinks,,,,,,,,5410103012
+Activity,Energy Drinks,,,,,,,,5410103013
+Activity,Bottled Water & Ice,,,,,,,,5410103014
+Business Sector,Food & Beverages,,,,,,,,5410
+Industry ,Food & Tobacco,,,,,,,,541020
+Industry Group,Fishing & Farming,,,,,,,,54102010
+Activity,Other Fishing & Farming,,,,,,,,5410201010
+Activity,Grain (Crop) Production,,,,,,,,5410201011
+Activity,Poultry Farming,,,,,,,,5410201012
+Activity,Red Meat,,,,,,,,5410201013
+Activity,"Vegetable, Fruit & Nut Farming",,,,,,,,5410201014
+Activity,"Coffee, Tea & Cocoa Farming",,,,,,,,5410201015
+Activity,Sugarcane Farming,,,,,,,,5410201016
+Activity,Commercial Nurseries,,,,,,,,5410201017
+Activity,Commercial Fishing,,,,,,,,5410201018
+Activity,Aquaculture,,,,,,,,5410201019
+Activity,Fur Farming,,,,,,,,5410201020
+Activity,Animal Breeding,,,,,,,,5410201021
+Activity,Agriculture Support Services,,,,,,,,5410201022
+Activity,Organic Farming,,,,,,,,5410201023
+Activity,Animal Feed,,,,,,,,5410201024
+Activity,Agricultural Consultancy Services,,,,,,,,5410201025
+Activity,Fishing & Farming Wholesale,,,,,,,,5410201026
+Activity,Agricultural Biotechnology,,,,,,,,5410201027
+Activity,Hog & Pig Farming,,,,,,,,5410201028
+Activity,Beef & Veal Farming,,,,,,,,5410201029
+Industry Group,Food Processing,,,,,,,,54102020
+Activity,Other Food Processing,,,,,,,,5410202010
+Activity,Flour Milling,,,,,,,,5410202011
+Activity,Bread & Bakery Product Manufacturing,,,,,,,,5410202012
+Activity,Breakfast Cereal Manufacturing,,,,,,,,5410202013
+Activity,"Cookie, Cracker & Pasta Manufacturing",,,,,,,,5410202014
+Activity,Fruit & Vegetable Processing,,,,,,,,5410202015
+Activity,Animal Slaughtering & Processing,,,,,,,,5410202016
+Activity,Halal Animal Slaughtering & Processing,,,,,,,,5410202017
+Activity,Seafood Product Preparation & Packaging,,,,,,,,5410202018
+Activity,Dairy Products,,,,,,,,5410202019
+Activity,"Starch, Vegetable Fat & Oil Manufacturing",,,,,,,,5410202020
+Activity,Coffee & Tea,,,,,,,,5410202021
+Activity,Sugar & Artificial Sweeteners,,,,,,,,5410202022
+Activity,Chocolate & Confectionery,,,,,,,,5410202023
+Activity,Snack Food & Non-Chocolate Confectionary,,,,,,,,5410202024
+Activity,Special Foods & Wellbeing Products,,,,,,,,5410202025
+Activity,Food Ingredients,,,,,,,,5410202026
+Activity,Baby Food,,,,,,,,5410202027
+Activity,Ready-Made Meals,,,,,,,,5410202028
+Activity,All Other Food Manufacturing,,,,,,,,5410202029
+Activity,Frozen Food Manufacturing,,,,,,,,5410202030
+Activity,Pet Food Manufacturing,,,,,,,,5410202031
+Industry Group,Tobacco,,,,,,,,54102030
+Activity,Other Tobacco,,,,,,,,5410203010
+Activity,Tobacco Farming,,,,,,,,5410203011
+Activity,Tobacco Stemming & Redrying,,,,,,,,5410203012
+Activity,Cigars & Cigarette Manufacturing,,,,,,,,5410203013
+Activity,Chewing Tobacco Products,,,,,,,,5410203014
+Business Sector,Personal & Household Products & Services,,,,,,,,5420
+Industry ,Personal & Household Products & Services,,,,,,,,542010
+Industry Group,Household Products,,,,,,,,54201010
+Activity,Other Household Products,,,,,,,,5420101010
+Activity,Laundry Supplies,,,,,,,,5420101011
+Activity,Cleaning Supplies,,,,,,,,5420101012
+Activity,Air Fresheners,,,,,,,,5420101013
+Activity,"Brooms, Brushes & Dustpans",,,,,,,,5420101014
+Activity,Pet & Plant Protection Agents,,,,,,,,5420101015
+Activity,Auto Cleaning Products,,,,,,,,5420101016
+Industry Group,Personal Products,,,,,,,,54201020
+Activity,Other Personal Products,,,,,,,,5420102010
+Activity,Cosmetics & Perfumes,,,,,,,,5420102011
+Activity,Luxury Cosmetics,,,,,,,,5420102012
+Activity,Sanitary Products,,,,,,,,5420102013
+Activity,Hair Accessories,,,,,,,,5420102014
+Activity,Birth Control Products,,,,,,,,5420102015
+Industry Group,Personal Services,,,,,,,,54201030
+Activity,Other Personal Services,,,,,,,,5420103010
+Activity,Consumer Goods Rental,,,,,,,,5420103011
+Activity,Accounting & Tax Preparation,,,,,,,,5420103012
+Activity,Personal Legal Services,,,,,,,,5420103013
+Activity,General Education Services,,,,,,,,5420103014
+Activity,Child Care & Family Services,,,,,,,,5420103015
+Activity,Consumer Repair Services,,,,,,,,5420103016
+Activity,Personal Care Services,,,,,,,,5420103017
+Activity,Funeral Services,,,,,,,,5420103018
+Business Sector,Food & Drug Retailing,,,,,,,,5430
+Industry ,Food & Drug Retailing,,,,,,,,543010
+Industry Group,Drug Retailing,,,,,,,,54301010
+Activity,Other Drug Retailers,,,,,,,,5430101010
+Activity,Retail - Drugs with Grocery,,,,,,,,5430101011
+Activity,Retail - Drugs without Grocery,,,,,,,,5430101012
+Industry Group,Food Retail & Distribution,,,,,,,,54301020
+Activity,Other Food Retail & Distribution,,,,,,,,5430102010
+Activity,Food Wholesale,,,,,,,,5430102011
+Activity,Supermarkets & Convenience Stores,,,,,,,,5430102012
+Activity,"Beer, Wine & Liquor Stores",,,,,,,,5430102013
+Activity,Vending Machine Providers,,,,,,,,5430102014
+Activity,Tobacco Stores,,,,,,,,5430102015
+Activity,Food Markets,,,,,,,,5430102016
+Economic Sector,Financials,,,,,,,,55
+Business Sector,Banking & Investment Services,,,,,,,,5510
+Industry ,Banking Services,,,,,,,,551010
+Industry Group,Banks,,,,,,,,55101010
+Activity,Other Banks,,,,,,,,5510101010
+Activity,Commercial Banks,,,,,,,,5510101011
+Activity,Retail & Mortgage Banks,,,,,,,,5510101012
+Activity,Money Center Banks,,,,,,,,5510101013
+Activity,Private Banks,,,,,,,,5510101014
+Activity,Islamic Banks,,,,,,,,5510101015
+Industry Group,Consumer Lending ,,,,,,,,55101030
+Activity,Other Consumer Lending,,,,,,,,5510103010
+Activity,Personal & Car Loans,,,,,,,,5510103011
+Activity,Consumer Credit Cards Services,,,,,,,,5510103012
+Activity,Consumer Leasing,,,,,,,,5510103013
+Activity,Credit Unions,,,,,,,,5510103014
+Activity,Microfinancing,,,,,,,,5510103015
+Industry Group,Corporate Financial Services,,,,,,,,55101050
+Activity,Other Corporate Financial Services,,,,,,,,5510105010
+Activity,Commercial Loans,,,,,,,,5510105011
+Activity,Import-Export Banks,,,,,,,,5510105012
+Activity,International Trade Financing,,,,,,,,5510105013
+Activity,Factoring,,,,,,,,5510105014
+Activity,Commercial Leasing,,,,,,,,5510105015
+Industry,Investment Banking & Investment Services,,,,,,,,551020
+Industry Group,Investemnt Banking & Brokerage,,,,,,,,55102010
+Activity,Other Investment Banking & Brokerage Services,,,,,,,,5510201010
+Activity,Investment Banking,,,,,,,,5510201011
+Activity,Brokerage Services,,,,,,,,5510201012
+Activity,Inter-Dealer Broker,,,,,,,,5510201013
+Activity,Islamic Investment Banking & Brokerage Services,,,,,,,,5510201014
+Activity,Merchant Banks,,,,,,,,5510201015
+Industry Group,Investemnt Management & Fund Operators,,,,,,,,55102020
+Activity,Other Investment Management & Fund Operators,,,,,,,,5510202010
+Activity,Investment Management,,,,,,,,5510202011
+Activity,Hedge Funds,,,,,,,,5510202012
+Activity,Collective Investment Fund Operators,,,,,,,,5510202013
+Activity,Wealth Management,,,,,,,,5510202014
+Activity,Venture Capital,,,,,,,,5510202015
+Activity,Private Equity,,,,,,,,5510202016
+Activity,Islamic Investment Management & Fund Operators,,,,,,,,5510202017
+Industry Group,Diversified Investment Services,,,,,,,,55102030
+Activity,Diversified Investment Services,,,,,,,,5510203010
+Industry Group,Financial & Commodity Market,,,,,,,,55102050
+Activity,Other Financial & Commodity Market Operators,,,,,,,,5510205010
+Activity,Securities & Commodity Exchanges,,,,,,,,5510205011
+Activity,"Clearing, Settlement & Custodial Service",,,,,,,,5510205012
+Activity,Financial Technology & Infrastructure,,,,,,,,5510205013
+Business Sector,Insurance,,,,,,,,5510
+Industry ,Insurance,,,,,,,,551010
+Industry Group,Multiline Inusrance & Brokers,,,,,,,,55101010
+Activity,Other Multiline Insurance & Brokers,,,,,,,,5530101010
+Activity,Islamic Insurance,,,,,,,,5530101011
+Activity,Insurance Brokers,,,,,,,,5530101012
+Industry Group,Property & Casualty Insurance,,,,,,,,55301020
+Activity,Other Property & Casualty Insurance,,,,,,,,5530102010
+Activity,Property Insurance,,,,,,,,5530102011
+Activity,Insurance - Automobile,,,,,,,,5530102012
+Activity,Travel Insurance,,,,,,,,5530102013
+Activity,Casualty Insurance,,,,,,,,5530102014
+Industry Group,Life and Health Insurance,,,,,,,,55301030
+Activity,Other Life & Health Insurance,,,,,,,,5530103010
+Activity,Life Insurance,,,,,,,,5530103011
+Activity,Health Insurance,,,,,,,,5530103012
+Industry Group,Reinsurance,,,,,,,,55301050
+Activity,Other Reinsurance,,,,,,,,5530105010
+Activity,Life & Health Reinsurance,,,,,,,,5530105011
+Activity,Property & Casualty Reinsurance,,,,,,,,5530105012
+Business Sector,Real Estate,,,,,,,,5540
+Industry ,Real Esatate Operations,,,,,,,,554020
+Industry Group,Real Estate Development & Operations,,,,,,,,55402010
+Activity,Other Real Estate Development & Operations,,,,,,,,5540201010
+Activity,Office Real Estate Development,,,,,,,,5540201011
+Activity,Retail Real Estate Development,,,,,,,,5540201012
+Activity,Industrial Real Estate Development,,,,,,,,5540201013
+Activity,Residential Real Estate Development,,,,,,,,5540201014
+Industry Group,Real Estate Services,,,,,,,,55402020
+Activity,Other Real Estate Services,,,,,,,,5540202010
+Activity,Office Real Estate Services,,,,,,,,5540202011
+Activity,Retail Real Estate Services,,,,,,,,5540202012
+Activity,Industrial Real Estate Services,,,,,,,,5540202013
+Activity,Residential Real Estate Services,,,,,,,,5540202014
+Industry ,Residential & Commercial REIT,,,,,,,,554030
+Industry Group,Diversified REITs,,,,,,,,55403010
+Activity,Diversified REITs,,,,,,,,5540301010
+Industry Group,Commercial REITs,,,,,,,,55403020
+Activity,Other Commercial REITs,,,,,,,,5540302010
+Activity,Office REITs,,,,,,,,5540302011
+Activity,Retail REITs,,,,,,,,5540302012
+Activity,Industrial REITs,,,,,,,,5540302013
+Industry Group,Residentials REITs,,,,,,,,55403010
+Activity,Residential REITs,,,,,,,,5540303010
+Industry Group,Specialized REITs,,,,,,,,55403040
+Activity,Other Specialized REITs,,,,,,,,5540304010
+Activity,Healthcare REITs,,,,,,,,5540304011
+Activity,Hospitality REITs,,,,,,,,5540304012
+Activity,Self-Storage REITs,,,,,,,,5540304013
+Activity,Timber REITs,,,,,,,,5540304014
+Activity,Mortgage REITs,,,,,,,,5540304015
+Activity,Islamic REITs,,,,,,,,5540304016
+Business Sector,Collective Investments,,,,,,,,5550
+Industry ,Collective Investmemts,,,,,,,,555010
+Industry Group,Investment Trusts,,,,,,,,55501010
+Activity,Investment Trusts,,,,,,,,5550101010
+Industry Group,Mutual Funds,,,,,,,,55510120
+Activity,Other Mutual Funds,,,,,,,,5550102010
+Activity,Islamic Mutual Funds,,,,,,,,5550102011
+Industry Group,Closed End Funds,,,,,,,,55501030
+Activity,Closed End Funds,,,,,,,,5550103010
+Industry Group,Exchange Traded Funds,,,,,,,,55501040
+Activity,Other Exchange Traded Funds,,,,,,,,5550104010
+Activity,Islamic ETFs,,,,,,,,5550104011
+Activity,Islamic Commodity ETFs,,,,,,,,5550104012
+Industry Group,Pension Funds,,,,,,,,55501050
+Activity,Pension Funds,,,,,,,,5550105010
+Industry Group,Insurance Funds,,,,,,,,55501060
+Activity,Insurance Funds,,,,,,,,5550106010
+Business Sector,Holding Company,,,,,,,,5660
+Industry ,Holding Company,,,,,,,,556010
+Industry Group,Holding Company,,,,,,,,55601010
+Activity,Other Holding Companies,,,,,,,,5560101010
+Activity,Shell Companies,,,,,,,,5560101011
+Economic Sector,Healthcare,,,,,,,,56
+Business Sector,Healthcare Services,,,,,,,,5610
+Industry ,Healthcare Equipment & Supplies,,,,,,,,561010
+Industry Group,Advanced Medical Equipment & Technology,,,,,,,,56101010
+Activity,Other Advanced Medical Equipment & Technology,,,,,,,,5610101010
+Activity,Medical Diagnostic & Testing Equipment,,,,,,,,5610101011
+Activity,Medical Monitoring Systems,,,,,,,,5610101012
+Activity,Laser Equipment,,,,,,,,5610101013
+Activity,Medical Imaging Systems,,,,,,,,5610101014
+Activity,Medical Software & Technology Services,,,,,,,,5610101015
+Activity,Advanced Medical Equipment Wholesale,,,,,,,,5610101016
+Industry Group,"Medical Equipment, Supplies & Distribution",,,,,,,,56101020
+Activity,"Other Medical Equipment, Supplies & Distribution",,,,,,,,5610102010
+Activity,Medical Supplies,,,,,,,,5610102011
+Activity,Medical Prosthetics,,,,,,,,5610102012
+Activity,Medical Equipment,,,,,,,,5610102013
+Activity,Medical Devices & Implants,,,,,,,,5610102014
+Activity,Medical Equipment Wholesale,,,,,,,,5610102015
+Activity,"Glasses, Spectacles & Contact Lenses",,,,,,,,5610102016
+Activity,Diagnostic & Testing Substances,,,,,,,,5610102017
+Activity,Veterinary Medical Equipment & Supplies,,,,,,,,5610102018
+Activity,Drug Delivery Systems,,,,,,,,5610102019
+Industry ,Healthcare Providers & Services,,,,,,,,561020
+Industry Group,Healthcare Providers & Services,,,,,,,,56102010
+Activity,Other Healthcare Facilities & Services,,,,,,,,5610201010
+Activity,"Hospitals, Clinics & Primary Care Services",,,,,,,,5610201011
+Activity,Residential & Long Term Care,,,,,,,,5610201012
+Activity,Ambulance & Emergency Services,,,,,,,,5610201013
+Activity,Doctor's Office,,,,,,,,5610201014
+Activity,Medical & Diagnostic Laboratories,,,,,,,,5610201015
+Activity,Veterinary Services,,,,,,,,5610201016
+Activity,Telemedicine Services,,,,,,,,5610201017
+Activity,Home Healthcare Services,,,,,,,,5610201018
+Activity,Alternative Medicine Facilities,,,,,,,,5610201019
+Industry Group,Managed Health Care,,,,,,,,56102020
+Activity,Other Managed Healthcare,,,,,,,,5610202010
+Activity,HMO Medical Centers,,,,,,,,5610202011
+Business Sector,Pharmaceuticals & Medical Research,,,,,,,,5620
+Industry ,Pharmaceuticals,,,,,,,,562010
+Industry Group,Pharmaceuticals,,,,,,,,56201040
+Activity,Other Pharmaceuticals,,,,,,,,5620104010
+Activity,Specialty & Advanced Pharmaceuticals,,,,,,,,5620104011
+Activity,Biopharmaceuticals,,,,,,,,5620104012
+Activity,Diagnostic & Testing Substances Manufacturers,,,,,,,,5620104013
+Activity,Veterinary Drugs,,,,,,,,5620104014
+Activity,Generic Pharmaceuticals,,,,,,,,5620104015
+Activity,Alternative Medicine,,,,,,,,5620104016
+Industry Group,Biotechnology,,,,,,,,56202010
+Activity,Other Biotechnology & Medical Research,,,,,,,,5620201010
+Activity,Bio Therapeutic Drugs,,,,,,,,5620201011
+Activity,Bio Diagnostics & Testing,,,,,,,,5620201012
+Activity,Bio Medical Devices,,,,,,,,5620201013
+Economic Sector,Technology,,,,,,,,57
+Business Sector,Technology Equipment,,,,,,,,571010
+Industry ,Semicondutors & Semiconductor Equipment,,,,,,,,5710
+Industry Group,Semiconductors,,,,,,,,57101010
+Activity,Other Semiconductors,,,,,,,,5710101010
+Activity,Integrated Circuits,,,,,,,,5710101011
+Activity,Memory Chips (RAM),,,,,,,,5710101012
+Activity,Processors,,,,,,,,5710101013
+Activity,Semiconductor Wholesale,,,,,,,,5710101014
+Activity,RFID Systems,,,,,,,,5710101015
+Industry Group,Semiconductor Equipment & Testing,,,,,,,,57101020
+Activity,Other Semiconductor Equipment & Testing,,,,,,,,5710102010
+Activity,Semiconductor Machinery Manufacturing,,,,,,,,5710102011
+Activity,Semiconductor Testing Equipment & Service,,,,,,,,5710102012
+Activity,Semiconductor Equipment Wholesalers,,,,,,,,5710102013
+Industry ,Commications & Networking,,,,,,,,571020
+Industry Group,Commications & Networking,,,,,,,,57102010
+Activity,Other Communications & Networking,,,,,,,,5710201010
+Activity,Network Equipment,,,,,,,,5710201011
+Activity,Security & Surveillance,,,,,,,,5710201012
+Activity,Conferencing Tools & Systems,,,,,,,,5710201013
+Activity,VOIP Equipment & Systems,,,,,,,,5710201014
+Activity,Broadcasting Equipment,,,,,,,,5710201015
+Activity,Satellite Communications Network,,,,,,,,5710201016
+Activity,Fiber Optic Cable Manufacturing,,,,,,,,5710201017
+Industry,Office Equipment,,,,,,,,571050
+Industry Group,Office Equipment,,,,,,,,57105010
+Activity,Other Office Equipment,,,,,,,,5710501010
+Activity,Commercial Document Management,,,,,,,,5710501011
+Activity,Office Technology Equipment,,,,,,,,5710501012
+Activity,Point of Sale Systems,,,,,,,,5710501013
+Activity,Scientific & Precision Equipment,,,,,,,,5710501014
+Activity,Office Equipment Wholesale,,,,,,,,5710501015
+Industry ,Electronic Equipment & Parts,,,,,,,,57104010
+Industry Group,Electronic Equipment & Parts,,,,,,,,57104010
+Activity,Other Electronic Equipment & Parts,,,,,,,,5710401010
+Activity,Biometric Products,,,,,,,,5710401011
+Activity,Advanced Electronic Equipment,,,,,,,,5710401012
+Activity,Display Screens,,,,,,,,5710401013
+Activity,Electronic Component,,,,,,,,5710401014
+Industry ,"Computers, Phones & Household Electronics",,,,,,,,571060
+Industry Group,Computer Hardware,,,,,,,,57106010
+Activity,Other Computer Hardware,,,,,,,,5710601010
+Activity,Scientific & Super Computers,,,,,,,,5710601011
+Activity,Laptop & Desktop Computers,,,,,,,,5710601012
+Activity,Tablet & Netbook Computers,,,,,,,,5710601013
+Activity,Input Devices,,,,,,,,5710601014
+Activity,Computer Peripherals,,,,,,,,5710601015
+Activity,Servers & Systems,,,,,,,,5710601016
+Activity,Storage Devices,,,,,,,,5710601017
+Activity,Computer Hardware Component Assembly,,,,,,,,5710601018
+Activity,Consumer Document Management,,,,,,,,5710601019
+Industry Group,Phones & Handheld Devices,,,,,,,,57106020
+Activity,Other Phones & Handheld Devices,,,,,,,,5710602010
+Activity,Phones & Smart Phones,,,,,,,,5710602011
+Activity,Portable Satellite Navigation,,,,,,,,5710602012
+Activity,Personal Music Players,,,,,,,,5710602013
+Activity,Electronic Books,,,,,,,,5710602014
+Activity,Mobile Device Component Assembly,,,,,,,,5710602015
+Industry Group,Household Electronics,,,,,,,,57106030
+Activity,Other Household Electronics,,,,,,,,5710603010
+Activity,Photographic Equipment,,,,,,,,5710603011
+Activity,TV & Video,,,,,,,,5710603012
+Activity,Home Audio,,,,,,,,5710603013
+Activity,Consumer Electronic Wholesale,,,,,,,,5710603014
+Business Sector,Software & IT Services,,,,,,,,5720
+Industry ,Software & IT Services,,,,,,,,572010
+Industry Group,IT Services & Consulting,,,,,,,,57201010
+Activity,Other IT Services & Consulting,,,,,,,,5720101010
+Activity,Computer Programming,,,,,,,,5720101011
+Activity,Computer Training,,,,,,,,5720101012
+Activity,Technology Consulting & Outsourcing Services,,,,,,,,5720101013
+Activity,Testing Services,,,,,,,,5720101014
+Activity,Cloud Computing Services,,,,,,,,5720101015
+Industry Group,Software,,,,,,,,57201020
+Activity,Other Software,,,,,,,,5720102010
+Activity,System Software,,,,,,,,5720102011
+Activity,Application Software,,,,,,,,5720102012
+Activity,Enterprise Software,,,,,,,,5720102013
+Activity,Mobile Application Software,,,,,,,,5720102014
+Activity,Mobile System Software,,,,,,,,5720102015
+Activity,Programming Software & Testing Tools,,,,,,,,5720102016
+Activity,Server & Database Software,,,,,,,,5720102017
+Industry Group,Internal Services,,,,,,,,57201030
+Activity,Other Internet Services,,,,,,,,5720103010
+Activity,Search Engines,,,,,,,,5720103011
+Activity,Social Media & Networking,,,,,,,,5720103012
+Activity,E-commerce & Auction Services,,,,,,,,5720103013
+Activity,Content & Site Management Services,,,,,,,,5720103014
+Activity,Internet Security & Transactions Services,,,,,,,,5720103015
+Activity,Internet Gaming,,,,,,,,5720103016
+Economic Sector,Telecommunications Services,,,,,,,,58
+Business Sector,Telecommunications Services,,,,,,,,5810
+Industry ,Telecommunications Services,,,,,,,,581010
+Industry Group,Integrated Telecommications Services,,,,,,,,58101010
+Activity,Other Integrated Telecommunications Services,,,,,,,,5810101010
+Activity,Wired Telecommunications Carriers,,,,,,,,5810101011
+Activity,Telecommunications Resellers,,,,,,,,5810101012
+Activity,Internet Service Providers,,,,,,,,5810101013
+Activity,Telecommunications Network Infrastructure,,,,,,,,5810101014
+Activity,VOIP Services,,,,,,,,5810101015
+Industry Group,Wireless Telecommications Services,,,,,,,,58101020
+Activity,Other Wireless Telecommunications Services,,,,,,,,5810102010
+Activity,Alternative Communications Services,,,,,,,,5810102011
+Activity,Satellite Service Operators,,,,,,,,5810102012
+Activity,Wi-Fi & Wi-Max Providers,,,,,,,,5810102013
+Activity,Wireless Telecom,,,,,,,,5810102014
+Economic Sector,Utilities,,,,,,,,59
+Business Sector,Utilities,,,,,,,,5910
+Industry ,Electrical utilities & IPPs,,,,,,,,591010
+Industry Group,Electric Utilities,,,,,,,,59101010
+Activity,Other Electric Utilities,,,,,,,,5910101010
+Activity,Renewable Utilities,,,,,,,,5910101011
+Activity,Fossil Fuel Electric Utilities,,,,,,,,5910101012
+Activity,Nuclear Utilities,,,,,,,,5910101013
+Industry Group,Independent Power Producers,,,,,,,,59101020
+Activity,Other Independent Power Producers,,,,,,,,5910102010
+Activity,Fossil Fuel IPPs,,,,,,,,5910102011
+Activity,Renewable IPPs,,,,,,,,5910102012
+Activity,Nuclear IPPs,,,,,,,,5910102013
+Industry,Natural Gas Utilities,,,,,,,,591020
+Industry Group,Natural Gas Utilities,,,,,,,,59102010
+Activity,Other Natural Gas Utilities,,,,,,,,5910201010
+Activity,Natural Gas Distribution,,,,,,,,5910201011
+Industry,Water Utilities,,,,,,,,591030
+Industry Group,Water Utilities,,,,,,,,59103010
+Activity,Other Water Utilities,,,,,,,,5910301010
+Activity,Water Supply & Irrigation Systems,,,,,,,,5910301011
+Activity,Sewage Treatment Facilities,,,,,,,,5910301012
+Activity,Steam & Air-Conditioning Supply,,,,,,,,5910301013
+Industry,Multiline Utilities,,,,,,,,591040
+Industry Group,Multiline Utilities,,,,,,,,59104010
+Activity,Other Multiline Utilities,,,,,,,,5910401010

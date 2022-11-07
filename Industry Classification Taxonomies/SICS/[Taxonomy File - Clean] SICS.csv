@@ -1,0 +1,128 @@
+﻿ID,TYPE,PARENT,NAME,SOURCE,TARGET,REFERENCE_MODEL_ID,TERM_ID,LABEL,,PROPERTIES:,Code
+7916a4cf-16eb-4581-a60c-10e7c7c301f9,Layer,,Sustainable Industry Classification System (SICS),,,,,,,,
+c4511f72-f023-4eef-948f-d3709a7fda71,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Consumer Goods,,,,,,,,CG
+658d5389-7e02-4909-a291-2383eeb58942,Group,c4511f72-f023-4eef-948f-d3709a7fda71,Apparel & Textiles,,,,,,,,CG.1
+94a2c2b6-16d5-422a-aaca-85e14906acc7,Attribute,658d5389-7e02-4909-a291-2383eeb58942,"Apparel, Accessories & Footwear",,,,,,,,CG-AA
+6c3a4828-668e-4b5f-9015-eacb4ae8a652,Group,c4511f72-f023-4eef-948f-d3709a7fda71,Consumer Discretionary Products,,,,,,,,CG.2
+f4ef275e-bd04-49f6-b447-842c14e4cdf0,Attribute,6c3a4828-668e-4b5f-9015-eacb4ae8a652,Appliance Manufacturing,,,,,,,,CG-AM
+0f41fc99-378f-4c8e-8e38-5d4271e268ec,Attribute,6c3a4828-668e-4b5f-9015-eacb4ae8a652,Building Products & Furnishings,,,,,,,,CG-BF
+67da6e2c-1895-45bc-911e-e503fd5ebfb8,Attribute,6c3a4828-668e-4b5f-9015-eacb4ae8a652,Household & Personal Products,,,,,,,,CG-HP
+39513f3f-3f7c-4be0-b01c-72052520f31d,Attribute,6c3a4828-668e-4b5f-9015-eacb4ae8a652,Toys & Sporting Goods,,,,,,,,CG-TS
+01b12434-e905-48d5-818b-8720845f839f,Group,c4511f72-f023-4eef-948f-d3709a7fda71,Consumer Goods Retail,,,,,,,,CG.3
+58aeb91f-634b-483a-91c2-d5df331e4d8e,Attribute,01b12434-e905-48d5-818b-8720845f839f,Multiline and Specialty Retailers & Distributors,,,,,,,,CG-MR
+4381595f-c582-44d0-b84a-9b3f5a3907ca,Attribute,01b12434-e905-48d5-818b-8720845f839f,E-commerce,,,,,,,,CG-EC
+219b7ecf-4c3b-464c-8ab1-4123712ab6b5,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Extractives & Minerals Processing,,,,,,,,EM
+5ba859c9-9540-4c43-b81b-bc4a369efa1f,Group,219b7ecf-4c3b-464c-8ab1-4123712ab6b5,Coal,,,,,,,,EM.1
+815abd48-d2e5-4a92-8e7e-370ce82264e3,Attribute,5ba859c9-9540-4c43-b81b-bc4a369efa1f,Coal Operations,,,,,,,,EM-CO
+86dd8474-377e-43cc-8909-1cd9d888dffa,Group,219b7ecf-4c3b-464c-8ab1-4123712ab6b5,Construction Materials,,,,,,,,EM.2
+59d3cdd2-2ae8-4c15-9e0c-0330468c59c3,Attribute,86dd8474-377e-43cc-8909-1cd9d888dffa,Construction Materials,,,,,,,,EM-CM
+b5e34e01-b867-4e57-9f12-d0ba7115f5ab,Group,219b7ecf-4c3b-464c-8ab1-4123712ab6b5,Metals & Mining,,,,,,,,EM.3
+fdd1d213-00e5-4f26-93fc-a0865ea92391,Attribute,b5e34e01-b867-4e57-9f12-d0ba7115f5ab,Iron & Steel Producers,,,,,,,,EM-IS
+7edd9881-d2c5-48ae-995e-ed0e415f8397,Attribute,b5e34e01-b867-4e57-9f12-d0ba7115f5ab,Metals & Mining,,,,,,,,EM-MM
+2c8a5a5b-b4fb-4dd9-9ba9-00b5bbabe1cf,Group,219b7ecf-4c3b-464c-8ab1-4123712ab6b5,Oil & Gas,,,,,,,,EM.4
+776226da-a0e3-4204-a638-4a41425cb0d5,Attribute,2c8a5a5b-b4fb-4dd9-9ba9-00b5bbabe1cf,Oil & Gas - Exploration & Production,,,,,,,,EM-EP
+707e8aa1-1f86-42f1-9c64-de70073c518c,Attribute,2c8a5a5b-b4fb-4dd9-9ba9-00b5bbabe1cf,Oil & Gas - Midstream,,,,,,,,EM-MD
+f05cf62c-08f0-4553-921c-13ed783544a3,Attribute,2c8a5a5b-b4fb-4dd9-9ba9-00b5bbabe1cf,Oil & Gas - Refining & Marketing,,,,,,,,EM-RM
+5ae41af2-0155-43c1-8ded-d941abebc6d6,Attribute,2c8a5a5b-b4fb-4dd9-9ba9-00b5bbabe1cf,Oil & Gas - Services,,,,,,,,EM-SV
+c2e9e085-eadb-44d4-918a-2909a5a5b7ca,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Financials,,,,,,,,FN
+79dfaf7b-5bbb-44ab-b66f-7861eec951a2,Group,c2e9e085-eadb-44d4-918a-2909a5a5b7ca,Capital Markets,,,,,,,,FN.1
+734025bd-6adf-4933-95b0-44c321adde5f,Attribute,79dfaf7b-5bbb-44ab-b66f-7861eec951a2,Asset Management & Custody Activities,,,,,,,,FN-AC
+23506849-42c6-43a2-abe1-17bb91d1a960,Attribute,79dfaf7b-5bbb-44ab-b66f-7861eec951a2,Investment Banking & Brokerage,,,,,,,,FN-IB
+5e3b10e8-4916-420d-9dba-00f9c831f006,Attribute,79dfaf7b-5bbb-44ab-b66f-7861eec951a2,Security & Commodity Exchanges,,,,,,,,FN-EX
+6f2fcb21-31db-4482-939a-15ab91f1a350,Group,c2e9e085-eadb-44d4-918a-2909a5a5b7ca,Corporate & Retail Banking,,,,,,,,FN.2
+5bc34c6f-bb8d-4552-97ff-cb3a68ef580d,Attribute,6f2fcb21-31db-4482-939a-15ab91f1a350,Commercial Banks,,,,,,,,FN-CB
+86e98fba-fc24-4c9b-b201-66975a8fd76d,Attribute,6f2fcb21-31db-4482-939a-15ab91f1a350,Consumer Finance,,,,,,,,FN-CF
+3c36f386-d75b-40da-b6b3-6b9d3676a3c9,Attribute,6f2fcb21-31db-4482-939a-15ab91f1a350,Mortgage Finance,,,,,,,,FN-MF
+2c888390-ed3a-4a1d-8065-8f4c2a95cfe4,Group,c2e9e085-eadb-44d4-918a-2909a5a5b7ca,Insurance,,,,,,,,FN.3
+08361a0a-39c4-45c1-85cb-7372754f503e,Attribute,2c888390-ed3a-4a1d-8065-8f4c2a95cfe4,Insurance,,,,,,,,FN-IN
+517eea04-3917-4ca9-a03e-161ce1e6f3fd,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Food & Beverage,,,,,,,,FB
+da14b08e-7db9-4549-85d5-7bbb254f8d41,Group,517eea04-3917-4ca9-a03e-161ce1e6f3fd,Food,,,,,,,,FB.1
+7879bffe-dfcf-4335-9c08-9d25ce05a343,Attribute,da14b08e-7db9-4549-85d5-7bbb254f8d41,Agricultural Products,,,,,,,,FB-AG
+f65ab990-4157-4876-bcab-a77a7189ddf0,Attribute,da14b08e-7db9-4549-85d5-7bbb254f8d41,"Meat, Poultry & Dairy",,,,,,,,FB-MP
+7a004684-fba1-4010-b59b-29727551a59a,Attribute,da14b08e-7db9-4549-85d5-7bbb254f8d41,Processed Foods,,,,,,,,FB-PF
+ec086171-c3a7-4151-9b81-b48d981f923d,Group,517eea04-3917-4ca9-a03e-161ce1e6f3fd,Beverages,,,,,,,,FB.2
+9557aa5a-6ee1-4188-bf51-48107497ffa8,Attribute,ec086171-c3a7-4151-9b81-b48d981f923d,Alcoholic Beverages,,,,,,,,FB-AB
+2fb0c030-1c97-40cd-9175-44a135fc4b7b,Attribute,ec086171-c3a7-4151-9b81-b48d981f923d,Non-Alcoholic Beverages,,,,,,,,FB-NB
+03d4441c-60d1-494e-b873-d6de9f416a78,Group,517eea04-3917-4ca9-a03e-161ce1e6f3fd,Food & Beverage Retail,,,,,,,,FB.3
+11a6929d-d692-4fbd-b8d7-81202bbeeff1,Attribute,03d4441c-60d1-494e-b873-d6de9f416a78,Food Retailers & Distributors,,,,,,,,FB-FR
+8b0c59b9-b75d-4f18-9e81-645d27cadfd7,Group,517eea04-3917-4ca9-a03e-161ce1e6f3fd,Restaurants,,,,,,,,FB.4
+a04af729-3d13-445c-90bc-fde7b1169edf,Attribute,8b0c59b9-b75d-4f18-9e81-645d27cadfd7,Restaurants,,,,,,,,FB-RN
+508434a0-77be-4874-bfea-69401416f4f5,Group,517eea04-3917-4ca9-a03e-161ce1e6f3fd,Tobacco,,,,,,,,FB.5
+009903d0-b65c-4d2e-b3ef-2958dce59562,Attribute,508434a0-77be-4874-bfea-69401416f4f5,Tobacco,,,,,,,,FB-TB
+f7d97f8b-5b35-45ba-b0f7-e0967b76138b,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Health Care,,,,,,,,HC
+6f9bd823-903f-461e-a597-8853be5c1999,Group,f7d97f8b-5b35-45ba-b0f7-e0967b76138b,Biotechnology & Pharmaceuticals,,,,,,,,HC.1
+91f3e42b-e76b-4e02-8c4f-5151b0161320,Attribute,6f9bd823-903f-461e-a597-8853be5c1999,Biotechnology & Pharmaceuticals,,,,,,,,HC-BP
+c81ff12a-f96d-413d-a7ed-65077dfda1f6,Group,f7d97f8b-5b35-45ba-b0f7-e0967b76138b,Health Care Retail,,,,,,,,HC.2
+8d49e2c7-9072-40de-a73f-87e03cce05f3,Attribute,c81ff12a-f96d-413d-a7ed-65077dfda1f6,Drug Retailers,,,,,,,,HC-DR
+8e5de7df-cf05-49fe-8753-49568d28a3c5,Group,f7d97f8b-5b35-45ba-b0f7-e0967b76138b,Health Care Providers,,,,,,,,HC.3
+0ac5d0cf-a1f9-4559-bb52-cc0d5c5cd403,Attribute,8e5de7df-cf05-49fe-8753-49568d28a3c5,Health Care Delivery,,,,,,,,HC-DY
+042436ff-3098-4476-92b4-91bc3b88061d,Attribute,8e5de7df-cf05-49fe-8753-49568d28a3c5,Health Care Distributors,,,,,,,,HC-DI
+bf328461-8704-4c26-8e09-f418b80d7944,Attribute,8e5de7df-cf05-49fe-8753-49568d28a3c5,Managed Care,,,,,,,,HC-MC
+6840065b-0309-4d5d-a7db-5d87c5bcf057,Group,f7d97f8b-5b35-45ba-b0f7-e0967b76138b,Medical Technology,,,,,,,,HC.4
+a27ede17-0d6d-4932-84d7-1b7efd10bc48,Attribute,6840065b-0309-4d5d-a7db-5d87c5bcf057,Medical Equipment & Supplies,,,,,,,,HC-MS
+fb2ff899-da07-4bb9-bc3b-adfe05d43765,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Infrastructure,,,,,,,,IF
+c04e6fcd-3398-4c77-b03a-091c490d669b,Group,fb2ff899-da07-4bb9-bc3b-adfe05d43765,Utilities,,,,,,,,IF.1
+8693d733-e44e-4c09-b417-bd4ed15b0e94,Attribute,c04e6fcd-3398-4c77-b03a-091c490d669b,Electric Utilities & Power Generators,,,,,,,,IF-EU
+f656ac25-44b5-4b03-acee-aed38f67c676,Attribute,c04e6fcd-3398-4c77-b03a-091c490d669b,Gas Utilities & Distributors,,,,,,,,IF-GU
+edd1d82f-892e-475f-805b-42fc0b35a609,Attribute,c04e6fcd-3398-4c77-b03a-091c490d669b,Water Utilities & Services,,,,,,,,IF-WU
+73977079-6188-4393-9101-63fd6d909f3f,Group,fb2ff899-da07-4bb9-bc3b-adfe05d43765,Insfrastructure,,,,,,,,IF.2
+f2ba9c83-786a-41a6-a503-c4f0e0699ebe,Attribute,73977079-6188-4393-9101-63fd6d909f3f,Engineering & Construction Services,,,,,,,,IF-EN
+6e255175-d278-4b2a-a637-8f347fb8a7be,Group,fb2ff899-da07-4bb9-bc3b-adfe05d43765,Real Estate,,,,,,,,IF.3
+bf085e25-dd70-47e3-b158-7eb277724cf9,Attribute,6e255175-d278-4b2a-a637-8f347fb8a7be,Home Builders,,,,,,,,IF-HB
+d259329a-4003-429d-a881-adfc8a8d10a3,Attribute,6e255175-d278-4b2a-a637-8f347fb8a7be,Real Estate,,,,,,,,IF-RE
+3386c1f0-2adb-4801-b44b-32c16fa595a1,Attribute,6e255175-d278-4b2a-a637-8f347fb8a7be,Real Estate Services,,,,,,,,IF-RS
+d9042cc6-ba15-481b-83d8-3aadd74df748,Group,fb2ff899-da07-4bb9-bc3b-adfe05d43765,Waste Management,,,,,,,,IF.4
+f184c8dd-567e-40a4-b14e-f431ea0d5c3f,Attribute,d9042cc6-ba15-481b-83d8-3aadd74df748,Waste Management,,,,,,,,IF-WM
+a1e2c115-50ef-4024-b41b-768b5817a393,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Renewable Resources & Alternative Energy,,,,,,,,RR
+2fc274f5-8c21-497b-b086-cfdaf31f55da,Group,a1e2c115-50ef-4024-b41b-768b5817a393,Alternative Energy,,,,,,,,RR.1
+9214b27c-81a4-4af7-9fa4-0af7b0a12a4b,Attribute,2fc274f5-8c21-497b-b086-cfdaf31f55da,Biofuels,,,,,,,,RR-BI
+b46bed1f-f42e-4e24-af9c-be31d9fcc706,Attribute,2fc274f5-8c21-497b-b086-cfdaf31f55da,Fuel Cells & Industrial Batteries,,,,,,,,RR-FC
+5971a7cd-56df-47ef-a336-8ffeae04cbc0,Attribute,2fc274f5-8c21-497b-b086-cfdaf31f55da,Solar Technology & Project Developers,,,,,,,,RR-ST
+23b33cb0-60bb-40d0-87a8-597e403f6591,Attribute,2fc274f5-8c21-497b-b086-cfdaf31f55da,Wind Technology & Project Developers,,,,,,,,RR-WT
+565761b5-3c51-46c5-a35a-3442425b3065,Group,a1e2c115-50ef-4024-b41b-768b5817a393,Forestry & Paper,,,,,,,,RR.2
+a8df81a9-31db-4793-b445-50976debab09,Attribute,565761b5-3c51-46c5-a35a-3442425b3065,Forestry Management,,,,,,,,RR-FM
+52588152-3f7c-4077-bb02-96a10cc7a561,Attribute,565761b5-3c51-46c5-a35a-3442425b3065,Pulp & Paper Products,,,,,,,,RR-PP
+3150d63b-676f-425e-ad81-bc2d1f75fe88,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Resource Transformation,,,,,,,,RT
+0622a6c7-69e9-4aaa-a7e8-879a147960e5,Group,3150d63b-676f-425e-ad81-bc2d1f75fe88,Industrials,,,,,,,,RT.1
+1fdbaa70-df7f-4352-9b90-f375313697ff,Attribute,0622a6c7-69e9-4aaa-a7e8-879a147960e5,Aerospace & Defense,,,,,,,,RT-AE
+ba10ea35-0d4f-41b6-9c40-235b32869df8,Attribute,0622a6c7-69e9-4aaa-a7e8-879a147960e5,Containers & Packaging,,,,,,,,RT-CP
+19c9b98e-b12b-49e0-8bde-dd90b1106b0f,Attribute,0622a6c7-69e9-4aaa-a7e8-879a147960e5,Electrical & Electronic Equipment,,,,,,,,RT-EE
+72bcfd72-8ff5-4d1c-87a3-7105e7e2292e,Attribute,0622a6c7-69e9-4aaa-a7e8-879a147960e5,Industrial Machinery & Goods,,,,,,,,RT-IG
+ec8dccda-f628-4fbc-a115-b47616757331,Group,3150d63b-676f-425e-ad81-bc2d1f75fe88,Chemicals,,,,,,,,RT.2
+02c1e6cf-5d90-40c0-8dd2-5aba6750772d,Attribute,ec8dccda-f628-4fbc-a115-b47616757331,Chemicals,,,,,,,,RT-CH
+26018b9b-fd56-4278-9f89-3841eb3e4dec,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Services,,,,,,,,SV
+10dc0a59-6508-4da0-9529-a7001bb59e32,Group,26018b9b-fd56-4278-9f89-3841eb3e4dec,Media,,,,,,,,SV.1
+d0dc9ace-0001-40ac-b74c-14dd419b25a8,Attribute,10dc0a59-6508-4da0-9529-a7001bb59e32,Advertising & Marketing,,,,,,,,SV-AD
+d0b45ef3-d585-4006-a1ac-a71dd9acaa58,Attribute,10dc0a59-6508-4da0-9529-a7001bb59e32,Media & Entertainment,,,,,,,,SV-ME
+00b36e39-a30b-41fe-bf36-ca2078ea9217,Group,26018b9b-fd56-4278-9f89-3841eb3e4dec,Hospitality & Recreation,,,,,,,,SV.2
+24d0d97c-8d81-4139-81b0-7f31b5890f7e,Attribute,00b36e39-a30b-41fe-bf36-ca2078ea9217,Casinos & Gaming,,,,,,,,SV-CA
+0e6a3a23-d15f-4a57-a4ef-d090c16acfd9,Attribute,00b36e39-a30b-41fe-bf36-ca2078ea9217,Hotels & Lodging,,,,,,,,SV-HL
+00d4a125-8aff-487d-8fa2-e0c8560e3a66,Attribute,00b36e39-a30b-41fe-bf36-ca2078ea9217,Leisure Facilities,,,,,,,,SV-LF
+c92b1975-19f0-4d4a-ac9f-cf7850b939c1,Group,26018b9b-fd56-4278-9f89-3841eb3e4dec,Consumer Services,,,,,,,,SV.3
+8e733687-9c91-4a87-88c5-52e62bfd9974,Attribute,c92b1975-19f0-4d4a-ac9f-cf7850b939c1,Education,,,,,,,,SV-ED
+eae34c81-0504-4a08-a8de-28462fc41b63,Attribute,c92b1975-19f0-4d4a-ac9f-cf7850b939c1,Professional & Commercial Services,,,,,,,,SV-PS
+c0402408-dde1-4301-9d66-27921a21204a,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Technology & Communications,,,,,,,,TC
+f6aa9105-c378-445b-a3a4-fad772e3fd66,Group,c0402408-dde1-4301-9d66-27921a21204a,Technology,,,,,,,,TC.1
+d46fb5b6-25d3-43f6-a945-89199c9bd932,Attribute,f6aa9105-c378-445b-a3a4-fad772e3fd66,Electronic Manufacturing Services & Original Design Manufacturing,,,,,,,,TC-ES
+9e2b0b1c-fc82-4e84-ac04-26cdeffac4a5,Attribute,f6aa9105-c378-445b-a3a4-fad772e3fd66,Hardware,,,,,,,,TC-HW
+a238ecd8-6d67-48da-9c9c-0ee47e7be2cf,Attribute,f6aa9105-c378-445b-a3a4-fad772e3fd66,Software & IT Services,,,,,,,,TC-SI
+65e2c623-401c-47fe-a7a5-768e83a6cfe9,Group,c0402408-dde1-4301-9d66-27921a21204a,Internet Media & Services,,,,,,,,TC.2
+c795da90-ea7c-484b-ade9-cf2f654cf451,Attribute,65e2c623-401c-47fe-a7a5-768e83a6cfe9,Internet Media & Services,,,,,,,,TC-IM
+9a6be76b-6b95-4296-addc-805b3b9fc9b1,Group,c0402408-dde1-4301-9d66-27921a21204a,Semiconductors,,,,,,,,TC.3
+2777238d-8c86-4d7e-8113-a098eba0dcd6,Attribute,9a6be76b-6b95-4296-addc-805b3b9fc9b1,Semiconductors,,,,,,,,TC-SC
+674ba86a-77e3-4433-827b-7e5bba813d28,Group,c0402408-dde1-4301-9d66-27921a21204a,Telecommunications,,,,,,,,TC.4
+928b7896-bf1e-4c78-be3c-af7aeeeec974,Attribute,674ba86a-77e3-4433-827b-7e5bba813d28,Telecommunication Services,,,,,,,,TC-TL
+eca49834-dde9-434a-9505-632d55221314,Object,7916a4cf-16eb-4581-a60c-10e7c7c301f9,Transportation,,,,,,,,TR
+c3944362-b7fb-4950-bd6e-51da13775b03,Group,eca49834-dde9-434a-9505-632d55221314,Air Transportation,,,,,,,,TR.1
+40ee51fd-160b-4123-a814-84058bf80b55,Attribute,c3944362-b7fb-4950-bd6e-51da13775b03,Airlines,,,,,,,,TR-AL
+7fd882ff-d466-4940-91e9-5cff58b42ee4,Attribute,c3944362-b7fb-4950-bd6e-51da13775b03,Air Freight & Logistics,,,,,,,,TR-AF
+9bd9cae1-2017-4fde-88bd-bfb0c2946d2f,Group,eca49834-dde9-434a-9505-632d55221314,Automobiles,,,,,,,,TR.2
+548a1f85-7240-4f2f-a6be-62b810a3f41e,Attribute,9bd9cae1-2017-4fde-88bd-bfb0c2946d2f,Automobiles,,,,,,,,TR-AU
+69721292-0574-494b-9d71-9f199869ff72,Attribute,9bd9cae1-2017-4fde-88bd-bfb0c2946d2f,Auto Parts,,,,,,,,TR-AP
+615550e3-f392-45d7-a34d-15849744db9a,Attribute,9bd9cae1-2017-4fde-88bd-bfb0c2946d2f,Car Rental & Leasing,,,,,,,,TR-CR
+f052af3c-b345-4124-9a5d-4334f67bc193,Group,eca49834-dde9-434a-9505-632d55221314,Marine Transportation,,,,,,,,TR.3
+0ad92a08-8c20-457d-b4c2-0d75a779334c,Attribute,f052af3c-b345-4124-9a5d-4334f67bc193,Cruise Lines,,,,,,,,TR-CL
+8f660573-ad0d-4ad3-afc5-a8097e566f8b,Attribute,f052af3c-b345-4124-9a5d-4334f67bc193,Marine Transportation,,,,,,,,TR-MT
+52411709-1021-4ff3-a700-35297b780b5c,Group,eca49834-dde9-434a-9505-632d55221314,Land Transportation,,,,,,,,TR.4
+fd53c0ff-ac44-4b61-8f3a-c1c6f8ccfe49,Attribute,52411709-1021-4ff3-a700-35297b780b5c,Rail Transportation,,,,,,,,TR-RA
+613d2b11-2d51-483c-8f45-3f9d0ef9129a,Attribute,52411709-1021-4ff3-a700-35297b780b5c,Road Transportation,,,,,,,,TR-RO
