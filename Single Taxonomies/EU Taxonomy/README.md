@@ -1,17 +1,17 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # EU Taxonomy: European Union (Green) Taxonomy
 Single taxonomies for the EU Taxonomy - Climate Change Mitigation and Climate Change Adaptation objectives respectively.
 
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click each link below to view an interactive version of the taxonomy
-  - [EU Taxonomy - Climate Change Mitigation (CCM)](https://partners.solidatus.com/viewer/share/eiDQTJcTuHdQzsArFyo89rJdZGmAFjdG)
-  - [EU Taxonomy - Climate Change Adaptation (CCA)](https://partners.solidatus.com/viewer/share/9rMmLltHpyJdUj7flhD7L93HlekFBoLW)
+  - [EU Taxonomy - Climate Change Mitigation (CCM)](https://os-sft.solidatus.com/viewer/share/JtcNgEQfxVEgejG1Ezdn3Ym9RDzYXVbv)
+  - [EU Taxonomy - Climate Change Adaptation (CCA)](https://os-sft.solidatus.com/viewer/share/AFqwhixwTXEr1abPoFPRgVyfC73KOply)
 - Research: 
-  - See [below](https://github.com/FD-SustainableFinance/RESEARCH-EU-TAXONOMY#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
-  - See [NACE](https://github.com/FD-SustainableFinance/RESEARCH-NACE#further-commentary) for further details
+  - See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/Single Taxonomies/EU Taxonomy#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+  - See [NACE](https://github.com/OS-SFT/Taxonomy-Mappings-Library/Industry Classification Codes/NACE#further-commentary) for further details
 - Link: Use Case(s) - [ADD]
 
 # Summary Observations
@@ -33,7 +33,7 @@ The EU taxonomy is a categorization scheme that creates a list of economically v
 # Visualisation of Taxonomy
 Note - Partial visualisation only of Climate Change Mitigation taxonomy. See links above for a full interactive version.
 
-[![Image](https://user-images.githubusercontent.com/112079442/194052952-d724d94b-e524-487f-87b7-76d8fc7f9295.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/eiDQTJcTuHdQzsArFyo89rJdZGmAFjdG)
+[![Image](https://user-images.githubusercontent.com/112079442/194052952-d724d94b-e524-487f-87b7-76d8fc7f9295.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/JtcNgEQfxVEgejG1Ezdn3Ym9RDzYXVbv)
 
 # Further Commentary
 In order to combat greenwashing, the Taxonomy was developed to make it easier for market players to recognise and invest in sustainable assets. The Regulation, however, also imposes additional Taxonomy-linked disclosure requirements on businesses and financial market players.
