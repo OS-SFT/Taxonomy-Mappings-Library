@@ -11,7 +11,7 @@ Single taxonomies for the EU Taxonomy - Climate Change Mitigation and Climate Ch
   - [EU Taxonomy - Climate Change Adaptation (CCA)](https://os-sft.solidatus.com/viewer/share/AFqwhixwTXEr1abPoFPRgVyfC73KOply)
 - Research: 
   - See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EU%20Taxonomy#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
-  - See [NACE](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE#further-commentary) for further details
+  - See [NACE](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE) for further details
 - Link: Use Case(s) - [ADD]
 
 # Summary Observations
