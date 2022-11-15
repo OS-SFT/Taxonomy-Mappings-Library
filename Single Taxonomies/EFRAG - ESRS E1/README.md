@@ -7,7 +7,7 @@
 ## Project Summary
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/oMOkgRXULk8sVFIQ0VpRCZXzErgaZRX9) to view an interactive version of the taxonomy
-- Taxonomy Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EFRAG%20-%20ESRS%20E1#efrag---detailed-research-esrs-e1-climate-change) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EFRAG%20-%20ESRS%20E1#efrag---detailed-research-esrs-e1-climate-change) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s)
 
 ## Summary Observations
