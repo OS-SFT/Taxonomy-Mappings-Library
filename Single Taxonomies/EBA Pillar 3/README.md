@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # EBA Pillar 3 ESG Risk Disclosures 
 
@@ -8,8 +8,8 @@
 
 Single taxonomy for the final draft Implementing Technical Standards for the EBA's Pillar 3 ESG Disclosures.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/8D80uIomTRR5OXrIRozcsxMQS9bFgwfg) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-EBA-PILLAR-3-ESG-RISK-DISCLOSURES#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/BSWtIfOpLUh8tBfvfkLszj7Wk0lttpc1) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -17,7 +17,7 @@ Single taxonomy for the final draft Implementing Technical Standards for the EBA
 - EBA Pillar 3 ESG Disclosures are guided by three tables and ten templates, describing the qualitative and quantitative disclosure requirements respectively.
 - Quantitative requirements relate to banking book exposures to physical and transition climate risks.
 - Qualitative disclosures are categorised as Environmental, Social or Governance related.
-- There is a significant degree of overlap between EBA Pillar 3 ESG disclosure requirement and ISSB S2 disclosure requirements, with various potential proxy approaches identified based on the EBA's Green Asset Ratio (see detailed research [below](https://github.com/FD-SustainableFinance/RESEARCH-EBA-PILLAR-3-ESG-RISK-DISCLOSURES/#further-commentary)).
+- There is a significant degree of overlap between EBA Pillar 3 ESG disclosure requirement and ISSB S2 disclosure requirements, with various potential proxy approaches identified based on the EBA's Green Asset Ratio (see detailed research [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203#further-commentary)).
 
 ## Taxonomy versioning
 
@@ -30,18 +30,18 @@ Single taxonomy for the final draft Implementing Technical Standards for the EBA
 ## Taxonomy Mapping(s)
 
 Pairwise:
-- [EBA Pillar 3-ISSB](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-EBA-Pillar-3)
-- [EBA Pillar 3-TCFD](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-v-EBA-Pillar-3)
+- [EBA Pillar 3-ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EBA%20Pillar%203)
+- [EBA Pillar 3-TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20EBA%20Pillar%203)
 
 String:
-- [ISSB-TCFD-EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD)
+- [ISSB-TCFD-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Triple/ISSB%20-%20EBA%20Pillar%203%20-%20TCFD)
 
 ## Background Links
 
 - [EBA publishes binding standards on Pillar 3 disclosures on ESG risks](https://www.eba.europa.eu/eba-publishes-binding-standards-pillar-3-disclosures-esg-risks)
 
 ## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/189919794-e2cde22b-909f-420c-9eda-6c0f601f8f80.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/8D80uIomTRR5OXrIRozcsxMQS9bFgwfg)
+[![Image](https://user-images.githubusercontent.com/112079442/189919794-e2cde22b-909f-420c-9eda-6c0f601f8f80.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/BSWtIfOpLUh8tBfvfkLszj7Wk0lttpc1)
 
 
 # Further Commentary
