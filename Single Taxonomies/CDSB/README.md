@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # CDSB: Climate Disclosure Standards Board
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/O8vfOLVi12QaE2bdV4y5qftkijNumSGj) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/LQYXxfQJasbEbxJwq1rb2iQ6auUpeofd) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -26,14 +26,14 @@ CDSB's work creates the trust and openness required to support robust capital ma
 - Model Date: 20220913
 
 ## Taxonomy Mapping 
-- [Partial Mapping: GRI 305 Emissions - CDSB](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---CDSB) 
+- [Partial Mapping: GRI 305 Emissions - CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20CDSB) 
 
 ## Background Links
 - [Climate Disclosure Standards Board](https://www.cdsb.net/)
 - [IFRS Foundation completes consolidation of CDSB from CDP](https://www.cdp.net/en/articles/governments/ifrs-foundation-completes-consolidation-of-cdsb-from-cdp)
 
 ## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/112077283/191783753-c45d89b2-d2a8-43a2-9cbd-996b1ab93efe.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/O8vfOLVi12QaE2bdV4y5qftkijNumSGj)
+[![image](https://user-images.githubusercontent.com/112077283/191783753-c45d89b2-d2a8-43a2-9cbd-996b1ab93efe.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/LQYXxfQJasbEbxJwq1rb2iQ6auUpeofd)
 
 ## Further Commentary
 The CDSB seeks to promote investor analysis and decision-making that recognises the reliance and effects of economic and financial stability on natural, human, and social capital through the dissemination of reliable environmental and social information. The Framework is a standards-ready instrument that businesses may use to disclose information on climate change in regular financial reports. The Framework for Reporting Environmental Information, Natural Capital, and Associated Business Impacts, which was revised in April 2018, relies on and adopts pertinent provisions of current standards and practises, including the TCFD recommendations and International Financial Reporting Standards, and it also takes into account mandatory and voluntary reporting requirements and carbon trading regulations. The Framework stands out because it uses existing standards rather than developing new ones.
