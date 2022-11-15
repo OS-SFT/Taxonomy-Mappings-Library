@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # BCBS 530 - Principles for the effective management and supervision of climate-related financial risks
 
@@ -9,8 +9,8 @@
 Single taxonomy for the Basel Committee on Banking Supervision's Principles for the effective management and supervision of climate-related financial risks.
 
 - Taxonomy Files - See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/6vjdCD1DkQlnO5DV1zHwfK56IB0CkepN) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-BCBS-530-CLIMATE-RISK#further-commentary) for further commentary
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ftdCizZPbGYm8eZIzqARJxgsHRzJ2dEO) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20530%20-%20Climate%20Risk#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -27,13 +27,13 @@ Single taxonomy for the Basel Committee on Banking Supervision's Principles for 
 - Model Date: 20220927
 
 ## Taxonomy Mapping(s)
-- [BCBS 239 - BCBS 530](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-BCBS-239-BCBS-CLIMATE-RISK)
+- [BCBS 239 - BCBS 530](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530)
 
 ## Background Links
 - [BCBS Principles for the effective management and supervision of climate-related financial risks](https://www.bis.org/bcbs/publ/d532.htm)
 
 ## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/192291835-b51883bf-9059-45c3-92bf-ba0c892d5d64.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/6vjdCD1DkQlnO5DV1zHwfK56IB0CkepN)
+[![Image](https://user-images.githubusercontent.com/112079442/192291835-b51883bf-9059-45c3-92bf-ba0c892d5d64.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/ftdCizZPbGYm8eZIzqARJxgsHRzJ2dEO)
 
 # Further Commentary
 
