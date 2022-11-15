@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # EFRAG: European Financial Reporting Advisory Group
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/6AiBX1U6pSyjhBH3MKF0ARQpqsob35iu) to view an interactive version of the taxonomy
-- Link: Taxonomy Research [here](https://github.com/FD-SustainableFinance/RESEARCH-EFRAG-ESRS-E1-Climate-Change#EFRAG-Detailed-Research-ESRS-E1-Climate-Change) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/oMOkgRXULk8sVFIQ0VpRCZXzErgaZRX9) to view an interactive version of the taxonomy
+- Taxonomy Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EFRAG%20-%20ESRS%20E1#efrag---detailed-research-esrs-e1-climate-change) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s)
 
 ## Summary Observations
@@ -33,7 +33,7 @@ Source: https://www.unpri.org/driving-meaningful-data/engaging-on-the-european-s
 
 
 ## Taxonomy Visualisation 
-[![Image](https://user-images.githubusercontent.com/112077283/194512657-917be8ce-fd74-4405-9b72-aa40bafbc5b8.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/6AiBX1U6pSyjhBH3MKF0ARQpqsob35iu)
+[![Image](https://user-images.githubusercontent.com/112077283/194512657-917be8ce-fd74-4405-9b72-aa40bafbc5b8.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/oMOkgRXULk8sVFIQ0VpRCZXzErgaZRX9)
 
 
 **Extract**
