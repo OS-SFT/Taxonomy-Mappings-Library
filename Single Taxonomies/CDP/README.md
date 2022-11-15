@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # CDP: Climate Disclosure Project 
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/ulY6Md7tbT6cYBC7HRC6f5CRKty4fnm7) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-CDP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/3tyOCKyRoQS2zMU2NX1VYBpBBlvTe27c) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDP#detailed-research) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -16,7 +16,7 @@ The CDP (formerly the Carbon Disclosure Project) is an international non-profit 
 Capital markets and buying groups use CDP, which contains the broadest, most complete collection of environmental data available, to make knowledgeable decisions, recognise high-performing businesses, and inspire action. 
 
 ## Taxonomy Mapping
-* [Partial Taxonomy Mapping: TCFD - CDP](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---TCFD---CDP)
+* [Partial Taxonomy Mapping: TCFD - CDP](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDP)
 
 ## Taxonomy versioning
 
@@ -30,7 +30,7 @@ Capital markets and buying groups use CDP, which contains the broadest, most com
 - [Climate Disclosure Project](https://www.cdp.net/en)
 
 ## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/112077283/191788828-44a3bfd7-b249-47fe-9ecf-7dc5bbb50a65.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/ulY6Md7tbT6cYBC7HRC6f5CRKty4fnm7)
+[![image](https://user-images.githubusercontent.com/112077283/191788828-44a3bfd7-b249-47fe-9ecf-7dc5bbb50a65.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/3tyOCKyRoQS2zMU2NX1VYBpBBlvTe27c)
 
 ## Detailed Research
 A healthy economy that benefits both people and the earth over the long run is part of CDP's vision and goal. By assessing and taking action on their environmental effect, they bring investors, businesses, cities, and governments together to create a sustainable economy.
