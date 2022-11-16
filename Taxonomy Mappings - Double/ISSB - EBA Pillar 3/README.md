@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: ISSB S2 - EBA Pillar 3 ESG Risk Disclosures
 
@@ -8,8 +8,8 @@
 Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Risk Disclosures.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/TrToC1el9iE1XQsHD8cQ0TYdlCO3oUzZ) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-ISSB-v-EBA-PILLAR-3#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/0HWTrogfTkC2vpo0qK2lUSxfPFeHIx1z) to view an interactive version of the taxonomy mapping
+- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-ISSB-v-EBA-PILLAR-3#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - ADD
 
 ## Summary Observations
@@ -20,12 +20,12 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Ri
 
 ## Taxonomy versioning
 
-- Individual Taxonomies: [ISSB](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD) - [EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---EBA-PILLAR-3-DISCLOSURES)
+- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD) - [EBA Pillar 3](https://github.com/OS-SFT/RESEARCH---EBA-PILLAR-3-DISCLOSURES)
 - Model Source: First Derivative Research
 - Model Date: 20220916
 
 ## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/188657912-78773a95-efe7-4e81-9c46-8d42636566e3.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/TrToC1el9iE1XQsHD8cQ0TYdlCO3oUzZ)
+[![Image](https://user-images.githubusercontent.com/112079442/188657912-78773a95-efe7-4e81-9c46-8d42636566e3.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/0HWTrogfTkC2vpo0qK2lUSxfPFeHIx1z)
 
 ## Further Commentary
 
