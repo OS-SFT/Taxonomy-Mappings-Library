@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: TCFD - ISSB S2
 
@@ -8,8 +8,8 @@
 Pairwise taxonomy mapping between the TCFD Recommendations and ISSB Exposure Draft S2.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/TCnP1VqB1LhNe4H8gctMTwm0NGzVgu09) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-ISSB-S2#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/oPboIBumw1DnE46WkUNZ51Jw76XJc14X) to view an interactive version of the taxonomy mapping
+- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-TCFD-v-ISSB-S2#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -19,13 +19,13 @@ The General Requirements Standard creates an umbrella of disclosure expectations
 * The ISSB’s General Requirements and Climate Standards are based on the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD). The recommendations of both the ISSB and the TCFD fall into four broad pillars — governance, strategy, risk management, and metrics and targets — corresponding to how the disclosing company approaches these four practices in the context of a given sustainability topic. Although the TCFD’s recommendations are specific to climate-related risks and opportunities, the ISSB’s General Requirements Standard advises that this approach be applied to all sustainability issues that could impact enterprise value, such as those posed by social or nature-related issues.
 
 ## Taxonomy versioning
-- Individual Taxonomies: [ISSB](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD) - [TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)
+- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD) - [TCFD](https://github.com/OS-SFT/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)
 - Model Source: First Derivative Research
 - Model Date: 20221006
 
 ## Visualisation of Taxonomy Mapping
 
-[![Image](https://user-images.githubusercontent.com/112079442/188654290-d16932cc-2067-439f-af90-fb2690c01cf3.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/TCnP1VqB1LhNe4H8gctMTwm0NGzVgu09)
+[![Image](https://user-images.githubusercontent.com/112079442/188654290-d16932cc-2067-439f-af90-fb2690c01cf3.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/oPboIBumw1DnE46WkUNZ51Jw76XJc14X)
 
 ## Further Commentary
 The ISSB has made a [comparison](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/comparison-draft-ifrs-s2-climate-related-disclosures-with-the-tcfd-recommendations.pdf) of the ideas and the recommendations of the FSB Task Force on Climate-related Financial Disclosures (TCFD) available.
