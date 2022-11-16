@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # GRI: Global Reporting Initiative
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/bd716Ii3jB4CDEGXTh3n47GNIMDU7rbj) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-GRI#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/GlAOlCLJWxK2HJF1B6GxMTOguoRjjnnF) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -29,18 +29,18 @@ The GRI Standards can be used by organisations to create sustainability reports 
 - Model Date: 20220913
 
 ## Taxonomy Mappings
-- [GRI 305 Emissions - TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---TCFD)
-- [GRI 305 Emissions - SASB](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---SASB)
-- [GRI 305 Emissions - CDSB](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---CDSB)
-- [GRI 305 Emissions - PCAF](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---PCAF)
-- [GRI 305 Emissions - GHG Protocol](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---GHG-PROTOCOL)
+- [GRI 305 Emissions - TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20TCFD)
+- [GRI 305 Emissions - SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20SASB)
+- [GRI 305 Emissions - CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20CDSB)
+- [GRI 305 Emissions - PCAF](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20PCAF)
+- [GRI 305 Emissions - GHG Protocol](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20GHG%20Protocol)
 
 ## Background Links
 - [Global Reporting Initiavtive](https://www.globalreporting.org/about-gri/)
 - [ESG Report - What is the Global Reporting Initiative](https://www.esgthereport.com/what-is-the-global-reporting-initiative/)
 
 ## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/112077283/191779610-2150b934-460d-4f55-8362-84b9094340d6.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/bd716Ii3jB4CDEGXTh3n47GNIMDU7rbj)
+[![image](https://user-images.githubusercontent.com/112077283/191779610-2150b934-460d-4f55-8362-84b9094340d6.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/GlAOlCLJWxK2HJF1B6GxMTOguoRjjnnF)
 
 ## Further Commentary
 By giving them a universal common language to describe such impacts, the independent, multinational GRI (Global Reporting Initiative) organisation assists corporations and other organisations in accepting responsibility for their external effects. 
