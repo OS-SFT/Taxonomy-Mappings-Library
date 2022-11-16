@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # ISIC: United Nations’ International Standard Industrial Classification of all Economic Activities
 
@@ -8,7 +8,7 @@
 
 Single taxonomy for the ISIC industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/E9ic1QB5YN2XWUWojx1UdNP9Vd2wcUZI) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/vwQMoGEL7yBFF4PmUyRT0x3iHpwCY2fQ) to view an interactive version of the taxonomy
 - Research: 
   - See [below](https://github.com/FD-SustainableFinance/RESEARCH-ISIC/#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
   - See [here](https://github.com/FD-SustainableFinance/RESEARCH-NACE/#further-commentary) for additonal details on the relationship with other International Classifications
@@ -33,7 +33,7 @@ Single taxonomy for the ISIC industry classification system.
 
 ## Visualisation of Taxonomy
 
-[![Image](https://user-images.githubusercontent.com/112079442/195338042-9f6c659d-dcab-4838-9a80-14230a9a35fd.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/E9ic1QB5YN2XWUWojx1UdNP9Vd2wcUZI)
+[![Image](https://user-images.githubusercontent.com/112079442/195338042-9f6c659d-dcab-4838-9a80-14230a9a35fd.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/vwQMoGEL7yBFF4PmUyRT0x3iHpwCY2fQ)
 
 ## Further Commentary
 
