@@ -10,8 +10,8 @@ Single taxonomy for the NAICS industry classification system.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IcnsuYuDeH76Pyct0hL1WMAjewbY7BBm) to view an interactive version of the taxonomy
 - Research: 
-  - See [below](https://github.com/FD-SustainableFinance/RESEARCH-NAICS/#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
-  - See [here](https://github.com/FD-SustainableFinance/RESEARCH-NACE/#further-commentary) for additional details on relationship with other Classification Systems.
+  - See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/blob/main/Industry%20Classification%20Taxonomies/NAICS/README.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+  - See [here](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE#further-commentary) for additional details on relationship with other Classification Systems.
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
