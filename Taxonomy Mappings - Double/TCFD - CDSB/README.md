@@ -1,28 +1,28 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: TCFD - CDSB [WIP = Work In Progress]
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/YvgYiAX97i2V1uC83WhmYnxDbPl6v5kW) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-CDSB-WIP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ByQoQI4K4wL9JiDPWqso70tDIIMPQUqq) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-TCFD-v-CDSB-WIP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
 [Add content]
 
 ## Taxonomy versioning
-- [TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES) - Source - FD Research
-- [CDSB](https://github.com/FD-SustainableFinance/RESEARCH---CLIMATE-DISCLOSURE-STANDARDS-BOARD) - Source - FD Research
+- [TCFD](https://github.com/OS-SFT/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES) - Source - FD Research
+- [CDSB](https://github.com/OS-SFT/RESEARCH---CLIMATE-DISCLOSURE-STANDARDS-BOARD) - Source - FD Research
 
 ## Background Links
 [Converging TCFD, SASB, CDP and CDSB](https://www.cdsb.net/sites/default/files/sasb_cdsb-tcfd-convergingonclimaterisk-091317-web.pdf)
 
 ## Visualisation of Taxonomy Mapping
 
-![image](https://user-images.githubusercontent.com/112077283/193776471-83d41a96-3523-4bb8-a8d7-d129bbf7fa72.png)
+[![image](https://user-images.githubusercontent.com/112077283/193776471-83d41a96-3523-4bb8-a8d7-d129bbf7fa72.png)](https://os-sft.solidatus.com/viewer/share/ByQoQI4K4wL9JiDPWqso70tDIIMPQUqq)
 
 ## Further Commentary
 CDSB plans to undertake an integrated, cross-institutional work program that will support successful uptake and implementation of the TCFD’s recommendations. Phases of this ongoing effort will involve developing practical and technical guidance and resources, which may include refreshing the CDSB Framework. Specific efforts to promote harmonization within the climate-reporting ecosystem may include the following:
