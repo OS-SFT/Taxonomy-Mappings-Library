@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # NAICS: North American Industry Classification System
 
@@ -8,7 +8,7 @@
 
 Single taxonomy for the NAICS industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/GjBWW6dRG8zGd5pE19uAw0dz8XT8Thkw) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IcnsuYuDeH76Pyct0hL1WMAjewbY7BBm) to view an interactive version of the taxonomy
 - Research: 
   - See [below](https://github.com/FD-SustainableFinance/RESEARCH-NAICS/#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
   - See [here](https://github.com/FD-SustainableFinance/RESEARCH-NACE/#further-commentary) for additional details on relationship with other Classification Systems.
@@ -29,7 +29,7 @@ Single taxonomy for the NAICS industry classification system.
 
 ## Taxonomy Visualisation 
 
-[![Image](https://user-images.githubusercontent.com/112079442/195338684-bdda2bfc-ba4f-49b4-8917-4e05aa09e082.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/GjBWW6dRG8zGd5pE19uAw0dz8XT8Thkw)
+[![Image](https://user-images.githubusercontent.com/112079442/195338684-bdda2bfc-ba4f-49b4-8917-4e05aa09e082.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/IcnsuYuDeH76Pyct0hL1WMAjewbY7BBm)
 
 ## Further Commentary
 
