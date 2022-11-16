@@ -4,8 +4,8 @@
 
 Single taxonomy for the BICS industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/VDQu59oNZXbNwexH1JnwcSrM6nVTMchS) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-BICS#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/jfOdGHT8jRU6B0JJT7KJHslVqO6YaQ9K) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com//RESEARCH-BICS#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -23,7 +23,7 @@ Single taxonomy for the BICS industry classification system.
 
 ## Visualisation of Taxonomy
 
-[![Image](https://user-images.githubusercontent.com/113118809/195319200-ee388359-802d-4118-bbf8-d1ea18e5719b.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/VDQu59oNZXbNwexH1JnwcSrM6nVTMchS)
+[![Image](https://user-images.githubusercontent.com/113118809/195319200-ee388359-802d-4118-bbf8-d1ea18e5719b.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/jfOdGHT8jRU6B0JJT7KJHslVqO6YaQ9K)
 
 ## Further Commentary
 
