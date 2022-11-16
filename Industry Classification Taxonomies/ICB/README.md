@@ -9,7 +9,7 @@
 Single taxonomy for the ICB industry classification system.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i9SoF7zfrWWFEmBHKE973RsmveRJagKZ) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-ICB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/blob/main/Industry%20Classification%20Taxonomies/ICB/README.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
