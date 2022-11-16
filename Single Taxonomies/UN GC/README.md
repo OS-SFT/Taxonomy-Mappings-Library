@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # UN GC: United Nations Global Compact
 
@@ -8,7 +8,7 @@
 Single taxonomy for the Ten Principles of the UN Global Compact, and the Communication On Progress Questionnaire for completion by participants.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/HEfXdufWZVqnTHCvdpqqxVDHnNffcMTg) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/f5Kvmh4rbMCnNxHoHz6LVrMSToLKbF1s) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-UN-GC/#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -35,7 +35,7 @@ Single taxonomy for the Ten Principles of the UN Global Compact, and the Communi
 
 ## Visualisation of Taxonomy Mapping
 
-[![Image](https://user-images.githubusercontent.com/112079442/191766319-8bbcb7e9-8c56-4649-94e3-f89150b3882f.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/HEfXdufWZVqnTHCvdpqqxVDHnNffcMTg)
+[![Image](https://user-images.githubusercontent.com/112079442/191766319-8bbcb7e9-8c56-4649-94e3-f89150b3882f.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/f5Kvmh4rbMCnNxHoHz6LVrMSToLKbF1s)
 
 ## Further Commentary
 
