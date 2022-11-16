@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # IIRC: International Integrated Reporting Council
 
 ## Project Summary
 - Link: Taxonomy Files - See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/x89YaJpY2tTXPAw4vDmIX57WSZQpgILR) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-IIRC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/QksvijnGV3P1BeJ07wJyJUsTKXDV6N2m) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/IIRC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 ## Summary Observations
 
@@ -30,11 +30,11 @@ https://www.integratedreporting.org/wp-content/uploads/2021/01/InternationalInte
 
 VRF Consolidation: https://www.ifrs.org/news-and-events/news/2022/08/ifrs-foundation-completes-consolidation-with-value-reporting-foundation/
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Visualisation
 
-[![Image](https://user-images.githubusercontent.com/113118809/194842932-02e80496-6359-4025-bb4e-71abc3570af3.png "Click here to use Solidatus Interactive Tool")](https://partners.solidatus.com/viewer/share/x89YaJpY2tTXPAw4vDmIX57WSZQpgILR)
+[![Image](https://user-images.githubusercontent.com/113118809/194842932-02e80496-6359-4025-bb4e-71abc3570af3.png "Click here to use Solidatus Interactive Tool")](https://os-sft.solidatus.com/viewer/share/QksvijnGV3P1BeJ07wJyJUsTKXDV6N2m)
 
-[![Image](https://user-images.githubusercontent.com/113118809/194843027-1a24aa72-d82c-450e-97d4-5f790e97dbbe.png "Click here to use the Solidatus Interactive Tool")](https://partners.solidatus.com/viewer/share/x89YaJpY2tTXPAw4vDmIX57WSZQpgILR)
+[![Image](https://user-images.githubusercontent.com/113118809/194843027-1a24aa72-d82c-450e-97d4-5f790e97dbbe.png "Click here to use the Solidatus Interactive Tool")](https://os-sft.solidatus.com/viewer/share/QksvijnGV3P1BeJ07wJyJUsTKXDV6N2m)
 
 ## Further Commentary
 
