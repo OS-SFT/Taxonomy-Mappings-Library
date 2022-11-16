@@ -1,12 +1,12 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: GRI - GHG Protocol [WIP = Work In Progress]
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/9t2I9lTOOvskPfvXHIRC3PknlznRV3Xt) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/GT7SRjENwTpCXIobrXey10G6Qi2xOzWy) to view an interactive version of the taxonomy
 - **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -24,8 +24,8 @@ Both frameworks must disclose GHG emissions from surces that are owned or contro
 - GHG Protocol [insert date stamp of taxonomy version] - Source [insert source]
 
 ## Background Link
-- [GRI](https://github.com/FD-SustainableFinance/RESEARCH---GLOBAL-REPORTING-INITIATIVE) - FD Research
-- [GHG Protocol](https://github.com/FD-SustainableFinance/RESEARCH---GHG-PROTOCOL) - FD Research
+- [GRI](https://github.com/OS-SFT/RESEARCH---GLOBAL-REPORTING-INITIATIVE) - FD Research
+- [GHG Protocol](https://github.com/OS-SFT/RESEARCH---GHG-PROTOCOL) - FD Research
 
 ## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112077283/194524446-d68ef41f-bf89-4756-aef1-38cca6ecd942.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/9t2I9lTOOvskPfvXHIRC3PknlznRV3Xt)
+[![Image](https://user-images.githubusercontent.com/112077283/194524446-d68ef41f-bf89-4756-aef1-38cca6ecd942.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/GT7SRjENwTpCXIobrXey10G6Qi2xOzWy)
