@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # PCAF - Partnership for Carbon Accounting Financials
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/UvTLbA5TOY2Vl2hWcvKhSE7TwVlXtoar) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-PCAF#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/Ena2gvcWHy7BrpQrjM81dv2XXIs497mO) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/PCAF#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -23,14 +23,14 @@ The Standard has been reviewed by the GHG Protocol and is in conformance with th
 - Model Date: 20220926
 
 ## Taxonomy Mapping(s)
-* [Partial Mapping: GRI - PCAF](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---PCAF)
+* [Partial Mapping: GRI - PCAF](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20PCAF)
 
 ## Background Links
 - [PCAF](https://carbonaccountingfinancials.com/)
 - [PCAF Requirements Document](https://carbonaccountingfinancials.com/files/downloads/PCAF-Global-GHG-Standard.pdf)
 
 ## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112077283/194850412-bfb0dc75-8ebc-435b-a24c-86ebc6776fb2.png "Click here for the Taxonomy Interactive Tool")](https://partners.solidatus.com/viewer/share/UvTLbA5TOY2Vl2hWcvKhSE7TwVlXtoar)
+[![Image](https://user-images.githubusercontent.com/112077283/194850412-bfb0dc75-8ebc-435b-a24c-86ebc6776fb2.png "Click here for the Taxonomy Interactive Tool")](https://os-sft.solidatus.com/viewer/share/Ena2gvcWHy7BrpQrjM81dv2XXIs497mO)
 
 
 ## Further Commentary 
