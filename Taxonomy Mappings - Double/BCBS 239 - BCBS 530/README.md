@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: BCBS 239 Risk Aggregation - BCBS 530 Climate Risk
 
@@ -9,8 +9,8 @@
 Pairwise taxonomy mapping between the BCBS Principles for effective risk data aggregation and risk reporting and BCBS Principles for the effective management and supervision of climate-related financial risks.
 
 - Taxonomy Files: See mapping files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/ulrWiA8c4pSDuT1jo2TXz95jnRNDGBR9) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-BCBS-239-v-BCBS-530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i38GFnJT8AbjC71NLk0sAuOmk0Yh0SHJ) to view an interactive version of the taxonomy mapping
+- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-BCBS-239-v-BCBS-530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
 - Link: Use Case
 
 ## Summary Observations
@@ -22,13 +22,13 @@ Pairwise taxonomy mapping between the BCBS Principles for effective risk data ag
 
 ## Taxonomy versioning
 
-- Individual Taxonomies: [BCBS 239 Risk Aggregation](https://github.com/FD-SustainableFinance/RESEARCH---BCBS-239---Risk-Data-Aggregation) - [BCBS 530 Climate Risk](https://github.com/FD-SustainableFinance/RESEARCH---BCBS-Climate-Risk)
+- Individual Taxonomies: [BCBS 239 Risk Aggregation](https://github.com/OS-SFT/RESEARCH---BCBS-239---Risk-Data-Aggregation) - [BCBS 530 Climate Risk](https://github.com/OS-SFT/RESEARCH---BCBS-Climate-Risk)
 - Model Source: First Derivative Research
 - Model Date: 20221006
 
 ## Visualisation of Taxonomy Mapping
 
-[![Image](https://user-images.githubusercontent.com/112079442/194320986-c6dde0dc-da7e-4c64-9fc2-276083190fc1.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/ulrWiA8c4pSDuT1jo2TXz95jnRNDGBR9)
+[![Image](https://user-images.githubusercontent.com/112079442/194320986-c6dde0dc-da7e-4c64-9fc2-276083190fc1.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/i38GFnJT8AbjC71NLk0sAuOmk0Yh0SHJ)
 
 ## Further Commentary
 
