@@ -10,7 +10,7 @@ Single taxonomy for the ISIC industry classification system.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/vwQMoGEL7yBFF4PmUyRT0x3iHpwCY2fQ) to view an interactive version of the taxonomy
 - Research: 
-  - See [below](https://github.com/FD-SustainableFinance/RESEARCH-ISIC/#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+  - See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/blob/main/Industry%20Classification%20Taxonomies/ISIC/README.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
   - See [here](https://github.com/FD-SustainableFinance/RESEARCH-NACE/#further-commentary) for additonal details on the relationship with other International Classifications
 - Link: Use Case(s) - [ADD]
 
