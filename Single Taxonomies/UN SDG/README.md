@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # UN SDG: United Nations Sustainable Development Goals
 
@@ -8,7 +8,7 @@
 Single taxonomy for the UN Sustainable Development Goals and their associated targets and indicators.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/B4Z3zUIIW1z6EmM56VlLlRY3irvkrdGT) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/YqWaaBpqak7FF4mSAjQQeBF8UKj5oGsN) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-UN-SDG#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -30,7 +30,7 @@ Single taxonomy for the UN Sustainable Development Goals and their associated ta
 - [Global indicator framework for the Sustainable Development Goals and targets of the 2030 Agenda for Sustainable Development](https://unstats.un.org/sdgs/indicators/indicators-list/)
 
 ## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/191772449-bf2cbb09-4166-46eb-964c-78629a494b57.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/B4Z3zUIIW1z6EmM56VlLlRY3irvkrdGT)
+[![Image](https://user-images.githubusercontent.com/112079442/191772449-bf2cbb09-4166-46eb-964c-78629a494b57.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/YqWaaBpqak7FF4mSAjQQeBF8UKj5oGsN)
 
 ## Further Commentary
 
