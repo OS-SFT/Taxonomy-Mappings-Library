@@ -1,8 +1,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # NACE (EU-EC)
 
@@ -10,7 +10,7 @@
 
 Single taxonomy for the NACE industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/l1M1rjLXm5833bCfp8DkjNfQteJnp5FO) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/cdybhyK3c7yb3gpqccXLOUPnvJFrQOnM) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-NACE/#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
@@ -40,7 +40,7 @@ NACE is one of many international, national and regional classification systems 
 
 ## Taxonomy Visualisation
 
-[![Image](https://user-images.githubusercontent.com/112079442/195343799-68b0c17d-bbf1-4027-8208-b30f72b5604e.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/l1M1rjLXm5833bCfp8DkjNfQteJnp5FO)
+[![Image](https://user-images.githubusercontent.com/112079442/195343799-68b0c17d-bbf1-4027-8208-b30f72b5604e.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/cdybhyK3c7yb3gpqccXLOUPnvJFrQOnM)
 
 ## Further Commentary
 
