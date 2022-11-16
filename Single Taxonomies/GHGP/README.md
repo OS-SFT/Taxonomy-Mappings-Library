@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # GHGP: Greenhouse Gas Protocol
 
@@ -9,8 +9,8 @@
 Single taxonomy for the Greenhouse Gas Protocol's sample Emissions Inventory Reporting template.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/cQNITHOqV4x1OoWQyUwPEq28ArRboJpE) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-GHGP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/nMCvrvS0Fs1UMs27RuwdLOr1Xzoornb0) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GHGP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -33,7 +33,7 @@ Single taxonomy for the Greenhouse Gas Protocol's sample Emissions Inventory Rep
 - [Sample Emissions Inventory Reporting Template (Download)](https://ghgprotocol.org/sites/default/files/standards_supporting/GHG-Protocol-Reporting-Template.docx)
 
 ## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/191932731-bada6679-49ba-4904-93ef-36b07390b10e.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/cQNITHOqV4x1OoWQyUwPEq28ArRboJpE)
+[![Image](https://user-images.githubusercontent.com/112079442/191932731-bada6679-49ba-4904-93ef-36b07390b10e.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/nMCvrvS0Fs1UMs27RuwdLOr1Xzoornb0)
 
 ## Further Commentary
 
