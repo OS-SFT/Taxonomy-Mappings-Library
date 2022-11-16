@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # ICB: Industry Classification Benchmark [FTSE Russell]
 
@@ -8,7 +8,7 @@
 
 Single taxonomy for the ICB industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/dIxixRPahjLfyOH46RwS2OT0UDjrjMu4) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i9SoF7zfrWWFEmBHKE973RsmveRJagKZ) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-ICB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -25,7 +25,7 @@ ICB is widely adopted by global institutional clients and has many application u
 
 ## Visualisation of Taxonomy
 
-[![Image](https://user-images.githubusercontent.com/112077283/195308806-ff9d3a3a-1621-40e2-8464-523d5ddc053e.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/dIxixRPahjLfyOH46RwS2OT0UDjrjMu4)
+[![Image](https://user-images.githubusercontent.com/112077283/195308806-ff9d3a3a-1621-40e2-8464-523d5ddc053e.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/i9SoF7zfrWWFEmBHKE973RsmveRJagKZ)
 
 ## Further Commentary
 
