@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # ISSB: IFRS Foundation, International Sustainability Standards Board (ISSB)
 
@@ -8,8 +8,8 @@
 
 Single taxonomy for Exposure Drafts S1 and S2 of IFRS ISSB.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/mqfrkFKWx2iaSRubXou685ogkc4erEG6) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-ISSB/#detailed-research) for detailed research
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/zoB9YO5H5sTxJCGpp8k67brhpfcnsvNK) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/ISSB/README.md#detailed-research) for detailed research
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -35,14 +35,14 @@ Single taxonomy for Exposure Drafts S1 and S2 of IFRS ISSB.
 ## Taxonomy Mapping(s)
 
 Pairwise:
-- [ISSB-TCFD](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-V-ISSB)
-- [ISSB-EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---ISSB-v-EBA-Pillar-3)
-- [ISSB-SASB](https://github.com/FD-SustainableFinance/PROJECT-ISSB-v-SASB)
-- [ISSB-SEC](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-ISSB-SEC)
-- [ISSB-EFRAG ESRS 1](https://github.com/FD-SustainableFinance/PROJECT-ISSB-v-EFRAG)
+- [ISSB-TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20ISSB)
+- [ISSB-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EBA%20Pillar%203)
+- [ISSB-SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SASB)
+- [ISSB-SEC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SEC)
+- [ISSB-EFRAG ESRS 1](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EFRAG)
 
 String:
-- [ISSB-TCFD-EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---STRING-MAPPING-ISSB-v-EBA-PILLAR-3-v-TCFD)
+- [ISSB-TCFD-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Triple/ISSB%20-%20EBA%20Pillar%203%20-%20TCFD)
 
 ## Background Links
 
@@ -50,7 +50,7 @@ String:
 - [ISSB Climate-related Disclosures](https://www.ifrs.org/projects/work-plan/climate-related-disclosures/#about)
 
 ## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/189912984-41eddb6d-4c6a-4174-984b-6357e3fdca45.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/mqfrkFKWx2iaSRubXou685ogkc4erEG6)
+[![Image](https://user-images.githubusercontent.com/112079442/189912984-41eddb6d-4c6a-4174-984b-6357e3fdca45.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/zoB9YO5H5sTxJCGpp8k67brhpfcnsvNK)
 
 # Detailed Research
 
