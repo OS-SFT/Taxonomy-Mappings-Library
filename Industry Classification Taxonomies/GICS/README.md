@@ -1,8 +1,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # GICS: Global Industry Classification Standard (by MSCI)
 
@@ -10,7 +10,7 @@
 
 Single taxonomy for the GICS industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/ouwJ3c2Lo9uFp6hJBVOp2Jys0iioZDSq) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IL1xB1TK3Qi69Ynj9j8kRnVFzGpLRa8Z) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-GICS#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -25,7 +25,7 @@ Single taxonomy for the GICS industry classification system.
 
 ## Visualisation of Taxonomy
 
-[![image](https://user-images.githubusercontent.com/113118809/195306555-01555b5e-fca7-47ca-9a84-91366632a55d.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/ouwJ3c2Lo9uFp6hJBVOp2Jys0iioZDSq)
+[![image](https://user-images.githubusercontent.com/113118809/195306555-01555b5e-fca7-47ca-9a84-91366632a55d.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/IL1xB1TK3Qi69Ynj9j8kRnVFzGpLRa8Z)
 
 ## Further Commentary
 
