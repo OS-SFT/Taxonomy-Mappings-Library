@@ -8,7 +8,7 @@
 
 Single taxonomy for the SICS industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/WO1AlqNGIl8KoCQcLKrEJUN99Qn4zOaS) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/7YMD6iD25wHwwaSatPJq8wyATPOtUs2s) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-SICS/#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -27,7 +27,7 @@ Single taxonomy for the SICS industry classification system.
 
 ## Taxonomy Visualisation 
 
-[![Image](https://user-images.githubusercontent.com/113118809/195325829-943c0d99-5477-4874-90e7-4f2715102b4a.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/WO1AlqNGIl8KoCQcLKrEJUN99Qn4zOaS)
+[![Image](https://user-images.githubusercontent.com/113118809/195325829-943c0d99-5477-4874-90e7-4f2715102b4a.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/7YMD6iD25wHwwaSatPJq8wyATPOtUs2s)
 
 ## Further Commentary
 
