@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # SASB: Sustainability Accounting Standards Board
 
@@ -8,7 +8,7 @@
 
 Single taxonomy for the Sustainability Accounting Standards Board disclosure framework.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/Ew07ILZJs8si8V0gRAvo5tkHTaaftTco) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/xZNiBoiFcUuSDVe6WQnLtv43s1HYPgAm) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-SASB#further-commentary) for detailed research. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -27,8 +27,8 @@ SASB standards can de downloaded from their site [here](https://www.sasb.org/sta
 * Model Date: 20220913
 
 ## Taxonomy Mapping(s)
-* [ISSB S2 - IFRS SASB](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING-ISSB-S2---IFRS-SASB)
-* [Partial Mapping: GRI 305 Emissions - IFRS SASB](https://github.com/FD-SustainableFinance/RESEARCH---TAXONOMY-MAPPING---GRI---SASB)
+* [ISSB S2 - IFRS SASB](https://github.com/OS-SFT/RESEARCH---TAXONOMY-MAPPING-ISSB-S2---IFRS-SASB)
+* [Partial Mapping: GRI 305 Emissions - IFRS SASB](https://github.com/OS-SFT/RESEARCH---TAXONOMY-MAPPING---GRI---SASB)
 
 ## Background Links
 * [About SASB](https://www.sasb.org/about/)
@@ -36,7 +36,7 @@ SASB standards can de downloaded from their site [here](https://www.sasb.org/sta
 * [SASB Merges into ISSB](https://www.ifrs.org/news-and-events/news/2022/08/ifrs-foundation-completes-consolidation-with-value-reporting-foundation/)
 
 ## Taxonomy Visualisation
-[![Image](https://user-images.githubusercontent.com/112079442/189687802-a05cdcbd-be18-47e1-a94f-d597ec2502b4.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/Ew07ILZJs8si8V0gRAvo5tkHTaaftTco)
+[![Image](https://user-images.githubusercontent.com/112079442/189687802-a05cdcbd-be18-47e1-a94f-d597ec2502b4.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/xZNiBoiFcUuSDVe6WQnLtv43s1HYPgAm)
 
 ## Further Commentary
 The Sustainability Accounting Standards Board (SASB) is an ESG guidance framework that sets standards for the disclosure of financially material sustainability information by companies to their investors.
