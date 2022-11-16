@@ -11,7 +11,7 @@
 Single taxonomy for the NACE industry classification system.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/cdybhyK3c7yb3gpqccXLOUPnvJFrQOnM) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-NACE/#further-commentary) for further commentary
+- Research: See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/blob/main/Industry%20Classification%20Taxonomies/NACE/README.md#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
