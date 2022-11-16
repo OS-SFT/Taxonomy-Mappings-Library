@@ -11,7 +11,7 @@
 Single taxonomy for the GICS industry classification system.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IL1xB1TK3Qi69Ynj9j8kRnVFzGpLRa8Z) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-GICS#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/blob/main/Industry%20Classification%20Taxonomies/GICS/README.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
