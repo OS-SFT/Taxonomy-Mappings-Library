@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: TCFD - EBA Pillar 3 ESG Risk Disclosures
 
@@ -8,8 +8,8 @@
 Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG Disclosures.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/share/C7E9OGmUKKLXkiVsSbAZLxFZq2e5h0bd) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-MAPPING-TCFD-v-EBA-Pillar-3#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/rBfOxHaZduxKhPul591yf2OGtdEI5ncp) to view an interactive version of the taxonomy mapping
+- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-TCFD-v-EBA-Pillar-3#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -22,13 +22,13 @@ Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG 
 
 ## Taxonomy versioning
 
-- Individual Taxonomies: [TCFD](https://github.com/FD-SustainableFinance/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES) - [EBA Pillar 3](https://github.com/FD-SustainableFinance/RESEARCH---EBA-PILLAR-3-DISCLOSURES)
+- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES) - [EBA Pillar 3](https://github.com/OS-SFT/RESEARCH---EBA-PILLAR-3-DISCLOSURES)
 - Model Source: First Derivative Research
 - Model Date: 20220919
 
 ## Visualisation of Taxonomy Mapping
 
-[![Image](https://user-images.githubusercontent.com/112079442/189144797-b2a00cad-d67b-4bf4-a3fb-f8c0c0af9a5b.png "Click to view interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/C7E9OGmUKKLXkiVsSbAZLxFZq2e5h0bd)
+[![Image](https://user-images.githubusercontent.com/112079442/189144797-b2a00cad-d67b-4bf4-a3fb-f8c0c0af9a5b.png "Click to view interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/rBfOxHaZduxKhPul591yf2OGtdEI5ncp)
 
 ## Further Commentary
 
