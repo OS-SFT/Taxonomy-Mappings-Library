@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # SEC Climate Disclosure Rule: The Enhancement and Standardization of Climate-Related Disclosures for Investors
 
@@ -8,7 +8,7 @@
 
 Single taxonomy for the SEC's proposed Climate-Related Disclosure rule.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://partners.solidatus.com/viewer/631f4a2e0e39dba22aea1279) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/2w4RI9Nr89xuTOWadZLftzJi4OsnPbVe) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/FD-SustainableFinance/RESEARCH-SEC-Climate-Disclosure-Rule/blob/main/README.md#detailed-research) for detailed research. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -29,7 +29,7 @@ Single taxonomy for the SEC's proposed Climate-Related Disclosure rule.
 ## Taxonomy Mapping(s)
 
 Pairwise:
-- [SEC-ISSB](https://github.com/FD-SustainableFinance/RESEARCH-TAXONOMY-MAPPING-ISSB-SEC)
+- [SEC-ISSB](https://github.com/OS-SFT/RESEARCH-TAXONOMY-MAPPING-ISSB-SEC)
 
 String:
 - [Add links]
@@ -39,7 +39,7 @@ String:
 - [SEC Proposes Rules to Enhance and Standardize Climate-Related Disclosures for Investors](https://www.sec.gov/news/press-release/2022-46)
 
 ## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/189688835-cebbd873-8b8b-4f35-ac04-1486f11fdda1.png "Click to open interactive Taxonomy Tool")](https://partners.solidatus.com/viewer/share/8fC4c5kTpTy0VdyyWZrGBrLkk9h4IpUk)
+[![Image](https://user-images.githubusercontent.com/112079442/189688835-cebbd873-8b8b-4f35-ac04-1486f11fdda1.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/2w4RI9Nr89xuTOWadZLftzJi4OsnPbVe)
 
 # Further Commentary
 
