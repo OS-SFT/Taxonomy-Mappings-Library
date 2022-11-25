@@ -10,7 +10,7 @@ Pairwise taxonomy mapping between the BCBS Principles for effective risk data ag
 
 - Taxonomy Files: See mapping files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i38GFnJT8AbjC71NLk0sAuOmk0Yh0SHJ) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/edit/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
 - Link: Use Case
 
 ## Summary Observations
