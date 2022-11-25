@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: BCBS 239 Risk Aggregation - BCBS 530 Climate Risk
@@ -10,7 +10,7 @@ Pairwise taxonomy mapping between the BCBS Principles for effective risk data ag
 
 - Taxonomy Files: See mapping files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i38GFnJT8AbjC71NLk0sAuOmk0Yh0SHJ) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-BCBS-239-v-BCBS-530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/edit/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
 - Link: Use Case
 
 ## Summary Observations
@@ -22,7 +22,7 @@ Pairwise taxonomy mapping between the BCBS Principles for effective risk data ag
 
 ## Taxonomy versioning
 
-- Individual Taxonomies: [BCBS 239 Risk Aggregation](https://github.com/OS-SFT/RESEARCH---BCBS-239---Risk-Data-Aggregation) - [BCBS 530 Climate Risk](https://github.com/OS-SFT/RESEARCH---BCBS-Climate-Risk)
+- Individual Taxonomies: [BCBS 239 Risk Aggregation](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20239%20-%20Risk%20Data%20Aggregation) - [BCBS 530 Climate Risk](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20530%20-%20Climate%20Risk)
 - Model Source: First Derivative Research
 - Model Date: 20221006
 
