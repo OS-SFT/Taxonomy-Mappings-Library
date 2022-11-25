@@ -9,7 +9,7 @@
 Single taxonomy for the Sustainability Accounting Standards Board disclosure framework.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/xZNiBoiFcUuSDVe6WQnLtv43s1HYPgAm) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/FD-SustainableFinance/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/SASB#further-commentary) for detailed research. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB#further-commentary) for detailed research. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
