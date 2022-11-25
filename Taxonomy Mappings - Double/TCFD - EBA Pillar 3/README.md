@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: TCFD - EBA Pillar 3 ESG Risk Disclosures
@@ -9,7 +9,7 @@ Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG 
 
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/rBfOxHaZduxKhPul591yf2OGtdEI5ncp) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-TCFD-v-EBA-Pillar-3#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20EBA%20Pillar%203#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -22,7 +22,7 @@ Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG 
 
 ## Taxonomy versioning
 
-- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES) - [EBA Pillar 3](https://github.com/OS-SFT/RESEARCH---EBA-PILLAR-3-DISCLOSURES)
+- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
 - Model Source: First Derivative Research
 - Model Date: 20220919
 
