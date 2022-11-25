@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: TCFD - CDSB [WIP = Work In Progress]
@@ -7,15 +7,15 @@
 ## Project Summary
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ByQoQI4K4wL9JiDPWqso70tDIIMPQUqq) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-TCFD-v-CDSB-WIP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
 [Add content]
 
 ## Taxonomy versioning
-- [TCFD](https://github.com/OS-SFT/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES) - Source - FD Research
-- [CDSB](https://github.com/OS-SFT/RESEARCH---CLIMATE-DISCLOSURE-STANDARDS-BOARD) - Source - FD Research
+- [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - Source - FD Research
+- [CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB) - Source - FD Research
 
 ## Background Links
 [Converging TCFD, SASB, CDP and CDSB](https://www.cdsb.net/sites/default/files/sasb_cdsb-tcfd-convergingonclimaterisk-091317-web.pdf)
