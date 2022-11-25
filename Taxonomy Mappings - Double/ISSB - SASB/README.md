@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: ISSB S2 - SASB
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/Xv0UExf7YOxhJipieQv4DBXK9pYbOn7S) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-ISSB-S2-v-IFRS-SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -21,7 +21,7 @@ Additionally, the ISSB’s Climate Exposure Draft proposes requirements for disc
 Work is expected to continue on these projects, although upcoming public consultation on the ISSB’s future agenda priorities will inform their detailed delivery plan.
 
 ## Taxonomy versioning
-- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD) - [SASB](https://github.com/OS-SFT/RESEARCH-IFRS-SASB)
+- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB)
 - Model Source: First Derivative Research
 - Model Date: 20220928
 
