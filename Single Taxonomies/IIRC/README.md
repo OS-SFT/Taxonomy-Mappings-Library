@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # IIRC: International Integrated Reporting Council
 
 ## Project Summary
-- Link: Taxonomy Files - See files within this repository
+- Taxonomy Files - See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/QksvijnGV3P1BeJ07wJyJUsTKXDV6N2m) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/IIRC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
