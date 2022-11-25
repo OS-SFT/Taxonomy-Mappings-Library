@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # TCFD: Task Force on Climate-Related Financial Disclosures
@@ -22,12 +22,12 @@ The Financial Stability Board (FSB) established the [Task Force on Climate-Relat
 - Model Date: 20220913
 
 ## Taxonomy Mapping
-* [TCFD - ISSB S2](https://github.com/OS-SFT/RESEARCH---PAIRWISE-TAXONOMY-MAPPING---TCFD-V-ISSB)
-* [EBA Pillar 3 - TCFD](https://github.com/OS-SFT/RESEARCH-TAXONOMY-MAPPING-TCFD-EBA-Pillar-3)
-* [Partial Mapping: GRI 305 Emissions - TCFD](https://github.com/OS-SFT/RESEARCH---TAXONOMY-MAPPING---GRI---TCFD)
-* [TCFD - SASB](https://github.com/OS-SFT/RESEARCH---TAXONOMY-MAPPING---TCFD---SASB)
-* [TCFD - CDSB](https://github.com/OS-SFT/RESEARCH---TAXONOMY-MAPPING---TCFD---CDSB)
-* [TCFD - CDP](https://github.com/OS-SFT/RESEARCH---TAXONOMY-MAPPING---TCFD---CDP)
+* [TCFD - ISSB S2](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20ISSB)
+* [EBA Pillar 3 - TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20EBA%20Pillar%203)
+* [Partial Mapping: GRI 305 Emissions - TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20TCFD)
+* [TCFD - SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20SASB)
+* [TCFD - CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDSB)
+* [TCFD - CDP](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDP)
 
 ## Background Links
 - [TCFD](https://www.fsb-tcfd.org/)
