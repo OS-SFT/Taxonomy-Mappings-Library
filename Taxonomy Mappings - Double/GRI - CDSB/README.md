@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: GRI 305 emissions - CDSB [WIP = Work In Progress]
@@ -17,8 +17,8 @@ The Global Reporting Initiative (GRI) is an international independent organisati
 The CDSB Framework explains how environmental/natural capital information disclosed in a report made using GRI sustainability reporting guidelines can be presented in a mainstream financial report. The Framework provides the supporting architecture to link non-financial and financial information in companies’ mainstream reports. This enables companies and investors to minimise risk and identify opportunities by disclosing and reducing impacts on the environment. By identifying and developing common disclosures, GRI and CDSB aim to increase the efficiency of reporting.
 
 ## Taxonomy versioning
-- [GRI](https://github.com/OS-SFT/RESEARCH---GLOBAL-REPORTING-INITIATIVE)
-- [CDSB](https://github.com/OS-SFT/RESEARCH---CLIMATE-DISCLOSURE-STANDARDS-BOARD)
+- [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI)
+- [CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB)
 
 ## Background Links
 [GRI - CDSB](https://www.cdsb.net/news/corporate-reporting/1139/global-sustainability-and-integrated-reporting-organisations-launch)
