@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: TCFD - ISSB S2
@@ -9,7 +9,7 @@ Pairwise taxonomy mapping between the TCFD Recommendations and ISSB Exposure Dra
 
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/oPboIBumw1DnE46WkUNZ51Jw76XJc14X) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-TCFD-v-ISSB-S2#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20ISSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -19,7 +19,7 @@ The General Requirements Standard creates an umbrella of disclosure expectations
 * The ISSB’s General Requirements and Climate Standards are based on the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD). The recommendations of both the ISSB and the TCFD fall into four broad pillars — governance, strategy, risk management, and metrics and targets — corresponding to how the disclosing company approaches these four practices in the context of a given sustainability topic. Although the TCFD’s recommendations are specific to climate-related risks and opportunities, the ISSB’s General Requirements Standard advises that this approach be applied to all sustainability issues that could impact enterprise value, such as those posed by social or nature-related issues.
 
 ## Taxonomy versioning
-- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD) - [TCFD](https://github.com/OS-SFT/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)
+- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
 - Model Source: First Derivative Research
 - Model Date: 20221006
 
