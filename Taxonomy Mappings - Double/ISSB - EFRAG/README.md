@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: ISSB S2 - EFRAG ESRS 1
@@ -7,7 +7,7 @@
 ## Project Summary
 - Taxonomy Files: See mapping files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/fXyAlZcJDrOANuFaSMDVDNlki2KE4Gvx) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-ISSB-S2-v-EFRAG#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EFRAG#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case
 
 ## Summary Observations
@@ -24,7 +24,7 @@ Therefore, EFRAG is looking forward to a fruitful cooperation with the ISSB.
 ## Taxonomy Mapping
 - Model Source: First Derivative Research
 - Model Date: 20221006
-- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD) - [EFRAG](https://github.com/OS-SFT/RESEARCH-EFRAG-ESRS-E1-Climate-Change)
+- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EFRAG](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EFRAG%20-%20ESRS%20E1)
 
 ## Background Links
 - [EFRAG Framework E1 Climate Change](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf) 
