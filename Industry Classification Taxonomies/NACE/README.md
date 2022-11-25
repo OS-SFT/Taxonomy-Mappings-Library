@@ -22,9 +22,9 @@ NACE is one of many international, national and regional classification systems 
 
 ## Taxonomy Mapping
 
-- [EU Green Taxonomy](https://github.com/OS-SFT/RESEARCH-EU-TAXONOMY)
-- [ISIC](https://github.com/OS-SFT/RESEARCH-ISIC)
-- [NAICS](https://github.com/OS-SFT/RESEARCH-NAICS)
+- [EU Green Taxonomy](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EU%20Taxonomy)
+- [ISIC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/ISIC)
+- [NAICS](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NAICS)
 
 ## Background Links
 - [Eurostat Correspondence Tables](https://ec.europa.eu/eurostat/ramon/relations/index.cfm?TargetUrl=LST_REL&StrLanguageCode=EN&IntCurrentPage=12)
@@ -52,7 +52,7 @@ Several other existing international industry classification systems can be mapp
 
 **1. ISIC - United Nations’ International Standard Industrial Classification of all Economic Activities.**
 
-- NACE is derived from [ISIC](https://github.com/OS-SFT/RESEARCH-ISIC) but provides more granularity from a European Point of View. 
+- NACE is derived from [ISIC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/ISIC) but provides more granularity from a European Point of View. 
 - ISIC and NACE have exactly the same items at the highest levels but NACE is more detailed at lower levels (The first level and the second level of ISIC Rev. 4 (sections and divisions)) are identical to sections and divisions of NACE Rev. 2).
 
 **2. UKSIC - Standard Industrial Classification UK** 
@@ -65,7 +65,7 @@ Several other existing international industry classification systems can be mapp
 - SIC: System was last revised in 1987 and was last used by the Census Bureau for the 1992 Economic Census, and has been replaced by the North American Industry Classification System (NAICS - _See below_) since 1997. Some US Government Departments and Agencies, such as the Securities and Exchange Commission (SEC), still use SIC.
 
 **4. NAICS - North American Industry Classification System**
-- [NAICS](https://github.com/OS-SFT/RESEARCH-NAICS) was developed in the mid-1990s to provide common industry definitions for Canada, Mexico, and the United States.
+- [NAICS](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NAICS) was developed in the mid-1990s to provide common industry definitions for Canada, Mexico, and the United States.
 - First two digits designate sectors that represent general categories of economic activities. Therefore statistical data collected according to NAICS can be aggregated into the two-digit divisions of ISIC Rev. 4/NACE Rev. 2, ensuring comparability of data.
 - Outside of first two digits, structures of ISIC and NAICS are substantially different as NAICS conceptual framework is production-oriented and classifies units, not activities.
 
