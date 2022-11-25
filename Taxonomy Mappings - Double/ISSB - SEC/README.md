@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: ISSB S2 - SEC Climate-related Disclosures
@@ -9,7 +9,7 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SEC proposed ru
 
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/h8L8Xgi3BgJRA4yK9XD1FkP7KjynCVzW) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-ISSB-v-SEC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SEC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case
 
 ## Summary Observations
@@ -19,7 +19,7 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SEC proposed ru
 - Format of the draft texts for these frameworks differed, with ISSB taking a more concise approach outlining disclosure requirements by paragraph. The SEC text is more descriptive, meaning specific requirements are more difficult to define and must be interpreted within large text blocks.
 
 ## Taxonomy versioning
-- Individual Taxonomies: [SEC](https://github.com/OS-SFT/RESEARCH-SEC-Climate-Disclosure-Rule) - [ISSB](https://github.com/FD-SustainableFinance/RESEARCH---INTERNATIONAL-SUSTAINABILITY-STANDARDS-BOARD)
+- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [SEC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SEC%20-%20Climate%20Disclosure%20Rule)
 - Model Source: First Derivative Research
 - Model Date: 20220919
 
