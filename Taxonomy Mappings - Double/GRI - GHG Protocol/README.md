@@ -24,8 +24,8 @@ Both frameworks must disclose GHG emissions from surces that are owned or contro
 - GHG Protocol [insert date stamp of taxonomy version] - Source [insert source]
 
 ## Background Link
-- [GRI](https://github.com/OS-SFT/RESEARCH---GLOBAL-REPORTING-INITIATIVE) - FD Research
-- [GHG Protocol](https://github.com/OS-SFT/RESEARCH---GHG-PROTOCOL) - FD Research
+- [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI) - FD Research
+- [GHG Protocol](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GHGP) - FD Research
 
 ## Visualisation of Taxonomy Mapping
 [![Image](https://user-images.githubusercontent.com/112077283/194524446-d68ef41f-bf89-4756-aef1-38cca6ecd942.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/GT7SRjENwTpCXIobrXey10G6Qi2xOzWy)
