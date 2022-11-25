@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: TCFD - SASB
@@ -7,15 +7,15 @@
 ## Project Summary
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/f8kClKdliIBuvbvN8AVJdeM6bpTLBfEF) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/OS-SFT/RESEARCH-MAPPING-TCFD-v-SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
 To assist businesses in more successfully implementing the TCFD requirements, SASB Standards offer an industry-specific collection of climate-related disclosure issues and related indicators. Alongside the TCFD recommendations, the SASB Standards have contributed fundamental instruments for effectively delivering climate- and sustainability-related financial disclosure to capital markets. As a result, the S1 General Requirements Standard and S2 Climate-related Disclosures Standard from the ISSB include important elements of the two, acknowledging that sustainability disclosure should include both qualitative disclosures and quantitative measurements.
 
 ## Taxonomy versioning
-- [TCFD](https://github.com/OS-SFT/RESEARCH---TASK-FORCE-ON-CLIMATE-RELATED-FINANCIAL-DISCLOSURES)
-- [SASB](https://github.com/OS-SFT/RESEARCH-IFRS-SUSTAINABILITY-ACCOUNTING-STANDARDS-BOARD) 
+- [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
+- [SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB)
 
 ## Background Links
 - [How does SASB compliment TCFD](https://help.sasb.org/hc/en-us/articles/360059913732-How-do-SASB-Standards-complement-the-TCFD-recommendations-)
