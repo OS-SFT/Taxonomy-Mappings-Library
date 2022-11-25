@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # Mapping: GRI 305 Emissions - SASB [WIP = Work In Progress]
@@ -26,8 +26,8 @@ In July 2020, GRI and SASB announced a collaborative workplan, which aims to:
 * For the purposes of disclosure, SASB accounts for indirect emissions by capturing operational and/or strategic factors that give rise to such emissions.  This applies to the following SASB categories: Product Design & Lifecycle Management, Supply Chain Management and Materials Sourcing & Efficiency
 
 ## Taxonomy versioning
-- [GRI](https://github.com/OS-SFT/RESEARCH---GLOBAL-REPORTING-INITIATIVE)
-- [SASB](https://github.com/OS-SFT/RESEARCH-IFRS-SUSTAINABILITY-ACCOUNTING-STANDARDS-BOARD)
+- [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI)
+- [SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB)
 
 ## Background Links
 [GRI - SASB](https://www.nordea.com/en/news/gri-sasb-cdp-making-sense-of-overlapping-sustainability-and-climate-disclosures#:~:text=While%20GRI%20covers%20the%20organisation's,traditionally%20catered%20more%20to%20investors.)
