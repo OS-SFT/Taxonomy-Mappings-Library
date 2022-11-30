@@ -28,7 +28,7 @@
 
 
 ## Visualisation of Taxonomy Mapping
-[![image](![image](https://user-images.githubusercontent.com/112077283/204783041-da37fe44-37bc-442b-b5fa-1d6a974ea188.png)
+[(![image](https://user-images.githubusercontent.com/112077283/204783041-da37fe44-37bc-442b-b5fa-1d6a974ea188.png
  "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/CDOgDw1Gnaqm4NdqTpyF9cDLasMa46Zc)
 
 ## Further Commentary
