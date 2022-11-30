@@ -2,7 +2,7 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# AnaCredit
+# AnaCredit: Analytical Credit Datasets
 **PAGE STATUS**
 ```diff
 - UNDER DEVELOPMENT -
