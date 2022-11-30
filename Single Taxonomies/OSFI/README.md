@@ -22,6 +22,10 @@ The Guideline establishes OSFI’s expectations related to the FRFI’s manageme
 
 There is no one-size-fits-all approach for managing climate-related risks given the unique risks and vulnerabilities that will vary with a FRFI’s size, nature, scope, and complexity of its operations, and risk profile. The Guideline should be read, and implemented, from a risk-based perspective that allows the FRFI to compete effectively while managing its climate-related risks prudently.
 
+OSFI is also introducing mandatory climate-related financial disclosures aligned with the international Task Force on Climate-related Financial Disclosures (TCFD) framework. These disclosures will incentivize improvements in the quality of the institutions’ governance and risk management practices related to climate. In doing so, this contributes to public confidence in the Canadian financial system by increasing transparency. This also aligns with a commitment made by the federal government to require financial institutions to publish climate disclosures starting in 2024.
+
+Given the pace of change in climate risk management, OSFI intends to review and amend this Guideline as practices evolve and standards harmonize. OSFI welcomes public comments to draft Guideline B-15 before August 19, 2022.
+
 ## Taxonomy versioning
 
 - Taxonomy Version: Draft_1.0
@@ -40,7 +44,19 @@ There is no one-size-fits-all approach for managing climate-related risks given 
  "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/CDOgDw1Gnaqm4NdqTpyF9cDLasMa46Zc)
 
 ## Further Commentary
+ - “Physical risks” refer to the financial risks from the increasing severity and frequency of extreme climate change-related weather events (i.e., acute physical risks); longer-term gradual shifts of the climate (i.e., chronic physical risks); and indirect effects of climate change such as public health implications (e.g., morbidity and mortality impacts).
+
+ - “Transition risks” refer to the financial risks related to the process of adjustment towards a low-greenhouse gas (GHG) economy. These risks can emerge from current or future government policies, legislation, and regulation to limit GHG emissions, as well as technological advancements, and changes in market and customer sentiment towards a low-GHG economy.
+
+These risks may manifest over varying time horizons and are likely to intensify over time. Building financial resilience against climate-related risks requires FRFIs to address vulnerabilities in their business model, their overall operations, and ultimately on their balance sheet.
+Chapter 1 of the Draft Guideline sets out OSFI’s expectations about governance and management of climate-related risks by FRFIs. The Draft Guideline stipulates that each FRFIs, shall amongst other things:
+
+* incorporate the implications of climate change and the transition to a low greenhouse gas economy to the institution in its business model and strategy, including by developing and implementing a Climate Transition Plan that guides the management of increasing physical risks and sets internal metrics and targets such as GHG emissions;
+* integrate climate-related risks into its Risk Appetite Framework, Internal Control Framework, Enterprise Risk Management framework and relevant policies and practices;
+* implement tools to measure climate-related risks and develop capabilities to aggregate the data to identify and internally report on climate-related exposure;
+develop a climate scenario analysis, which uses a hypothetical future state of the world to assess the impact of climate-related risks on the FRFI’s operation, as part of its Stress Testing Framework; and
+* maintain sufficient capital and liquidity buffers for its climate-related risks, by incorporating these risks into its Internal Capital Adequacy Assessment Process and Own Risk Solvency Assessment process.
 
 
-
+The Draft Guideline states that OSFI will provide a standardised climate scenario analysis exercises that FRFIs can utilise to determine their overall exposures to physical and transition risks. FRFIs will be expected to implement these scenarios and inform OSFI of their findings.
 
