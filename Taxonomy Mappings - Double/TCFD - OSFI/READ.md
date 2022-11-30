@@ -7,7 +7,7 @@
 ## Project Summary
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ddeNvFYSxk0ze2lDonusbYkyTjNjJK0S) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/OSFI/READ.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20OSFI/READ.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
