@@ -4,4 +4,21 @@
 
 # NFRD: Non-Financial Reporting Directive
 
-## Work In Progress
+**PAGE STATUS**
+```diff
+- UNDER DEVELOPMENT -
+```
+
+## Project Summary
+
+Single taxonomy for NFRD.
+- Taxonomy Files: See files within this repository
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/iQ4vv1ldeMQxLB98pnYQr3WZr1vDC4Pi) to view an interactive version of the taxonomy
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/NFRD/README.md#detailed-research) for detailed research
+- Link: Use Case(s) - [ADD]
+
+
+# Detailed Research
+
+-	The NFRD....
+
