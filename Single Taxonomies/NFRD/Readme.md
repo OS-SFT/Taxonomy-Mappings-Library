@@ -21,5 +21,6 @@ Single taxonomy for NFRD.
 # Detailed Research
 
 -	The Non-Financial Reporting Directive (NFRD) (Directive 2014/95/EU) outlines the rules on disclosure of non-financial and diversity information by large public-interest companies (rules on this are outlined below). This directive amends the Accounting Directive 2013/34/EU. 
--	
+-	These rules apply to large public-interest companies with more than 500 employees. These include: listed companies, banks, insurance companies and other companies designated by national authorities as public-interest entities. 
+-	The Directive 2014/95/EU, provides guidance to companies on publishing large companies have to publish information related to environmental matters, social matters and treatment of employees, respect for human rights, anti-corruption and bribery and diversity on company boards (in terms of age, gender, educational and professional background). 
 
