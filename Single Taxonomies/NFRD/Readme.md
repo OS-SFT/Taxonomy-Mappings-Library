@@ -4,4 +4,7 @@
 
 # NFRD: Non-Financial Reporting Directive
 
-## Work In Progress
+**PAGE STATUS**
+```diff
+- UNDER DEVELOPMENT -
+```
