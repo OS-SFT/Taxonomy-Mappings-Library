@@ -17,6 +17,18 @@ Single taxonomy for NFRD.
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/NFRD-branch-221201/Single%20Taxonomies/NFRD/Readme.md#detailed-research) for detailed research
 - Link: Use Case(s) - [ADD]
 
+## Taxonomy versioning 
+
+- Taxonomy Version: 2019 
+
+- Source Documentation: [Communication from the Commission — Guidelines on non-financial reporting: Supplement on reporting climate-related information](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019XC0620(01)) 
+
+- Version Date: 20190620 
+
+- Model Source: First Derivative Research 
+
+- Model Date: 20221201 
+
 
 # Detailed Research
 
