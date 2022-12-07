@@ -35,7 +35,8 @@ Single taxonomy for the COREP framework.
 - [BDO Article] (https://www.bdo.co.uk/en-gb/insights/industries/financial-services/what-is-finrep)
 
 ## Visualisation of Taxonomy Mapping
-- [insert model link]
+- ![image](https://user-images.githubusercontent.com/113118809/206239176-a5d90285-7923-4701-8d36-628f5b165275.png)
+
   
  ## Further Commentary
 
