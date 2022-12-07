@@ -16,7 +16,7 @@ Single taxonomy for the COREP framework.
 
 ## Summary Observations
 - The European Banking Authority (EBA) introduced the Capital Requirements Directive IV (CRD IV) aim to ensure financial transparency across the European Economic Area (EEA). The directive covers banks, building societies and investment firms.
-- The EBA has developed two reporting frameworks being: COREP and FINREP (see FINREP Research page _<insert link to page>_). 
+- The EBA has developed two reporting frameworks being: COREP and FINREP (see [FINREP Research](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/FINREP). 
 - COREP is a reporting framework to be used by credit institutions and investment firms when they report their solvency ratio to supervisory authorities under the CRD.
 - The regulation requires reporting templates for Capital Adequacy, Credit and Counterparty Credit Risk, Group Solvency, Market Risk and Operational Risk, see [here](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/guidelines-on-common-reporting-2011-) for template and guidance.
 - The objective is to achieve a high level of harmonization and a strong convergence of regular supervisory reporting requirements.
