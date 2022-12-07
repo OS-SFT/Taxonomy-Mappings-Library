@@ -41,4 +41,6 @@ NOTE: The Corporate Sustainability Reporting Directive (CSRD) willl replace and 
 - [Guidelines on non-financial reporting: Supplement on reporting climate-related information](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019XC0620(01))
 
 ## Visualisation of Taxonomy Mapping
-[![image](![image](https://user-images.githubusercontent.com/117910607/206137804-f23fec93-9a4c-465a-a7a8-028de4c3e640.png) "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/iQ4vv1ldeMQxLB98pnYQr3WZr1vDC4Pi)
+[![image](https://user-images.githubusercontent.com/117910607/206137804-f23fec93-9a4c-465a-a7a8-028de4c3e640.png) "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/iQ4vv1ldeMQxLB98pnYQr3WZr1vDC4Pi)
+
+## Further Commentary
