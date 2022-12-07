@@ -4,11 +4,6 @@
 
 # NFRD: Non-Financial Reporting Directive
 
-**PAGE STATUS**
-```diff
-- UNDER DEVELOPMENT -
-```
-
 ## Project Summary
 
 Single taxonomy for NFRD.
