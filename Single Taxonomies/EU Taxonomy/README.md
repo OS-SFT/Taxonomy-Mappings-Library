@@ -4,18 +4,22 @@
 
 # EU Taxonomy: European Union (Green) Taxonomy
 Single taxonomies for the EU Taxonomy - Climate Change Mitigation and Climate Change Adaptation objectives respectively.
+Additional taxonomy for the EU Taxonomy Article 8 Disclosures Delegated Act.
 
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click each link below to view an interactive version of the taxonomy
   - [EU Taxonomy - Climate Change Mitigation (CCM)](https://os-sft.solidatus.com/viewer/share/JtcNgEQfxVEgejG1Ezdn3Ym9RDzYXVbv)
   - [EU Taxonomy - Climate Change Adaptation (CCA)](https://os-sft.solidatus.com/viewer/share/AFqwhixwTXEr1abPoFPRgVyfC73KOply)
-- Research: 
+  - [EU Taxonomy - Article 8 Disclosures Delegated Act](https://os-sft.solidatus.com/viewer/share/gpYymd3aGhsj96T3xI6PaQBIqxM3aD0t)
+- Research:
   - See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EU%20Taxonomy#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
   - See [NACE](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE) for further details
 - Link: Use Case(s) - [ADD]
 
 # Summary Observations
-The EU taxonomy is a categorization scheme that creates a list of economically viable ecologically friendly activities. It will have a significant impact on how the EU scales up sustainable investment and puts the European Green Deal into practice. Companies, investors, and regulators would have access to proper definitions of whether economic activities qualify as ecologically sustainable thanks to the EU taxonomy. This should provide security for investors, safeguard private investors from greenwashing, assist businesses in becoming more environmentally friendly, lessen market fragmentation, and assist in directing investments to areas where they are most needed.
+The EU Taxonomy is a categorization scheme that creates a list of economically viable ecologically friendly activities. It will have a significant impact on how the EU scales up sustainable investment and puts the European Green Deal into practice. Companies, investors, and regulators would have access to proper definitions of whether economic activities qualify as ecologically sustainable thanks to the EU taxonomy. This should provide security for investors, safeguard private investors from greenwashing, assist businesses in becoming more environmentally friendly, lessen market fragmentation, and assist in directing investments to areas where they are most needed.
+
+In addition to the green taxonomy itself, the EU Taxonomy regulation sets out reporting requirements for financial and non-financial undertakings regarding alignment with the EU's environmental objectives and other measures.
 
 # Taxonomy versioning
 
@@ -31,7 +35,7 @@ The EU taxonomy is a categorization scheme that creates a list of economically v
 - [FAQs: How should financial and non-financial undertakings report Taxonomy-eligible economic activities and assets in accordance with the Taxonomy Regulation Article 8 Disclosures Delegated Act?](https://finance.ec.europa.eu/system/files/2022-01/sustainable-finance-taxonomy-article-8-report-eligible-activities-assets-faq_en.pdf)
 
 # Visualisation of Taxonomy
-Note - Partial visualisation only of Climate Change Mitigation taxonomy. See links above for a full interactive version.
+Note - Partial visualisation only of Climate Change Mitigation taxonomy. See links above for a full interactive versions of each model.
 
 [![Image](https://user-images.githubusercontent.com/112079442/194052952-d724d94b-e524-487f-87b7-76d8fc7f9295.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/JtcNgEQfxVEgejG1Ezdn3Ym9RDzYXVbv)
 
@@ -59,6 +63,6 @@ See below for a summary of the progress of the EU Taxonomy and the forward-looki
 * 13 July 2022: Deadline for first review of the Taxonomy (required every three years).
 * Late 2022: It is intended that a second delegated act will be published on sustainable activities for the remaining objectives: water & marine resources use and protection; circular economy transition; pollution prevention & control; and biodiversity & ecosystems protection & restoration.
 
-Reporting requirements set forth by the Disclosures Delegated Act mentioned above come into force progressively, based on the below timetable. The requirements are elaborated in the Annexes of the delegated act, and have been identified as an area of potential further research by the OS-SFT Contributing Partners.
+Reporting requirements set forth by the Disclosures Delegated Act mentioned above come into force progressively, based on the below timetable. The requirements are elaborated in the Annexes of the delegated act, and a taxonomy for these requirements has been compiled and modelled by the OS-SFT Contributing Partners.
 
 ![image](https://user-images.githubusercontent.com/112079442/194115623-bfafa96a-8549-4f2c-afd6-60baa59ab153.png)

@@ -41,3 +41,4 @@ Single taxonomy for NFRD.
 ## Further Commentary
 - The objective of the NFRD is to raise the transparency of the social and environmental information provided by undertakings in all sectors to a similarly high level across all Member States. Thus to improve the disclosure of non-financial information by certain large undertakings.
 - On 21 April 2021, the Commission adopted a proposal for a Corporate Sustainability Reporting Directive (CSRD), which would amend the existing reporting requirements of the NFRD. See [Corporate sustainability reporting](https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en) for more information.
+
