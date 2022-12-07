@@ -8,8 +8,9 @@
 - UNDER DEVELOPMENT -
 ```
 ## Project Summary
-- Link: Taxonomy File(s) - single files and mappings - [add]
-- Link: Taxonomy Tool(s) - https://os-sft.solidatus.com/viewer/share/UxWsafeKEg5S5LIgNOTjPdulgU1F29Yc
+Single taxonomy for the COREP framework.
+- Link: Taxonomy File(s) - See files within this repository
+- Link: Taxonomy Tool(s) - Click [here](https://os-sft.solidatus.com/viewer/share/UxWsafeKEg5S5LIgNOTjPdulgU1F29Yc) to view an interactive version of the taxonomy
 - Link: Taxonomy Research (this page)
 - Link: Use Case(s) - [add]
 
@@ -22,12 +23,19 @@
 - The latest revision was in 2011 (Revision 2) and incorporates changes to the COREP templates to take account of the amendments to the CRD, CRD III (Directive 2010/76/EU).
 
 ## Taxonomy versioning
-- [Insert version and source data]
+* Taxonomy Version: Draft_Final
+* Source Documentation: [SASB Standards](https://www.sasb.org/standards/download/?lang=en-us)
+* Version Date: 20220926
+* Model Source: First Derivative Research
+* Model Date: 20220913
 
 ## Background Links
-- EBA site: https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/guidelines-on-common-reporting-2011-
-- BDO site: https://www.bdo.co.uk/en-gb/insights/industries/financial-services/what-is-finrep
+- [EBA Guidelines on Common Reporting] (https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/guidelines-on-common-reporting-2011-)
+- [EBA Reporting Framework 3.2] (https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-3.2)
+- [BDO Article] (https://www.bdo.co.uk/en-gb/insights/industries/financial-services/what-is-finrep)
 
 ## Visualisation of Taxonomy Mapping
 - [insert model link]
+  
+ ## Further Commentary
 
