@@ -14,13 +14,19 @@
 - Link: Use Case(s) - [add]
 
 ## Summary Observations
-- 
+- - The European Banking Authority (EBA) introduced the Capital Requirements Directive IV (CRD IV) aim to ensure financial transparency across the European Economic Area (EEA). The directive covers banks, building societies and investment firms.
+- The EBA has developed two reporting frameworks being: COREP and FINREP (see COREP Research page _<insert link to page>_). 
+- FINREP (financial information reporting) has to be drafted by investment companies, banks and financial groups subject to the Capital Requirements Directive IV and using IFRS or national (nGAAP) accounting standards.
+- The regulation requires reporting templates for Primary Statements, Assets and Liabilities, Income and Equity, Financial and Non Financial Disclosures and Off balance Sheet, see [here](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9) for template and guidance.
+ FINREP forms an integrated package for supervisory reporting of financial information which also includes templates that may, when decided by their Competent Authority, be reported by institutions using General Accounting Principles in accordance with Directive 86/635/EC (Bank Accounting Directive, ‘BAD’). Parts of FINREP templates are to be reported indistinctively by institutions using IFRS and by institutions under national Generally Accepted Accounting Principles (GAAP), and it is necessary to ensure that information reported by the two populations of reporters remains consistent to achieve a comprehensive view of risks.
+- The objective is to achieve a high level of harmonization and a strong convergence of regular supervisory reporting requirements.
+- The latest revision was in 2011 (Revision 2) and incorporates changes to the COREP templates to take account of the amendments to the CRD, CRD III (Directive 2010/76/EU).
 
 ## Taxonomy versioning
 - [Insert version and source data]
 
 ## Background Links
-- 
+- https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9
 
 ## Visualisation of Taxonomy Mapping
 - [insert model link]
