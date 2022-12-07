@@ -24,10 +24,10 @@ Single taxonomy for the COREP framework.
 
 ## Taxonomy versioning
 * Taxonomy Version: Draft_Final
-* Source Documentation: [SASB Standards](https://www.sasb.org/standards/download/?lang=en-us)
-* Version Date: 20220926
+* Source Documentation: [European Banking Authority (EBA)](https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-3.2)
+* Version Date: 20220124
 * Model Source: First Derivative Research
-* Model Date: 20220913
+* Model Date: 20221207
 
 ## Background Links
 - [EBA Guidelines on Common Reporting] (https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/guidelines-on-common-reporting-2011-)
