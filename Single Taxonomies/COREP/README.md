@@ -30,12 +30,12 @@ Single taxonomy for the COREP framework.
 * Model Date: 20221207
 
 ## Background Links
-- [EBA Guidelines on Common Reporting] (https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/guidelines-on-common-reporting-2011-)
-- [EBA Reporting Framework 3.2] (https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-3.2)
-- [BDO Article] (https://www.bdo.co.uk/en-gb/insights/industries/financial-services/what-is-finrep)
+- [EBA Guidelines on Common Reporting](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/guidelines-on-common-reporting-2011-)
+- [EBA Reporting Framework 3.2](https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-3.2)
+- [BDO Article](https://www.bdo.co.uk/en-gb/insights/industries/financial-services/what-is-finrep)
 
 ## Visualisation of Taxonomy Mapping
- [![image](https://user-images.githubusercontent.com/113118809/206239176-a5d90285-7923-4701-8d36-628f5b165275.png)[ (https://os-sft.solidatus.com/viewer/share/UxWsafeKEg5S5LIgNOTjPdulgU1F29Yc)
+ [![image](https://user-images.githubusercontent.com/113118809/206239176-a5d90285-7923-4701-8d36-628f5b165275.png)](https://os-sft.solidatus.com/viewer/share/UxWsafeKEg5S5LIgNOTjPdulgU1F29Yc)
 
   
  ## Further Commentary
