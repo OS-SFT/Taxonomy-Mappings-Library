@@ -26,7 +26,7 @@ Single taxonomy for the FINREP framework.
 ## Taxonomy versioning
 * Taxonomy Version: Draft_Final
 * Source Documentation: [European Banking Authority (EBA)](https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-2.9)
-* Version Date: 
+* Version Date: 201907/08
 * Model Source: First Derivative Research
 * Model Date: 20221207
 
