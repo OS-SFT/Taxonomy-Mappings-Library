@@ -8,9 +8,10 @@
 - UNDER DEVELOPMENT -
 ```
 ## Project Summary
-- Link: Taxonomy File(s) - single files and mappings - [add]
-- Link: Taxonomy Tool(s) - [add]
-- Link: Taxonomy Research (this page)
+Single taxonomy for the FINREP framework.
+- Link: Taxonomy File(s) - See files within this repository
+- Link: Taxonomy Tool(s) - Click [here](https://os-sft.solidatus.com/viewer/share/zGILty2Va9FBtxcrFxl0S5apX928e9Xl)
+- Link: Taxonomy Research - See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [add]
 
 ## Summary Observations
@@ -23,11 +24,15 @@
 - The latest revision was in 2011 (Revision 2) and incorporates changes to the COREP templates to take account of the amendments to the CRD, CRD III (Directive 2010/76/EU).
 
 ## Taxonomy versioning
-- [Insert version and source data]
+* Taxonomy Version: Draft_Final
+* Source Documentation: [European Banking Authority (EBA)](https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-2.9)
+* Version Date: 
+* Model Source: First Derivative Research
+* Model Date: 20221207
 
 ## Background Links
-- https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9
+- [EBA Reporting Framework](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9)
 
 ## Visualisation of Taxonomy Mapping
-- [insert model link]
+- [![image](https://user-images.githubusercontent.com/113118809/206437424-2c1d058e-cc5b-454d-b2cf-69f66a4b89d6.png)](https://os-sft.solidatus.com/viewer/share/zGILty2Va9FBtxcrFxl0S5apX928e9Xl)
 
