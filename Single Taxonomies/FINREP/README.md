@@ -11,12 +11,12 @@
 Single taxonomy for the FINREP framework.
 - Link: Taxonomy File(s) - See files within this repository
 - Link: Taxonomy Tool(s) - Click [here](https://os-sft.solidatus.com/viewer/share/zGILty2Va9FBtxcrFxl0S5apX928e9Xl)
-- Link: Taxonomy Research - See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Link: Taxonomy Research - See [below](https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-2.9) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [add]
 
 ## Summary Observations
 - The European Banking Authority (EBA) introduced the Capital Requirements Directive IV (CRD IV) aim to ensure financial transparency across the European Economic Area (EEA). The directive covers banks, building societies and investment firms.
-- The EBA has developed two reporting frameworks being: COREP and FINREP (see COREP Research page _<insert link to page>_). 
+- The EBA has developed two reporting frameworks being: COREP and FINREP (see (COREP Research))[https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/COREP/README.md]. 
 - FINREP (financial information reporting) has to be drafted by investment companies, banks and financial groups subject to the Capital Requirements Directive IV and using IFRS or national (nGAAP) accounting standards.
 - The regulation requires reporting templates for Primary Statements, Assets and Liabilities, Income and Equity, Financial and Non Financial Disclosures and Off balance Sheet, see [here](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9) for template and guidance.
  FINREP forms an integrated package for supervisory reporting of financial information which also includes templates that may, when decided by their Competent Authority, be reported by institutions using General Accounting Principles in accordance with Directive 86/635/EC (Bank Accounting Directive, ‘BAD’). Parts of FINREP templates are to be reported indistinctively by institutions using IFRS and by institutions under national Generally Accepted Accounting Principles (GAAP), and it is necessary to ensure that information reported by the two populations of reporters remains consistent to achieve a comprehensive view of risks.
