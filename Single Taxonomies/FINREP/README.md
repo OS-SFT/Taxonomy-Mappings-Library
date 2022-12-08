@@ -15,7 +15,7 @@ Single taxonomy for the FINREP framework.
 - Link: Use Case(s) - [add]
 
 ## Summary Observations
-- - The European Banking Authority (EBA) introduced the Capital Requirements Directive IV (CRD IV) aim to ensure financial transparency across the European Economic Area (EEA). The directive covers banks, building societies and investment firms.
+- The European Banking Authority (EBA) introduced the Capital Requirements Directive IV (CRD IV) aim to ensure financial transparency across the European Economic Area (EEA). The directive covers banks, building societies and investment firms.
 - The EBA has developed two reporting frameworks being: COREP and FINREP (see COREP Research page _<insert link to page>_). 
 - FINREP (financial information reporting) has to be drafted by investment companies, banks and financial groups subject to the Capital Requirements Directive IV and using IFRS or national (nGAAP) accounting standards.
 - The regulation requires reporting templates for Primary Statements, Assets and Liabilities, Income and Equity, Financial and Non Financial Disclosures and Off balance Sheet, see [here](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9) for template and guidance.
@@ -34,5 +34,6 @@ Single taxonomy for the FINREP framework.
 - [EBA Reporting Framework](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9)
 
 ## Visualisation of Taxonomy Mapping
-- [![image](https://user-images.githubusercontent.com/113118809/206437424-2c1d058e-cc5b-454d-b2cf-69f66a4b89d6.png)](https://os-sft.solidatus.com/viewer/share/zGILty2Va9FBtxcrFxl0S5apX928e9Xl)
+[![image](https://user-images.githubusercontent.com/113118809/206437424-2c1d058e-cc5b-454d-b2cf-69f66a4b89d6.png)](https://os-sft.solidatus.com/viewer/share/zGILty2Va9FBtxcrFxl0S5apX928e9Xl)
 
+## Further Commentary
