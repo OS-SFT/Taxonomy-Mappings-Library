@@ -10,7 +10,7 @@ Single taxonomy for the Science Based Targets initiative
 
 - Taxonomy Files - See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/MTVNkQg6VpAMoAC72luPL9ImAsO2u1HL) to view an interactive version of the taxonomy
-- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20239%20-%20Risk%20Data%20Aggregation#further-commentary) for further commentary
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/SBTi#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
