@@ -70,5 +70,7 @@ Science-based target setting is already becoming part of the yearly reporting pr
 
 
 ## Useful Links
-
+[About SBTi](https://sciencebasedtargets.org/about-us#who-we-are)
+[Connecting SBTi with TCFD](https://eco-act.com/tcfd/taskforce-on-climate-related-financial-disclosures/connecting-the-sbti-with-the-tcfd/)
+[WWF Science Based Targets](https://wwf.panda.org/discover/our_focus/climate_and_energy_practice/what_we_do/climatebusiness/science_based_targets_initiative/)
 
