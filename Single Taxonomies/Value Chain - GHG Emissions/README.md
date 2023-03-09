@@ -22,9 +22,11 @@ Single taxonomy for the Greenhouse Gas Protocol's sample Emissions Inventory Rep
 ## Taxonomy versioning
 - Insert version Types
 - Insert Dates
+- Insert Link to the Double Taxomony Mapping: GHG Protocol - Value Chain
+- Insert Link to String Mapping: SFDR - NFRD - GHG Protocol - Value Chain
 
 ## Background Links
-- Insert apprpriate links/Background Info
+- Insert appropriate links/Background Info
 
 ## Visualisation of Taxonomy Mapping
 - Insert Interactive Model
