@@ -13,6 +13,10 @@ Pairwise taxonomy mapping between the BCBS Principles for effective risk data ag
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
 - Link: Use Case
 
+See also the models for:
+- [BCBS239](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20239%20-%20Risk%20Data%20Aggregation)
+- [BCBS530](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20530%20-%20Climate%20Risk)
+
 ## Summary Observations
 
 - Significant overlaps were identified between BCBS 239 and BCBS Climate Risk in terms of the requirements for risk management and reporting capabilities.
