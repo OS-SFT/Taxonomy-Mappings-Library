@@ -8,7 +8,7 @@
 
 Single taxonomy for the final draft Implementing Technical Standards for the EBA's Pillar 3 ESG Disclosures.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/BSWtIfOpLUh8tBfvfkLszj7Wk0lttpc1) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -41,7 +41,7 @@ String:
 - [EBA publishes binding standards on Pillar 3 disclosures on ESG risks](https://www.eba.europa.eu/eba-publishes-binding-standards-pillar-3-disclosures-esg-risks)
 
 ## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/189919794-e2cde22b-909f-420c-9eda-6c0f601f8f80.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/BSWtIfOpLUh8tBfvfkLszj7Wk0lttpc1)
+[![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/6d15f1db-7bb2-405d-9123-79d199cd9b17 "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ)
 
 
 # Further Commentary
