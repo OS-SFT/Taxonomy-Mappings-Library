@@ -41,8 +41,10 @@ String:
 - [EBA publishes binding standards on Pillar 3 disclosures on ESG risks](https://www.eba.europa.eu/eba-publishes-binding-standards-pillar-3-disclosures-esg-risks)
 
 ## Visualisation of Taxonomy
-[![image](https://user-images.githubusercontent.com/112079442/255937709-19fbd1f7-dcc6-4994-8e0a-6dfee7bd9653.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ)
 
+Click [here](https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/3ee91506-f789-4932-9ccc-2df21f46fa10)
 
 # Further Commentary
 
