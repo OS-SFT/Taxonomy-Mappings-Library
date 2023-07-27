@@ -10,7 +10,7 @@
 
 Single taxonomy for the NACE industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/cdybhyK3c7yb3gpqccXLOUPnvJFrQOnM) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/sEuPfQz28Fj9erj30VfRHwj0ADxwdifV) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
@@ -40,7 +40,9 @@ NACE is one of many international, national and regional classification systems 
 
 ## Taxonomy Visualisation
 
-[![Image](https://user-images.githubusercontent.com/112079442/195343799-68b0c17d-bbf1-4027-8208-b30f72b5604e.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/cdybhyK3c7yb3gpqccXLOUPnvJFrQOnM)
+Click [here](https://os-sft.solidatus.com/viewer/share/sEuPfQz28Fj9erj30VfRHwj0ADxwdifV) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/7ea80d2f-ccdd-41c9-843a-127c41a8d14a)
 
 ## Further Commentary
 
