@@ -8,7 +8,7 @@
 
 Single taxonomy for the EU's Sustainable Finance Disclosure Regulation (SFDR).
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/07dujr9EiRTuKb7YdYY8A2i7IDjlnmh8) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SFDR#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -36,9 +36,10 @@ Single taxonomy for the EU's Sustainable Finance Disclosure Regulation (SFDR).
 - [Delegated Regulation (EU) 2022/1288 of 6 April 2022](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1288&from=EN)
 
 ## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/205983710-5e3fca9b-3a17-4d59-8a26-5a159a4a739b.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/07dujr9EiRTuKb7YdYY8A2i7IDjlnmh8)
 
+Click [here](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7) to view an interactive version of the taxonomy
 
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/2c677073-6e10-4c0b-ac28-2ce574d6c8e7)
 
 # Further Commentary
 
