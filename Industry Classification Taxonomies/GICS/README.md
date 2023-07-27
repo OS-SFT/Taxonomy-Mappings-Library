@@ -10,7 +10,7 @@
 
 Single taxonomy for the GICS industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IL1xB1TK3Qi69Ynj9j8kRnVFzGpLRa8Z) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ljOQy4jwS4Sh3plxTRcNnYkXdnRH0k1L) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Industry%20Classification%20Taxonomies/GICS/README.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -25,7 +25,9 @@ Single taxonomy for the GICS industry classification system.
 
 ## Visualisation of Taxonomy
 
-[![image](https://user-images.githubusercontent.com/113118809/195306555-01555b5e-fca7-47ca-9a84-91366632a55d.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/IL1xB1TK3Qi69Ynj9j8kRnVFzGpLRa8Z)
+Click [here](https://os-sft.solidatus.com/viewer/share/ljOQy4jwS4Sh3plxTRcNnYkXdnRH0k1L) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/88469876-ff1c-4333-86e0-82f25c99acc8)
 
 ## Further Commentary
 
