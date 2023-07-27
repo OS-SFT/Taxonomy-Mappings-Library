@@ -8,7 +8,7 @@
 String taxonomy mapping between the TCFD Recommendations, ISSB Exposure Draft S2 and EBA Pillar 3 ESG Disclosures.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/B0jQjwN1QFgrlnZ9Rrq6zSt8cYp04NSY) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrgUu2AKdU) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Triple/ISSB%20-%20EBA%20Pillar%203%20-%20TCFD#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -27,7 +27,11 @@ In relation to Climate-related Disclosures (IFRS S2), the EBA has recommended en
 - Model Date: 20220919
 
 ## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112077283/191224480-55bebbd5-bbe0-4683-a75a-db55b2813d8e.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/B0jQjwN1QFgrlnZ9Rrq6zSt8cYp04NSY)
+
+Click [here](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrgUu2AKdU) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/6ea73008-6146-47a3-8cfe-74bced44cf5e)
+
 
 ## Further Commentary
 The proposed IFRS standard on climate-related disclosure requirements, based on the TCFD Recommendations, sets out the specific requirements for the identification, measurement, and disclosure of climate-related financial risks and opportunities and includes disclosure of information on:
