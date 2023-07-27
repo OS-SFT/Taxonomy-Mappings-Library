@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files - See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/QksvijnGV3P1BeJ07wJyJUsTKXDV6N2m) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/AEjM3VIRszi9d0bIOdvLUOgAYhFWyaww) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/IIRC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 ## Summary Observations
@@ -32,12 +32,11 @@ VRF Consolidation: https://www.ifrs.org/news-and-events/news/2022/08/ifrs-founda
 
 ## Taxonomy Visualisation
 
-[![Image](https://user-images.githubusercontent.com/113118809/194842932-02e80496-6359-4025-bb4e-71abc3570af3.png "Click here to use Solidatus Interactive Tool")](https://os-sft.solidatus.com/viewer/share/QksvijnGV3P1BeJ07wJyJUsTKXDV6N2m)
+Click [here](https://os-sft.solidatus.com/viewer/share/AEjM3VIRszi9d0bIOdvLUOgAYhFWyaww) to view an interactive version of the taxonomy
 
-[![Image](https://user-images.githubusercontent.com/113118809/194843027-1a24aa72-d82c-450e-97d4-5f790e97dbbe.png "Click here to use the Solidatus Interactive Tool")](https://os-sft.solidatus.com/viewer/share/QksvijnGV3P1BeJ07wJyJUsTKXDV6N2m)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/e120c87b-f622-4b24-af4c-e68bb6599012)
 
 ## Further Commentary
-
 
 **Integrated Reporting - IR**
 - Concise communication about how an organisation's strategy, governance, performance and prospects lead to the creation of value over the short, medium and long term.
