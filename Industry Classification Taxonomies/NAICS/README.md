@@ -8,7 +8,7 @@
 
 Single taxonomy for the NAICS industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IcnsuYuDeH76Pyct0hL1WMAjewbY7BBm) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/cbttP3KELRrD0NKhhsuEUyGRbTwqnBbW) to view an interactive version of the taxonomy
 - Research: 
   - See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NAICS#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
   - See [here](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE) for additional details on relationship with other Classification Systems.
@@ -29,7 +29,9 @@ Single taxonomy for the NAICS industry classification system.
 
 ## Taxonomy Visualisation 
 
-[![Image](https://user-images.githubusercontent.com/112079442/195338684-bdda2bfc-ba4f-49b4-8917-4e05aa09e082.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/IcnsuYuDeH76Pyct0hL1WMAjewbY7BBm)
+Click [here](https://os-sft.solidatus.com/viewer/share/cbttP3KELRrD0NKhhsuEUyGRbTwqnBbW) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/2d4de984-a9a8-4af6-9b79-052d83bde52b)
 
 ## Further Commentary
 
