@@ -77,4 +77,6 @@ Several other existing international industry classification systems can be mapp
 
 **The below is an interactive tool mapping between NACE and ISIC, UKSIC and NAICS:**
 
-[![image](https://user-images.githubusercontent.com/112971360/195324761-e52c9499-b407-4d9d-946d-b38931aab975.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/gxXGBexEBSS6asPdMlpSjyiDlYW93PFt)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/3a7f87c2-5559-4b83-bad0-3f590cd7b2f9)
+
+Click [here](https://os-sft.solidatus.com/viewer/share/H4fQsEMrfLr5zxxZOGg0nreL4ETDuCEH) to view an interactive version of the above taxonomy mapping.
