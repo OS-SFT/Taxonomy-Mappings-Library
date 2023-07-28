@@ -9,7 +9,7 @@
 Single taxonomy for the Science Based Targets initiative
 
 - Taxonomy Files - See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/MTVNkQg6VpAMoAC72luPL9ImAsO2u1HL) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/x0qZAXQGuDXDNUmx9gaHka0dM3bEqWSZ) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/SBTi#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
@@ -39,14 +39,14 @@ The change has already begun and action is gaining pace. Nearly one thousand org
 - Model Source: First Derivative Research
 - Model Date: 20221213
 
-## Taxonomy Mapping(s)
-
-
 ## Background Links
 - [Science Based Targets initiative](https://sciencebasedtargets.org/resources/files/SBTi-criteria.pdf)
 
-## Visualisation of Taxonomy
-[![image](https://user-images.githubusercontent.com/112077283/207288296-f50a375d-5b9d-4d78-a680-29505eb6d87a.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/MTVNkQg6VpAMoAC72luPL9ImAsO2u1HL)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/x0qZAXQGuDXDNUmx9gaHka0dM3bEqWSZ) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/8156393e-e21b-40bb-9cf3-ca0dbf8f1cd5)
 
 ## Further Commentary
 SBTi recommendations are important for transparency and best practice, but are not required. These criteria apply only to companies that are not classified as financial institutions and Small and Medium Enterprises (SMEs). Financial institutions can set targets using the SBTi criteria and guidance for financial institutions. SMEs should use the streamlined process to set targets in line with climate science. While every effort is made to keep companies informed of the latest criteria and recommendations, the initiative reserves the right to make adjustments as needed to reflect the most recent emissions scenarios, partner organization policies, and greenhouse gas accounting practices.The initiative also reserves the right to withdraw the validation of an approved target if it becomes apparent that incorrect information was communicated during the target validation process that results in any of the criteria existing during the assessment not being met, or if requirements following the approval of the target are not respected (i.e. target progress reporting and recalculations). Unless otherwise noted (including specific sections), all criteria apply to scopes 1, 2, and 3.
