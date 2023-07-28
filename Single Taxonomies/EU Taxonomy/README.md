@@ -12,7 +12,7 @@ Additional taxonomy for the EU Taxonomy Article 8 Disclosures Delegated Act.
   - [EU Taxonomy - Climate Change Adaptation (CCA)](https://os-sft.solidatus.com/viewer/share/t0DsHM05qvL58j04xEuX9xVdYgACARYM)
   - [EU Taxonomy - Do No Significant Harm (DNSH)](https://os-sft.solidatus.com/viewer/share/QXT3qY2UbeywT0aPpzwrmlBVE3s65Qfw)
   - [EU Taxonomy - CCM/CCA/DNSH](https://os-sft.solidatus.com/viewer/share/QEXdcTblrCCB0ici3Ty07eG1VLq748ju)
-  - [EU Taxonomy - Article 8 Disclosures Delegated Act](https://os-sft.solidatus.com/viewer/share/gpYymd3aGhsj96T3xI6PaQBIqxM3aD0t)
+  - [EU Taxonomy - Article 8 Disclosures Delegated Act](https://os-sft.solidatus.com/viewer/share/sbglPitPHPES5tdeWeAR596GwalmkkWp)
 - Research:
   - See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EU%20Taxonomy#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
   - See [NACE](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE) for further details
