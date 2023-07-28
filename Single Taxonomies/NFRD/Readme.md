@@ -8,7 +8,7 @@
 
 Single taxonomy for NFRD.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/iQ4vv1ldeMQxLB98pnYQr3WZr1vDC4Pi) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/lLbKsMACOj3kahftn20CnyobtoyX9DcH) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/NFRD-branch-221201/Single%20Taxonomies/NFRD/Readme.md#detailed-research) for detailed research
 - Link: Use Case(s) - [ADD]
 
@@ -35,8 +35,11 @@ Single taxonomy for NFRD.
 - [NFRD - Briefing - Implementation Appraisal](https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/654213/EPRS_BRI(2021)654213_EN.pdf)
 - [Guidelines on non-financial reporting: Supplement on reporting climate-related information](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019XC0620(01))
 
-## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/117910607/206137804-f23fec93-9a4c-465a-a7a8-028de4c3e640.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/iQ4vv1ldeMQxLB98pnYQr3WZr1vDC4Pi)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/lLbKsMACOj3kahftn20CnyobtoyX9DcH) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/bd80d402-6a1c-463e-8510-7378132e06f9)
 
 ## Further Commentary
 - The objective of the NFRD is to raise the transparency of the social and environmental information provided by undertakings in all sectors to a similarly high level across all Member States. Thus to improve the disclosure of non-financial information by certain large undertakings.
