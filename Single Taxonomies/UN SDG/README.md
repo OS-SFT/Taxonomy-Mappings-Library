@@ -8,7 +8,7 @@
 Single taxonomy for the UN Sustainable Development Goals and their associated targets and indicators.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/YqWaaBpqak7FF4mSAjQQeBF8UKj5oGsN) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/fpshgNW2kqsncjwD6a0ryJlX8734PhJB) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/UN%20SDG#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -30,7 +30,10 @@ Single taxonomy for the UN Sustainable Development Goals and their associated ta
 - [Global indicator framework for the Sustainable Development Goals and targets of the 2030 Agenda for Sustainable Development](https://unstats.un.org/sdgs/indicators/indicators-list/)
 
 ## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/191772449-bf2cbb09-4166-46eb-964c-78629a494b57.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/YqWaaBpqak7FF4mSAjQQeBF8UKj5oGsN)
+
+Click [here](https://os-sft.solidatus.com/viewer/share/fpshgNW2kqsncjwD6a0ryJlX8734PhJB) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/71d27145-1e2f-4513-baa4-53352943c956)
 
 ## Further Commentary
 
