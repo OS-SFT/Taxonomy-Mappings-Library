@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/3tyOCKyRoQS2zMU2NX1VYBpBBlvTe27c) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/p6e0Z4urlolHpnpN4fpAZ3CErQMZud9N) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDP#detailed-research) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -29,8 +29,11 @@ Capital markets and buying groups use CDP, which contains the broadest, most com
 ## Background Links
 - [Climate Disclosure Project](https://www.cdp.net/en)
 
-## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/112077283/191788828-44a3bfd7-b249-47fe-9ecf-7dc5bbb50a65.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/3tyOCKyRoQS2zMU2NX1VYBpBBlvTe27c)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/p6e0Z4urlolHpnpN4fpAZ3CErQMZud9N) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/071be229-95b9-42a5-9254-dc4aedb2c214)
 
 ## Detailed Research
 A healthy economy that benefits both people and the earth over the long run is part of CDP's vision and goal. By assessing and taking action on their environmental effect, they bring investors, businesses, cities, and governments together to create a sustainable economy.
