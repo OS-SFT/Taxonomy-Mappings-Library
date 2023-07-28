@@ -8,7 +8,7 @@
 
 Single taxonomy for the SEC's proposed Climate-Related Disclosure rule.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/2w4RI9Nr89xuTOWadZLftzJi4OsnPbVe) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/y18O32nkhT8KTGfxmvDVjYDrBaZZth4Z) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SEC%20-%20Climate%20Disclosure%20Rule#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -34,8 +34,11 @@ Single taxonomy for the SEC's proposed Climate-Related Disclosure rule.
 
 - [SEC Proposes Rules to Enhance and Standardize Climate-Related Disclosures for Investors](https://www.sec.gov/news/press-release/2022-46)
 
-## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/189688835-cebbd873-8b8b-4f35-ac04-1486f11fdda1.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/2w4RI9Nr89xuTOWadZLftzJi4OsnPbVe)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/y18O32nkhT8KTGfxmvDVjYDrBaZZth4Z) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/0e5d3cf2-61e7-4716-bef2-2826c16fbcb4)
 
 # Further Commentary
 
