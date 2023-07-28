@@ -10,7 +10,7 @@
 ## Project Summary
 Single taxonomy for the FINREP framework.
 - Link: Taxonomy File(s) - See files within this repository
-- Link: Taxonomy Tool(s) - Click [here](https://os-sft.solidatus.com/viewer/share/zGILty2Va9FBtxcrFxl0S5apX928e9Xl)
+- Link: Taxonomy Tool(s) - Click [here](https://os-sft.solidatus.com/viewer/share/KiHbs0MaywNIZOKE34shWkNo0GC9E1Ee)
 - Link: Taxonomy Research - See [below](https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks/reporting-framework-2.9) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [add]
 
@@ -33,7 +33,10 @@ Single taxonomy for the FINREP framework.
 ## Background Links
 - [EBA Reporting Framework](https://www.eba.europa.eu/regulation-and-policy/supervisory-reporting/implementing-technical-standards-on-proposed-amendments-to-finrep-ifrs-due-to-ifrs-9)
 
-## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/113118809/206437424-2c1d058e-cc5b-454d-b2cf-69f66a4b89d6.png)](https://os-sft.solidatus.com/viewer/share/zGILty2Va9FBtxcrFxl0S5apX928e9Xl)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/KiHbs0MaywNIZOKE34shWkNo0GC9E1Ee)
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/acd5eaa0-1445-4129-befd-ab113580562b)
 
 ## Further Commentary
