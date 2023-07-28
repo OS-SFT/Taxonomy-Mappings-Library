@@ -8,7 +8,7 @@
 
 Single taxonomy for the Sustainability Accounting Standards Board disclosure framework.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/xZNiBoiFcUuSDVe6WQnLtv43s1HYPgAm) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/stMuDmFx3IofR4vVqTV6ey0699dgtGM6) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB#further-commentary) for detailed research. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -36,7 +36,10 @@ SASB standards can de downloaded from their site [here](https://www.sasb.org/sta
 * [SASB Merges into ISSB](https://www.ifrs.org/news-and-events/news/2022/08/ifrs-foundation-completes-consolidation-with-value-reporting-foundation/)
 
 ## Taxonomy Visualisation
-[![Image](https://user-images.githubusercontent.com/112079442/189687802-a05cdcbd-be18-47e1-a94f-d597ec2502b4.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/xZNiBoiFcUuSDVe6WQnLtv43s1HYPgAm)
+
+Click [here](https://os-sft.solidatus.com/viewer/share/stMuDmFx3IofR4vVqTV6ey0699dgtGM6) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/83ce5dad-624c-44a7-900a-18c9bc028480)
 
 ## Further Commentary
 The Sustainability Accounting Standards Board (SASB) is an ESG guidance framework that sets standards for the disclosure of financially material sustainability information by companies to their investors.
