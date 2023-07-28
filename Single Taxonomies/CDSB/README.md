@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/LQYXxfQJasbEbxJwq1rb2iQ6auUpeofd) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/otJ80AdMenjnCwQ3HIAR1T9MOraP6eNh) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -32,8 +32,11 @@ CDSB's work creates the trust and openness required to support robust capital ma
 - [Climate Disclosure Standards Board](https://www.cdsb.net/)
 - [IFRS Foundation completes consolidation of CDSB from CDP](https://www.cdp.net/en/articles/governments/ifrs-foundation-completes-consolidation-of-cdsb-from-cdp)
 
-## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/112077283/191783753-c45d89b2-d2a8-43a2-9cbd-996b1ab93efe.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/LQYXxfQJasbEbxJwq1rb2iQ6auUpeofd)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/otJ80AdMenjnCwQ3HIAR1T9MOraP6eNh) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/fe0d0400-0f3a-4199-971f-9de926a728da)
 
 ## Further Commentary
 The CDSB seeks to promote investor analysis and decision-making that recognises the reliance and effects of economic and financial stability on natural, human, and social capital through the dissemination of reliable environmental and social information. The Framework is a standards-ready instrument that businesses may use to disclose information on climate change in regular financial reports. The Framework for Reporting Environmental Information, Natural Capital, and Associated Business Impacts, which was revised in April 2018, relies on and adopts pertinent provisions of current standards and practises, including the TCFD recommendations and International Financial Reporting Standards, and it also takes into account mandatory and voluntary reporting requirements and carbon trading regulations. The Framework stands out because it uses existing standards rather than developing new ones.
