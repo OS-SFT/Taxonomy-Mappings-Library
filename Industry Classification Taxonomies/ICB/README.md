@@ -8,7 +8,7 @@
 
 Single taxonomy for the ICB industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i9SoF7zfrWWFEmBHKE973RsmveRJagKZ) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i1vXtt80VsbNkimTKLHHiz2k9NsO1ntH) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/ICB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -25,7 +25,9 @@ ICB is widely adopted by global institutional clients and has many application u
 
 ## Visualisation of Taxonomy
 
-[![Image](https://user-images.githubusercontent.com/112077283/195308806-ff9d3a3a-1621-40e2-8464-523d5ddc053e.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/i9SoF7zfrWWFEmBHKE973RsmveRJagKZ)
+Click [here](https://os-sft.solidatus.com/viewer/share/i1vXtt80VsbNkimTKLHHiz2k9NsO1ntH) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/debe3c07-53e2-424b-803e-c0d0e2730983)
 
 ## Further Commentary
 
