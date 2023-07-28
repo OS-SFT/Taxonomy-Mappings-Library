@@ -9,7 +9,7 @@
 Single taxonomy for the Basel Committee on Banking Supervision's Principles for the effective management and supervision of climate-related financial risks.
 
 - Taxonomy Files - See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ftdCizZPbGYm8eZIzqARJxgsHRzJ2dEO) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/A7T1xhPyTFfO1UZFcy9f7l0u5mcIWOpl) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20530%20-%20Climate%20Risk#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
@@ -32,8 +32,11 @@ Single taxonomy for the Basel Committee on Banking Supervision's Principles for 
 ## Background Links
 - [BCBS Principles for the effective management and supervision of climate-related financial risks](https://www.bis.org/bcbs/publ/d532.htm)
 
-## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/192291835-b51883bf-9059-45c3-92bf-ba0c892d5d64.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/ftdCizZPbGYm8eZIzqARJxgsHRzJ2dEO)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/A7T1xhPyTFfO1UZFcy9f7l0u5mcIWOpl) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/2797cd49-115a-4ee3-9a4f-f1221a349c5b)
 
 # Further Commentary
 
