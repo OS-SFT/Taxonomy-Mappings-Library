@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/CDOgDw1Gnaqm4NdqTpyF9cDLasMa46Zc) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/h64ZM35yj3quOxgoxFeXoVoZBocZE9F5) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/OSFI#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -39,9 +39,11 @@ Given the pace of change in climate risk management, OSFI intends to review and 
 - [TCFD - OSFI Mapping](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20OSFI/READ.md)
 ## Background Links
 
-## Visualisation of Taxonomy Mapping
-[(![image](https://user-images.githubusercontent.com/112077283/204783041-da37fe44-37bc-442b-b5fa-1d6a974ea188.png
- "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/CDOgDw1Gnaqm4NdqTpyF9cDLasMa46Zc)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/h64ZM35yj3quOxgoxFeXoVoZBocZE9F5) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/e187d400-1d4c-4893-82d7-f3560baa81bd)
 
 ## Further Commentary
  - “Physical risks” refer to the financial risks from the increasing severity and frequency of extreme climate change-related weather events (i.e., acute physical risks); longer-term gradual shifts of the climate (i.e., chronic physical risks); and indirect effects of climate change such as public health implications (e.g., morbidity and mortality impacts).
