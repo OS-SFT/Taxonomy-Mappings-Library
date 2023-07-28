@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/GlAOlCLJWxK2HJF1B6GxMTOguoRjjnnF) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/v6xheNG7LxuOPwJK4TSxHEX6A89A84r0) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -40,8 +40,11 @@ The GRI Standards can be used by organisations to create sustainability reports 
 - [ESG Report - What is the Global Reporting Initiative](https://www.esgthereport.com/what-is-the-global-reporting-initiative/)
 
 ## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/112077283/191779610-2150b934-460d-4f55-8362-84b9094340d6.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/GlAOlCLJWxK2HJF1B6GxMTOguoRjjnnF)
 
+Click [here](https://os-sft.solidatus.com/viewer/share/v6xheNG7LxuOPwJK4TSxHEX6A89A84r0) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/56d5fc3e-3c72-4237-8e55-8f2f75b97c63)
+ 
 ## Further Commentary
 By giving them a universal common language to describe such impacts, the independent, multinational GRI (Global Reporting Initiative) organisation assists corporations and other organisations in accepting responsibility for their external effects. 
  ![image](https://user-images.githubusercontent.com/112077283/191776711-56b8eee2-26ac-48ac-8d47-96d8f26bf932.png)
