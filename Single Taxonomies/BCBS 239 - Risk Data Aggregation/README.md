@@ -9,7 +9,7 @@
 Single taxonomy for the Basel Committee on Banking Supervision's Principles effective risk data aggregation and risk reporting.
 
 - Taxonomy Files - See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/1I1oNTxjvvHdNcrH10nDhRDo3We8IgZc) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/XQm5mCkq2XNeNowASLsFbeLkEXUdKdGH) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20239%20-%20Risk%20Data%20Aggregation#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
@@ -32,8 +32,11 @@ Single taxonomy for the Basel Committee on Banking Supervision's Principles effe
 ## Background Links
 - [BCBS Principles for effective risk data aggregation and risk reporting](https://www.bis.org/publ/bcbs239.htm)
 
-## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/192291492-5a83c282-77b6-4c81-93e4-82c0d0c9d2da.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/1I1oNTxjvvHdNcrH10nDhRDo3We8IgZc)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/XQm5mCkq2XNeNowASLsFbeLkEXUdKdGH) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/5e48cc8d-829f-4b55-a692-b563a94e17fd)
 
 # Further Commentary
 
