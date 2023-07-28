@@ -8,8 +8,8 @@ Additional taxonomy for the EU Taxonomy Article 8 Disclosures Delegated Act.
 
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click each link below to view an interactive version of the taxonomy
-  - [EU Taxonomy - Climate Change Mitigation (CCM)](https://os-sft.solidatus.com/viewer/share/JtcNgEQfxVEgejG1Ezdn3Ym9RDzYXVbv)
-  - [EU Taxonomy - Climate Change Adaptation (CCA)](https://os-sft.solidatus.com/viewer/share/AFqwhixwTXEr1abPoFPRgVyfC73KOply)
+  - [EU Taxonomy - Climate Change Mitigation (CCM)](https://os-sft.solidatus.com/viewer/share/QbKlLa3Mb59D2bXa2Ym7LAVGOgmOmURH)
+  - [EU Taxonomy - Climate Change Adaptation (CCA)](https://os-sft.solidatus.com/viewer/share/t0DsHM05qvL58j04xEuX9xVdYgACARYM)
   - [EU Taxonomy - Do No Significant Harm (DNSH)](https://os-sft.solidatus.com/viewer/share/QXT3qY2UbeywT0aPpzwrmlBVE3s65Qfw)
   - [EU Taxonomy - CCM/CCA/DNSH](https://os-sft.solidatus.com/viewer/share/QEXdcTblrCCB0ici3Ty07eG1VLq748ju)
   - [EU Taxonomy - Article 8 Disclosures Delegated Act](https://os-sft.solidatus.com/viewer/share/gpYymd3aGhsj96T3xI6PaQBIqxM3aD0t)
@@ -39,7 +39,7 @@ In addition to the green taxonomy itself, the EU Taxonomy regulation sets out re
 # Visualisation of Taxonomy
 Note - Partial visualisation only of Climate Change Mitigation taxonomy. See links above for a full interactive versions of each model.
 
-[![Image](https://user-images.githubusercontent.com/112079442/194052952-d724d94b-e524-487f-87b7-76d8fc7f9295.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/JtcNgEQfxVEgejG1Ezdn3Ym9RDzYXVbv)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/33aca598-cc29-4ddf-97f1-80e13b620741)
 
 # Further Commentary
 In order to combat greenwashing, the Taxonomy was developed to make it easier for market players to recognise and invest in sustainable assets. The Regulation, however, also imposes additional Taxonomy-linked disclosure requirements on businesses and financial market players.
