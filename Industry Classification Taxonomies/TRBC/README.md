@@ -8,7 +8,7 @@
 
 Single taxonomy for the TRBC industry classification system.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/Pek1oio1p1VhDAg4AXWprpp4okYzEZfi) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IKcITNPL1tfHHTdOmKX4LrpciGJxF2LU) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/TRBC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -19,9 +19,11 @@ The investing community uses TRBC for benchmarking, aggregation, and navigation.
 ## Background Links
 [TRBC Codes](https://www.refinitiv.com/content/dam/marketing/en_us/documents/quick-reference-guides/trbc-business-classification-quick-guide.pdf)
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Visualisation
 
-[![Image](https://user-images.githubusercontent.com/112077283/193853733-c1c61e34-46df-415b-8eb3-e3094cda010d.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/Pek1oio1p1VhDAg4AXWprpp4okYzEZfi)
+Click [here](https://os-sft.solidatus.com/viewer/share/IKcITNPL1tfHHTdOmKX4LrpciGJxF2LU) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/73da84f9-d603-40df-9667-a27f806fc917)
 
 ## Further Commentary
 TRBC consists of five levels of hierarchical structure, which are economic sector, business sector, industry group, industry and activity, from top to bottom. We use the 2012 schema which consists of 10 economic sectors, 28 business sectors, 54 industry groups, 136 industries and 837 activities:
