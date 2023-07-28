@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/qxgI8EmSCqJeNP9ldBZ7Iz7cNDVNvMvq) to view an interactive version of the taxonomy 
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/hZ26grXBOM08dTEKQpGTqYeL4rGC8f7v) to view an interactive version of the taxonomy 
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -35,7 +35,10 @@ The Financial Stability Board (FSB) established the [Task Force on Climate-Relat
 
 
 ## Taxonomy Visualisation
-[![Image](https://user-images.githubusercontent.com/112079442/189916835-f7ab77f7-120e-461a-8028-d0b2cc0dc9d2.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/qxgI8EmSCqJeNP9ldBZ7Iz7cNDVNvMvq)
+
+Click [here](https://os-sft.solidatus.com/viewer/share/hZ26grXBOM08dTEKQpGTqYeL4rGC8f7v) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/28ccd9b5-2974-4384-9707-69735a930618)
 
 ## Further Commentary
 The TCFD focuses on documenting how an organisation affects the climate on a global scale. It aims to improve consistency and comparability among companies' climate-related disclosures. Better information, in the FSB's opinion, will enable businesses to take climate-related risks and opportunities into account when making risk management and strategic planning decisions. The ability of markets to direct investment toward sustainable and resilient solutions, opportunities, and business models will improve as businesses and investors alike improve their grasp of the financial consequences of climate change. The objective of the disclosure requirements under each category are as follows:
