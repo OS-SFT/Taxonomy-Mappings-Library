@@ -8,7 +8,7 @@
 Single taxonomy for the Ten Principles of the UN Global Compact, and the Communication On Progress Questionnaire for completion by participants.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/f5Kvmh4rbMCnNxHoHz6LVrMSToLKbF1s) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/pw77fdbjOpZE57Y2TZgzuwL5PwFGI5Vg) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/UN%20GC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -33,9 +33,11 @@ Single taxonomy for the Ten Principles of the UN Global Compact, and the Communi
 - [About the UN Global Compact - FAQs](https://www.unglobalcompact.org/about/faq)
 - [UN Global Compact - Communication On Progress](https://www.unglobalcompact.org/participation/report/cop)
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Visualisation
 
-[![Image](https://user-images.githubusercontent.com/112079442/191766319-8bbcb7e9-8c56-4649-94e3-f89150b3882f.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/f5Kvmh4rbMCnNxHoHz6LVrMSToLKbF1s)
+Click [here](https://os-sft.solidatus.com/viewer/share/pw77fdbjOpZE57Y2TZgzuwL5PwFGI5Vg) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/80fd2405-93ee-40ac-80b4-13cf0cbea823)
 
 ## Further Commentary
 
