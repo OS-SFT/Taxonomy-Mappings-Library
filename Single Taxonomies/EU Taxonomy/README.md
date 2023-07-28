@@ -11,6 +11,7 @@ Additional taxonomy for the EU Taxonomy Article 8 Disclosures Delegated Act.
   - [EU Taxonomy - Climate Change Mitigation (CCM)](https://os-sft.solidatus.com/viewer/share/JtcNgEQfxVEgejG1Ezdn3Ym9RDzYXVbv)
   - [EU Taxonomy - Climate Change Adaptation (CCA)](https://os-sft.solidatus.com/viewer/share/AFqwhixwTXEr1abPoFPRgVyfC73KOply)
   - [EU Taxonomy - Do No Significant Harm (DNSH)](https://os-sft.solidatus.com/viewer/share/QXT3qY2UbeywT0aPpzwrmlBVE3s65Qfw)
+  - [EU Taxonomy - CCM/CCA/DNSH](https://os-sft.solidatus.com/viewer/share/QEXdcTblrCCB0ici3Ty07eG1VLq748ju)
   - [EU Taxonomy - Article 8 Disclosures Delegated Act](https://os-sft.solidatus.com/viewer/share/gpYymd3aGhsj96T3xI6PaQBIqxM3aD0t)
 - Research:
   - See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EU%20Taxonomy#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
@@ -24,7 +25,7 @@ In addition to the green taxonomy itself, the EU Taxonomy regulation sets out re
 
 # Taxonomy versioning
 
-- Taxonomy Version: CCM_Draft_1.0; CCA_Draft_1.0; DNSH_Draft_1.0; Art8_Draft_1.0
+- Taxonomy Version: CCM_Draft_1.0; CCA_Draft_1.0; DNSH_Draft_1.0; Full_Draft_1.0; Art8_Draft_1.0
 - Source Documentation: [EU Taxonomy](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2139&from=EN)
 - Version Date: 20210604
 - Model Source: First Derivative Research
