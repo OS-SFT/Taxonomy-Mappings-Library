@@ -9,7 +9,7 @@
 Single taxonomy for the Greenhouse Gas Protocol's sample Emissions Inventory Reporting template.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/nMCvrvS0Fs1UMs27RuwdLOr1Xzoornb0) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/YEyBdw4W7KLIJqSwgU1lKall6EGpN7tX) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GHGP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -32,8 +32,11 @@ Single taxonomy for the Greenhouse Gas Protocol's sample Emissions Inventory Rep
 - [GHG Protocol - Homepage](https://ghgprotocol.org/)
 - [Sample Emissions Inventory Reporting Template (Download)](https://ghgprotocol.org/sites/default/files/standards_supporting/GHG-Protocol-Reporting-Template.docx)
 
-## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/191932731-bada6679-49ba-4904-93ef-36b07390b10e.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/nMCvrvS0Fs1UMs27RuwdLOr1Xzoornb0)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/YEyBdw4W7KLIJqSwgU1lKall6EGpN7tX) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/f72f97bb-d082-4b4a-8f1b-42993044cbb3)
 
 ## Further Commentary
 
