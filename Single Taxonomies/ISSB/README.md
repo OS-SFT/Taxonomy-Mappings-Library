@@ -8,7 +8,7 @@
 
 Single taxonomy for Exposure Drafts S1 and S2 of IFRS ISSB.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/zoB9YO5H5sTxJCGpp8k67brhpfcnsvNK) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/eYzJlRwxtekLaIQYsC22ISgSaB9hFLTF) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/ISSB/README.md#detailed-research) for detailed research
 - Link: Use Case(s) - [ADD]
 
@@ -49,8 +49,11 @@ String:
 - [About the International Sustainability Standards Board](https://www.ifrs.org/groups/international-sustainability-standards-board/#about)
 - [ISSB Climate-related Disclosures](https://www.ifrs.org/projects/work-plan/climate-related-disclosures/#about)
 
-## Visualisation of Taxonomy
-[![Image](https://user-images.githubusercontent.com/112079442/189912984-41eddb6d-4c6a-4174-984b-6357e3fdca45.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/zoB9YO5H5sTxJCGpp8k67brhpfcnsvNK)
+## Taxonomy Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/eYzJlRwxtekLaIQYsC22ISgSaB9hFLTF) to view an interactive version of the taxonomy
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/afe79143-e539-41e7-a6ba-35b4ebeac709)
 
 # Detailed Research
 
