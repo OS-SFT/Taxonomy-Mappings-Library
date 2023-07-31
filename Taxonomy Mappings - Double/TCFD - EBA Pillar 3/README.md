@@ -8,7 +8,7 @@
 Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG Disclosures.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/rBfOxHaZduxKhPul591yf2OGtdEI5ncp) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/eNQ6hIKtCYcJHOVCZq8MW9edalDyqpPV) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20EBA%20Pillar%203#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -26,9 +26,11 @@ Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG 
 - Model Source: First Derivative Research
 - Model Date: 20220919
 
-## Visualisation of Taxonomy Mapping
+##  Taxonomy Mapping Visualisation
 
-[![Image](https://user-images.githubusercontent.com/112079442/189144797-b2a00cad-d67b-4bf4-a3fb-f8c0c0af9a5b.png "Click to view interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/rBfOxHaZduxKhPul591yf2OGtdEI5ncp)
+Click [here](https://os-sft.solidatus.com/viewer/share/eNQ6hIKtCYcJHOVCZq8MW9edalDyqpPV) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/38e34adf-6303-4083-aa16-a4e2cbe75aaa)
 
 ## Further Commentary
 
