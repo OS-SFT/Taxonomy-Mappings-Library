@@ -8,7 +8,7 @@
 Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SEC proposed rule on climate-related disclosures.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/h8L8Xgi3BgJRA4yK9XD1FkP7KjynCVzW) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/0IXZNJ5RUQwk1GtqpeVFqtWvxGb4knkW) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SEC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case
 
@@ -23,8 +23,11 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SEC proposed ru
 - Model Source: First Derivative Research
 - Model Date: 20220919
 
-## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/194326378-f9c07202-2e9c-4016-ae61-8bf8cbbc6f29.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/h8L8Xgi3BgJRA4yK9XD1FkP7KjynCVzW)
+## Taxonomy Mapping Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/0IXZNJ5RUQwk1GtqpeVFqtWvxGb4knkW) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/18738e70-ab00-46de-8bd2-d0baacfd4f4f)
 
 ## Further Commentary 
 * The SEC's disclosure plans combine prescriptive rules-based disclosure requirements, which specifically specify issuers what must be given, with principles-based disclosure requirements, which provide the registrant significant choice over what information to disclose. The proposals' scopes significantly vary as well. The SEC plan only addresses climate change. The ISSB proposal now comprises broad rules and procedures for climate disclosure, but plans to include more ESG subjects in the future.
