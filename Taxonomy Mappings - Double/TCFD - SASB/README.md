@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/f8kClKdliIBuvbvN8AVJdeM6bpTLBfEF) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/gPs51rg9wfVVG6tH39Hra1iVAu7NCFpB) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -21,8 +21,11 @@ To assist businesses in more successfully implementing the TCFD requirements, SA
 - [How does SASB compliment TCFD](https://help.sasb.org/hc/en-us/articles/360059913732-How-do-SASB-Standards-complement-the-TCFD-recommendations-)
 - [TCFD + SASB = Common Reporting Standard](https://caia.org/blog/2020/01/26/sasb-tcfd-common-esg-disclosure-standards)
 
-## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112077283/194525117-796ca4d8-6f65-4625-9669-669691639183.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/f8kClKdliIBuvbvN8AVJdeM6bpTLBfEF)
+## Taxonomy Mapping Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/gPs51rg9wfVVG6tH39Hra1iVAu7NCFpB) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/83d16949-daba-44f2-8a16-f229fc3608af)
 
 ## Further Commentary
 Similar to TCFD, SASB is an ESG disclosure framework that is frequently utilised by financial stakeholders including loan holders, insurers, and investors. However, TCFD focuses on how climate change may affect an organization's capacity to produce value, whereas SASB focuses on quantifying and reporting the external ESG impacts and risks of an organization's performance according to 77 different industry standards.
