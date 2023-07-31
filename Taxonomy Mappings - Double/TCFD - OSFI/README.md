@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ddeNvFYSxk0ze2lDonusbYkyTjNjJK0S) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/g7t68iWmMqOAhI0CgtpRSgMLnfdTNcdl) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20OSFI/READ.md#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -22,14 +22,14 @@
 - Model Source: First Derivative Research
 - Model Date: 20221130
 
-## Taxonomy Mappings
-
 ## Background Links
 
 
-## Visualisation of Taxonomy Mapping
-[![image](https://user-images.githubusercontent.com/112077283/204784789-1aa1c5b2-9fdf-44db-be97-e007c79edde6.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/ddeNvFYSxk0ze2lDonusbYkyTjNjJK0S)
+## Taxonomy Mapping Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/g7t68iWmMqOAhI0CgtpRSgMLnfdTNcdl) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/0eb8572b-cc38-4c93-939b-7d009d61079b)
 
 ## Further Commentary
-
 
