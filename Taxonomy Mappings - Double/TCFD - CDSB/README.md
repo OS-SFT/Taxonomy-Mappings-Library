@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ByQoQI4K4wL9JiDPWqso70tDIIMPQUqq) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/t4M1Z05NWTogipQq0uNB6ICXpDVWuFj4) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -20,9 +20,11 @@
 ## Background Links
 [Converging TCFD, SASB, CDP and CDSB](https://www.cdsb.net/sites/default/files/sasb_cdsb-tcfd-convergingonclimaterisk-091317-web.pdf)
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 
-[![image](https://user-images.githubusercontent.com/112077283/193776471-83d41a96-3523-4bb8-a8d7-d129bbf7fa72.png)](https://os-sft.solidatus.com/viewer/share/ByQoQI4K4wL9JiDPWqso70tDIIMPQUqq)
+Click [here](https://os-sft.solidatus.com/viewer/share/t4M1Z05NWTogipQq0uNB6ICXpDVWuFj4) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/eaadcb35-f3bf-4f32-81ee-62210fde0236)
 
 ## Further Commentary
 CDSB plans to undertake an integrated, cross-institutional work program that will support successful uptake and implementation of the TCFD’s recommendations. Phases of this ongoing effort will involve developing practical and technical guidance and resources, which may include refreshing the CDSB Framework. Specific efforts to promote harmonization within the climate-reporting ecosystem may include the following:
