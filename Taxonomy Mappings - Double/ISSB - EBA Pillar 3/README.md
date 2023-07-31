@@ -8,7 +8,7 @@
 Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Risk Disclosures.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/0HWTrogfTkC2vpo0qK2lUSxfPFeHIx1z) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/BjWS7Uda8Kf7ww31ocLbk7QTPbCNPexK) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EBA%20Pillar%203#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - ADD
 
@@ -25,7 +25,10 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Ri
 - Model Date: 20220916
 
 ## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/188657912-78773a95-efe7-4e81-9c46-8d42636566e3.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/0HWTrogfTkC2vpo0qK2lUSxfPFeHIx1z)
+
+Click [here](https://os-sft.solidatus.com/viewer/share/BjWS7Uda8Kf7ww31ocLbk7QTPbCNPexK) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/1bcd154a-3d56-4848-8ae9-0baa506770d6)
 
 ## Further Commentary
 
