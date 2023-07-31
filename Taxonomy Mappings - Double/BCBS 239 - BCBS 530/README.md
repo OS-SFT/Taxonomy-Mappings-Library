@@ -9,8 +9,8 @@
 Pairwise taxonomy mapping between the BCBS Principles for effective risk data aggregation and risk reporting and BCBS Principles for the effective management and supervision of climate-related financial risks.
 
 - Taxonomy Files: See mapping files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i38GFnJT8AbjC71NLk0sAuOmk0Yh0SHJ) to view an interactive version of the taxonomy mapping
-- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530#further-commentary) for further commentary. **The First Derivative Research team is compiling a research paper with additional insights and recommendations based on this taxonomy mapping.**
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/btDFpzyytclGB2WTxt3rhp9rWCdc7AYd) to view an interactive version of the taxonomy mapping
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case
 
 See also the models for:
@@ -30,9 +30,11 @@ See also the models for:
 - Model Source: First Derivative Research
 - Model Date: 20221006
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 
-[![Image](https://user-images.githubusercontent.com/112079442/194320986-c6dde0dc-da7e-4c64-9fc2-276083190fc1.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/i38GFnJT8AbjC71NLk0sAuOmk0Yh0SHJ)
+Click [here](https://os-sft.solidatus.com/viewer/share/btDFpzyytclGB2WTxt3rhp9rWCdc7AYd) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/99f82f8b-591e-4340-a324-c35ee42d8f54)
 
 ## Further Commentary
 
