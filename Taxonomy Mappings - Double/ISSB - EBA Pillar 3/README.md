@@ -24,7 +24,7 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Ri
 - Model Source: First Derivative Research
 - Model Date: 20220916
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/BjWS7Uda8Kf7ww31ocLbk7QTPbCNPexK) to view an interactive version of the taxonomy mapping
 
