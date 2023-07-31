@@ -4,7 +4,7 @@
 
 # Mapping: ISSB S2 - SASB
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/Xv0UExf7YOxhJipieQv4DBXK9pYbOn7S) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/VBThHsOdHCcMwZt3gY0p7QtzJWlX3Odd) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -29,8 +29,11 @@ Work is expected to continue on these projects, although upcoming public consult
  - [SASB Framework](https://www.sasb.org/standards/download/?lang=en-us)
  - [ISSB Exposure Draft S2](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
 
-## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112079442/195114516-b8a8da66-435d-4fe7-99a8-c2b0b24346b4.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/Xv0UExf7YOxhJipieQv4DBXK9pYbOn7S)
+## Taxonomy Mapping Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/VBThHsOdHCcMwZt3gY0p7QtzJWlX3Odd) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/a614bb5f-1b0f-4e09-b2db-8f9ed69f2414)
 
 ## Further Commentary
 Since SASB develops sustainability accounting standards most relevant to the financial performance in 77 industries, we can see a clear comparison with ISSB S2 appendix B as that identifies and discloses information on climate risks and opportunities for industries also. The industries we decided that would be most relevant to map and compare were asset management and custody activities, insurance, commercial banking, investment banking and brokerage, and mortgage finance. 
