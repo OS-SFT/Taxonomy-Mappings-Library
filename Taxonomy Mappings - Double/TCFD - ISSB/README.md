@@ -8,7 +8,7 @@
 Pairwise taxonomy mapping between the TCFD Recommendations and ISSB Exposure Draft S2.
 
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/oPboIBumw1DnE46WkUNZ51Jw76XJc14X) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/I87DQi7gB4s8uvmwHtvOddzie3Zdm6P7) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20ISSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -23,9 +23,11 @@ The General Requirements Standard creates an umbrella of disclosure expectations
 - Model Source: First Derivative Research
 - Model Date: 20221006
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 
-[![Image](https://user-images.githubusercontent.com/112079442/188654290-d16932cc-2067-439f-af90-fb2690c01cf3.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/oPboIBumw1DnE46WkUNZ51Jw76XJc14X)
+Click [here](https://os-sft.solidatus.com/viewer/share/I87DQi7gB4s8uvmwHtvOddzie3Zdm6P7) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/94a72fe5-3ede-4ca9-911f-590cb330b977)
 
 ## Further Commentary
 The ISSB has made a [comparison](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/comparison-draft-ifrs-s2-climate-related-disclosures-with-the-tcfd-recommendations.pdf) of the ideas and the recommendations of the FSB Task Force on Climate-related Financial Disclosures (TCFD) available.
