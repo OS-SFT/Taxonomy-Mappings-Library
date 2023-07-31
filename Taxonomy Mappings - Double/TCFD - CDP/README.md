@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/BA6Dp422sT7x0YGke583triYvQincd1r) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/O2VJ0TKxl6zeFDJOwzcsCHpqLMLQqOtZ) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDP#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -22,8 +22,11 @@ Because of this, CDP has the biggest TCFD-aligned environmental database in the 
 ## Background Links
 [How is CDP aligned to TCFD](https://www.cdp.net/en/guidance/how-cdp-is-aligned-to-the-tcfd)
 
-## Visualisation of Taxonomy Mapping
-[![Image](https://user-images.githubusercontent.com/112077283/194526024-370aad86-c7d0-4f4a-89ec-4f6b83375621.png "Click to open interactive Taxonomy Tool")](https://os-sft.solidatus.com/viewer/share/BA6Dp422sT7x0YGke583triYvQincd1r)
+## Taxonomy Mapping Visualisation
+
+Click [here](https://os-sft.solidatus.com/viewer/share/O2VJ0TKxl6zeFDJOwzcsCHpqLMLQqOtZ) to view an interactive version of the taxonomy mapping
+
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/25563686-7449-42cd-b1fe-a1c5bf475a4c)
 
 ## Further Commentary
 In 2018, the CDP released a questionnaire to align with a large proportion of the TCFD recommendations. Over 25 questions in the CDP questionnaire are TCFD-related. The questions that are disclosed in the CDP questionnaire include methodologies, for sectors including financial services, energy, agriculture, materials, and transport, that are aligned with the TCFD disclosures related to Governance, Strategy, Risk Management, and Metrics and Targets.
