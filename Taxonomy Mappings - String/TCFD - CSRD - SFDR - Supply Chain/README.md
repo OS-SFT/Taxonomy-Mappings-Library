@@ -23,6 +23,7 @@ Please see [here](https://vimeo.com/user188894913/esg-carbon-emissions) for a vi
   - [NFRD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/NFRD)
   - [CSRD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CSRD)
   - [SFDR](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SFDR)
+  - [ESG Supply Chain](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ESG%20Supply%20Chain)
 - Version Date: 20230509
 - Model Source: First Derivative Research/Solidatus
 - Model Date: 20230509
