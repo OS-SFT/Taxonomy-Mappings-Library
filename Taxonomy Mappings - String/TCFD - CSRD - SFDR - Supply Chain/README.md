@@ -13,7 +13,7 @@ Mapping including the TCFD recommendations, NFRD/CSRD requirements, SFDR Princip
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
-Please see [here](https://vimeo.com/user188894913/esg-carbon-emissions) for a video explaination of the example model of a T-shirt supply chain and its CO2e calculation. This model was developed by OS-SFT Contributing Partner Solidatus, to illustrate what is included in the calculations for Scope 1, Scope 2 and Scope 3 emissions for a sample company.
+Please see [here](https://vimeo.com/user188894913/esg-carbon-emissions) for a video explanation of the example model of a T-shirt supply chain and its CO2e calculation. This model was developed by OS-SFT Contributing Partner Solidatus, to illustrate what is included in the calculations for Scope 1, Scope 2 and Scope 3 emissions for a sample company.
 
 ## Taxonomy versioning
 
