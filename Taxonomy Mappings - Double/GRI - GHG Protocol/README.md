@@ -24,7 +24,7 @@ Both frameworks must disclose GHG emissions from surces that are owned or contro
 
 - Individual Taxonomies: [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI) - [GHG Protocol](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GHGP)
 - Model Source: First Derivative Research
-- Model Date: 20230509
+- Model Date: 20221104
 
 ## Taxonomy Mapping Visualisation
 
