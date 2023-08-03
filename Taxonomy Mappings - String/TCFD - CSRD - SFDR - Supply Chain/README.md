@@ -9,7 +9,7 @@
 Mapping including the TCFD recommendations, NFRD/CSRD requirements, SFDR Principal Adverse Impact disclosures, and an example internal supply chain emissions inventory.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/RRqNWeTdFUDhFHgTSZsscbxwBozfKC6T) to view an interactive version of the taxonomy mapping
-- Research: See below for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/edit/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20CSRD%20-%20SFDR%20-%20Supply%20Chain#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
@@ -28,7 +28,7 @@ Please see [here](https://vimeo.com/user188894913/esg-carbon-emissions) for a vi
 - Model Source: First Derivative Research/Solidatus
 - Model Date: 20230509
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/RRqNWeTdFUDhFHgTSZsscbxwBozfKC6T) to view an interactive version of the taxonomy mapping
 
@@ -36,3 +36,12 @@ Click [here](https://os-sft.solidatus.com/viewer/share/RRqNWeTdFUDhFHgTSZsscbxwB
 
 # Further Commentary
 
+The taxonomy mapping model above was built sequentially, beginning with a mapping between the TCFD recommendations and the original NFRD framework. With NFRD being replaced by CSRD, exposure draft E1 (Climate Change) of the ESRS drafted by EFRAG was used to represent the key disclosures required by companies under EU regulation. To demonstrate how this data will flow into the sustainability disclosures of financial institutions, the CSRD was mapped to the Principal Adverse Impact disclosures which are asset managers will be required to report for their investment portfolios.
+
+The intermediate stages of model development can be viewed at the following links:
+
+- [TCFD - NFRD](https://os-sft.solidatus.com/viewer/share/8TQzghgqabP7RBhtHVFYYhhL5aqTrAJQ)
+- [TCFD - NFRD - CSRD](https://os-sft.solidatus.com/viewer/share/R8qzer0NLxuB2KNiKP2PdoaM8wfQRAHJ)
+- [TCFD - NFRD - CSRD - SFDR](https://os-sft.solidatus.com/viewer/share/2wzrseOpSTd6O3LjtDm3K78OYbldKeBg)
+
+Linking this flow to the example supply chain model gives an idea of how CO2 emissions calculations for Scope 1, 2 and 3 emissions will help both companies and investors meet their reporting obligations, under both EU and global regulations and frameworks.
