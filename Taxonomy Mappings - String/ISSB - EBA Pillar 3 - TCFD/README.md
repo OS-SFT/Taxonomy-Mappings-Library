@@ -5,14 +5,15 @@
 # Mapping: TCFD - ISSB S2 - EBA Pillar 3 ESG Disclosures
 
 ## Project Summary
-String taxonomy mapping between the TCFD Recommendations, ISSB Exposure Draft S2 and EBA Pillar 3 ESG Disclosures.
 
+String taxonomy mapping between the TCFD Recommendations, ISSB Exposure Draft S2 and EBA Pillar 3 ESG Disclosures.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrgUu2AKdU) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Triple/ISSB%20-%20EBA%20Pillar%203%20-%20TCFD#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 * Regarding the General Requirements for Disclosure of Sustainability-related Financial Information (IFRS S1), the EBA agrees with the objective to disclose sustainability related financial information that is useful when assessing enterprise value. However, the EBA has suggested clarifying the definition and application of materiality in general, especially regarding financial materiality, location of information, disclosure of the sustainability-related impacts and definition of the value chain.
 In relation to Climate-related Disclosures (IFRS S2), the EBA has recommended enhancement and clarification. For example, the requirement for entities to disclose GHG emission reduction targets separately from the use of carbon offsets, and to disclose offsets which are certified, should be structured in a clear way.
 
@@ -20,13 +21,13 @@ In relation to Climate-related Disclosures (IFRS S2), the EBA has recommended en
 
 * ISSB enhances both TCFD and EBA Pillar 3 to create a sort of Gold Standard for sustainability reporting. The proposals build on the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD) and incorporate industry-based disclosure requirements derived from SASB Standards. The consultations end on July 29, 2022, with ISSB planning to review the feedback in the second half of 2022 and issue the final standards by year-end.
 
-
 ## Taxonomy versioning
+
 - Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
 - Model Source: First Derivative Research
 - Model Date: 20220919
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrgUu2AKdU) to view an interactive version of the taxonomy mapping
 
@@ -34,6 +35,7 @@ Click [here](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrg
 
 
 ## Further Commentary
+
 The proposed IFRS standard on climate-related disclosure requirements, based on the TCFD Recommendations, sets out the specific requirements for the identification, measurement, and disclosure of climate-related financial risks and opportunities and includes disclosure of information on:
 
 * The governance processes, controls, and procedures a company uses to monitor and manage climate-related risks and opportunities.
