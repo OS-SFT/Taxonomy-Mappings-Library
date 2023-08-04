@@ -5,14 +5,15 @@
 # Mapping: TCFD - EBA Pillar 3 ESG Risk Disclosures
 
 ## Project Summary
-Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG Disclosures.
 
+Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG Disclosures.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/eNQ6hIKtCYcJHOVCZq8MW9edalDyqpPV) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20EBA%20Pillar%203#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 * The European Banking Authority (EBA) has published its final draft implementing technical standards (ITS) on Pillar 3 disclosures on Environmental, Social and Governance (ESG) risks. The draft puts forward comparable disclosures to show how climate change may exacerbate other risks within institutions’ balance sheets, how institutions are mitigating those risks, and their ratios, including the Green Asset Ratio (GAR), on exposures financing taxonomy-aligned activities such as those consistent with the Paris agreement goals.
   * Disclosure of information on ESG risks is a vital tool to promote market discipline, allowing stakeholders to assess banks’ ESG related risks and sustainable finance strategy. The EBA ESG Pillar 3 package will help to address shortcomings of institutions’ current ESG disclosures at EU level by setting mandatory and consistent disclosure requirements, through the use of granular templates, tables and associated instructions. It will also help establish best practices at an international level.
   * In line with the requirements laid down in the Capital Requirements Regulation (CRR), the draft ITS set out comparable quantitative disclosures on climate-change related transition and physical risks, including information on exposures towards carbon related assets and assets subject to chronic and acute climate change events. They also include quantitative disclosures on institutions’ mitigating actions supporting their counterparties in the transition to a carbon neutral economy and in the adaptation to climate change. In addition, they include KPIs on institutions’ asset financing activities that are environmentally sustainable according to the EU taxonomy (GAR and BTAR), such as those consistent with the European Green Deal and the Paris agreement goals.
@@ -20,7 +21,7 @@ Pairwise taxonomy mapping between the TCFD Recommendations and EBA Pillar 3 ESG 
 
 * The TCFD recommendations on climate-related financial disclosures are widely adoptable and applicable to organisations across sectors and jurisdictions. They are designed to solicit decision-useful, forward-looking information that can be included in mainstream financial filings. The recommendations are structured around four thematic areas that represent core elements of how organizations operate: governance, strategy, risk management, and metrics and targets. The TCFD recommendations are fully described in the TCFD recommendations [report](https://assets.bbhub.io/company/sites/60/2021/10/FINAL-2017-TCFD-Report.pdf).
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
 - Model Source: First Derivative Research
