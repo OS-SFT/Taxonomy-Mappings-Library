@@ -20,7 +20,7 @@ Single taxonomy for the United Nations’ International Standard Industrial Clas
 - ISIC classifies entities by activity. The most detailed categories are defined by combinations of activities described in statistical units, considering the relative importance of the activities included in these classes.
 - ISIC and NACE have exactly the same items at the highest levels but NACE is more detailed at lower levels (the first and second levels of ISIC Rev. 4 (sections and divisions) are identical to sections and divisions of NACE Rev. 2).
 
-## Taxonomy versioning
+## Taxonomy Versioning
 - Taxonomy Version: Initial_Draft
 - Source Documentation: [ISIC Rev. 4](https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_English.pdf)
 - Version Date: 20080814
