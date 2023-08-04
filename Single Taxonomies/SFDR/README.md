@@ -18,7 +18,7 @@ Single taxonomy for the EU's Sustainable Finance Disclosure Regulation (SFDR).
 - It imposes comprehensive sustainability disclosure requirements covering a broad range of ESG metrics at both entity- and product-level.
 - The main provisions of the SFDR have been applicable as of 10 March 2021, with an accompanying Delegated Act containing more precise disclosure standards published on 6 April 2022.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: SFDR
 - Source Documentation: [SFDR Templates](https://www.esma.europa.eu/document/sfdr-templates)
@@ -28,14 +28,15 @@ Single taxonomy for the EU's Sustainable Finance Disclosure Regulation (SFDR).
 
 ## Taxonomy Mapping(s)
 
-[To be added]
+- [TCFD - CSRD - SFDR - Supply Chain](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20CSRD%20-%20SFDR%20-%20Supply%20Chain)
+- [CSRD (All ESRS) - SFDR Annex I (PAI)](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/CSRD%20-%20SFDR)
 
 ## Background Links
 
 - [EUROSIF Summary](https://www.eurosif.org/policies/sfdr/)
 - [Delegated Regulation (EU) 2022/1288 of 6 April 2022](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1288&from=EN)
 
-## Visualisation of Taxonomy
+## Taxonomy Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7) to view an interactive version of the taxonomy
 
