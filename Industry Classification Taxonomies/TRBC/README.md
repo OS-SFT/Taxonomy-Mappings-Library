@@ -21,7 +21,7 @@ The investing community uses TRBC for benchmarking, aggregation, and navigation.
 
 Taxonomy Version: Draft_1.0
 Source Documentation: [TRBC Quick Guide](https://www.refinitiv.com/content/dam/marketing/en_us/documents/quick-reference-guides/trbc-business-classification-quick-guide.pdf)
-Version Date: 20191230
+Version Date: 20200930
 Model Source: First Derivative Research
 Model Date: 20221012
 
