@@ -5,7 +5,7 @@
 # EU Taxonomy: European Union (Green) Taxonomy
 
 ## Project Summary
-Single taxonomies for the EU Taxonomy - Climate Change Mitigation and Climate Change Adaptation objectives respectively.
+Single taxonomies for the EU Taxonomy - Climate Change Mitigation and Climate Change Adaptation objectives, as well as DNSH criteria, respectively.
 Additional taxonomy for the EU Taxonomy Article 8 Disclosures Delegated Act.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click each link below to view an interactive version of the taxonomy
