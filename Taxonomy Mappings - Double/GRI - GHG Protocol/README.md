@@ -20,7 +20,7 @@ The GHG Protocol has established a classification of GHG emissions called ‘Sco
 
 Both frameworks must disclose GHG emissions from surces that are owned or controlled by the organizations, emissions that result from the generation of purchased or acquired electricity, heating, cooling, and steam consumed and decrease in greenhouse gas (GHG) emissions or increase in removal or storage of GHG from the atmosphere, relative to baseline emissions
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI) - [GHG Protocol](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GHGP)
 - Model Source: First Derivative Research
