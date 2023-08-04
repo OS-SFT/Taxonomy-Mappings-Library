@@ -21,7 +21,8 @@ Single taxonomy for the Greenhouse Gas Protocol's sample Emissions Inventory Rep
   - providing the primary emissions methodology for companies reporting to the CDP.
   - collaboration with PCAF to provide solutions to the financial industry for calculation of financed emissions.
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [GHG Protocol Reporting Template](https://ghgprotocol.org/sites/default/files/standards_supporting/GHG-Protocol-Reporting-Template.docx)
 - Version Date: 20170201
@@ -29,6 +30,7 @@ Single taxonomy for the Greenhouse Gas Protocol's sample Emissions Inventory Rep
 - Model Date: 20220923
 
 ## Background Links
+
 - [GHG Protocol - Homepage](https://ghgprotocol.org/)
 - [Sample Emissions Inventory Reporting Template (Download)](https://ghgprotocol.org/sites/default/files/standards_supporting/GHG-Protocol-Reporting-Template.docx)
 
