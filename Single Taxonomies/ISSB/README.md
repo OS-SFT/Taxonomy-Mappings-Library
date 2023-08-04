@@ -2,7 +2,7 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# ISSB: IFRS Foundation, International Sustainability Standards Board (ISSB)
+# ISSB: IFRS Foundation, International Sustainability Standards Board
 
 ## Project Summary
 
@@ -21,7 +21,7 @@ Single taxonomy for Exposure Drafts S1 and S2 of IFRS ISSB.
 - ISSB aims to develop a comprehensive global baseline of sustainability disclosures. It is built on the recommendations of the TCFD and has absorbed various existing standards and frameworks including the IIRC, SASB, VRF and CBSD.
 - Requirements under Exposure Draft S1 are difficult to map to other existing frameworks given their generic nature.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: Draft_1.0
 - Source Documentation:
