@@ -2,15 +2,18 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# OSFI
+# OSFI: Canadian Office of the Superintendent of Financial Institutions
 
 ## Project Summary
+
+Single taxonomy for the climate risk management guidelines issued by OSFI.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/h64ZM35yj3quOxgoxFeXoVoZBocZE9F5) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/OSFI#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 Climate change and the global response to the threats it poses have the potential to significantly impact the safety and soundness of federally regulated financial institutions (FRFIs), and the financial system more broadly. These risks, also known as “climate-related risks”, are broadly categorized as physical and transition risks.
 
 Physical and transition risks can also lead to liability risks, such as the risk of climate-related claims under liability policies, as well as direct actions against financial institutions for failing to manage their climate-related risks.
@@ -29,15 +32,14 @@ Given the pace of change in climate risk management, OSFI intends to review and 
 ## Taxonomy versioning
 
 - Taxonomy Version: Draft_1.0
-- Source Documentation:
-  
+- Source Documentation: [OSFI Climate Risk Management Guideline](https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b15-dft.aspx)
 - Version Date: 20221130
 - Model Source: First Derivative Research
 - Model Date: 20221130
 
 ## Taxonomy Mappings
+
 - [TCFD - OSFI Mapping](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20OSFI/READ.md)
-## Background Links
 
 ## Taxonomy Visualisation
 
@@ -46,6 +48,7 @@ Click [here](https://os-sft.solidatus.com/viewer/share/h64ZM35yj3quOxgoxFeXoVoZB
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/e187d400-1d4c-4893-82d7-f3560baa81bd)
 
 ## Further Commentary
+
  - “Physical risks” refer to the financial risks from the increasing severity and frequency of extreme climate change-related weather events (i.e., acute physical risks); longer-term gradual shifts of the climate (i.e., chronic physical risks); and indirect effects of climate change such as public health implications (e.g., morbidity and mortality impacts).
 
  - “Transition risks” refer to the financial risks related to the process of adjustment towards a low-greenhouse gas (GHG) economy. These risks can emerge from current or future government policies, legislation, and regulation to limit GHG emissions, as well as technological advancements, and changes in market and customer sentiment towards a low-GHG economy.
