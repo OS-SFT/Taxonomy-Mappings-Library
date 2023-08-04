@@ -4,7 +4,7 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# NACE (EU-EC)
+# NACE
 
 ## Project Summary
 
@@ -20,7 +20,7 @@ NACE, derived from the French term "Nomenclature statistique des Activités éco
 
 NACE is one of many international, national and regional classification systems used currently. There is significant value in being able to compare industrial and economic statistics gathered through the various methodologies as assignment of certain Industry classifications is often mandatory in their respective jurisdictions.
 
-## Taxonomy Mapping
+## Taxonomy Mappings
 
 - [EU Green Taxonomy](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EU%20Taxonomy)
 - [ISIC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/ISIC)
@@ -30,7 +30,7 @@ NACE is one of many international, national and regional classification systems 
 - [Eurostat Correspondence Tables](https://ec.europa.eu/eurostat/ramon/relations/index.cfm?TargetUrl=LST_REL&StrLanguageCode=EN&IntCurrentPage=12)
 - [NACE Rev 2](https://ec.europa.eu/eurostat/documents/3859598/5902521/KS-RA-07-015-EN.PDF)
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: Initial_Draft
 - Source Documentation: [NACE Rev. 2 Statistical classification of economic activities in the European Community](https://ec.europa.eu/eurostat/documents/3859598/5902521/KS-RA-07-015-EN.PDF.pdf/dd5443f5-b886-40e4-920d-9df03590ff91?t=1414781457000)
