@@ -24,7 +24,7 @@ See also the models for:
 - There are also differences noted between the two frameworks, particularly given the narrower focus of BCBS 239 on risk data aggregation and reporting capabilities.
 - BCBS Climate Risk, on the other hand, covers a wider array of climate risk management themes, with clear similarities to the TCFD Recommendations.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [BCBS 239 Risk Aggregation](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20239%20-%20Risk%20Data%20Aggregation) - [BCBS 530 Climate Risk](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/BCBS%20530%20-%20Climate%20Risk)
 - Model Source: First Derivative Research
