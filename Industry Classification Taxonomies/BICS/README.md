@@ -25,7 +25,7 @@ Single taxonomy for the BICS industry classification system.
 - Model Source: First Derivative Research
 - Model Date: 20221012
 
-## Visualisation of Taxonomy
+## Taxonomy Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/ZON2lhuiRKxewThZTOn9CZCMZ40blLU8) to view an interactive version of the taxonomy
 
