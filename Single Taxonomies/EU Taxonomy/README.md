@@ -3,9 +3,10 @@
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # EU Taxonomy: European Union (Green) Taxonomy
+
+## Project Summary
 Single taxonomies for the EU Taxonomy - Climate Change Mitigation and Climate Change Adaptation objectives respectively.
 Additional taxonomy for the EU Taxonomy Article 8 Disclosures Delegated Act.
-
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click each link below to view an interactive version of the taxonomy
   - [EU Taxonomy - Climate Change Mitigation (CCM)](https://os-sft.solidatus.com/viewer/share/QbKlLa3Mb59D2bXa2Ym7LAVGOgmOmURH)
@@ -18,12 +19,13 @@ Additional taxonomy for the EU Taxonomy Article 8 Disclosures Delegated Act.
   - See [NACE](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/NACE) for further details
 - Link: Use Case(s) - [ADD]
 
-# Summary Observations
+## Summary Observations
+
 The EU Taxonomy is a categorization scheme that creates a list of economically viable ecologically friendly activities. It will have a significant impact on how the EU scales up sustainable investment and puts the European Green Deal into practice. Companies, investors, and regulators would have access to proper definitions of whether economic activities qualify as ecologically sustainable thanks to the EU taxonomy. This should provide security for investors, safeguard private investors from greenwashing, assist businesses in becoming more environmentally friendly, lessen market fragmentation, and assist in directing investments to areas where they are most needed.
 
 In addition to the green taxonomy itself, the EU Taxonomy regulation sets out reporting requirements for financial and non-financial undertakings regarding alignment with the EU's environmental objectives and other measures.
 
-# Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: CCM_Draft_1.0; CCA_Draft_1.0; DNSH_Draft_1.0; Full_Draft_1.0; Art8_Draft_1.0
 - Source Documentation: [EU Taxonomy](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2139&from=EN)
@@ -31,17 +33,20 @@ In addition to the green taxonomy itself, the EU Taxonomy regulation sets out re
 - Model Source: First Derivative Research
 - Model Date: 20221005
 
-# Background Links
+## Background Links
+
 - [EU Taxonomy Background Link](https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en)
 - [Explainer: What is the EU's sustainable finance taxonomy?](https://www.reuters.com/business/sustainable-business/what-is-eus-sustainable-finance-taxonomy-2022-02-03/)
 - [FAQs: How should financial and non-financial undertakings report Taxonomy-eligible economic activities and assets in accordance with the Taxonomy Regulation Article 8 Disclosures Delegated Act?](https://finance.ec.europa.eu/system/files/2022-01/sustainable-finance-taxonomy-article-8-report-eligible-activities-assets-faq_en.pdf)
 
-# Visualisation of Taxonomy
+## Visualisation of Taxonomy
+
 Note - Partial visualisation only of Climate Change Mitigation taxonomy. See links above for a full interactive versions of each model.
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/33aca598-cc29-4ddf-97f1-80e13b620741)
 
-# Further Commentary
+## Further Commentary
+
 In order to combat greenwashing, the Taxonomy was developed to make it easier for market players to recognise and invest in sustainable assets. The Regulation, however, also imposes additional Taxonomy-linked disclosure requirements on businesses and financial market players.
 The EU Taxonomy Regulation establishes six environmental objectives:
 - Climate change mitigation
