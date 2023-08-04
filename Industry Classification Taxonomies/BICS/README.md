@@ -18,7 +18,8 @@ Single taxonomy for the BICS industry classification system.
 - However, the EU Commission's Technical Expert Group (TEG) on sustainable finance published partial mappings between BICS and the economic activities classified under the EU Taxonomy in March 2020, as part of its report on recommendations for technical screening criteria for these activities and their contribution to environmental objectives.
 - These mappings have therefore been used to construct a partial taxonomy for the BICS system.
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [Excel tool - TEG report on EU taxonomy](https://finance.ec.europa.eu/document/download/57d4c43c-11d1-42cc-920f-0a3314f7d817_en?filename=sustainable-finance-teg-taxonomy-tools_en.xlsx) (see BICS worksheet)
 - Version Date: 20200309
@@ -40,15 +41,9 @@ The Bloomberg Industry Classification Systems (BICS) is a proprietary hierarchic
 
 The diagram below shows the reconstruction of BICS hierarchical tree system with its 2294 hierarchical Sectors. The coloured lines show the classification level.
 
-
-
 ![Image](https://user-images.githubusercontent.com/113118809/191058894-f5bb63e7-b38a-44ff-8359-75bb309e055b.png)
 
-
-
 ![Image](https://user-images.githubusercontent.com/113118809/193016416-6ea90083-bf52-45d8-825c-f85a0234056c.png)
-
-
 
 ## Documentation
 
