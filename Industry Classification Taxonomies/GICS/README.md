@@ -21,6 +21,14 @@ Single taxonomy for the GICS industry classification system.
 - Companies are classified quantitatively and qualitatively. Each company is assigned a single GICS classification at the Sub-Industry level according to its principal business activity. MSCI and S&P Dow Jones Indices use revenues as a key factor in determining a firm’s principal business activity.
 - Earnings and market perception, however, are also recognized as important and relevant information for classification purposes, and are taken into account during the annual review process.
 
+## Taxonomy Versioning
+
+- Taxonomy Version: Draft_1.0
+- Source Documentation: [GICS 2018](https://www.msci.com/documents/1296102/11185224/Effective+until+March+17%2C+2023.xlsx/9666eafc-5dff-7a72-721e-7f81bc14dbab?t=1679088582735)
+- Version Date: 20180928
+- Model Source: First Derivative Research
+- Model Date: 20221012
+
 ## Background Links
 
 - [GICS Structure](https://www.spglobal.com/spdji/en/landing/topic/gics/)
