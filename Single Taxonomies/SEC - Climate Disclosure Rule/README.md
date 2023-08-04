@@ -18,7 +18,7 @@ Single taxonomy for the SEC's proposed Climate-Related Disclosure rule.
 - This would include disclosure of a registrant’s greenhouse gas emissions, which have become a commonly used metric to assess a registrant’s exposure to climate risks.
 - The proposed disclosure requirements are industry agnostic at present, with no industry-specific reporting or metrics required.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: Initial_Draft
 - Source Documentation: [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.sec.gov/rules/proposed/2022/33-11042.pdf)
