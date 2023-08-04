@@ -4,7 +4,7 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# GICS: Global Industry Classification Standard (by MSCI)
+# GICS: Global Industry Classification Standard
 
 ## Project Summary
 
@@ -15,15 +15,17 @@ Single taxonomy for the GICS industry classification system.
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 - In 1999, MSCI and S&P Dow Jones Indices developed the Global Industry Classification Standard (GICS), seeking to offer an efficient investment tool to capture the breadth, depth and evolution of industry sectors.
 - GICS is a four-tiered, hierarchical industry classification system.
 - Companies are classified quantitatively and qualitatively. Each company is assigned a single GICS classification at the Sub-Industry level according to its principal business activity. MSCI and S&P Dow Jones Indices use revenues as a key factor in determining a firm’s principal business activity.
 - Earnings and market perception, however, are also recognized as important and relevant information for classification purposes, and are taken into account during the annual review process.
 
 ## Background Links
+
 - [GICS Structure](https://www.spglobal.com/spdji/en/landing/topic/gics/)
 
-## Visualisation of Taxonomy
+##  Taxonomy Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/ljOQy4jwS4Sh3plxTRcNnYkXdnRH0k1L) to view an interactive version of the taxonomy
 
@@ -31,7 +33,7 @@ Click [here](https://os-sft.solidatus.com/viewer/share/ljOQy4jwS4Sh3plxTRcNnYkXd
 
 ## Further Commentary
 
-**Relations with other Multinational Classifications**
+**Relation to other Multinational Classifications**
 
 **GICS vs ICB vs TRBC**
 
