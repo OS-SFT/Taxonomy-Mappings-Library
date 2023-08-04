@@ -19,7 +19,8 @@ Single taxonomy for the Basel Committee on Banking Supervision's Principles effe
 - Of 14 principles in total, 11 relate to the risk data aggregation and reporting practices within banks, with the remaining 3 addressing supervisory requirements. 
 - Principles aim to strengthen banks’ risk data aggregation capabilities and internal risk reporting practices, which in turn is expected to enhance risk management and decision-making processes.
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [Principles for effective risk data aggregation and risk reporting](https://www.bis.org/publ/bcbs239.pdf)
 - Version Date: 20130109
@@ -27,9 +28,11 @@ Single taxonomy for the Basel Committee on Banking Supervision's Principles effe
 - Model Date: 20220927
 
 ## Taxonomy Mapping(s)
+
 - [BCBS 239 - BCBS 530](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530)
 
 ## Background Links
+
 - [BCBS Principles for effective risk data aggregation and risk reporting](https://www.bis.org/publ/bcbs239.htm)
 
 ## Taxonomy Visualisation
@@ -51,5 +54,4 @@ Themes for supervisors are as follows:
 ### Useful Links
 
 - [Principles for effective risk data aggregation and risk reporting](https://www.bis.org/publ/bcbs239.pdf)
-- [Press Release: Principles for effective risk data aggregation and risk reporting - final document issued by the Basel Committee
-](https://www.bis.org/press/p130109.htm)
+- [Press Release: Principles for effective risk data aggregation and risk reporting - final document issued by the Basel Committee](https://www.bis.org/press/p130109.htm)
