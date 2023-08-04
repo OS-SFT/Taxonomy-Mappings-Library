@@ -2,11 +2,11 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# ISIC: United Nations’ International Standard Industrial Classification of all Economic Activities
+# ISIC: International Standard Industrial Classification
 
 ## Project Summary
 
-Single taxonomy for the ISIC industry classification system.
+Single taxonomy for the United Nations’ International Standard Industrial Classification of all Economic Activities.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/H4jWt89DJEbyUzKaiY4Ai0OmJaiQGSFh) to view an interactive version of the taxonomy
 - Research: 
@@ -31,7 +31,7 @@ Single taxonomy for the ISIC industry classification system.
 
 - [Introduction to ISIC](https://unstats.un.org/unsd/classifications/Econ/isic)
 
-## Visualisation of Taxonomy
+## Taxonomy Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/H4jWt89DJEbyUzKaiY4Ai0OmJaiQGSFh) to view an interactive version of the taxonomy
 
