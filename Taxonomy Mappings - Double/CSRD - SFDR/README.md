@@ -22,7 +22,7 @@ See also the models for:
 - Sustainability disclosures required by companies under the EU CSRD will flow directly into disclosures required by asset managers when reporting on their porfolios under SFDR.
 - The mapping between these taxonomies is therefore useful in identifying the specific sustainability data asset managers will need to collect in order to be able to report correctly in relation to the instruments held in their portfolios.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [CSRD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CSRD) - [SFDR](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SFDR)
 - Model Source: First Derivative Research
