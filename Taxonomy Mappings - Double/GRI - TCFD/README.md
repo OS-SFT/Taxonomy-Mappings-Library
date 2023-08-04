@@ -18,7 +18,7 @@ GRI welcomes the recommendations of the Task Force on Climate-related Financial 
 The main connection between GRI and TCFD is that organizations that have made GHG emissions reduction commitments, operate in jurisdictions that have made such commitments, or have agreed to meet investor expectations regarding GHG emissions reductions should describe their plans for transitioning to a low-carbon economy, which could include GHG emissions targets and specific activities intended to reduce GHG emissions in their operations and value chain or to otherwise support the transition.
 Disclosure of both absolute emissions across an organization’s value chain and relevant emissions intensity provides insight into how a given organization may be affected by policy, regulatory, market, and technology responses to limit climate change must be disclosed in both regimes. 
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI) - [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
 - Model Source: First Derivative Research
