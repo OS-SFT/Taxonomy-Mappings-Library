@@ -6,14 +6,14 @@
 
 ## Project Summary
 
-Single taxonomy for the Science Based Targets initiative
-
+Single taxonomy for the Science Based Targets initiative.
 - Taxonomy Files - See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/x0qZAXQGuDXDNUmx9gaHka0dM3bEqWSZ) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/SBTi#further-commentary) for further commentary
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 What is SBTi?
 The SBTi is a partnership between CDP, the United Nations Global Compact, World Resources Institute (WRI) and the World Wide Fund for Nature (WWF). The SBTi call to action is one of the We Mean Business Coalition commitments. The Science Based Targets initiative was established in 2015 to help companies to set emission reduction targets in line with climate science and Paris Agreement goals
 
@@ -32,7 +32,8 @@ The SBTi is the lead partner of the Business Ambition for 1.5°C campaign - an u
 The change has already begun and action is gaining pace. Nearly one thousand organizations worldwide are leading the transition to a net-zero economy by setting emissions reduction targets grounded in climate science through the SBTi.
 
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [Science Based Targets initiative](https://sciencebasedtargets.org/resources/files/SBTi-criteria.pdf)
 - Version Date: 20211031
@@ -40,7 +41,11 @@ The change has already begun and action is gaining pace. Nearly one thousand org
 - Model Date: 20221213
 
 ## Background Links
+
 - [Science Based Targets initiative](https://sciencebasedtargets.org/resources/files/SBTi-criteria.pdf)
+- [About SBTi](https://sciencebasedtargets.org/about-us#who-we-are)
+- [Connecting SBTi with TCFD](https://eco-act.com/tcfd/taskforce-on-climate-related-financial-disclosures/connecting-the-sbti-with-the-tcfd/)
+- [WWF Science Based Targets](https://wwf.panda.org/discover/our_focus/climate_and_energy_practice/what_we_do/climatebusiness/science_based_targets_initiative/)
 
 ## Taxonomy Visualisation
 
@@ -49,6 +54,7 @@ Click [here](https://os-sft.solidatus.com/viewer/share/x0qZAXQGuDXDNUmx9gaHka0dM
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/8156393e-e21b-40bb-9cf3-ca0dbf8f1cd5)
 
 ## Further Commentary
+
 SBTi recommendations are important for transparency and best practice, but are not required. These criteria apply only to companies that are not classified as financial institutions and Small and Medium Enterprises (SMEs). Financial institutions can set targets using the SBTi criteria and guidance for financial institutions. SMEs should use the streamlined process to set targets in line with climate science. While every effort is made to keep companies informed of the latest criteria and recommendations, the initiative reserves the right to make adjustments as needed to reflect the most recent emissions scenarios, partner organization policies, and greenhouse gas accounting practices.The initiative also reserves the right to withdraw the validation of an approved target if it becomes apparent that incorrect information was communicated during the target validation process that results in any of the criteria existing during the assessment not being met, or if requirements following the approval of the target are not respected (i.e. target progress reporting and recalculations). Unless otherwise noted (including specific sections), all criteria apply to scopes 1, 2, and 3.
 
 The SBTi mobilizes the private sector to take the lead on urgent climate action.
@@ -67,10 +73,3 @@ These companies are leading the way. However, we need every company, in every se
 The launch of the SBTi Net-Zero Standard ahead of COP26 was a milestone, providing the world’s first framework for corporate net-zero target setting. Anchored in climate science and 1.5°C pathways, the Standard requires companies to make rapid and deep emission cuts, through both near- and long-term science-based targets.
 
 Science-based target setting is already becoming part of the yearly reporting practice of companies and the data infrastructure for institutional investors through incorporation in the CDP questionnaire and scoring.
-
-
-## Useful Links
-[About SBTi](https://sciencebasedtargets.org/about-us#who-we-are)
-[Connecting SBTi with TCFD](https://eco-act.com/tcfd/taskforce-on-climate-related-financial-disclosures/connecting-the-sbti-with-the-tcfd/)
-[WWF Science Based Targets](https://wwf.panda.org/discover/our_focus/climate_and_energy_practice/what_we_do/climatebusiness/science_based_targets_initiative/)
-
