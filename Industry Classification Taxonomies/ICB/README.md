@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-Single taxonomy for FTSE Russell's ICB industry classification system.
+Single taxonomy for the ICB industry classification system published by FTSE Russell.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i1vXtt80VsbNkimTKLHHiz2k9NsO1ntH) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/ICB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
