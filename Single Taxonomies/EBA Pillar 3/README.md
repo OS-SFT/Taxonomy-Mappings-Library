@@ -19,7 +19,7 @@ Single taxonomy for the final draft Implementing Technical Standards for the EBA
 - Qualitative disclosures are categorised as Environmental, Social or Governance related.
 - There is a significant degree of overlap between EBA Pillar 3 ESG disclosure requirement and ISSB S2 disclosure requirements, with various potential proxy approaches identified based on the EBA's Green Asset Ratio (see detailed research [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203#further-commentary)).
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: Draft_Final
 - Source Documentation: [Final draft implementing technical standards on prudential disclosures on ESG risks in accordance with Article 449a CRR](https://www.eba.europa.eu/sites/default/documents/files/document_library/Publications/Draft%20Technical%20Standards/2022/1026171/EBA%20draft%20ITS%20on%20Pillar%203%20disclosures%20on%20ESG%20risks.pdf)
@@ -40,7 +40,7 @@ String:
 
 - [EBA publishes binding standards on Pillar 3 disclosures on ESG risks](https://www.eba.europa.eu/eba-publishes-binding-standards-pillar-3-disclosures-esg-risks)
 
-## Visualisation of Taxonomy
+## Taxonomy Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ) to view an interactive version of the taxonomy
 
@@ -70,8 +70,6 @@ More precisely:
 -	In order to complete this study, banks must consider their product strategy. The future trajectory of the market for green goods is still unknown. However, it is likely that green products will become increasingly popular in order to make real progress toward the climate transition, to reach objectives like net zero, and to satisfy growing customer demand. To be following the EBA Guidelines on Loan Origination and Monitoring, EU banks must apply ESG considerations to every step of the loan origination process, including pricing. Banks now have an extra incentive to boost their loans to Taxonomy-aligned operations as a result of the GAR's adoption.
 
 Banks should see the GAR has a motivation and chance to enhance their balance sheet and product strategies. Banks should also establish an effective and consistent climate data model, and boost the legitimacy of their publicly announced net zero intentions.
-
-
 
 ### Useful Links
 
