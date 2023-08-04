@@ -5,12 +5,14 @@
 # Mapping:  GHG Protocol - GRI (Partial)
 
 ## Project Summary
+
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/vAjJcTHajRATlHEQQzpN4U2b83YkUYu4) to view an interactive version of the taxonomy mapping
 - **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 The GRI Sustainability Reporting Standards (GRI Standards) are designed to be used by organizations to report about their impacts on the economy, the environment, and society. The GRI Standards are structured as a set of interrelated standards. They are intended to be used together to help an organization prepare a sustainability report which is based on the Reporting Principles and focuses on material topics. This ensures that the organization provides a complete picture of its impacts in the report, and that the report includes contextual information to understand these impacts and how they are managed. 
 
 The GHG Protocol has established a classification of GHG emissions called ‘Scope’: Scope 1, Scope 2 and Scope 3. The GHG emissions standard represents these classifications of Scope with the following terms:
