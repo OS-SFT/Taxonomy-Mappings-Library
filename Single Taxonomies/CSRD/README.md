@@ -3,9 +3,10 @@
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 # CSRD: EU Corporate Sustainability Reporting Directive
-Taxonomies for the European Sustainability Reporting Standards (ESRS) issued by the European Financial Reporting Advisory Group (EFRAG), as required under the CSRD.
 
 ## Project Summary
+
+Taxonomies for the European Sustainability Reporting Standards (ESRS) issued by the European Financial Reporting Advisory Group (EFRAG), as required under the CSRD.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click each link below to view an interactive version of the taxonomy
   - [CSRD (ESRS E1 - Climate Change)](https://os-sft.solidatus.com/viewer/share/4Jvp250AtNnFtMSBDS5YxIozzjp9pVpe)
@@ -33,7 +34,7 @@ The following draft ESRS were published for consultation:
 - ESRS G1 - Governance, risk management and internal control
 - ESRS G2 - Business conduct
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: ESRS_E1_v1.0; ESRS_All_v1.0
 - Source Documentation: [First Set of draft ESRS & Basis for conclusions](https://www.efrag.org/lab6#subtitle4)
@@ -55,14 +56,17 @@ EFRAG’s mission is to serve the European public interest by developing and pro
 ![image](https://user-images.githubusercontent.com/112077283/192562244-101ad9ac-7ab5-4d79-bd92-7d4b896364bb.png)
 
 ## ESRS - Background
+
 Date: 05-May-2022
 Source: https://www.unpri.org/driving-meaningful-data/engaging-on-the-european-sustainability-reporting-standards/9962.article
 
 ## EFRAG - ESRS Outreach Financial Institutions
+
 - Date: 22-Jun-2022
 - Source: [ESRS Outreach Financial Institutions](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FFinancial%2520Institutions%2520slides.pdf)
 
 ## ESRS E1 Climate Change
+
 - ESRS: European Sustainability Reporting Standards
 - Date: May-2022
 - Source: [Exposure Draft, ESRS E1 Climate Change](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FBC%2520E1%2520Climate%2520final.pdf)
