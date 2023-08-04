@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-Single taxonomy for the CDP disclosure framework
+Single taxonomy for the CDP disclosure framework.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/p6e0Z4urlolHpnpN4fpAZ3CErQMZud9N) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDP#detailed-research) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
