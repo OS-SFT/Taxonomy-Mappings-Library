@@ -5,8 +5,8 @@
 # UN GC: United Nations Global Compact
 
 ## Project Summary
-Single taxonomy for the Ten Principles of the UN Global Compact, and the Communication On Progress Questionnaire for completion by participants.
 
+Single taxonomy for the Ten Principles of the UN Global Compact, and the Communication On Progress Questionnaire for completion by participants.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/pw77fdbjOpZE57Y2TZgzuwL5PwFGI5Vg) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/UN%20GC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
@@ -19,7 +19,8 @@ Single taxonomy for the Ten Principles of the UN Global Compact, and the Communi
 - Participants are required to disclose annually via the Communication On Progress Questionnaire how they are upholding and implementing the Ten Principles.
 - Opportunities were identified for mapping the disclosures required within the COP Questionnaire with the UN SDGs and the GRI.
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Draft_1.0
 - Source Documentation:
   - [UN Global Compact - The Ten Principles](https://www.unglobalcompact.org/what-is-gc/mission/principles)
@@ -29,6 +30,7 @@ Single taxonomy for the Ten Principles of the UN Global Compact, and the Communi
 - Model Date: 20220922
 
 ## Background Links
+
 - [The Ten Principles of the UN Global Compact](https://www.unglobalcompact.org/what-is-gc/mission/principles)
 - [About the UN Global Compact - FAQs](https://www.unglobalcompact.org/about/faq)
 - [UN Global Compact - Communication On Progress](https://www.unglobalcompact.org/participation/report/cop)
