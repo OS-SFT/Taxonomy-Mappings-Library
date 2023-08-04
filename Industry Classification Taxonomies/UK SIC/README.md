@@ -20,7 +20,8 @@ Single taxonomy for the UK SIC industry classification system.
 - The classification provides a framework for the collection, tabulation, presentation and analysis of data, and its use promotes uniformity.
 - In addition, it can be used for administrative purposes and by non-government bodies as a convenient way of classifying industrial activities into a common structure.
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Initial_Draft
 - Source Documentation: [UK SIC 2007](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007)
 - Version Date: 20080101
