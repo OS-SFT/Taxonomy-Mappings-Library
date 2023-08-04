@@ -13,18 +13,17 @@ Mapping including the TCFD recommendations, NFRD/CSRD requirements, SFDR Princip
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 Please see [here](https://vimeo.com/user188894913/esg-carbon-emissions) for a video explanation of the example model of a T-shirt supply chain and its CO2e calculation. This model was developed by OS-SFT Contributing Partner Solidatus, to illustrate what is included in the calculations for Scope 1, Scope 2 and Scope 3 emissions for a sample company.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
-- Taxonomy Version: SupplyChain_Mapping_v1.0
-- Source Documentation: See individual taxonomy pages for:
+- Individual Taxonomies:
   - [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
   - [NFRD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/NFRD)
   - [CSRD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CSRD)
   - [SFDR](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SFDR)
   - [ESG Supply Chain](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ESG%20Supply%20Chain)
-- Version Date: 20230509
 - Model Source: First Derivative Research/Solidatus
 - Model Date: 20230509
 
