@@ -4,7 +4,7 @@
 
 # Mapping: ISSB S2 - SASB
 
-Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Risk Disclosures.
+Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SASB financial industry classifications.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/VBThHsOdHCcMwZt3gY0p7QtzJWlX3Odd) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to added by OS-SFT Contributing Partners.**
