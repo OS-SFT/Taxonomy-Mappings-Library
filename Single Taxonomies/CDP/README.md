@@ -5,20 +5,24 @@
 # CDP: Climate Disclosure Project 
 
 ## Project Summary
+
+Single taxonomy for the CDP disclosure framework
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/p6e0Z4urlolHpnpN4fpAZ3CErQMZud9N) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDP#detailed-research) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 The CDP (formerly the Carbon Disclosure Project) is an international non-profit organisation based in the UK, Japan, India, China, Germany and the US that helps companies and cities disclose their environmental impact. It aims to make environmental reporting and risk management a business norm, driving disclosure, insight, and action towards a sustainable economy. In 2021, over 14,000 organisations disclosed their environmental information through CDP. 
 
 Capital markets and buying groups use CDP, which contains the broadest, most complete collection of environmental data available, to make knowledgeable decisions, recognise high-performing businesses, and inspire action. 
 
 ## Taxonomy Mapping
+
 * [Partial Taxonomy Mapping: TCFD - CDP](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDP)
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [CDP Questionnaire](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/002/975/original/CDP-climate-change-changes-document.pdf?1641555684)
@@ -27,6 +31,7 @@ Capital markets and buying groups use CDP, which contains the broadest, most com
 - Model Date: 20220913
 
 ## Background Links
+
 - [Climate Disclosure Project](https://www.cdp.net/en)
 
 ## Taxonomy Visualisation
@@ -36,6 +41,7 @@ Click [here](https://os-sft.solidatus.com/viewer/share/p6e0Z4urlolHpnpN4fpAZ3CEr
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/071be229-95b9-42a5-9254-dc4aedb2c214)
 
 ## Detailed Research
+
 A healthy economy that benefits both people and the earth over the long run is part of CDP's vision and goal. By assessing and taking action on their environmental effect, they bring investors, businesses, cities, and governments together to create a sustainable economy.
 
 CDP's areas of work include: 
