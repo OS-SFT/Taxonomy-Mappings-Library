@@ -25,7 +25,7 @@ In July 2020, GRI and SASB announced a collaborative workplan, which aims to:
 * Help companies and investors successfully use the GRI and SASB standards to provide the depth and breadth of disclosure that many stakeholders require
 * For the purposes of disclosure, SASB accounts for indirect emissions by capturing operational and/or strategic factors that give rise to such emissions.  This applies to the following SASB categories: Product Design & Lifecycle Management, Supply Chain Management and Materials Sourcing & Efficiency
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI) - [SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB)
 - Model Source: First Derivative Research
