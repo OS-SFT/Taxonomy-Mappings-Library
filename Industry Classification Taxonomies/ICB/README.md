@@ -21,6 +21,14 @@ ICB is widely adopted by global institutional clients and has many application u
 - Data providers: A reference data map allowing systems to categorize, manage and follow companies by industry.
 - Exchanges: Used by stock exchanges globally to categorize listed companies, including London Stock Exchange, Euronext, NASDAQ OMX, Johannesburg Stock Exchange, SIX Swiss Exchange, Borsa Italiana, Athens Exchange, Cyprus Stock Exchange, and Boursa Kuwait.
 
+## Taxonomy Versioning
+
+Taxonomy Version: Draft_1.0
+Source Documentation: [ICB Taxonomy Overview](https://www.ftserussell.com/files/support-document/icb-taxonomy)
+Version Date: 20191230
+Model Source: First Derivative Research
+Model Date: 20221012
+
 ## Background Links
 
 [ICB Codes](https://www.ftserussell.com/data/industry-classification-benchmark-icb)
