@@ -18,7 +18,7 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Ri
 - Although quantitative disclosure requirements of the two frameworks are often similar, there are differences in the precise wordings which make exact mappings difficult. 
 - Opportunities were identified for the use of reporting items under EBA Pillar 3 as proxies for certain ISSB disclosure requirements. In particular, aspects of the Green Asset Ratio (GAR) reportable under EBA Pillar 3 may offer reasonable estimates of the proportion of assets exposed to climate transition and physical risks or opportunities.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
 - Model Source: First Derivative Research
