@@ -5,10 +5,12 @@
 # IIRC: International Integrated Reporting Council
 
 ## Project Summary
+Single taxonomy for the Integrated Reporting Framework published by the IIRC.
 - Taxonomy Files - See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/AEjM3VIRszi9d0bIOdvLUOgAYhFWyaww) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/IIRC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
+
 ## Summary Observations
 
 The International Integrated Reporting Council (IIRC) was a global task force of regulators, investors, companies, standard setters, the accounting profession, academia and NGOs. Together, this coalition shared the view that communication about value creation, preservation or erosion is the next step in the evolution of corporate reporting.
@@ -18,7 +20,8 @@ The IIRC developed the International Integrated Reporting "IR" Framework to meet
   - Meeting the information needs of investors and other stakeholders; and
   - Ultimately, the effective allocation of scarce resources.
   
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - IIRC January 2021 - Source [https://www.integratedreporting.org/wp-content/uploads/2021/01/InternationalIntegratedReportingFramework.pdf]
 
 ## Background Links
