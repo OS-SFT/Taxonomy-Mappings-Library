@@ -19,18 +19,21 @@ SASB develop sustainability accounting standards most relevant to the financial 
 
 SASB standards can de downloaded from their site [here](https://www.sasb.org/standards/download/?lang=en-us).
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 * Taxonomy Version: Draft_Final
 * Source Documentation: [SASB Standards](https://www.sasb.org/standards/download/?lang=en-us)
 * Version Date: 20220124
 * Model Source: First Derivative Research
 * Model Date: 20220913
 
-## Taxonomy Mapping(s)
+## Taxonomy Mappings
+
 * [ISSB S2 - IFRS SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SASB)
 * [Partial Mapping: GRI 305 Emissions - IFRS SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20SASB)
 
 ## Background Links
+
 * [About SASB](https://www.sasb.org/about/)
 * [Overview SASB](https://www.sasb.org/standards/)
 * [SASB Merges into ISSB](https://www.ifrs.org/news-and-events/news/2022/08/ifrs-foundation-completes-consolidation-with-value-reporting-foundation/)
@@ -42,6 +45,7 @@ Click [here](https://os-sft.solidatus.com/viewer/share/stMuDmFx3IofR4vVqTV6ey069
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/83ce5dad-624c-44a7-900a-18c9bc028480)
 
 ## Further Commentary
+
 The Sustainability Accounting Standards Board (SASB) is an ESG guidance framework that sets standards for the disclosure of financially material sustainability information by companies to their investors.
 
 In total, SASB standards track ESG issues and performance across 77 industries as set out in the SASB Materiality Map.
