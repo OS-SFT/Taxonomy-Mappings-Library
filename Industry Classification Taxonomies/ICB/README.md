@@ -2,17 +2,18 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# ICB: Industry Classification Benchmark [FTSE Russell]
+# ICB: Industry Classification Benchmark
 
 ## Project Summary
 
-Single taxonomy for the ICB industry classification system.
+Single taxonomy for FTSE Russell's ICB industry classification system.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/i1vXtt80VsbNkimTKLHHiz2k9NsO1ntH) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/ICB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 Industry Classification Benchmark (ICB) is a comprehensive and transparent rules-based classification methodology based on research and market trends designed to support investment solutions. It was launched in 2005 and enhanced in 2019 with the integration of the Russell Global Sectors (RGS) classification scheme and additional structural enhancements.
 
 ICB is widely adopted by global institutional clients and has many application use cases:
@@ -21,9 +22,10 @@ ICB is widely adopted by global institutional clients and has many application u
 - Exchanges: Used by stock exchanges globally to categorize listed companies, including London Stock Exchange, Euronext, NASDAQ OMX, Johannesburg Stock Exchange, SIX Swiss Exchange, Borsa Italiana, Athens Exchange, Cyprus Stock Exchange, and Boursa Kuwait.
 
 ## Background Links
+
 [ICB Codes](https://www.ftserussell.com/data/industry-classification-benchmark-icb)
 
-## Visualisation of Taxonomy
+## Taxonomy Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/i1vXtt80VsbNkimTKLHHiz2k9NsO1ntH) to view an interactive version of the taxonomy
 
