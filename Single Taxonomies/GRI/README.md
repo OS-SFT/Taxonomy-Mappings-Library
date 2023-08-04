@@ -5,19 +5,22 @@
 # GRI: Global Reporting Initiative
 
 ## Project Summary
+
+Single taxonomy for the GRI reporting standards.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/v6xheNG7LxuOPwJK4TSxHEX6A89A84r0) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 The GRI Standards assist organisations in comprehending their external effects, including those on human rights, on the economy, environment, and society. As a result, they are held more accountable and their contribution to sustainable development is more transparent. ​​
 
 The GRI Standards are a modular system made up of a series of Universal Standards, Sector Standards, and Topic Standards.
 
 The GRI Standards can be used by organisations to create sustainability reports that are compliant with the Standards, or they can use specific Standards, or portions of them, to report information for particular users or purposes, such as informing investors and consumers about their climate change impacts. 
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: Draft_1.0
 - Source Documentation:
@@ -29,6 +32,7 @@ The GRI Standards can be used by organisations to create sustainability reports 
 - Model Date: 20220913
 
 ## Taxonomy Mappings
+
 - [GRI 305 Emissions - TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20TCFD)
 - [GRI 305 Emissions - SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20SASB)
 - [GRI 305 Emissions - CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20CDSB)
@@ -36,16 +40,18 @@ The GRI Standards can be used by organisations to create sustainability reports 
 - [GRI 305 Emissions - GHG Protocol](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20GHG%20Protocol)
 
 ## Background Links
+
 - [Global Reporting Initiavtive](https://www.globalreporting.org/about-gri/)
 - [ESG Report - What is the Global Reporting Initiative](https://www.esgthereport.com/what-is-the-global-reporting-initiative/)
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/v6xheNG7LxuOPwJK4TSxHEX6A89A84r0) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/56d5fc3e-3c72-4237-8e55-8f2f75b97c63)
  
 ## Further Commentary
+
 By giving them a universal common language to describe such impacts, the independent, multinational GRI (Global Reporting Initiative) organisation assists corporations and other organisations in accepting responsibility for their external effects. 
  ![image](https://user-images.githubusercontent.com/112077283/191776711-56b8eee2-26ac-48ac-8d47-96d8f26bf932.png)
 
