@@ -2,11 +2,11 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# SICS: Sustainable Industry Classification System (by SASB)
+# SICS: Sustainable Industry Classification System
 
 ## Project Summary
 
-Single taxonomy for the SICS industry classification system.
+Single taxonomy for the SICS industry classification system published by SASB.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/ErWrLSM6SXtrucC7v4J0qtSpS5nLuvcs) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Industry%20Classification%20Taxonomies/SICS#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
@@ -18,7 +18,7 @@ Single taxonomy for the SICS industry classification system.
 - In order to group like companies based on their sustainability-related risks and opportunities, a new industry classification was needed. The Sustainable Industry Classification System (SICS) solves that problem. 
 - The differences between SICS and traditional industry classification systems can be categorized in three types: (1) new thematic sectors; (2) new industries with unique sustainability profiles; and (3) industries classified in different sectors.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 - Taxonomy Version: Initial_Draft
 - Source Documentation: [SASB - Find Your Industry](https://www.sasb.org/find-your-industry/)
 - Version Date: 20220801
