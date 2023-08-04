@@ -19,7 +19,7 @@ Pairwise taxonomy mapping between the EBA Pillar 3 ESG Risk Disclosure templates
 - This means that the GAR disclosures (templates 7 & 8) required under EBA Pillar 3 align very closely with the GAR KPIs reportable by credit institutions under EU Taxonomy Art. 8.
 - Banks will therefore be able to reuse datasets in complying with both of sets of regulatory reporting requirements.
  
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Individual Taxonomies: [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203) - [EU Taxonomy Art. 8](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EU%20Taxonomy)
 - Model Source: First Derivative Research
