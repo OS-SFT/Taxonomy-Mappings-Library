@@ -5,12 +5,14 @@
 # Mapping: SASB - GRI (Partial)
 
 ## Project Summary
+
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/X6GDIMAAOpvaUbGorzJOB6yE5QpNEcjm) to view an interactive version of the taxonomy mapping
 - **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
+
 Sustainability frameworks differ from sustainability standards, yet both complement each other as the standards make frameworks actionable. The frameworks provide principle-based guidance on how information is organized, prepared and the general topics covered, while the standards provide specific, detailed and replicable requirements for what to report for each topic, including metrics.
 
 GRI and SASB are standards for disclosing sustainability information.
