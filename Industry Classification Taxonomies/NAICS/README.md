@@ -20,7 +20,8 @@ Single taxonomy for the NAICS industry classification system.
 - NAICS was developed under the auspices of the Office of Management and Budget (OMB), and adopted in 1997 to replace the Standard Industrial Classification (SIC) system. 
 - It was developed jointly by the U.S. Economic Classification Policy Committee (ECPC), Statistics Canada, and Mexico's Instituto Nacional de Estadistica y Geografia, to allow for a high level of comparability in business statistics among the North American countries.
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Initial_Draft
 - Source Documentation: [NAICS 2022](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf)
 - Version Date: 20220113
