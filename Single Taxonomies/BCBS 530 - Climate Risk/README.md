@@ -19,7 +19,8 @@ Single taxonomy for the Basel Committee on Banking Supervision's Principles for 
 - Of 18 principles in total, 12 relate to the management of climate-related financial risks by banks, with the remaining 6 addressing supervisory requirements. 
 - The principles are based on existing reference principles, which are noted in the documentation published by the BCBS.
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [Principles for the effective management and supervision of climate-related financial risks](https://www.bis.org/bcbs/publ/d532.pdf)
 - Version Date: 20220615
@@ -27,9 +28,11 @@ Single taxonomy for the Basel Committee on Banking Supervision's Principles for 
 - Model Date: 20220927
 
 ## Taxonomy Mapping(s)
+
 - [BCBS 239 - BCBS 530](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/BCBS%20239%20-%20BCBS%20530)
 
 ## Background Links
+
 - [BCBS Principles for the effective management and supervision of climate-related financial risks](https://www.bis.org/bcbs/publ/d532.htm)
 
 ## Taxonomy Visualisation
