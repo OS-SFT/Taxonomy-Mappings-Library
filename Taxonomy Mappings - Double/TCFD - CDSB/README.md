@@ -2,22 +2,28 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# Mapping: TCFD - CDSB [WIP = Work In Progress]
+# Mapping: TCFD - CDSB
 
 ## Project Summary
+
+Pairwise taxonomy mapping between the TCFD recommendations and those of the Climate Disclosure Standards Board.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/t4M1Z05NWTogipQq0uNB6ICXpDVWuFj4) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
-[Add content]
 
-## Taxonomy versioning
+- In January 2022, CDSB, along with the Value Reporting Foundation (VRF), were consolidated into the IFRS Foundation to provide staff and resources to the new International Sustainability Standards Board (ISSB).
+- Both the CDSB and therefore the ISSB disclosure frameworks align closely with the TCFD recommendations, as evidenced by this taxonomy mapping.
+
+## Taxonomy Versioning
+
 - [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - Source - FD Research
 - [CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB) - Source - FD Research
 
 ## Background Links
+
 [Converging TCFD, SASB, CDP and CDSB](https://www.cdsb.net/sites/default/files/sasb_cdsb-tcfd-convergingonclimaterisk-091317-web.pdf)
 
 ## Taxonomy Mapping Visualisation
@@ -27,6 +33,7 @@ Click [here](https://os-sft.solidatus.com/viewer/share/t4M1Z05NWTogipQq0uNB6ICXp
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/eaadcb35-f3bf-4f32-81ee-62210fde0236)
 
 ## Further Commentary
+
 CDSB plans to undertake an integrated, cross-institutional work program that will support successful uptake and implementation of the TCFD’s recommendations. Phases of this ongoing effort will involve developing practical and technical guidance and resources, which may include refreshing the CDSB Framework. Specific efforts to promote harmonization within the climate-reporting ecosystem may include the following:
 * Refreshing CDSB’s Climate Change Reporting Framework to align with the TCFD recommendations, potentially merging with the CDSB Framework for Reporting Environmental Information & Natural Capital.
 * Drawing on related practice, including from financial accounting, risk management and governance frameworks and codes (where relevant to the recommendations), as well as from developers of behavioural standards (such as ISO) that inform internal corporate practice (eventually reflected in external reports).
