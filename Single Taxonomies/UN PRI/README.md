@@ -8,19 +8,24 @@
 - UNDER DEVELOPMENT - [Content shall be provided shortly by partner collaboration]
 ```
 ## Project Summary
+
 - Link: Taxonomy File(s) - single files and mappings - [add]
 - Link: Taxonomy Tool(s) - [add]
 - Link: Taxonomy Research (this page)
 - Link: Use Case(s) - [add]
 
 ## Summary Observations
+
 - [Insert comments]
 
-## Taxonomy versioning
+## Taxonomy Versioning
+
 - [Insert version and source data]
 
 ## Background Links
+
 - [insert links]
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Visualisation
+
 - [insert model link]
