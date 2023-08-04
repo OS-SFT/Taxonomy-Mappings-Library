@@ -21,7 +21,7 @@ In relation to Climate-related Disclosures (IFRS S2), the EBA has recommended en
 
 * ISSB enhances both TCFD and EBA Pillar 3 to create a sort of Gold Standard for sustainability reporting. The proposals build on the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD) and incorporate industry-based disclosure requirements derived from SASB Standards. The consultations end on July 29, 2022, with ISSB planning to review the feedback in the second half of 2022 and issue the final standards by year-end.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
 - Model Source: First Derivative Research
