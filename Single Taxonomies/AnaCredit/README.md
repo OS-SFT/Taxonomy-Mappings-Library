@@ -16,12 +16,12 @@
 ## Summary Observations
 - 
 
-## Taxonomy versioning
+## Taxonomy Versioning
 - [Insert version and source data]
 
 ## Background Links
 - 
 
-## Visualisation of Taxonomy Mapping
+## Taxonomy Mapping Visualisation
 - [insert model link]
 
