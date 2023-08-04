@@ -15,7 +15,7 @@ Example model of a T-shirt supply chain and its CO2e calculations. This model wa
 ## Summary Observations
 Please see [here](https://vimeo.com/user188894913/esg-carbon-emissions) for a video explanation of the model.
 
-## Taxonomy versioning
+## Taxonomy Versioning
 
 - Taxonomy Version: ESGSupplyChain_v1.0
 - Version Date: 20230509
