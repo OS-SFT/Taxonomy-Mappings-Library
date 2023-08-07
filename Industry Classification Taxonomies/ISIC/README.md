@@ -21,7 +21,7 @@ Single taxonomy for the United Nations’ International Standard Industrial Clas
 - ISIC and NACE have exactly the same items at the highest levels but NACE is more detailed at lower levels (the first and second levels of ISIC Rev. 4 (sections and divisions) are identical to sections and divisions of NACE Rev. 2).
 
 ## Taxonomy Versioning
-- Taxonomy Version: Initial_Draft
+- Taxonomy Version: Draft_1.0
 - Source Documentation: [ISIC Rev. 4](https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/ISIC_Rev_4_publication_English.pdf)
 - Version Date: 20080814
 - Model Source: First Derivative Research
