@@ -22,7 +22,7 @@ Single taxonomy for the UK SIC industry classification system.
 
 ## Taxonomy Versioning
 
-- Taxonomy Version: Initial_Draft
+- Taxonomy Version: Draft_1.0
 - Source Documentation: [UK SIC 2007](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007)
 - Version Date: 20080101
 - Model Source: First Derivative Research
@@ -30,7 +30,7 @@ Single taxonomy for the UK SIC industry classification system.
 
 ## Taxonomy Visualisation
 
-Click [here]([https://os-sft.solidatus.com/viewer/share/cbttP3KELRrD0NKhhsuEUyGRbTwqnBbW](https://os-sft.solidatus.com/viewer/share/znN0COxTbnhQxgxmhhKwAIiKW7cTrYhj)) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/share/znN0COxTbnhQxgxmhhKwAIiKW7cTrYhj) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/56ec901e-ae48-485a-828f-ce3f752ebed5)
 
