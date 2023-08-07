@@ -26,7 +26,7 @@ Capital markets and buying groups use CDP, which contains the broadest, most com
 
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [CDP Questionnaire](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/002/975/original/CDP-climate-change-changes-document.pdf?1641555684)
-- Version Date: 20220331
+- Version Date: 20220323
 - Model Source: First Derivative Research
 - Model Date: 20220913
 
