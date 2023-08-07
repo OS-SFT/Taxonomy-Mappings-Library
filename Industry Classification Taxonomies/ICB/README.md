@@ -27,7 +27,7 @@ ICB is widely adopted by global institutional clients and has many application u
 - Source Documentation: [ICB Taxonomy Overview](https://www.ftserussell.com/files/support-document/icb-taxonomy)
 - Version Date: 20191230
 - Model Source: First Derivative Research
-- Model Date: 20221012
+- Model Date: 20221004
 
 ## Background Links
 
