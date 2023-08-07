@@ -30,12 +30,9 @@ The IIRC developed the International Integrated Reporting "IR" Framework to meet
 
 ## Background Links
 
-NBA (NL Regulator) - On Capitals Framework
-https://www.integratedreporting.org/wp-content/uploads/2013/03/IR-Background-Paper-Capitals.pdf
-
-https://www.integratedreporting.org/wp-content/uploads/2021/01/InternationalIntegratedReportingFramework.pdf
-
-VRF Consolidation: https://www.ifrs.org/news-and-events/news/2022/08/ifrs-foundation-completes-consolidation-with-value-reporting-foundation/
+- [NBA (NL Regulator) - On Capitals Framework](https://www.integratedreporting.org/wp-content/uploads/2013/03/IR-Background-Paper-Capitals.pdf)
+- [IIRF Background](https://www.integratedreporting.org/wp-content/uploads/2021/01/InternationalIntegratedReportingFramework.pdf)
+- [VRF Consolidation](https://www.ifrs.org/news-and-events/news/2022/08/ifrs-foundation-completes-consolidation-with-value-reporting-foundation/)
 
 ## Taxonomy Visualisation
 
