@@ -44,7 +44,7 @@ The GRI Standards can be used by organisations to create sustainability reports 
 - [Global Reporting Initiavtive](https://www.globalreporting.org/about-gri/)
 - [ESG Report - What is the Global Reporting Initiative](https://www.esgthereport.com/what-is-the-global-reporting-initiative/)
 
-## Taxonomy Mapping Visualisation
+## Taxonomy Visualisation
 
 Click [here](https://os-sft.solidatus.com/viewer/share/v6xheNG7LxuOPwJK4TSxHEX6A89A84r0) to view an interactive version of the taxonomy
 
