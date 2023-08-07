@@ -22,7 +22,7 @@ Single taxonomy for the NAICS industry classification system.
 
 ## Taxonomy Versioning
 
-- Taxonomy Version: Initial_Draft
+- Taxonomy Version: Draft_1.0
 - Source Documentation: [NAICS 2022](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf)
 - Version Date: 20220113
 - Model Source: First Derivative Research
