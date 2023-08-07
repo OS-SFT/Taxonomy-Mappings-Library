@@ -1,0 +1,1187 @@
+﻿ID,TYPE,PARENT,NAME,SOURCE,TARGET,REFERENCE_MODEL_ID,TERM_ID,LABEL,,PROPERTIES:,level,Code Group,Mapping ID,Code
+b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,Layer,,UK SIC Codes (2007),,,,,,,,0,UK SIC,,
+f3917c88-5e50-40ac-93f4-eca4a1de33ea,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,"AGRICULTURE, FORESTRY AND FISHING",,,,,,,,1,UK SIC,A,
+365a76ac-e177-472b-b497-adc7a093ff3f,Group,f3917c88-5e50-40ac-93f4-eca4a1de33ea,"Crop and animal production, hunting and related service activities",,,,,,,,2,UK SIC,1,01
+56f12dbb-19bc-4596-a3e0-638eda058dcd,Group,365a76ac-e177-472b-b497-adc7a093ff3f,Growing of non-perennial crops,,,,,,,,3,UK SIC,1.1,011
+e8bd2311-3b6f-48a5-ab0b-82297fc2cd82,Attribute,56f12dbb-19bc-4596-a3e0-638eda058dcd,"Growing of cereals (except rice), leguminous crops and oil seeds",,,,,,,,4,UK SIC,111,0111
+89b3dca7-4577-4742-9877-547ef384525b,Attribute,56f12dbb-19bc-4596-a3e0-638eda058dcd,Growing of rice,,,,,,,,4,UK SIC,112,0112
+0fec2807-7dee-4e4f-9b56-facf4f5f1a24,Attribute,56f12dbb-19bc-4596-a3e0-638eda058dcd,"Growing of vegetables and melons, roots and tubers",,,,,,,,4,UK SIC,113,0113
+fe7a0072-a97e-41c9-93fd-d6acd1b111e7,Attribute,56f12dbb-19bc-4596-a3e0-638eda058dcd,Growing of sugar cane,,,,,,,,4,UK SIC,114,0114
+4bbd9dfb-e63f-491c-ba11-5c856e1dd511,Attribute,56f12dbb-19bc-4596-a3e0-638eda058dcd,Growing of tobacco,,,,,,,,4,UK SIC,115,0115
+1f691fd3-5fb1-4450-a679-afa93b73a18b,Attribute,56f12dbb-19bc-4596-a3e0-638eda058dcd,Growing of fibre crops,,,,,,,,4,UK SIC,116,0116
+1befbe0c-2abc-4891-9258-ea1b0b79f774,Attribute,56f12dbb-19bc-4596-a3e0-638eda058dcd,Growing of other non-perennial crops,,,,,,,,4,UK SIC,119,0119
+6cd97238-1d23-430a-b70e-75380f1537a0,Group,365a76ac-e177-472b-b497-adc7a093ff3f,Growing of perennial crops,,,,,,,,3,UK SIC,1.2,012
+30cf192a-8d55-4ecc-9005-db718768b8ac,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of grapes,,,,,,,,4,UK SIC,121,0121
+8bb7b017-2a66-421b-a893-535e7604f910,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of tropical and subtropical fruits,,,,,,,,4,UK SIC,122,0122
+605b0466-6807-4ac8-b4d6-cdf1f3c7b888,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of citrus fruits,,,,,,,,4,UK SIC,123,0123
+a533d5f9-14e2-40de-94a6-52fde3cb70ad,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of pome fruits and stone fruits,,,,,,,,4,UK SIC,124,0124
+650e89f3-150d-437c-a3ca-8886ea3ff507,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of other tree and bush fruits and nuts,,,,,,,,4,UK SIC,125,0125
+294a185c-f890-4c2c-991e-2ab449b26024,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of oleaginous fruits,,,,,,,,4,UK SIC,126,0126
+af166ab5-0887-450e-8654-eb88ee9d576a,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of beverage crops,,,,,,,,4,UK SIC,127,0127
+3451e08a-5e0b-4dca-bd49-59dc42637dd7,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,"Growing of spices, aromatic, drug and pharmaceutical crops",,,,,,,,4,UK SIC,128,0128
+8c9353d6-a904-4ee0-aefd-64c36ae209ec,Attribute,6cd97238-1d23-430a-b70e-75380f1537a0,Growing of other perennial crops,,,,,,,,4,UK SIC,129,0129
+88017108-dbb1-4067-87b6-6d35c64cddf8,Group,365a76ac-e177-472b-b497-adc7a093ff3f,Plant propagation,,,,,,,,3,UK SIC,1.3,013
+e0c2d8ff-e4b1-45cf-b10e-0c7775d50487,Attribute,88017108-dbb1-4067-87b6-6d35c64cddf8,Plant propagation,,,,,,,,4,UK SIC,130,0130
+cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Group,365a76ac-e177-472b-b497-adc7a093ff3f,Animal production,,,,,,,,3,UK SIC,1.4,014
+cb8dd27c-029f-4b8b-b338-4dd20d00dffa,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of dairy cattle,,,,,,,,4,UK SIC,141,0141
+34aa7a7a-fb18-401b-a8d1-8000f2f5ac3d,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of other cattle and buffaloes,,,,,,,,4,UK SIC,142,0142
+f6fb7298-5320-42dc-8f98-11e4eebdfd6f,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of horses and other equines,,,,,,,,4,UK SIC,143,0143
+4d11d44b-711d-4c12-a22f-7a77abcba723,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of camels and camelids,,,,,,,,4,UK SIC,144,0144
+e0d7d1e8-1e0d-487f-86e2-be5ba50737e8,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of sheep and goats,,,,,,,,4,UK SIC,145,0145
+3742d339-d59d-48d0-949d-a93f58dcef1d,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of swine/pigs,,,,,,,,4,UK SIC,146,0146
+c3ea88d7-398f-4e0d-9137-c69b1f24952c,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of poultry,,,,,,,,4,UK SIC,147,0147
+740a3e33-65ed-4d1f-b6ef-cb4f5108de13,Attribute,cd35f7fb-42b1-41a4-a61e-4e8c8db0323d,Raising of other animals,,,,,,,,4,UK SIC,149,0149
+94a9886c-7e60-4328-8492-274fb82299d4,Group,365a76ac-e177-472b-b497-adc7a093ff3f,Mixed farming,,,,,,,,3,UK SIC,1.5,015
+e2c96ada-1477-4676-a49b-1e255521fe2c,Attribute,94a9886c-7e60-4328-8492-274fb82299d4,Mixed farming,,,,,,,,4,UK SIC,150,0150
+20f8bae1-b298-4f53-8363-18abc45936d6,Group,365a76ac-e177-472b-b497-adc7a093ff3f,Support activities to agriculture and post-harvest crop activities,,,,,,,,3,UK SIC,1.6,016
+88c6dfe3-60c1-4446-b995-208f73f7b8da,Attribute,20f8bae1-b298-4f53-8363-18abc45936d6,Support activities for crop production,,,,,,,,4,UK SIC,161,0161
+43ed108f-ddfe-49d4-9cf1-91fcf207dd1c,Group,20f8bae1-b298-4f53-8363-18abc45936d6,Support activities for animal production,,,,,,,,4,UK SIC,162,0162
+fbb8e4bb-4b0f-47a2-902f-cdf172544692,Attribute,43ed108f-ddfe-49d4-9cf1-91fcf207dd1c,Farm animal boarding and care,,,,,,,,5,UK SIC,1621,01621
+78b0ade7-efd8-40b3-bd1b-a642b3cdd334,Attribute,43ed108f-ddfe-49d4-9cf1-91fcf207dd1c,Support activities for animal production (other than farm animal boarding and care) n.e.c.,,,,,,,,5,UK SIC,1629,01629
+8ea912fe-49cc-4c63-b7d5-760441263eb4,Attribute,20f8bae1-b298-4f53-8363-18abc45936d6,Post-harvest crop activities,,,,,,,,4,UK SIC,163,0163
+818dd45f-287e-4152-801c-bc974dda1cf9,Attribute,20f8bae1-b298-4f53-8363-18abc45936d6,Seed processing for propagation,,,,,,,,4,UK SIC,164,0164
+dafb779c-7b79-41ef-94cf-6c1321988507,Group,365a76ac-e177-472b-b497-adc7a093ff3f,"Hunting, trapping and related service activities",,,,,,,,3,UK SIC,1.7,017
+443c005b-2179-4991-83db-bdec8a006851,Attribute,dafb779c-7b79-41ef-94cf-6c1321988507,"Hunting, trapping and related service activities",,,,,,,,4,UK SIC,170,0170
+2a857d74-448f-46ee-80b4-e580f0e24b86,Group,f3917c88-5e50-40ac-93f4-eca4a1de33ea,Forestry and logging,,,,,,,,2,UK SIC,2,02
+a382c87e-c205-4786-9a82-eee8b0cb2033,Group,2a857d74-448f-46ee-80b4-e580f0e24b86,Silviculture and other forestry activities,,,,,,,,3,UK SIC,2.1,021
+2d8c07d7-f12b-4690-8dc4-9a6143a05b8e,Attribute,a382c87e-c205-4786-9a82-eee8b0cb2033,Silviculture and other forestry activities,,,,,,,,4,UK SIC,210,0210
+6e19f312-738a-40f9-bcc4-71a97b7497a9,Group,2a857d74-448f-46ee-80b4-e580f0e24b86,Logging,,,,,,,,3,UK SIC,2.2,022
+92cefd6d-3790-44cc-9f53-88323df37795,Attribute,6e19f312-738a-40f9-bcc4-71a97b7497a9,Logging,,,,,,,,4,UK SIC,220,0220
+73c86372-9512-4767-b349-a51089786f46,Group,2a857d74-448f-46ee-80b4-e580f0e24b86,Gathering of wild growing non-wood products,,,,,,,,3,UK SIC,2.3,023
+ad20a6c6-1e75-4d15-9a62-0517ad6f3912,Attribute,73c86372-9512-4767-b349-a51089786f46,Gathering of wild growing non-wood products,,,,,,,,4,UK SIC,230,0230
+ca9d1930-bbf8-41e3-ad3f-ea6b54cc2080,Group,2a857d74-448f-46ee-80b4-e580f0e24b86,Support services to forestry,,,,,,,,3,UK SIC,2.4,024
+fdcf8e78-ee88-402e-b082-076536db0f94,Attribute,ca9d1930-bbf8-41e3-ad3f-ea6b54cc2080,Support services to forestry,,,,,,,,4,UK SIC,240,0240
+51c53cbd-83fe-44e7-b232-89517bad829d,Group,f3917c88-5e50-40ac-93f4-eca4a1de33ea,Fishing and aquaculture,,,,,,,,2,UK SIC,3,03
+3f35942e-59b1-415e-9cde-2584094926a6,Group,51c53cbd-83fe-44e7-b232-89517bad829d,Fishing,,,,,,,,3,UK SIC,3.1,031
+cc12b1ca-4c50-4544-b894-6b32e23af1c3,Attribute,3f35942e-59b1-415e-9cde-2584094926a6,Marine fishing,,,,,,,,4,UK SIC,311,0311
+0bdf4bd9-f377-4c84-9f73-b0aa93ae287d,Attribute,3f35942e-59b1-415e-9cde-2584094926a6,Freshwater fishing,,,,,,,,4,UK SIC,312,0312
+900a7527-3fbe-4d61-a0dc-edde645e307d,Group,51c53cbd-83fe-44e7-b232-89517bad829d,Aquaculture,,,,,,,,3,UK SIC,3.2,032
+f3638ed8-2af7-4614-8c4e-d7f1ea139cbe,Attribute,900a7527-3fbe-4d61-a0dc-edde645e307d,Marine aquaculture,,,,,,,,4,UK SIC,321,0321
+1caaf541-9401-40a8-b3eb-11a8b1f160fe,Attribute,900a7527-3fbe-4d61-a0dc-edde645e307d,Freshwater aquaculture,,,,,,,,4,UK SIC,322,0322
+d04b459a-319c-4d9f-9df5-03624598d0b5,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,MINING AND QUARRYING,,,,,,,,1,UK SIC,B,
+7c3d5e17-5581-4853-b70f-b31193926e0d,Group,d04b459a-319c-4d9f-9df5-03624598d0b5,Mining of coal and lignite,,,,,,,,2,UK SIC,5,05
+ec5356b1-3223-4d66-9e33-7e6f2f1670de,Group,7c3d5e17-5581-4853-b70f-b31193926e0d,Mining of hard coal,,,,,,,,3,UK SIC,5.1,051
+279a1d07-ae38-41a2-ba1f-04ad2bad4b38,Group,ec5356b1-3223-4d66-9e33-7e6f2f1670de,Mining of hard coal,,,,,,,,4,UK SIC,510,0510
+1ab53bd7-6af3-45a2-b8d6-72e7e2d4e2f9,Attribute,279a1d07-ae38-41a2-ba1f-04ad2bad4b38,Mining of hard coal from deep coal mines (underground mining),,,,,,,,5,UK SIC,5101,05101
+1c425cc2-0ecc-48b1-824c-92f48cd5406a,Attribute,279a1d07-ae38-41a2-ba1f-04ad2bad4b38,Mining of hard coal from open cast coal working (surface mining),,,,,,,,5,UK SIC,5102,05102
+a0f2843e-2014-4935-bf05-052d7ee5858b,Group,7c3d5e17-5581-4853-b70f-b31193926e0d,Mining of lignite,,,,,,,,3,UK SIC,5.2,052
+f97f8f14-2a0d-4d73-b006-cdffe1e81c5b,Attribute,a0f2843e-2014-4935-bf05-052d7ee5858b,Mining of lignite,,,,,,,,4,UK SIC,520,0520
+17135c74-eae4-4a0e-8436-70867bde8726,Group,d04b459a-319c-4d9f-9df5-03624598d0b5,Extraction of crude petroleum and natural gas,,,,,,,,2,UK SIC,6,06
+f30e466c-c4a7-4bf2-8369-d54271060129,Group,17135c74-eae4-4a0e-8436-70867bde8726,Extraction of crude petroleum,,,,,,,,3,UK SIC,6.1,061
+f16181c4-dc19-4e1c-bf1b-19775edb858f,Attribute,f30e466c-c4a7-4bf2-8369-d54271060129,Extraction of crude petroleum,,,,,,,,4,UK SIC,610,0610
+fa933b56-0294-4798-aac4-7313666f651d,Group,17135c74-eae4-4a0e-8436-70867bde8726,Extraction of natural gas,,,,,,,,3,UK SIC,6.2,062
+c76b44f1-c592-419d-bcad-3cbb622cd6b7,Attribute,fa933b56-0294-4798-aac4-7313666f651d,Extraction of natural gas,,,,,,,,4,UK SIC,620,0620
+9098113c-ad79-4971-a1ba-c7d4a0bd0715,Group,d04b459a-319c-4d9f-9df5-03624598d0b5,Mining of metal ores,,,,,,,,2,UK SIC,7,07
+3e08297c-25f0-408c-8d96-d25273f2f5d8,Group,9098113c-ad79-4971-a1ba-c7d4a0bd0715,Mining of iron ores,,,,,,,,3,UK SIC,7.1,071
+f3db5e6e-441d-401f-a5c9-8edf4dd5cd1b,Attribute,3e08297c-25f0-408c-8d96-d25273f2f5d8,Mining of iron ores,,,,,,,,4,UK SIC,710,0710
+fb97f67d-ea01-45d8-acbb-437b6b0f4f22,Group,9098113c-ad79-4971-a1ba-c7d4a0bd0715,Mining of non-ferrous metal ores,,,,,,,,3,UK SIC,7.2,072
+c565c8b4-dc88-4378-b1b3-fc8a7003983a,Attribute,fb97f67d-ea01-45d8-acbb-437b6b0f4f22,Mining of uranium and thorium ores,,,,,,,,4,UK SIC,721,0721
+746c2988-fa03-4bbc-8cca-69a6597f255e,Attribute,fb97f67d-ea01-45d8-acbb-437b6b0f4f22,Mining of other non-ferrous metal ores,,,,,,,,4,UK SIC,729,0729
+c9d6e278-a3da-48bf-b617-6bb0bec5097e,Group,d04b459a-319c-4d9f-9df5-03624598d0b5,Other mining and quarrying,,,,,,,,2,UK SIC,8,08
+a9935200-19aa-4d3f-93dd-44f1f028f2d7,Group,c9d6e278-a3da-48bf-b617-6bb0bec5097e,"Quarrying of stone, sand and clay",,,,,,,,3,UK SIC,8.1,081
+c4f9a293-7349-43a4-ad32-77031ff397dc,Attribute,a9935200-19aa-4d3f-93dd-44f1f028f2d7,"Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",,,,,,,,4,UK SIC,811,0811
+1a6b47e0-62a5-418b-bb93-b6965c78b12b,Attribute,a9935200-19aa-4d3f-93dd-44f1f028f2d7,Operation of gravel and sand pits; mining of clays and kaolin,,,,,,,,4,UK SIC,812,0812
+f4d73a26-c437-450a-ace9-7ed0afdcba24,Group,c9d6e278-a3da-48bf-b617-6bb0bec5097e,Mining and quarrying n.e.c.,,,,,,,,3,UK SIC,8.9,089
+08757f42-d462-48b0-8f08-3ba04ca1b38d,Attribute,f4d73a26-c437-450a-ace9-7ed0afdcba24,Mining of chemical and fertiliser minerals,,,,,,,,4,UK SIC,891,0891
+1f39ec2f-53a1-4b0c-94d7-c249222d228c,Attribute,f4d73a26-c437-450a-ace9-7ed0afdcba24,Extraction of peat,,,,,,,,4,UK SIC,892,0892
+718ee102-2f4e-4072-a4c9-1d45edd38296,Attribute,f4d73a26-c437-450a-ace9-7ed0afdcba24,Extraction of salt,,,,,,,,4,UK SIC,893,0893
+a7459478-868b-4444-aeab-1e07bdc798b6,Attribute,f4d73a26-c437-450a-ace9-7ed0afdcba24,Other mining and quarrying n.e.c.,,,,,,,,4,UK SIC,899,0899
+c14d958b-2417-4ff6-ab55-ac3d8a97daac,Group,d04b459a-319c-4d9f-9df5-03624598d0b5,Mining support service activities,,,,,,,,2,UK SIC,9,09
+b5d3d3fd-6b96-436f-a619-8d5b48f2caa6,Group,c14d958b-2417-4ff6-ab55-ac3d8a97daac,Support activities for petroleum and natural gas extraction,,,,,,,,3,UK SIC,9.1,091
+dd1441a1-0209-4c8d-aac8-ad9b0b3eea08,Attribute,b5d3d3fd-6b96-436f-a619-8d5b48f2caa6,Support activities for petroleum and natural gas extraction,,,,,,,,4,UK SIC,910,0910
+3826ff5f-799b-48cd-82ff-5730b36d8013,Group,c14d958b-2417-4ff6-ab55-ac3d8a97daac,Support activities for other mining and quarrying,,,,,,,,3,UK SIC,9.9,099
+ae572dd9-a577-4031-8d99-8f799f0007a1,Attribute,3826ff5f-799b-48cd-82ff-5730b36d8013,Support activities for other mining and quarrying,,,,,,,,4,UK SIC,990,0990
+85f5acaa-e858-4f78-a491-04d0fe83ecc2,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,MANUFACTURING,,,,,,,,1,UK SIC,C,
+40d01161-bb55-47c8-9ff3-d1c2c4a07904,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of food products,,,,,,,,2,UK SIC,10,10
+0458ba05-c52e-49fe-870d-0260881080b1,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,Processing and preserving of meat and production of meat products,,,,,,,,3,UK SIC,10.1,101
+42b44a24-e6fe-4fe1-8cda-c77fa92e6ae8,Attribute,0458ba05-c52e-49fe-870d-0260881080b1,Processing and preserving of meat,,,,,,,,4,UK SIC,1011,1011
+8e0311b4-d5b4-477b-9b1a-5db7c063dad3,Attribute,0458ba05-c52e-49fe-870d-0260881080b1,Processing and preserving of poultry meat,,,,,,,,4,UK SIC,1012,1012
+c4ce4fc8-4199-4434-b0f5-d53c28f5b7a0,Attribute,0458ba05-c52e-49fe-870d-0260881080b1,Production of meat and poultry meat products,,,,,,,,4,UK SIC,1013,1013
+a026c5ec-dcc8-4f5c-9686-e09d36b0bdf1,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,"Processing and preserving of fish, crustaceans and molluscs",,,,,,,,3,UK SIC,10.2,102
+1dcd9ef1-e347-4ed8-9b6d-e43873a44fb0,Attribute,a026c5ec-dcc8-4f5c-9686-e09d36b0bdf1,"Processing and preserving of fish, crustaceans and molluscs",,,,,,,,4,UK SIC,1020,1020
+72e7eb37-fc94-40a7-9059-06c507af6732,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,Processing and preserving of fruit and vegetables,,,,,,,,3,UK SIC,10.3,103
+8da2f06a-135d-44db-8c56-c38b07cdc016,Attribute,72e7eb37-fc94-40a7-9059-06c507af6732,Processing and preserving of potatoes,,,,,,,,4,UK SIC,1031,1031
+07286260-3a65-4b8f-a167-d5bbf40a2e99,Attribute,72e7eb37-fc94-40a7-9059-06c507af6732,Manufacture of fruit and vegetable juice,,,,,,,,4,UK SIC,1032,1032
+08db5a6a-fd82-4d11-89db-93e343f78e3a,Attribute,72e7eb37-fc94-40a7-9059-06c507af6732,Other processing and preserving of fruit and vegetables,,,,,,,,4,UK SIC,1039,1039
+1b17e288-663b-455d-8264-004e782642e7,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,Manufacture of vegetable and animal oils and fats,,,,,,,,3,UK SIC,10.4,104
+c2381bff-554d-4051-a401-f0f85bf478e3,Attribute,1b17e288-663b-455d-8264-004e782642e7,Manufacture of oils and fats,,,,,,,,4,UK SIC,1041,1041
+a5953ed4-065f-43dd-b867-6717352d79b9,Attribute,1b17e288-663b-455d-8264-004e782642e7,Manufacture of margarine and similar edible fats,,,,,,,,4,UK SIC,1042,1042
+3d4bcc3f-4fbb-4275-87e3-4e291c08082e,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,Manufacture of dairy products,,,,,,,,3,UK SIC,10.5,105
+752e15c4-fec2-417f-aa6a-28a4dafe1028,Group,3d4bcc3f-4fbb-4275-87e3-4e291c08082e,Operation of dairies and cheese making,,,,,,,,4,UK SIC,1051,1051
+93154ace-2a15-448e-8855-fdd63ec815ce,Attribute,752e15c4-fec2-417f-aa6a-28a4dafe1028,Liquid milk and cream production,,,,,,,,5,UK SIC,10511,10511
+303b192e-3ad5-4a02-bf98-f1c2e7eb8130,Attribute,752e15c4-fec2-417f-aa6a-28a4dafe1028,Butter and cheese production,,,,,,,,5,UK SIC,10512,10512
+e88b6bd9-83ee-49c5-93e1-f67c7a3f7df0,Attribute,752e15c4-fec2-417f-aa6a-28a4dafe1028,"Manufacture of milk products (other than liquid milk and cream, butter, cheese) n.e.c.",,,,,,,,5,UK SIC,10519,10519
+3be1e3a5-3646-4968-a62c-cff6178c066c,Attribute,3d4bcc3f-4fbb-4275-87e3-4e291c08082e,Manufacture of ice cream,,,,,,,,4,UK SIC,1052,1052
+58e3527d-1660-4181-85c1-8bda5cc5d86d,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,"Manufacture of grain mill products, starches and starch products",,,,,,,,3,UK SIC,10.6,106
+33c788ce-e1c0-4e8f-80c1-afeadd7e8c4b,Group,58e3527d-1660-4181-85c1-8bda5cc5d86d,Manufacture of grain mill products,,,,,,,,4,UK SIC,1061,1061
+1c4cf1b6-8c2b-4b4e-9278-38fc068110e8,Attribute,33c788ce-e1c0-4e8f-80c1-afeadd7e8c4b,Grain milling,,,,,,,,5,UK SIC,10611,10611
+ff289068-8d17-423a-85a5-f07ba402381f,Attribute,33c788ce-e1c0-4e8f-80c1-afeadd7e8c4b,Manufacture of breakfast cereals and cereals-based foods,,,,,,,,5,UK SIC,10612,10612
+4499123d-5672-4aee-92e4-2486b33f1b5a,Attribute,58e3527d-1660-4181-85c1-8bda5cc5d86d,Manufacture of starches and starch products,,,,,,,,4,UK SIC,1062,1062
+db0e5cc4-1dde-45a4-94e9-71e7eb87c218,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,Manufacture of bakery and farinaceous products,,,,,,,,3,UK SIC,10.7,107
+018fa2bb-f2e4-4692-b32a-14e2206c51f0,Attribute,db0e5cc4-1dde-45a4-94e9-71e7eb87c218,Manufacture of bread; manufacture of fresh pastry goods and cakes,,,,,,,,4,UK SIC,1071,1071
+5c2936bd-b1af-49ad-805a-0ee114826242,Attribute,db0e5cc4-1dde-45a4-94e9-71e7eb87c218,Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes,,,,,,,,4,UK SIC,1072,1072
+a76d1203-dddc-493c-94df-cb70fbfb4567,Attribute,db0e5cc4-1dde-45a4-94e9-71e7eb87c218,"Manufacture of macaroni, noodles, couscous and similar farinaceous products",,,,,,,,4,UK SIC,1073,1073
+5fb2be16-82a4-4a7a-9113-9ab891d2a279,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,Manufacture of other food products,,,,,,,,3,UK SIC,10.8,108
+99d9d648-1371-448d-991a-15c84f907277,Attribute,5fb2be16-82a4-4a7a-9113-9ab891d2a279,Manufacture of sugar,,,,,,,,4,UK SIC,1081,1081
+c6c106be-b872-4bc4-abbb-6280826e1791,Group,5fb2be16-82a4-4a7a-9113-9ab891d2a279,"Manufacture of cocoa, chocolate and sugar confectionery",,,,,,,,4,UK SIC,1082,1082
+45a23615-e931-416f-987c-1d7fff304f3c,Attribute,c6c106be-b872-4bc4-abbb-6280826e1791,"Manufacture of cocoa, and chocolate confectionery",,,,,,,,5,UK SIC,10821,10821
+ca73f839-c311-4808-a3a8-2f7a216cca88,Attribute,c6c106be-b872-4bc4-abbb-6280826e1791,Manufacture of sugar confectionery,,,,,,,,5,UK SIC,10822,10822
+0b552cbc-12c2-4d7f-a606-f7eb927f4c23,Group,5fb2be16-82a4-4a7a-9113-9ab891d2a279,Processing of tea and coffee,,,,,,,,4,UK SIC,1083,1083
+6e3ea269-d445-4d44-9a0a-ebff4576b9e1,Attribute,0b552cbc-12c2-4d7f-a606-f7eb927f4c23,Tea processing,,,,,,,,5,UK SIC,10831,10831
+1ea7041f-14cc-4e26-ab43-13b891e57d30,Attribute,0b552cbc-12c2-4d7f-a606-f7eb927f4c23,Production of coffee and coffee substitutes,,,,,,,,5,UK SIC,10832,10832
+3d03de78-c311-453d-9990-c0049ca80033,Attribute,5fb2be16-82a4-4a7a-9113-9ab891d2a279,Manufacture of condiments and seasonings,,,,,,,,4,UK SIC,1084,1084
+3f475dbd-4607-4283-b960-1948008f1c1c,Attribute,5fb2be16-82a4-4a7a-9113-9ab891d2a279,Manufacture of prepared meals and dishes,,,,,,,,4,UK SIC,1085,1085
+53597afb-9a05-4f8a-87e8-5a6296d8eafc,Attribute,5fb2be16-82a4-4a7a-9113-9ab891d2a279,Manufacture of homogenised food preparations and dietetic food,,,,,,,,4,UK SIC,1086,1086
+e1d19bb6-70f6-4ae7-9c5d-3682494b4eae,Attribute,5fb2be16-82a4-4a7a-9113-9ab891d2a279,Manufacture of other food products n.e.c.,,,,,,,,4,UK SIC,1089,1089
+60eef472-ded6-4c1a-a32c-1b959affc493,Group,40d01161-bb55-47c8-9ff3-d1c2c4a07904,Manufacture of prepared animal feeds,,,,,,,,3,UK SIC,10.9,109
+f51b12ce-1c6f-4afe-9524-410de63f5504,Attribute,60eef472-ded6-4c1a-a32c-1b959affc493,Manufacture of prepared feeds for farm animals,,,,,,,,4,UK SIC,1091,1091
+90048dc3-a9b7-4e25-abb5-a03b51767536,Attribute,60eef472-ded6-4c1a-a32c-1b959affc493,Manufacture of prepared pet foods,,,,,,,,4,UK SIC,1092,1092
+c2b90944-4ed3-4ef8-83b8-11292af7521f,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of beverages,,,,,,,,2,UK SIC,11,11
+28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,Group,c2b90944-4ed3-4ef8-83b8-11292af7521f,Manufacture of beverages,,,,,,,,3,UK SIC,11,11
+da561af4-1a2c-4aa3-bb9f-3df994983e51,Attribute,28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,"Distilling, rectifying and blending of spirits",,,,,,,,4,UK SIC,1101,1101
+594dfbad-e8d0-4963-b576-62a0db51133d,Attribute,28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,Manufacture of wine from grape,,,,,,,,4,UK SIC,1102,1102
+a9902877-d9ef-4de6-9526-8ef5de0fe4ea,Attribute,28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,Manufacture of cider and other fruit wines,,,,,,,,4,UK SIC,1103,1103
+2199fd7b-7758-4a6b-81fa-c37f4a58efb8,Attribute,28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,Manufacture of other non-distilled fermented beverages,,,,,,,,4,UK SIC,1104,1104
+e6b91e96-bcc7-4714-bd56-a0e74ad416cb,Attribute,28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,Manufacture of beer,,,,,,,,4,UK SIC,1105,1105
+b327259b-cd70-4d64-834b-68e36e0de051,Attribute,28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,Manufacture of malt,,,,,,,,4,UK SIC,1106,1106
+57ccb606-5138-4fa6-937d-bd353c8eb92c,Attribute,28bf6745-1d5f-4cce-b65d-bcbb13f7fd81,Manufacture of soft drinks; production of mineral waters and other bottled waters,,,,,,,,4,UK SIC,1107,1107
+37041d75-2cb8-41ec-b9df-ee4b1094bec6,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of tobacco products,,,,,,,,2,UK SIC,12,12
+d03e13cc-d032-453a-9214-68e6ff76317c,Group,37041d75-2cb8-41ec-b9df-ee4b1094bec6,Manufacture of tobacco products,,,,,,,,3,UK SIC,12,12
+ef263d6e-b79c-4299-855d-647846fe9956,Attribute,d03e13cc-d032-453a-9214-68e6ff76317c,Manufacture of tobacco products,,,,,,,,4,UK SIC,1200,1200
+7288ddc2-cd46-460f-9a6b-518620a1c50c,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of textiles,,,,,,,,2,UK SIC,13,13
+a10c85ce-df9b-4485-9686-c90f133b869f,Group,7288ddc2-cd46-460f-9a6b-518620a1c50c,Preparation and spinning of textile fibres,,,,,,,,3,UK SIC,13.1,131
+eb266523-ea6f-4921-81ff-169402ea2585,Attribute,a10c85ce-df9b-4485-9686-c90f133b869f,Preparation and spinning of textile fibres,,,,,,,,4,UK SIC,1310,1310
+9d1482a7-32c6-43f4-9570-0a0eb8637edb,Group,7288ddc2-cd46-460f-9a6b-518620a1c50c,Weaving of textiles,,,,,,,,3,UK SIC,13.2,132
+564cff5f-3308-4891-bc5a-736ff48c3343,Attribute,9d1482a7-32c6-43f4-9570-0a0eb8637edb,Weaving of textiles,,,,,,,,4,UK SIC,1320,1320
+1371450a-4fdb-4bd2-8dd6-cd92569537f0,Group,7288ddc2-cd46-460f-9a6b-518620a1c50c,Finishing of textiles,,,,,,,,3,UK SIC,13.3,133
+a23175cc-2185-4310-96fa-59e336bcc6b4,Attribute,1371450a-4fdb-4bd2-8dd6-cd92569537f0,Finishing of textiles,,,,,,,,4,UK SIC,1330,1330
+2e97cbc8-4175-4664-b000-bcf47db1374e,Group,7288ddc2-cd46-460f-9a6b-518620a1c50c,Manufacture of other textiles,,,,,,,,3,UK SIC,13.9,139
+0152656f-5f9a-4e83-a7e6-40ad8691877c,Attribute,2e97cbc8-4175-4664-b000-bcf47db1374e,Manufacture of knitted and crocheted fabrics,,,,,,,,4,UK SIC,1391,1391
+1db196b4-f2ad-4b12-88c3-586efe2c252f,Group,2e97cbc8-4175-4664-b000-bcf47db1374e,"Manufacture of made-up textile articles, except apparel",,,,,,,,4,UK SIC,1392,1392
+77350ab7-95b6-4d44-b6a8-55bb600edbbf,Attribute,1db196b4-f2ad-4b12-88c3-586efe2c252f,Manufacture of soft furnishings,,,,,,,,5,UK SIC,13921,13921
+8ff36787-912e-4aae-93ba-3169e565be11,Attribute,1db196b4-f2ad-4b12-88c3-586efe2c252f,"Manufacture of canvas goods, sacks etc.",,,,,,,,5,UK SIC,13922,13922
+12581fc3-fcf1-4810-8af9-af9b4bab1a2f,Attribute,1db196b4-f2ad-4b12-88c3-586efe2c252f,Manufacture of household textiles (other than soft furnishings of 13.92/1),,,,,,,,5,UK SIC,13923,13923
+dd207d39-4216-4c57-b499-ec530904c22c,Group,2e97cbc8-4175-4664-b000-bcf47db1374e,Manufacture of carpets and rugs,,,,,,,,4,UK SIC,1393,1393
+ae8bfb8a-c611-4431-8d69-413b387a0ba4,Attribute,dd207d39-4216-4c57-b499-ec530904c22c,Manufacture of woven or tufted carpets and rugs,,,,,,,,5,UK SIC,13931,13931
+966220d8-bb45-4f47-96ad-b36a90a18202,Attribute,dd207d39-4216-4c57-b499-ec530904c22c,Manufacture of carpets and rugs (other than woven or tufted) n.e.c.,,,,,,,,5,UK SIC,13939,13939
+27591498-c203-44b5-b08a-21ac9ddcedf0,Attribute,2e97cbc8-4175-4664-b000-bcf47db1374e,"Manufacture of cordage, rope, twine and netting",,,,,,,,4,UK SIC,1394,1394
+f373fc2b-8827-4f5c-8845-d091cb75e1c4,Attribute,2e97cbc8-4175-4664-b000-bcf47db1374e,"Manufacture of non-wovens and articles made from non-wovens, except apparel",,,,,,,,4,UK SIC,1395,1395
+324fecc6-1493-4187-8971-bba0b22b0881,Attribute,2e97cbc8-4175-4664-b000-bcf47db1374e,Manufacture of other technical and industrial textiles,,,,,,,,4,UK SIC,1396,1396
+591f2988-e9f3-41f2-bc1b-73086c1b4651,Attribute,2e97cbc8-4175-4664-b000-bcf47db1374e,Manufacture of other textiles n.e.c.,,,,,,,,4,UK SIC,1399,1399
+8ed92468-1fba-4248-a4a0-70176af2f255,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of wearing apparel,,,,,,,,2,UK SIC,14,14
+06347d02-2e86-4b1b-8865-f7a8029ff69d,Group,8ed92468-1fba-4248-a4a0-70176af2f255,"Manufacture of wearing apparel, except fur apparel",,,,,,,,3,UK SIC,14.1,141
+bc13a73e-5318-4775-bb97-341ebfcb056f,Attribute,06347d02-2e86-4b1b-8865-f7a8029ff69d,Manufacture of leather clothes,,,,,,,,4,UK SIC,1411,1411
+ad44dc0b-c170-49e0-a5d4-4ab08e30b96c,Attribute,06347d02-2e86-4b1b-8865-f7a8029ff69d,Manufacture of workwear,,,,,,,,4,UK SIC,1412,1412
+b7d36397-e32f-445e-960e-2e3741670ac1,Group,06347d02-2e86-4b1b-8865-f7a8029ff69d,Manufacture of other outerwear,,,,,,,,4,UK SIC,1413,1413
+1d374002-7546-4db0-aefa-80f9f5bd6dd2,Attribute,b7d36397-e32f-445e-960e-2e3741670ac1,"Manufacture of men's outerwear, other than leather clothes and workwear",,,,,,,,5,UK SIC,14131,14131
+1314abf8-c583-4591-b8a4-8b4664228431,Attribute,b7d36397-e32f-445e-960e-2e3741670ac1,"Manufacture of women's outerwear, other than leather clothes and workwear",,,,,,,,5,UK SIC,14132,14132
+d7cd2a7c-2784-46c5-9f3a-93a360cd0709,Group,06347d02-2e86-4b1b-8865-f7a8029ff69d,Manufacture of underwear,,,,,,,,4,UK SIC,1414,1414
+296b2a20-f85a-4bbd-bb06-9f086818f9af,Attribute,d7cd2a7c-2784-46c5-9f3a-93a360cd0709,Manufacture of men's underwear,,,,,,,,5,UK SIC,14141,14141
+0fa96f99-40a7-4007-b08a-15c366ed6513,Attribute,d7cd2a7c-2784-46c5-9f3a-93a360cd0709,Manufacture of women's underwear,,,,,,,,5,UK SIC,14142,14142
+d8ded898-eb40-4b44-af97-d3a8137dec54,Attribute,06347d02-2e86-4b1b-8865-f7a8029ff69d,Manufacture of other wearing apparel and accessories,,,,,,,,4,UK SIC,1419,1419
+a7d1a869-e49c-4aa7-a634-fe80d3618b37,Group,8ed92468-1fba-4248-a4a0-70176af2f255,Manufacture of articles of fur,,,,,,,,3,UK SIC,14.2,142
+c4da1db0-c40c-434c-bbc5-da0170d5d841,Attribute,a7d1a869-e49c-4aa7-a634-fe80d3618b37,Manufacture of articles of fur,,,,,,,,4,UK SIC,1420,1420
+a79a9939-1a45-4482-a9c0-1480afa9abd1,Group,8ed92468-1fba-4248-a4a0-70176af2f255,Manufacture of knitted and crocheted apparel,,,,,,,,3,UK SIC,14.3,143
+d56a1dcb-8b47-40bd-b2f2-0673fd27e1bd,Attribute,a79a9939-1a45-4482-a9c0-1480afa9abd1,Manufacture of knitted and crocheted hosiery,,,,,,,,4,UK SIC,1431,1431
+81af019d-c5ed-45c2-84d6-0be725b56440,Attribute,a79a9939-1a45-4482-a9c0-1480afa9abd1,Manufacture of other knitted and crocheted apparel,,,,,,,,4,UK SIC,1439,1439
+bf6d73df-10c0-4ac6-bf5b-5951ffa2a134,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of leather and related products,,,,,,,,2,UK SIC,15,15
+44db7d81-4432-486e-9bbe-433813d7f0db,Group,bf6d73df-10c0-4ac6-bf5b-5951ffa2a134,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",,,,,,,,3,UK SIC,15.1,151
+a8064529-36e1-45b9-9384-80ea0c6d6264,Attribute,44db7d81-4432-486e-9bbe-433813d7f0db,Tanning and dressing of leather; dressing and dyeing of fur,,,,,,,,4,UK SIC,1511,1511
+697df2f3-5fce-4531-a921-4fad6b06a481,Attribute,44db7d81-4432-486e-9bbe-433813d7f0db,"Manufacture of luggage, handbags and the like, saddlery and harness",,,,,,,,4,UK SIC,1512,1512
+d84d94ec-66c9-4e49-ac42-6fb290ec6e6f,Group,bf6d73df-10c0-4ac6-bf5b-5951ffa2a134,Manufacture of footwear,,,,,,,,3,UK SIC,15.2,152
+9fd90580-1066-4224-8c2c-03731b6b6a4f,Attribute,d84d94ec-66c9-4e49-ac42-6fb290ec6e6f,Manufacture of footwear,,,,,,,,4,UK SIC,1520,1520
+bf3eebc4-6197-43be-979b-d0f2cc660e2c,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",,,,,,,,2,UK SIC,16,16
+8836de47-e2a0-416b-b0b8-3433259febc3,Group,bf3eebc4-6197-43be-979b-d0f2cc660e2c,Sawmilling and planing of wood,,,,,,,,3,UK SIC,16.1,161
+cffe9df7-3724-49c4-9379-626c42f6d7ab,Attribute,8836de47-e2a0-416b-b0b8-3433259febc3,Sawmilling and planing of wood,,,,,,,,4,UK SIC,1610,1610
+f2549831-1338-4133-8992-d561f77287ef,Group,bf3eebc4-6197-43be-979b-d0f2cc660e2c,"Manufacture of products of wood, cork, straw and plaiting materials",,,,,,,,3,UK SIC,16.2,162
+5246c6a5-4104-4bb2-8bdf-8917d94364f3,Attribute,f2549831-1338-4133-8992-d561f77287ef,Manufacture of veneer sheets and wood-based panels,,,,,,,,4,UK SIC,1621,1621
+942696bb-3fb8-4631-87f6-831ad88d5e13,Attribute,f2549831-1338-4133-8992-d561f77287ef,Manufacture of assembled parquet floors,,,,,,,,4,UK SIC,1622,1622
+9f3957b5-688d-4eb2-870d-62d3457bdea6,Attribute,f2549831-1338-4133-8992-d561f77287ef,Manufacture of other builders' carpentry and joinery,,,,,,,,4,UK SIC,1623,1623
+e347862c-2301-4b03-80aa-1c3078eb8804,Attribute,f2549831-1338-4133-8992-d561f77287ef,Manufacture of wooden containers,,,,,,,,4,UK SIC,1624,1624
+6f5d7f23-254b-4cd1-a04a-7c937d8b214e,Attribute,f2549831-1338-4133-8992-d561f77287ef,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",,,,,,,,4,UK SIC,1629,1629
+1a4e88e4-3f28-40b0-ae7b-f827163f8db7,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of paper and paper products,,,,,,,,2,UK SIC,17,17
+6e1c205c-766f-4e34-b614-2216bea8e038,Group,1a4e88e4-3f28-40b0-ae7b-f827163f8db7,"Manufacture of pulp, paper and paperboard",,,,,,,,3,UK SIC,17.1,171
+4f7de2d8-f5a1-4769-993d-a86864a588a5,Attribute,6e1c205c-766f-4e34-b614-2216bea8e038,Manufacture of pulp,,,,,,,,4,UK SIC,1711,1711
+37b3c14c-1302-479d-9264-2aab8c44cded,Attribute,6e1c205c-766f-4e34-b614-2216bea8e038,Manufacture of paper and paperboard,,,,,,,,4,UK SIC,1712,1712
+ba1eb253-fc76-4bcb-a24c-963c1830961a,Group,1a4e88e4-3f28-40b0-ae7b-f827163f8db7,Manufacture of articles of paper and paperboard,,,,,,,,3,UK SIC,17.2,172
+f06186dc-2a68-46ff-b3af-47f91340af79,Group,ba1eb253-fc76-4bcb-a24c-963c1830961a,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,,,,,,,,4,UK SIC,1721,1721
+18a931f6-b519-4d8b-a744-5b91d81344a6,Attribute,f06186dc-2a68-46ff-b3af-47f91340af79,Manufacture of corrugated paper and paperboard; manufacture of sacks and bags of paper,,,,,,,,5,UK SIC,17211,17211
+cdbcd484-aba8-4fcf-b16b-84d95b8ec96d,Attribute,f06186dc-2a68-46ff-b3af-47f91340af79,Manufacture of paper and paperboard containers other than sacks and bags,,,,,,,,5,UK SIC,17219,17219
+2a8e71da-cd63-409a-b31e-c71ff3b6744c,Attribute,ba1eb253-fc76-4bcb-a24c-963c1830961a,Manufacture of household and sanitary goods and of toilet requisites,,,,,,,,4,UK SIC,1722,1722
+b98d074d-5541-4e5a-b442-d6917c8075af,Attribute,ba1eb253-fc76-4bcb-a24c-963c1830961a,Manufacture of paper stationery,,,,,,,,4,UK SIC,1723,1723
+a7eb0652-fd47-4a70-8ebd-cbbafdf186a1,Attribute,ba1eb253-fc76-4bcb-a24c-963c1830961a,Manufacture of wallpaper,,,,,,,,4,UK SIC,1724,1724
+c0034fc4-ea37-40b2-b589-9baa8417af5f,Attribute,ba1eb253-fc76-4bcb-a24c-963c1830961a,Manufacture of other articles of paper and paperboard,,,,,,,,4,UK SIC,1729,1729
+9eae61be-41c7-4030-94f7-97970184192a,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Printing and reproduction of recorded media,,,,,,,,2,UK SIC,18,18
+79a3127c-6d7a-4fdf-b38e-f08889a0fd84,Group,9eae61be-41c7-4030-94f7-97970184192a,Printing and service activities related to printing,,,,,,,,3,UK SIC,18.1,181
+041b3d00-c280-4f5b-93f1-f3a31c166b26,Attribute,79a3127c-6d7a-4fdf-b38e-f08889a0fd84,Printing of newspapers,,,,,,,,4,UK SIC,1811,1811
+2ed44126-4207-4028-aa60-f0be81dedbf7,Group,79a3127c-6d7a-4fdf-b38e-f08889a0fd84,Other printing,,,,,,,,4,UK SIC,1812,1812
+9198ea62-ef83-4958-86e4-aadc8a0b1eac,Attribute,2ed44126-4207-4028-aa60-f0be81dedbf7,Manufacture of printed labels,,,,,,,,5,UK SIC,18121,18121
+333a4cad-c14d-444e-ae7a-fd3e4e3cd3a8,Attribute,2ed44126-4207-4028-aa60-f0be81dedbf7,Printing (other than printing of newspapers and printing on labels and tags) n.e.c.,,,,,,,,5,UK SIC,18129,18129
+bfad4a6a-c96a-4686-82f5-11e302326bcf,Attribute,79a3127c-6d7a-4fdf-b38e-f08889a0fd84,Pre-press and pre-media services,,,,,,,,4,UK SIC,1813,1813
+d2a2ef0b-f5b8-4272-9767-d50cac892b28,Attribute,79a3127c-6d7a-4fdf-b38e-f08889a0fd84,Binding and related services,,,,,,,,4,UK SIC,1814,1814
+863e97fa-5643-4a39-adc7-b580c22d6ad4,Group,9eae61be-41c7-4030-94f7-97970184192a,Reproduction of recorded media,,,,,,,,3,UK SIC,18.2,182
+584b9e21-4e86-42a8-8725-b9a328fbf021,Group,863e97fa-5643-4a39-adc7-b580c22d6ad4,Reproduction of recorded media,,,,,,,,4,UK SIC,1820,1820
+bb89c7e4-0483-401a-8880-1e80b3b95e82,Attribute,584b9e21-4e86-42a8-8725-b9a328fbf021,Reproduction of sound recording,,,,,,,,5,UK SIC,18201,18201
+bde8fb00-4736-4bbd-b034-5a9a486a1c22,Attribute,584b9e21-4e86-42a8-8725-b9a328fbf021,Reproduction of video recording,,,,,,,,5,UK SIC,18202,18202
+942e302b-29e9-465b-a25b-a87d3c1b2a1e,Attribute,584b9e21-4e86-42a8-8725-b9a328fbf021,Reproduction of computer media,,,,,,,,5,UK SIC,18203,18203
+d9dbf9ed-627c-4c24-90d5-8e000b080616,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of coke and refined petroleum products,,,,,,,,2,UK SIC,19,19
+7ad1721e-1c0a-436f-8ae7-21ece54a8063,Group,d9dbf9ed-627c-4c24-90d5-8e000b080616,Manufacture of coke oven products,,,,,,,,3,UK SIC,19.1,191
+974e6d5c-4a4b-4229-9ba2-dc8b2aac7ea6,Attribute,7ad1721e-1c0a-436f-8ae7-21ece54a8063,Manufacture of coke oven products,,,,,,,,4,UK SIC,1910,1910
+9c5c3a1f-fb4d-490f-a5a5-dcee79d692cb,Group,d9dbf9ed-627c-4c24-90d5-8e000b080616,Manufacture of refined petroleum products,,,,,,,,3,UK SIC,19.2,192
+80122645-1673-475a-8efb-83803a1427ce,Group,9c5c3a1f-fb4d-490f-a5a5-dcee79d692cb,Manufacture of refined petroleum products,,,,,,,,4,UK SIC,1920,1920
+63c825ec-8ed9-4fff-b42e-33f3a095d911,Attribute,80122645-1673-475a-8efb-83803a1427ce,Mineral oil refining,,,,,,,,5,UK SIC,19201,19201
+4d18a1cc-49fc-49e8-8367-d705f1678273,Attribute,80122645-1673-475a-8efb-83803a1427ce,Other treatment of petroleum products (excluding mineral oil refining/petrochemicals manufacture),,,,,,,,5,UK SIC,19209,19209
+aa227a5f-b3b7-44de-a26c-0bb326d688c0,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of chemicals and chemical products,,,,,,,,2,UK SIC,20,20
+79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Group,aa227a5f-b3b7-44de-a26c-0bb326d688c0,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",,,,,,,,3,UK SIC,20.1,201
+1f2884c6-04a2-41bc-9619-01ec7a9faac9,Attribute,79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Manufacture of industrial gases,,,,,,,,4,UK SIC,2011,2011
+2462524e-e7bb-4305-9586-ba4a105787a8,Attribute,79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Manufacture of dyes and pigments,,,,,,,,4,UK SIC,2012,2012
+3b285fd3-ee4f-4eb2-9973-b37b64f25e67,Attribute,79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Manufacture of other inorganic basic chemicals,,,,,,,,4,UK SIC,2013,2013
+3e811056-ef00-4aee-8522-96328a0a2370,Attribute,79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Manufacture of other organic basic chemicals,,,,,,,,4,UK SIC,2014,2014
+fef4aa48-44c8-4109-8ae6-9e8d9817a7e8,Attribute,79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Manufacture of fertilisers and nitrogen compounds,,,,,,,,4,UK SIC,2015,2015
+24dac849-b6d0-4b0b-a097-16a543e3b4e0,Attribute,79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Manufacture of plastics in primary forms,,,,,,,,4,UK SIC,2016,2016
+d47df60d-21e6-4aaf-a82d-6a815e8f5dd5,Attribute,79bbaef9-5a78-4c3a-8435-98f3b7510e6b,Manufacture of synthetic rubber in primary forms,,,,,,,,4,UK SIC,2017,2017
+76c5a270-dd6c-49db-9a56-0572e2b891a1,Group,aa227a5f-b3b7-44de-a26c-0bb326d688c0,Manufacture of pesticides and other agrochemical products,,,,,,,,3,UK SIC,20.2,202
+16c40de1-d80d-4310-8dd3-9b4112cd4e3e,Attribute,76c5a270-dd6c-49db-9a56-0572e2b891a1,Manufacture of pesticides and other agrochemical products,,,,,,,,4,UK SIC,2020,2020
+c9125ef3-c163-48cb-a5b4-9b490193b207,Group,aa227a5f-b3b7-44de-a26c-0bb326d688c0,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",,,,,,,,3,UK SIC,20.3,203
+51c23acd-8132-4507-a941-36dd2718301c,Group,c9125ef3-c163-48cb-a5b4-9b490193b207,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",,,,,,,,4,UK SIC,2030,2030
+ae9a2437-a6c3-4db4-9f47-d70bde0cb5e1,Attribute,51c23acd-8132-4507-a941-36dd2718301c,"Manufacture of paints, varnishes and similar coatings, mastics and sealants",,,,,,,,5,UK SIC,20301,20301
+ad930813-dac6-4f93-9ff4-619b9adcf50e,Attribute,51c23acd-8132-4507-a941-36dd2718301c,Manufacture of printing ink,,,,,,,,5,UK SIC,20302,20302
+1e98af8f-2c26-4f8c-b2ee-02804066b14a,Group,aa227a5f-b3b7-44de-a26c-0bb326d688c0,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",,,,,,,,3,UK SIC,20.4,204
+e5df2478-ecd4-4537-a3f5-edf8fa0edf22,Group,1e98af8f-2c26-4f8c-b2ee-02804066b14a,"Manufacture of soap and detergents, cleaning and polishing preparations",,,,,,,,4,UK SIC,2041,2041
+d8848aaf-5e4a-4e60-8ca2-3d2b9ffd5e03,Attribute,e5df2478-ecd4-4537-a3f5-edf8fa0edf22,Manufacture of soap and detergents,,,,,,,,5,UK SIC,20411,20411
+f07c883a-eb40-4da5-ab3b-7e140007f161,Attribute,e5df2478-ecd4-4537-a3f5-edf8fa0edf22,Manufacture of cleaning and polishing preparations,,,,,,,,5,UK SIC,20412,20412
+8963344a-1129-4730-b340-9e1816fb6e1a,Attribute,1e98af8f-2c26-4f8c-b2ee-02804066b14a,Manufacture of perfumes and toilet preparations,,,,,,,,4,UK SIC,2042,2042
+1f9a2f91-f319-4824-ab3c-5b759e1ff513,Group,aa227a5f-b3b7-44de-a26c-0bb326d688c0,Manufacture of other chemical products,,,,,,,,3,UK SIC,20.5,205
+896709af-7d09-4330-b3c3-9be532a2a529,Attribute,1f9a2f91-f319-4824-ab3c-5b759e1ff513,Manufacture of explosives,,,,,,,,4,UK SIC,2051,2051
+057901f3-85fd-4298-9505-39cfd5709658,Attribute,1f9a2f91-f319-4824-ab3c-5b759e1ff513,Manufacture of glues,,,,,,,,4,UK SIC,2052,2052
+5a285faa-f7cf-469d-8636-6d92825a73c4,Attribute,1f9a2f91-f319-4824-ab3c-5b759e1ff513,Manufacture of essential oils,,,,,,,,4,UK SIC,2053,2053
+bdc3b3f3-685e-41b7-87ba-9e6830a2ba38,Attribute,1f9a2f91-f319-4824-ab3c-5b759e1ff513,Manufacture of other chemical products n.e.c.,,,,,,,,4,UK SIC,2059,2059
+2e933c76-f8f1-479f-9cf0-fb30741b254a,Group,aa227a5f-b3b7-44de-a26c-0bb326d688c0,Manufacture of man-made fibres,,,,,,,,3,UK SIC,20.6,206
+dbf8ab10-f3a6-43b3-9624-8ee9511741b3,Attribute,2e933c76-f8f1-479f-9cf0-fb30741b254a,Manufacture of man-made fibres,,,,,,,,4,UK SIC,2060,2060
+1bf7ff8b-9113-4e5d-b785-63e7a3f9a789,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of basic pharmaceutical products and pharmaceutical preparations,,,,,,,,2,UK SIC,21,21
+f3e405e0-b8e2-46ba-8f55-8ad8c5e849bc,Group,1bf7ff8b-9113-4e5d-b785-63e7a3f9a789,Manufacture of basic pharmaceutical products,,,,,,,,3,UK SIC,21.1,211
+8bdc3f7f-91b6-465e-b419-2a30a6e9530e,Attribute,f3e405e0-b8e2-46ba-8f55-8ad8c5e849bc,Manufacture of basic pharmaceutical products,,,,,,,,4,UK SIC,2110,2110
+5379c4b6-dd5a-4147-8b17-8c81c4cbce7a,Group,1bf7ff8b-9113-4e5d-b785-63e7a3f9a789,Manufacture of pharmaceutical preparations,,,,,,,,3,UK SIC,21.2,212
+8c77cc58-4881-4e20-80bc-0adac67eb35d,Attribute,5379c4b6-dd5a-4147-8b17-8c81c4cbce7a,Manufacture of pharmaceutical preparations,,,,,,,,4,UK SIC,2120,2120
+158a875f-a06c-407d-86eb-a712e5a52cea,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of rubber and plastic products,,,,,,,,2,UK SIC,22,22
+3f23de46-99c7-429b-bcaa-d6d0b0e9ff0c,Group,158a875f-a06c-407d-86eb-a712e5a52cea,Manufacture of rubber products,,,,,,,,3,UK SIC,22.1,221
+c4236bc0-a672-4e1e-9030-f9aa18529dc4,Attribute,3f23de46-99c7-429b-bcaa-d6d0b0e9ff0c,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,,,,,,,,4,UK SIC,2211,2211
+cb1dedc9-c658-46f4-81a5-887c17232760,Attribute,3f23de46-99c7-429b-bcaa-d6d0b0e9ff0c,Manufacture of other rubber products,,,,,,,,4,UK SIC,2219,2219
+5eb2804a-09e0-4ca1-96ca-8de571473269,Group,158a875f-a06c-407d-86eb-a712e5a52cea,Manufacture of plastics products,,,,,,,,3,UK SIC,22.2,222
+22bbb393-bd5a-4b06-866a-a34da749f209,Attribute,5eb2804a-09e0-4ca1-96ca-8de571473269,"Manufacture of plastic plates, sheets, tubes and profiles",,,,,,,,4,UK SIC,2221,2221
+8cb3db7f-a972-4a36-a7f3-5cb612b4b2ba,Attribute,5eb2804a-09e0-4ca1-96ca-8de571473269,Manufacture of plastic packing goods,,,,,,,,4,UK SIC,2222,2222
+ba3b9696-02af-45f1-aa29-f248811a7b9c,Attribute,5eb2804a-09e0-4ca1-96ca-8de571473269,Manufacture of builders’ ware of plastic,,,,,,,,4,UK SIC,2223,2223
+5d5b8338-9cb1-4fe5-aa82-f682627574e8,Attribute,5eb2804a-09e0-4ca1-96ca-8de571473269,Manufacture of other plastic products,,,,,,,,4,UK SIC,2229,2229
+c190bed9-54cf-4a26-b63d-0a139cffe749,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of other non-metallic mineral products,,,,,,,,2,UK SIC,23,23
+cd913b6b-b048-48f6-b939-2081cf04af85,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,Manufacture of glass and glass products,,,,,,,,3,UK SIC,23.1,231
+ccfbfb5f-26b0-4721-83f6-0499d60d3400,Attribute,cd913b6b-b048-48f6-b939-2081cf04af85,Manufacture of flat glass,,,,,,,,4,UK SIC,2311,2311
+4f0887d5-e626-4dd6-b90e-a53641007118,Attribute,cd913b6b-b048-48f6-b939-2081cf04af85,Shaping and processing of flat glass,,,,,,,,4,UK SIC,2312,2312
+acfc9d68-a040-4bd3-8917-cd124e22bca5,Attribute,cd913b6b-b048-48f6-b939-2081cf04af85,Manufacture of hollow glass,,,,,,,,4,UK SIC,2313,2313
+a1453e1b-8848-441d-a2f6-acb4e7bfd62b,Attribute,cd913b6b-b048-48f6-b939-2081cf04af85,Manufacture of glass fibres,,,,,,,,4,UK SIC,2314,2314
+6a7ec47f-d8e8-4721-a4b4-3028bb51dddb,Attribute,cd913b6b-b048-48f6-b939-2081cf04af85,"Manufacture and processing of other glass, including technical glassware",,,,,,,,4,UK SIC,2319,2319
+7339d031-726a-42cc-ad66-54999e965a95,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,Manufacture of refractory products,,,,,,,,3,UK SIC,23.2,232
+044a7e74-a139-4986-a4a2-2245d87a08c5,Attribute,7339d031-726a-42cc-ad66-54999e965a95,Manufacture of refractory products,,,,,,,,4,UK SIC,2320,2320
+8811dcdf-838e-48cc-b94c-07d304137e03,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,Manufacture of clay building materials,,,,,,,,3,UK SIC,23.3,233
+855d1a39-45b9-4f56-b1d5-ed547bc638ca,Attribute,8811dcdf-838e-48cc-b94c-07d304137e03,Manufacture of ceramic tiles and flags,,,,,,,,4,UK SIC,2331,2331
+ae15d442-eb61-4b54-b340-1e70c4280a08,Attribute,8811dcdf-838e-48cc-b94c-07d304137e03,"Manufacture of bricks, tiles and construction products, in baked clay",,,,,,,,4,UK SIC,2332,2332
+5c5d4bb9-72fd-4de6-8814-28c864957a8b,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,Manufacture of other porcelain and ceramic products,,,,,,,,3,UK SIC,23.4,234
+2da354f9-3fc2-4c73-8877-942873a22c30,Attribute,5c5d4bb9-72fd-4de6-8814-28c864957a8b,Manufacture of ceramic household and ornamental articles,,,,,,,,4,UK SIC,2341,2341
+a546d796-ddf7-4c85-b3c2-6660e9033acd,Attribute,5c5d4bb9-72fd-4de6-8814-28c864957a8b,Manufacture of ceramic sanitary fixtures,,,,,,,,4,UK SIC,2342,2342
+638426d2-78bf-4677-9f8f-2afede898fac,Attribute,5c5d4bb9-72fd-4de6-8814-28c864957a8b,Manufacture of ceramic insulators and insulating fittings,,,,,,,,4,UK SIC,2343,2343
+18491683-71d6-4081-9c2d-8dfb9cc9f904,Attribute,5c5d4bb9-72fd-4de6-8814-28c864957a8b,Manufacture of other technical ceramic products,,,,,,,,4,UK SIC,2344,2344
+b31d399d-57a8-412e-9539-777213e9807c,Attribute,5c5d4bb9-72fd-4de6-8814-28c864957a8b,Manufacture of other ceramic products,,,,,,,,4,UK SIC,2349,2349
+2b0a826f-58bb-4215-ab26-db0926ef3770,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,"Manufacture of cement, lime and plaster",,,,,,,,3,UK SIC,23.5,235
+b4905066-3dbd-48d3-bdb2-58a66307b3c8,Attribute,2b0a826f-58bb-4215-ab26-db0926ef3770,Manufacture of cement,,,,,,,,4,UK SIC,2351,2351
+717df2b5-fa6b-499a-9fd9-3d3cc062e1cc,Attribute,2b0a826f-58bb-4215-ab26-db0926ef3770,Manufacture of lime and plaster,,,,,,,,4,UK SIC,2352,2352
+9d7585d6-3aad-4722-be5e-0c6ccc345085,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,"Manufacture of articles of concrete, cement and plaster",,,,,,,,3,UK SIC,23.6,236
+1710abfa-e2f1-42ad-b0d1-b5c8727a87dc,Attribute,9d7585d6-3aad-4722-be5e-0c6ccc345085,Manufacture of concrete products for construction purposes,,,,,,,,4,UK SIC,2361,2361
+99d8fd44-224b-4a9c-ae2f-cff92daa9055,Attribute,9d7585d6-3aad-4722-be5e-0c6ccc345085,Manufacture of plaster products for construction purposes,,,,,,,,4,UK SIC,2362,2362
+7007c113-257d-4f61-9831-4a401d0801a5,Attribute,9d7585d6-3aad-4722-be5e-0c6ccc345085,Manufacture of ready-mixed concrete,,,,,,,,4,UK SIC,2363,2363
+09976fae-d3dc-423e-9908-3e02495ec673,Attribute,9d7585d6-3aad-4722-be5e-0c6ccc345085,Manufacture of mortars,,,,,,,,4,UK SIC,2364,2364
+e6afd50a-43e5-4646-9f87-09310706436e,Attribute,9d7585d6-3aad-4722-be5e-0c6ccc345085,Manufacture of fibre cement,,,,,,,,4,UK SIC,2365,2365
+fb7fd367-58d7-4c86-88d2-900acb8034b6,Attribute,9d7585d6-3aad-4722-be5e-0c6ccc345085,"Manufacture of other articles of concrete, plaster and cement",,,,,,,,4,UK SIC,2369,2369
+4fac42a6-bf92-4766-a022-c987f75c64e3,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,"Cutting, shaping and finishing of stone",,,,,,,,3,UK SIC,23.7,237
+ac10172a-9327-45f2-bb82-9487d0439b38,Attribute,4fac42a6-bf92-4766-a022-c987f75c64e3,"Cutting, shaping and finishing of stone",,,,,,,,4,UK SIC,2370,2370
+2dab8bbf-5954-4386-81d2-1b5f54429e70,Group,c190bed9-54cf-4a26-b63d-0a139cffe749,Manufacture of abrasive products and non-metallic mineral products n.e.c.,,,,,,,,3,UK SIC,23.9,239
+a5f94dc8-ee5a-4d15-940e-15cb250e21f3,Attribute,2dab8bbf-5954-4386-81d2-1b5f54429e70,Production of abrasive products,,,,,,,,4,UK SIC,2391,2391
+dfe6ba0d-8c90-4fc6-86eb-7c3654fc2eb1,Attribute,2dab8bbf-5954-4386-81d2-1b5f54429e70,Manufacture of other non-metallic mineral products n.e.c.,,,,,,,,4,UK SIC,2399,2399
+e1f5b8ca-e887-4327-8f84-cf06b805ab86,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of basic metals,,,,,,,,2,UK SIC,24,24
+f439673d-e0de-4771-b8da-95b4c8d078a5,Group,e1f5b8ca-e887-4327-8f84-cf06b805ab86,Manufacture of basic iron and steel and of ferro-alloys,,,,,,,,3,UK SIC,24.1,241
+c6d06462-a5b7-4e0e-8247-b4da310c3844,Attribute,f439673d-e0de-4771-b8da-95b4c8d078a5,Manufacture of basic iron and steel and of ferro-alloys,,,,,,,,4,UK SIC,2410,2410
+deae51e9-2a03-4d2f-abf2-f2bf5ce4bb66,Group,e1f5b8ca-e887-4327-8f84-cf06b805ab86,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",,,,,,,,3,UK SIC,24.2,242
+110a8360-fcfa-4cda-a6db-c75d9207922c,Attribute,deae51e9-2a03-4d2f-abf2-f2bf5ce4bb66,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",,,,,,,,4,UK SIC,2420,2420
+bbfd4b46-889b-4502-a0fe-35f408b5ed67,Group,e1f5b8ca-e887-4327-8f84-cf06b805ab86,Manufacture of other products of first processing of steel,,,,,,,,3,UK SIC,24.3,243
+180247b6-7e4e-4a3d-9dda-779dc7cdde99,Attribute,bbfd4b46-889b-4502-a0fe-35f408b5ed67,Cold drawing of bars,,,,,,,,4,UK SIC,2431,2431
+863bc61b-22b1-4e49-9ccf-1d200b6f67e7,Attribute,bbfd4b46-889b-4502-a0fe-35f408b5ed67,Cold rolling of narrow strip,,,,,,,,4,UK SIC,2432,2432
+f9c8bc58-b987-43a0-8387-df011ee66f3e,Attribute,bbfd4b46-889b-4502-a0fe-35f408b5ed67,Cold forming or folding,,,,,,,,4,UK SIC,2433,2433
+b78f10d6-28bf-415b-b65f-49e6aa218888,Attribute,bbfd4b46-889b-4502-a0fe-35f408b5ed67,Cold drawing of wire,,,,,,,,4,UK SIC,2434,2434
+8ed2f1c3-5a5a-4ecc-9ceb-78a22100d117,Group,e1f5b8ca-e887-4327-8f84-cf06b805ab86,Manufacture of basic precious and other non-ferrous metals,,,,,,,,3,UK SIC,24.4,244
+e888a286-9aa3-4bf6-a888-d95f9ad9c5d2,Attribute,8ed2f1c3-5a5a-4ecc-9ceb-78a22100d117,Precious metals production,,,,,,,,4,UK SIC,2441,2441
+1b46dc78-8229-4892-8788-cfbc5f096f34,Attribute,8ed2f1c3-5a5a-4ecc-9ceb-78a22100d117,Aluminium production,,,,,,,,4,UK SIC,2442,2442
+11816be3-9530-4676-9713-e6876d0843f3,Attribute,8ed2f1c3-5a5a-4ecc-9ceb-78a22100d117,"Lead, zinc and tin production",,,,,,,,4,UK SIC,2443,2443
+63509eea-bdbf-4fa2-bea4-17d731ba53ec,Attribute,8ed2f1c3-5a5a-4ecc-9ceb-78a22100d117,Copper production,,,,,,,,4,UK SIC,2444,2444
+f0d9a77f-b428-4d9c-8500-7789ae0308e6,Attribute,8ed2f1c3-5a5a-4ecc-9ceb-78a22100d117,Other non-ferrous metal production,,,,,,,,4,UK SIC,2445,2445
+aa30ee3a-5ac2-4a16-8b8c-08e91bc26435,Attribute,8ed2f1c3-5a5a-4ecc-9ceb-78a22100d117,Processing of nuclear fuel,,,,,,,,4,UK SIC,2446,2446
+c6c6b8f0-fdf3-4232-aa28-595ee8f63380,Group,e1f5b8ca-e887-4327-8f84-cf06b805ab86,Casting of metals,,,,,,,,3,UK SIC,24.5,245
+afb4a849-c63b-4c48-9d9c-837fbd2f5184,Attribute,c6c6b8f0-fdf3-4232-aa28-595ee8f63380,Casting of iron,,,,,,,,4,UK SIC,2451,2451
+3bae0329-69f1-42d0-9e61-d079136cbf59,Attribute,c6c6b8f0-fdf3-4232-aa28-595ee8f63380,Casting of steel,,,,,,,,4,UK SIC,2452,2452
+342e5125-21a8-4685-9b2c-055f84ebd93c,Attribute,c6c6b8f0-fdf3-4232-aa28-595ee8f63380,Casting of light metals,,,,,,,,4,UK SIC,2453,2453
+b14e705b-ef41-4375-84e1-2b62159c72d4,Attribute,c6c6b8f0-fdf3-4232-aa28-595ee8f63380,Casting of other non-ferrous metals,,,,,,,,4,UK SIC,2454,2454
+75b52c4e-e122-4a20-87a7-54b7f3b3a887,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,"Manufacture of fabricated metal products, except machinery and equipment",,,,,,,,2,UK SIC,25,25
+5fb38ab8-b468-4705-8168-a67afae4a455,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,Manufacture of structural metal products,,,,,,,,3,UK SIC,25.1,251
+a6115057-815d-428b-8add-54f62f065b07,Attribute,5fb38ab8-b468-4705-8168-a67afae4a455,Manufacture of metal structures and parts of structures,,,,,,,,4,UK SIC,2511,2511
+96f405b4-0d0e-4f9d-89a2-219907497476,Attribute,5fb38ab8-b468-4705-8168-a67afae4a455,Manufacture of doors and windows of metal,,,,,,,,4,UK SIC,2512,2512
+fe0984ac-c748-4acb-980c-e92a71323680,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,"Manufacture of tanks, reservoirs and containers of metal",,,,,,,,3,UK SIC,25.2,252
+43f3386d-3fc6-445a-aecb-7818e8c12938,Attribute,fe0984ac-c748-4acb-980c-e92a71323680,Manufacture of central heating radiators and boilers,,,,,,,,4,UK SIC,2521,2521
+5d8fecc1-d4ac-4854-afb5-174c42bb80d8,Attribute,fe0984ac-c748-4acb-980c-e92a71323680,"Manufacture of other tanks, reservoirs and containers of metal",,,,,,,,4,UK SIC,2529,2529
+5c45b050-f4ab-434d-a5b3-3221646ad25a,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,"Manufacture of steam generators, except central heating hot water boilers",,,,,,,,3,UK SIC,25.3,253
+3d51ec04-789b-4b09-95e1-7123e87159c3,Attribute,5c45b050-f4ab-434d-a5b3-3221646ad25a,"Manufacture of steam generators, except central heating hot water boilers",,,,,,,,4,UK SIC,2530,2530
+5924b7aa-98b4-4671-b7d6-b8d0d212a0dc,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,Manufacture of weapons and ammunition,,,,,,,,3,UK SIC,25.4,254
+cadf7053-94bd-4d12-8bb5-f830bb3255e0,Attribute,5924b7aa-98b4-4671-b7d6-b8d0d212a0dc,Manufacture of weapons and ammunition,,,,,,,,4,UK SIC,2540,2540
+eacd64c3-78d0-41c7-bfa7-af3fdba1b3fb,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",,,,,,,,3,UK SIC,25.5,255
+f52f6822-8398-4827-855b-f06df7768009,Attribute,eacd64c3-78d0-41c7-bfa7-af3fdba1b3fb,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",,,,,,,,4,UK SIC,2550,2550
+abcbf5ad-9b95-4672-b6c9-6054124abef7,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,Treatment and coating of metals; machining,,,,,,,,3,UK SIC,25.6,256
+6051749c-06a2-4e8c-b2e2-5cd89a6fdc95,Attribute,abcbf5ad-9b95-4672-b6c9-6054124abef7,Treatment and coating of metals,,,,,,,,4,UK SIC,2561,2561
+09d734f8-ecc8-4123-9b55-595fb006285a,Attribute,abcbf5ad-9b95-4672-b6c9-6054124abef7,Machining,,,,,,,,4,UK SIC,2562,2562
+42095616-58c5-4f57-91c5-32717ef8ecd0,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,"Manufacture of cutlery, tools and general hardware",,,,,,,,3,UK SIC,25.7,257
+8cf3c2d8-19af-4787-9430-7345a22a4235,Attribute,42095616-58c5-4f57-91c5-32717ef8ecd0,Manufacture of cutlery,,,,,,,,4,UK SIC,2571,2571
+9c63002c-e8ac-4d77-be37-0e4e6b844560,Attribute,42095616-58c5-4f57-91c5-32717ef8ecd0,Manufacture of locks and hinges,,,,,,,,4,UK SIC,2572,2572
+e65d16ad-cbff-41e4-8363-ae4cb478ed39,Attribute,42095616-58c5-4f57-91c5-32717ef8ecd0,Manufacture of tools,,,,,,,,4,UK SIC,2573,2573
+437537f0-0862-4af2-95dc-882b9d0345f4,Group,75b52c4e-e122-4a20-87a7-54b7f3b3a887,Manufacture of other fabricated metal products,,,,,,,,3,UK SIC,25.9,259
+1ef91701-218c-4305-a249-701243abee81,Attribute,437537f0-0862-4af2-95dc-882b9d0345f4,Manufacture of steel drums and similar containers,,,,,,,,4,UK SIC,2591,2591
+48cb1f18-561b-4460-8542-d77f1653dc72,Attribute,437537f0-0862-4af2-95dc-882b9d0345f4,Manufacture of light metal packaging,,,,,,,,4,UK SIC,2592,2592
+cd2b21e8-b956-496e-ad3d-f231d70b44ef,Attribute,437537f0-0862-4af2-95dc-882b9d0345f4,"Manufacture of wire products, chain and springs",,,,,,,,4,UK SIC,2593,2593
+8d8b1e72-f097-4732-94d6-254f67d0e8c0,Attribute,437537f0-0862-4af2-95dc-882b9d0345f4,Manufacture of fasteners and screw machine products,,,,,,,,4,UK SIC,2594,2594
+83b0ce56-f8b1-4003-ad7f-866175c7adf2,Attribute,437537f0-0862-4af2-95dc-882b9d0345f4,Manufacture of other fabricated metal products n.e.c.,,,,,,,,4,UK SIC,2599,2599
+a96873f3-5742-4050-a624-dd4694e0a476,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,"Manufacture of computer, electronic and optical products",,,,,,,,2,UK SIC,26,26
+7496143b-dfa4-44b9-9121-3b7b6b571629,Group,a96873f3-5742-4050-a624-dd4694e0a476,Manufacture of electronic components and boards,,,,,,,,3,UK SIC,26.1,261
+c1ccd479-bcdd-4a68-811f-7a7d58d476bc,Attribute,7496143b-dfa4-44b9-9121-3b7b6b571629,Manufacture of electronic components,,,,,,,,4,UK SIC,2611,2611
+96d851c7-5800-4d7b-92d9-18ae759e4f2d,Attribute,7496143b-dfa4-44b9-9121-3b7b6b571629,Manufacture of loaded electronic boards,,,,,,,,4,UK SIC,2612,2612
+9bd124f2-1def-4ccf-9093-b2cc90768a6f,Group,a96873f3-5742-4050-a624-dd4694e0a476,Manufacture of computers and peripheral equipment,,,,,,,,3,UK SIC,26.2,262
+7aebb676-e455-4742-aa15-b8a1d743ef06,Attribute,9bd124f2-1def-4ccf-9093-b2cc90768a6f,Manufacture of computers and peripheral equipment,,,,,,,,4,UK SIC,2620,2620
+dd66c95d-e990-4cec-9689-2b7408c556d3,Group,a96873f3-5742-4050-a624-dd4694e0a476,Manufacture of communication equipment,,,,,,,,3,UK SIC,26.3,263
+7ea48065-0f48-4778-9fba-600b6812b621,Group,dd66c95d-e990-4cec-9689-2b7408c556d3,Manufacture of communication equipment,,,,,,,,4,UK SIC,2630,2630
+f770e929-6742-4cab-8493-96a665fabd72,Attribute,7ea48065-0f48-4778-9fba-600b6812b621,Manufacture of telegraph and telephone apparatus and equipment,,,,,,,,5,UK SIC,26301,26301
+574b0221-e3dd-44c6-a37d-1808576a74ec,Attribute,7ea48065-0f48-4778-9fba-600b6812b621,Manufacture of communication equipment (other than telegraph and telephone apparatus and equipment),,,,,,,,5,UK SIC,26309,26309
+e5ce8581-fd91-4015-a95a-60ce8b5a4f6e,Group,a96873f3-5742-4050-a624-dd4694e0a476,Manufacture of consumer electronics,,,,,,,,3,UK SIC,26.4,264
+8f94f582-ee7a-48e6-a836-dc9e11798fb7,Attribute,e5ce8581-fd91-4015-a95a-60ce8b5a4f6e,Manufacture of consumer electronics,,,,,,,,4,UK SIC,2640,2640
+5de47c0b-7fdc-4110-a83e-8648b5d95589,Group,a96873f3-5742-4050-a624-dd4694e0a476,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",,,,,,,,3,UK SIC,26.5,265
+883fb31e-c8ad-4bf8-bc46-7f59f2af7f9c,Group,5de47c0b-7fdc-4110-a83e-8648b5d95589,"Manufacture of instruments and appliances for measuring, testing and navigation",,,,,,,,4,UK SIC,2651,2651
+b001e7d6-6f4c-46b5-8cf1-73cc04c56283,Attribute,883fb31e-c8ad-4bf8-bc46-7f59f2af7f9c,"Manufacture of electronic instruments and appliances for measuring, testing, and navigation, except industrial process control equipment",,,,,,,,5,UK SIC,26511,26511
+1b640844-8a86-48e3-8902-e0ccc4ee6f75,Attribute,883fb31e-c8ad-4bf8-bc46-7f59f2af7f9c,Manufacture of electronic industrial process control equipment,,,,,,,,5,UK SIC,26512,26512
+6767f947-04a2-415a-a140-12e5eae9f52d,Attribute,883fb31e-c8ad-4bf8-bc46-7f59f2af7f9c,"Manufacture of non-electronic instruments and appliances for measuring, testing and navigation, except industrial process control equipment",,,,,,,,5,UK SIC,26513,26513
+26ac282e-79f1-4020-a3e9-73be26d0cfaa,Attribute,883fb31e-c8ad-4bf8-bc46-7f59f2af7f9c,Manufacture of non-electronic industrial process control equipment,,,,,,,,5,UK SIC,26514,26514
+c504a7d4-7d59-4bf9-9570-4d5d90a3ba7b,Attribute,5de47c0b-7fdc-4110-a83e-8648b5d95589,Manufacture of watches and clocks,,,,,,,,4,UK SIC,2652,2652
+208170ba-981b-4a47-ae48-1d93aa216bb3,Group,a96873f3-5742-4050-a624-dd4694e0a476,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",,,,,,,,3,UK SIC,26.6,266
+5492f80b-2719-44cf-b31d-b11fe91a0527,Attribute,208170ba-981b-4a47-ae48-1d93aa216bb3,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",,,,,,,,4,UK SIC,2660,2660
+3c99914e-b18b-4294-926c-5c114cdafebb,Group,a96873f3-5742-4050-a624-dd4694e0a476,Manufacture of optical instruments and photographic equipment,,,,,,,,3,UK SIC,26.7,267
+a0f2f721-84b0-406b-8f4d-b665d9410cde,Group,3c99914e-b18b-4294-926c-5c114cdafebb,Manufacture of optical instruments and photographic equipment,,,,,,,,4,UK SIC,2670,2670
+e18db14f-3cf3-4a22-a765-3ddc7f6c3af9,Attribute,a0f2f721-84b0-406b-8f4d-b665d9410cde,Manufacture of optical precision instruments,,,,,,,,5,UK SIC,26701,26701
+f99d3021-c094-4be5-a1cb-e1fbc5e5a355,Attribute,a0f2f721-84b0-406b-8f4d-b665d9410cde,Manufacture of photographic and cinematographic equipment,,,,,,,,5,UK SIC,26702,26702
+183b2aa3-c47f-40e2-a1c5-26e8344f4286,Group,a96873f3-5742-4050-a624-dd4694e0a476,Manufacture of magnetic and optical media,,,,,,,,3,UK SIC,26.8,268
+11b26d0f-e135-4926-8235-65a80ed43cc3,Attribute,183b2aa3-c47f-40e2-a1c5-26e8344f4286,Manufacture of magnetic and optical media,,,,,,,,4,UK SIC,2680,2680
+03e97b43-3d6d-4074-830c-df86541a1bdb,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of electrical equipment,,,,,,,,2,UK SIC,27,27
+d039c178-92d6-45a2-aeac-3fb71377ee71,Group,03e97b43-3d6d-4074-830c-df86541a1bdb,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",,,,,,,,3,UK SIC,27.1,271
+fb0329d7-8634-4343-93b3-d8f8e57fd43f,Attribute,d039c178-92d6-45a2-aeac-3fb71377ee71,"Manufacture of electric motors, generators and transformers",,,,,,,,4,UK SIC,2711,2711
+27e631e3-1796-4514-8560-39b957ed9089,Attribute,d039c178-92d6-45a2-aeac-3fb71377ee71,Manufacture of electricity distribution and control apparatus,,,,,,,,4,UK SIC,2712,2712
+4e4999d7-3436-4791-b245-ce16a5d00fec,Group,03e97b43-3d6d-4074-830c-df86541a1bdb,Manufacture of batteries and accumulators,,,,,,,,3,UK SIC,27.2,272
+0ee06fbb-4450-4b50-a61f-af36042fa297,Attribute,4e4999d7-3436-4791-b245-ce16a5d00fec,Manufacture of batteries and accumulators,,,,,,,,4,UK SIC,2720,2720
+45d0a0b1-9aa6-4100-a1b0-351b2a793f53,Group,03e97b43-3d6d-4074-830c-df86541a1bdb,Manufacture of wiring and wiring devices,,,,,,,,3,UK SIC,27.3,273
+dcc86c1a-4a14-4d04-a6c2-83cb932d0780,Attribute,45d0a0b1-9aa6-4100-a1b0-351b2a793f53,Manufacture of fibre optic cables,,,,,,,,4,UK SIC,2731,2731
+ce9ed7db-e526-4831-848d-19d279f70130,Attribute,45d0a0b1-9aa6-4100-a1b0-351b2a793f53,Manufacture of other electronic and electric wires and cables,,,,,,,,4,UK SIC,2732,2732
+1730ad95-ab2d-4a89-a4ed-7f1202435903,Attribute,45d0a0b1-9aa6-4100-a1b0-351b2a793f53,Manufacture of wiring devices,,,,,,,,4,UK SIC,2733,2733
+fc122384-c3cf-44ac-bd77-9e7942cc5b39,Group,03e97b43-3d6d-4074-830c-df86541a1bdb,Manufacture of electric lighting equipment,,,,,,,,3,UK SIC,27.4,274
+851ecb47-f44a-46cf-bece-c6a96b0eb1c2,Attribute,fc122384-c3cf-44ac-bd77-9e7942cc5b39,Manufacture of electric lighting equipment,,,,,,,,4,UK SIC,2740,2740
+df78e21f-8580-4f0a-8010-6a90d39ea9b9,Group,03e97b43-3d6d-4074-830c-df86541a1bdb,Manufacture of domestic appliances,,,,,,,,3,UK SIC,27.5,275
+36c56d6e-37c6-4723-bf17-73f1e484653a,Attribute,df78e21f-8580-4f0a-8010-6a90d39ea9b9,Manufacture of electric domestic appliances,,,,,,,,4,UK SIC,2751,2751
+bf855a07-e61c-46d5-b47f-bfcb52bb3fc7,Attribute,df78e21f-8580-4f0a-8010-6a90d39ea9b9,Manufacture of non-electric domestic appliances,,,,,,,,4,UK SIC,2752,2752
+b6806dd2-750e-4e2d-ae1a-2e6b38478f7e,Group,03e97b43-3d6d-4074-830c-df86541a1bdb,Manufacture of other electrical equipment,,,,,,,,3,UK SIC,27.9,279
+266c24f2-3fb7-4d71-ba30-915694b62fcd,Attribute,b6806dd2-750e-4e2d-ae1a-2e6b38478f7e,Manufacture of other electrical equipment,,,,,,,,4,UK SIC,2790,2790
+72ab3845-789b-4767-92b5-466af69cde65,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of machinery and equipment n.e.c.,,,,,,,,2,UK SIC,28,28
+2c153d41-5554-48b2-97fc-9b78c71e59ee,Group,72ab3845-789b-4767-92b5-466af69cde65,Manufacture of general-purpose machinery,,,,,,,,3,UK SIC,28.1,281
+e13202ca-975a-40a7-98e4-00ada83f11cf,Attribute,2c153d41-5554-48b2-97fc-9b78c71e59ee,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",,,,,,,,4,UK SIC,2811,2811
+d410e092-b95c-4b51-8f8c-8de4b6996902,Attribute,2c153d41-5554-48b2-97fc-9b78c71e59ee,Manufacture of fluid power equipment,,,,,,,,4,UK SIC,2812,2812
+278e210c-0464-4396-97ce-001749d3233a,Group,2c153d41-5554-48b2-97fc-9b78c71e59ee,Manufacture of other pumps and compressors,,,,,,,,4,UK SIC,2813,2813
+097223d5-6764-4a6f-809f-7f21a4c60d65,Attribute,278e210c-0464-4396-97ce-001749d3233a,Manufacture of pumps,,,,,,,,5,UK SIC,28131,28131
+fba949d3-820e-48af-9971-266472cb81c8,Attribute,278e210c-0464-4396-97ce-001749d3233a,Manufacture of compressors,,,,,,,,5,UK SIC,28132,28132
+b658e1f9-21a8-4325-88d6-23da313697ef,Attribute,2c153d41-5554-48b2-97fc-9b78c71e59ee,Manufacture of other taps and valves,,,,,,,,4,UK SIC,2814,2814
+a842e4e2-842c-4ce1-bb2f-8027e1ed7061,Attribute,2c153d41-5554-48b2-97fc-9b78c71e59ee,"Manufacture of bearings, gears, gearing and driving elements",,,,,,,,4,UK SIC,2815,2815
+92035ee8-9dd9-4361-92e6-c9ab7ae591b7,Group,72ab3845-789b-4767-92b5-466af69cde65,Manufacture of other general-purpose machinery,,,,,,,,3,UK SIC,28.2,282
+d7e4f3c2-388c-4e7f-9ba2-1ce9e5b4a67d,Attribute,92035ee8-9dd9-4361-92e6-c9ab7ae591b7,"Manufacture of ovens, furnaces and furnace burners",,,,,,,,4,UK SIC,2821,2821
+90ede08a-fc91-4484-be07-10522a6ba088,Attribute,92035ee8-9dd9-4361-92e6-c9ab7ae591b7,Manufacture of lifting and handling equipment,,,,,,,,4,UK SIC,2822,2822
+5b57d714-0564-427f-8266-d238b0c73a2e,Attribute,92035ee8-9dd9-4361-92e6-c9ab7ae591b7,Manufacture of office machinery and equipment (except computers and peripheral equipment),,,,,,,,4,UK SIC,2823,2823
+37673b21-7bcd-4e95-87ae-b15074e3f4ce,Attribute,92035ee8-9dd9-4361-92e6-c9ab7ae591b7,Manufacture of power-driven hand tools,,,,,,,,4,UK SIC,2824,2824
+0d23d951-6df1-45d6-b6e0-dd1b0992b49e,Attribute,92035ee8-9dd9-4361-92e6-c9ab7ae591b7,Manufacture of non-domestic cooling and ventilation equipment,,,,,,,,4,UK SIC,2825,2825
+a140012a-4875-4ee1-be8e-69d8aa53c0b8,Attribute,92035ee8-9dd9-4361-92e6-c9ab7ae591b7,Manufacture of other general-purpose machinery n.e.c.,,,,,,,,4,UK SIC,2829,2829
+6f0149b7-6b52-4385-8d99-7d9d73850d5e,Group,72ab3845-789b-4767-92b5-466af69cde65,Manufacture of agricultural and forestry machinery,,,,,,,,3,UK SIC,28.3,283
+728056a6-9d05-4333-a3d4-51bfa6ae0fd0,Group,6f0149b7-6b52-4385-8d99-7d9d73850d5e,Manufacture of agricultural and forestry machinery,,,,,,,,4,UK SIC,2830,2830
+cb421b8f-beab-4e8a-bc64-77ed76c67f9e,Attribute,728056a6-9d05-4333-a3d4-51bfa6ae0fd0,Manufacture of agricultural tractors,,,,,,,,5,UK SIC,28301,28301
+5594ac3b-18bf-41d7-ba29-0ca9a0662b36,Attribute,728056a6-9d05-4333-a3d4-51bfa6ae0fd0,Manufacture of agricultural and forestry machinery (other than agricultural tractors),,,,,,,,5,UK SIC,28302,28302
+0ac87f1f-3573-4ee3-9a36-92d037e6c62c,Group,72ab3845-789b-4767-92b5-466af69cde65,Manufacture of metal forming machinery and machine tools,,,,,,,,3,UK SIC,28.4,284
+2bec4816-0126-419a-b86d-e4e2428577c6,Attribute,0ac87f1f-3573-4ee3-9a36-92d037e6c62c,Manufacture of metal forming machinery,,,,,,,,4,UK SIC,2841,2841
+8cd212fc-bd6d-4b8a-9af4-2952009da5e8,Attribute,0ac87f1f-3573-4ee3-9a36-92d037e6c62c,Manufacture of other machine tools,,,,,,,,4,UK SIC,2849,2849
+d0171905-f8c9-4d03-baeb-4dec49444aee,Group,72ab3845-789b-4767-92b5-466af69cde65,Manufacture of other special-purpose machinery,,,,,,,,3,UK SIC,28.9,289
+6a8c3202-306b-4fa6-8bc6-8360cf47306e,Attribute,d0171905-f8c9-4d03-baeb-4dec49444aee,Manufacture of machinery for metallurgy,,,,,,,,4,UK SIC,2891,2891
+077883d5-42c8-41c7-b9e6-1574b99d9c24,Group,d0171905-f8c9-4d03-baeb-4dec49444aee,"Manufacture of machinery for mining, quarrying and construction",,,,,,,,4,UK SIC,2892,2892
+c49127a7-585a-4e66-b286-33434c76eaa9,Attribute,077883d5-42c8-41c7-b9e6-1574b99d9c24,Manufacture of machinery for mining,,,,,,,,5,UK SIC,28921,28921
+25f0c676-e605-4fb3-8066-96cc7dd0c4d1,Attribute,077883d5-42c8-41c7-b9e6-1574b99d9c24,Manufacture of earthmoving equipment,,,,,,,,5,UK SIC,28922,28922
+644fe5ed-82f4-4eee-a58d-e1feaacd5bb9,Attribute,077883d5-42c8-41c7-b9e6-1574b99d9c24,Manufacture of equipment for concrete crushing and screening roadworks,,,,,,,,5,UK SIC,28923,28923
+919b72b9-3b46-422f-808e-eb01088bba97,Attribute,d0171905-f8c9-4d03-baeb-4dec49444aee,"Manufacture of machinery for food, beverage and tobacco processing",,,,,,,,4,UK SIC,2893,2893
+1af36e49-e83a-414d-8767-e587d2896542,Attribute,d0171905-f8c9-4d03-baeb-4dec49444aee,"Manufacture of machinery for textile, apparel and leather production",,,,,,,,4,UK SIC,2894,2894
+e7835600-1d38-4c3e-9e0c-a4b1301fdcfa,Attribute,d0171905-f8c9-4d03-baeb-4dec49444aee,Manufacture of machinery for paper and paperboard production,,,,,,,,4,UK SIC,2895,2895
+d290c1ac-79ba-4bd4-9293-c4eb8b646a0f,Attribute,d0171905-f8c9-4d03-baeb-4dec49444aee,Manufacture of plastics and rubber machinery,,,,,,,,4,UK SIC,2896,2896
+3618b211-c6e4-4392-b9ce-5e20e0901971,Attribute,d0171905-f8c9-4d03-baeb-4dec49444aee,Manufacture of other special-purpose machinery n.e.c.,,,,,,,,4,UK SIC,2899,2899
+900eb8d0-d8af-42e8-9606-dfcaae9230d7,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,"Manufacture of motor vehicles, trailers and semi-trailers",,,,,,,,2,UK SIC,29,29
+82bb0fea-16f4-479b-b3f0-a1aa0919a9e9,Group,900eb8d0-d8af-42e8-9606-dfcaae9230d7,Manufacture of motor vehicles,,,,,,,,3,UK SIC,29.1,291
+40294f31-fde2-4784-88fd-45ef24f969e9,Attribute,82bb0fea-16f4-479b-b3f0-a1aa0919a9e9,Manufacture of motor vehicles,,,,,,,,4,UK SIC,2910,2910
+00d3acdc-bc63-49db-a071-cf92549b2366,Group,900eb8d0-d8af-42e8-9606-dfcaae9230d7,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,,,,,,,,3,UK SIC,29.2,292
+ff5711f6-71cd-49d0-809c-fe1f2a50b6b8,Group,00d3acdc-bc63-49db-a071-cf92549b2366,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,,,,,,,,4,UK SIC,2920,2920
+953b5b18-9ed4-430a-93c1-0603e6492faf,Attribute,ff5711f6-71cd-49d0-809c-fe1f2a50b6b8,Manufacture of bodies (coachwork) for motor vehicles (except caravans),,,,,,,,5,UK SIC,29201,29201
+583e2688-f5f5-4140-b97c-ab05d5f74f88,Attribute,ff5711f6-71cd-49d0-809c-fe1f2a50b6b8,Manufacture of trailers and semi-trailers,,,,,,,,5,UK SIC,29202,29202
+574cf42a-bfd2-45c9-8dee-846a64339e7c,Attribute,ff5711f6-71cd-49d0-809c-fe1f2a50b6b8,Manufacture of caravans,,,,,,,,5,UK SIC,29203,29203
+735df5d0-e46a-40af-9a6f-5cf3d1481f65,Group,900eb8d0-d8af-42e8-9606-dfcaae9230d7,Manufacture of parts and accessories for motor vehicles,,,,,,,,3,UK SIC,29.3,293
+a2ff86ab-6175-4e58-9958-c75f6a70e59f,Attribute,735df5d0-e46a-40af-9a6f-5cf3d1481f65,Manufacture of electrical and electronic equipment for motor vehicles,,,,,,,,4,UK SIC,2931,2931
+8732dc2b-2f8f-4d12-aba1-cb57aa61ff0c,Attribute,735df5d0-e46a-40af-9a6f-5cf3d1481f65,Manufacture of other parts and accessories for motor vehicles,,,,,,,,4,UK SIC,2932,2932
+d55d456a-5569-4ca6-b8f2-f544f77d9de0,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of other transport equipment,,,,,,,,2,UK SIC,30,30
+d002668d-beee-4564-9275-e367d0dbbf99,Group,d55d456a-5569-4ca6-b8f2-f544f77d9de0,Building of ships and boats,,,,,,,,3,UK SIC,30.1,301
+33ebd2a6-aa7d-48ed-90a9-af90e59fb8c3,Attribute,d002668d-beee-4564-9275-e367d0dbbf99,Building of ships and floating structures,,,,,,,,4,UK SIC,3011,3011
+b76871eb-ab30-43e2-a129-39cf38a60452,Attribute,d002668d-beee-4564-9275-e367d0dbbf99,Building of pleasure and sporting boats,,,,,,,,4,UK SIC,3012,3012
+1decdfdf-8dbd-48cd-b461-f8beb833ac41,Group,d55d456a-5569-4ca6-b8f2-f544f77d9de0,Manufacture of railway locomotives and rolling stock,,,,,,,,3,UK SIC,30.2,302
+1377924c-56cc-4582-8c25-3cabe693e350,Attribute,1decdfdf-8dbd-48cd-b461-f8beb833ac41,Manufacture of railway locomotives and rolling stock,,,,,,,,4,UK SIC,3020,3020
+fd708618-d6a2-4226-aa5a-572c49615b8c,Group,d55d456a-5569-4ca6-b8f2-f544f77d9de0,Manufacture of air and spacecraft and related machinery,,,,,,,,3,UK SIC,30.3,303
+580ec6b8-730a-44c0-b0bc-8987ed67adda,Attribute,fd708618-d6a2-4226-aa5a-572c49615b8c,Manufacture of air and spacecraft and related machinery,,,,,,,,4,UK SIC,3030,3030
+e62f958a-c3f9-4872-980b-6e40acf88b3c,Group,d55d456a-5569-4ca6-b8f2-f544f77d9de0,Manufacture of military fighting vehicles,,,,,,,,3,UK SIC,30.4,304
+ee3e64c7-458c-41e6-a815-6797233129f2,Attribute,e62f958a-c3f9-4872-980b-6e40acf88b3c,Manufacture of military fighting vehicles,,,,,,,,4,UK SIC,3040,3040
+a07b0543-16e3-495b-b6e7-053f65f3ddf5,Group,d55d456a-5569-4ca6-b8f2-f544f77d9de0,Manufacture of transport equipment n.e.c.,,,,,,,,3,UK SIC,30.9,309
+8b6c192e-acc1-4453-a507-150e8b2401df,Attribute,a07b0543-16e3-495b-b6e7-053f65f3ddf5,Manufacture of motorcycles,,,,,,,,4,UK SIC,3091,3091
+f2f6b263-3fd6-4195-9655-f61821825514,Attribute,a07b0543-16e3-495b-b6e7-053f65f3ddf5,Manufacture of bicycles and invalid carriages,,,,,,,,4,UK SIC,3092,3092
+7ccd83ad-88b6-43d8-bd0c-0d80a79d189f,Attribute,a07b0543-16e3-495b-b6e7-053f65f3ddf5,Manufacture of other transport equipment n.e.c.,,,,,,,,4,UK SIC,3099,3099
+b56fa12e-57a2-4fb8-9ca0-62847df75ee9,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Manufacture of furniture,,,,,,,,2,UK SIC,31,31
+144c6a9f-2026-4649-ac37-40ff9f0c03d0,Group,b56fa12e-57a2-4fb8-9ca0-62847df75ee9,Manufacture of furniture,,,,,,,,3,UK SIC,31,31
+969890b5-9b29-4092-9fe3-56536e9c4be8,Attribute,144c6a9f-2026-4649-ac37-40ff9f0c03d0,Manufacture of office and shop furniture,,,,,,,,4,UK SIC,3101,3101
+42ec2c29-a981-4014-8dc9-6e3924103df7,Attribute,144c6a9f-2026-4649-ac37-40ff9f0c03d0,Manufacture of kitchen furniture,,,,,,,,4,UK SIC,3102,3102
+ee2e0f14-4ab0-4dbc-a8e9-759f998002f4,Attribute,144c6a9f-2026-4649-ac37-40ff9f0c03d0,Manufacture of mattresses,,,,,,,,4,UK SIC,3103,3103
+8eb9046e-9348-4d93-b3a2-7615530f8950,Attribute,144c6a9f-2026-4649-ac37-40ff9f0c03d0,Manufacture of other furniture,,,,,,,,4,UK SIC,3109,3109
+f899acec-f1a8-46c6-a4c3-e5a1648dd7e4,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Other manufacturing,,,,,,,,2,UK SIC,32,32
+3e93fe9a-766c-4b2d-9f0f-f46db87146bc,Group,f899acec-f1a8-46c6-a4c3-e5a1648dd7e4,"Manufacture of jewellery, bijouterie and related articles",,,,,,,,3,UK SIC,32.1,321
+970059c9-5059-4b67-96cb-c1d4d21683d9,Attribute,3e93fe9a-766c-4b2d-9f0f-f46db87146bc,Striking of coins,,,,,,,,4,UK SIC,3211,3211
+db06b9f7-f368-4b90-b293-b0546ca2f794,Attribute,3e93fe9a-766c-4b2d-9f0f-f46db87146bc,Manufacture of jewellery and related articles,,,,,,,,4,UK SIC,3212,3212
+cf49d23e-f461-44e5-8e8a-94e2d5f1f062,Attribute,3e93fe9a-766c-4b2d-9f0f-f46db87146bc,Manufacture of imitation jewellery and related articles,,,,,,,,4,UK SIC,3213,3213
+86b96d05-cee1-4cd8-a4b7-d727ca234e34,Group,f899acec-f1a8-46c6-a4c3-e5a1648dd7e4,Manufacture of musical instruments,,,,,,,,3,UK SIC,32.2,322
+53ce3355-1fc5-4f36-8056-757279009ba0,Attribute,86b96d05-cee1-4cd8-a4b7-d727ca234e34,Manufacture of musical instruments,,,,,,,,4,UK SIC,3220,3220
+a29b91e6-f32f-4456-9598-b9af78431cb9,Group,f899acec-f1a8-46c6-a4c3-e5a1648dd7e4,Manufacture of sports goods,,,,,,,,3,UK SIC,32.3,323
+9091deb6-1958-4fbf-ae9b-a0f1c6378c11,Attribute,a29b91e6-f32f-4456-9598-b9af78431cb9,Manufacture of sports goods,,,,,,,,4,UK SIC,3230,3230
+11da3c83-c1bd-4ed3-8bd6-3b1523a3dcbd,Group,f899acec-f1a8-46c6-a4c3-e5a1648dd7e4,Manufacture of games and toys,,,,,,,,3,UK SIC,32.4,324
+308cd14d-bc57-4de7-a4ad-03045431ed2c,Group,11da3c83-c1bd-4ed3-8bd6-3b1523a3dcbd,Manufacture of games and toys,,,,,,,,4,UK SIC,3240,3240
+d358f9a2-5ab7-4d02-8a93-2a16d508b042,Attribute,308cd14d-bc57-4de7-a4ad-03045431ed2c,Manufacture of professional and arcade games and toys,,,,,,,,5,UK SIC,32401,32401
+58b677d8-62f2-4a7e-b202-64521e368be9,Attribute,308cd14d-bc57-4de7-a4ad-03045431ed2c,Manufacture of games and toys (other than professional and arcade games and toys) n.e.c.,,,,,,,,5,UK SIC,32409,32409
+ef51fd79-8414-4818-a11b-43dabda3b80e,Group,f899acec-f1a8-46c6-a4c3-e5a1648dd7e4,Manufacture of medical and dental instruments and supplies,,,,,,,,3,UK SIC,32.5,325
+eb22182d-dbe5-45a2-af28-d9bcc49a7a42,Attribute,ef51fd79-8414-4818-a11b-43dabda3b80e,Manufacture of medical and dental instruments and supplies,,,,,,,,4,UK SIC,3250,3250
+aadf7487-7534-4f8e-bf39-953a7d9d44b8,Group,f899acec-f1a8-46c6-a4c3-e5a1648dd7e4,Other manufacturing n.e.c.,,,,,,,,3,UK SIC,32.9,329
+bc5b9c7f-ca8a-4051-9b0c-a7f41ede9ed1,Attribute,aadf7487-7534-4f8e-bf39-953a7d9d44b8,Manufacture of brooms and brushes,,,,,,,,4,UK SIC,3291,3291
+58880ce3-6d2d-4620-bc75-6a6efc5ca2fe,Attribute,aadf7487-7534-4f8e-bf39-953a7d9d44b8,Other manufacturing n.e.c.,,,,,,,,4,UK SIC,3299,3299
+2cbee8ca-2f57-49e7-8866-b9a64083dd60,Group,85f5acaa-e858-4f78-a491-04d0fe83ecc2,Repair and installation of machinery and equipment,,,,,,,,2,UK SIC,33,33
+5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Group,2cbee8ca-2f57-49e7-8866-b9a64083dd60,"Repair of fabricated metal products, machinery and equipment",,,,,,,,3,UK SIC,33.1,331
+b3a0de2c-a208-4ea1-a2fa-9daaa933b6da,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair of fabricated metal products,,,,,,,,4,UK SIC,3311,3311
+80973fcc-5b90-46a0-acce-cd3c3fc8bbf3,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair of machinery,,,,,,,,4,UK SIC,3312,3312
+34506771-55ea-491b-a82a-0cb44dd3243f,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair of electronic and optical equipment,,,,,,,,4,UK SIC,3313,3313
+4429b49d-f4b7-4faa-a25e-1c174c2d6d7d,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair of electrical equipment,,,,,,,,4,UK SIC,3314,3314
+1f126ae7-3e12-49fe-9256-17a1bc2102f5,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair and maintenance of ships and boats,,,,,,,,4,UK SIC,3315,3315
+92e1f5d9-f8c7-4f90-a3a6-24f1650803c0,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair and maintenance of aircraft and spacecraft,,,,,,,,4,UK SIC,3316,3316
+23c2a3e2-5536-4479-9924-83d8523ed12d,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair and maintenance of other transport equipment,,,,,,,,4,UK SIC,3317,3317
+58b24728-40ba-4243-ab7f-b97bfff78ddf,Attribute,5c7bf51a-15d2-4f9c-9e57-58a9a45a728b,Repair of other equipment,,,,,,,,4,UK SIC,3319,3319
+4e019398-b08d-4749-b231-0f450f3be188,Group,2cbee8ca-2f57-49e7-8866-b9a64083dd60,Installation of industrial machinery and equipment,,,,,,,,3,UK SIC,33.2,332
+41b2a60d-9f70-4366-88b8-064e18f6d759,Attribute,4e019398-b08d-4749-b231-0f450f3be188,Installation of industrial machinery and equipment,,,,,,,,4,UK SIC,3320,3320
+5d99ef34-c92f-44ac-b8bf-5baf488ee6be,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",,,,,,,,1,UK SIC,D,
+1519e895-64ed-4056-af9c-ae7871c13cf9,Group,5d99ef34-c92f-44ac-b8bf-5baf488ee6be,"Electricity, gas, steam and air conditioning supply",,,,,,,,2,UK SIC,35,35
+e6dfde76-2651-497c-a332-242f6080870a,Group,1519e895-64ed-4056-af9c-ae7871c13cf9,"Electric power generation, transmission and distribution",,,,,,,,3,UK SIC,35.1,351
+76a938ed-db27-4d25-aa72-bc01a3f3d646,Attribute,e6dfde76-2651-497c-a332-242f6080870a,Production of electricity,,,,,,,,4,UK SIC,3511,3511
+5d421374-5fec-4410-8512-54faa33414c6,Attribute,e6dfde76-2651-497c-a332-242f6080870a,Transmission of electricity,,,,,,,,4,UK SIC,3512,3512
+0dd54823-0ed3-49ce-91bc-052ca2f0c3f5,Attribute,e6dfde76-2651-497c-a332-242f6080870a,Distribution of electricity,,,,,,,,4,UK SIC,3513,3513
+f45dee32-f856-40e4-b903-a5d407899264,Attribute,e6dfde76-2651-497c-a332-242f6080870a,Trade of electricity,,,,,,,,4,UK SIC,3514,3514
+bb5c5144-c92b-48bb-b692-ed8efd5a6a79,Group,1519e895-64ed-4056-af9c-ae7871c13cf9,Manufacture of gas; distribution of gaseous fuels through mains,,,,,,,,3,UK SIC,35.2,352
+a2a998c9-b605-402f-88fd-689d403225fb,Attribute,bb5c5144-c92b-48bb-b692-ed8efd5a6a79,Manufacture of gas,,,,,,,,4,UK SIC,3521,3521
+8d7b7b29-50c4-4bde-b4a8-616e91ec679b,Attribute,bb5c5144-c92b-48bb-b692-ed8efd5a6a79,Distribution of gaseous fuels through mains,,,,,,,,4,UK SIC,3522,3522
+01fd22fb-2394-4856-8997-14d27ee6ab02,Attribute,bb5c5144-c92b-48bb-b692-ed8efd5a6a79,Trade of gas through mains,,,,,,,,4,UK SIC,3523,3523
+4528046e-19aa-49cb-ab51-d6f06fe56c8b,Group,1519e895-64ed-4056-af9c-ae7871c13cf9,Steam and air conditioning supply,,,,,,,,3,UK SIC,35.3,353
+73c1805f-429e-43eb-a50e-4c8f260ed18f,Attribute,4528046e-19aa-49cb-ab51-d6f06fe56c8b,Steam and air conditioning supply,,,,,,,,4,UK SIC,3530,3530
+a503e313-8a41-4034-9f12-de8a8b77d751,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",,,,,,,,1,UK SIC,E,
+288ed0ec-585c-40f2-a9a3-ccf0a4d76ba0,Group,a503e313-8a41-4034-9f12-de8a8b77d751,"Water collection, treatment and supply",,,,,,,,2,UK SIC,36,36
+98f7ccda-eb29-4fc8-b4c2-e0ca29214822,Group,288ed0ec-585c-40f2-a9a3-ccf0a4d76ba0,"Water collection, treatment and supply",,,,,,,,3,UK SIC,36,36
+6c0345f0-3e5f-4db6-9afa-1322f62532e2,Attribute,98f7ccda-eb29-4fc8-b4c2-e0ca29214822,"Water collection, treatment and supply",,,,,,,,4,UK SIC,3600,3600
+331766a2-2e9f-4385-a4d7-267e8012a622,Group,a503e313-8a41-4034-9f12-de8a8b77d751,Sewerage,,,,,,,,2,UK SIC,37,37
+ca74cd6a-8dbf-4190-b157-13f5aec3c15b,Group,331766a2-2e9f-4385-a4d7-267e8012a622,Sewerage,,,,,,,,3,UK SIC,37,37
+62e3caac-68dd-4a3c-83dc-1a20f7b07d34,Attribute,ca74cd6a-8dbf-4190-b157-13f5aec3c15b,Sewerage,,,,,,,,4,UK SIC,3700,3700
+b4206603-50e8-432e-98ca-dad213b4a9b6,Group,a503e313-8a41-4034-9f12-de8a8b77d751,"Waste collection, treatment and disposal activities; materials recovery",,,,,,,,2,UK SIC,38,38
+6f1a3b16-3fd5-4c71-a321-eb880708b2b0,Group,b4206603-50e8-432e-98ca-dad213b4a9b6,Waste collection,,,,,,,,3,UK SIC,38.1,381
+ae1b9fd4-99e2-40d5-881e-e51ab5b508af,Attribute,6f1a3b16-3fd5-4c71-a321-eb880708b2b0,Collection of non-hazardous waste,,,,,,,,4,UK SIC,3811,3811
+368cd85e-c553-4734-97ef-56be741ceef2,Attribute,6f1a3b16-3fd5-4c71-a321-eb880708b2b0,Collection of hazardous waste,,,,,,,,4,UK SIC,3812,3812
+e9da7ee3-21b0-438f-ba73-09e2be65f05f,Group,b4206603-50e8-432e-98ca-dad213b4a9b6,Waste treatment and disposal,,,,,,,,3,UK SIC,38.2,382
+e0079162-065a-4f05-86b0-e8c99b9f1b95,Attribute,e9da7ee3-21b0-438f-ba73-09e2be65f05f,Treatment and disposal of non-hazardous waste,,,,,,,,4,UK SIC,3821,3821
+e75603c1-204d-451c-919c-1ddf2763db49,Attribute,e9da7ee3-21b0-438f-ba73-09e2be65f05f,Treatment and disposal of hazardous waste,,,,,,,,4,UK SIC,3822,3822
+965bb79e-1f58-4186-8f4f-87137c393a53,Group,b4206603-50e8-432e-98ca-dad213b4a9b6,Materials recovery,,,,,,,,3,UK SIC,38.3,383
+f9132aa9-4ce7-43ed-873d-beffccff1d9d,Attribute,965bb79e-1f58-4186-8f4f-87137c393a53,Dismantling of wrecks,,,,,,,,4,UK SIC,3831,3831
+2f0282d6-ab36-457f-81e5-1be7e3c56eba,Attribute,965bb79e-1f58-4186-8f4f-87137c393a53,Recovery of sorted materials,,,,,,,,4,UK SIC,3832,3832
+a8655fc4-b317-4372-bbc3-ea66d878cecb,Attribute,a503e313-8a41-4034-9f12-de8a8b77d751,Remediation activities and other waste management services.,,,,,,,,2,UK SIC,39,39
+28485fff-84b9-4a05-b9b6-bc6397980d46,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,CONSTRUCTION,,,,,,,,1,UK SIC,F,
+b1339eeb-4e44-4a02-9e9a-aadb5df215c0,Group,28485fff-84b9-4a05-b9b6-bc6397980d46,Construction of buildings,,,,,,,,2,UK SIC,41,41
+14b98690-5f50-44d0-8efe-3a97c3a04999,Group,b1339eeb-4e44-4a02-9e9a-aadb5df215c0,Development of building projects,,,,,,,,3,UK SIC,41.1,411
+0e03c9b1-9919-4ee3-99d3-16dd84b40e29,Attribute,14b98690-5f50-44d0-8efe-3a97c3a04999,Development of building projects,,,,,,,,4,UK SIC,4110,4110
+6414abfd-4e9d-4495-9263-ca83730aefd7,Group,b1339eeb-4e44-4a02-9e9a-aadb5df215c0,Construction of residential and non-residential buildings,,,,,,,,3,UK SIC,41.2,412
+3ecceb8e-4b84-43fd-98d2-4e88312e520e,Group,6414abfd-4e9d-4495-9263-ca83730aefd7,Construction of residential and non-residential buildings,,,,,,,,4,UK SIC,4120,4120
+5a2a1a34-0519-43a8-99db-f63bf566e7ad,Attribute,3ecceb8e-4b84-43fd-98d2-4e88312e520e,Construction of commercial buildings,,,,,,,,5,UK SIC,41201,41201
+e4201956-ae50-48e5-a8e2-60410963f315,Attribute,3ecceb8e-4b84-43fd-98d2-4e88312e520e,Construction of domestic buildings,,,,,,,,5,UK SIC,41202,41202
+a3dafd73-0d88-439c-8dc7-eff48f85f6bf,Group,28485fff-84b9-4a05-b9b6-bc6397980d46,Civil engineering,,,,,,,,2,UK SIC,42,42
+ad7fb9cb-ff88-4bc9-808e-18dd24e1f308,Group,a3dafd73-0d88-439c-8dc7-eff48f85f6bf,Construction of roads and railways,,,,,,,,3,UK SIC,42.1,421
+3e4ca53a-8a1d-47c1-9bc9-2a2056282c2a,Attribute,ad7fb9cb-ff88-4bc9-808e-18dd24e1f308,Construction of roads and motorways,,,,,,,,4,UK SIC,4211,4211
+e291c46b-1e4e-43b3-a8fa-02f1810929e6,Attribute,ad7fb9cb-ff88-4bc9-808e-18dd24e1f308,Construction of railways and underground railways,,,,,,,,4,UK SIC,4212,4212
+f8d2c7ef-b7fc-4c44-8b14-0f2e219ae328,Attribute,ad7fb9cb-ff88-4bc9-808e-18dd24e1f308,Construction of bridges and tunnels,,,,,,,,4,UK SIC,4213,4213
+cf375b2a-d028-43e9-942a-3d12798dfd44,Group,a3dafd73-0d88-439c-8dc7-eff48f85f6bf,Construction of utility projects,,,,,,,,3,UK SIC,42.2,422
+54744968-7e64-495b-94d1-a3517429b397,Attribute,cf375b2a-d028-43e9-942a-3d12798dfd44,Construction of utility projects for fluids,,,,,,,,4,UK SIC,4221,4221
+5cd11aeb-81a7-47f3-b363-d731a23f0bc1,Attribute,cf375b2a-d028-43e9-942a-3d12798dfd44,Construction of utility projects for electricity and telecommunications,,,,,,,,4,UK SIC,4222,4222
+4277ebda-1e88-4023-b68e-489de2b28416,Group,a3dafd73-0d88-439c-8dc7-eff48f85f6bf,Construction of other civil engineering projects,,,,,,,,3,UK SIC,42.9,429
+9e156232-55b8-455a-86e1-c89e90e577b2,Attribute,4277ebda-1e88-4023-b68e-489de2b28416,Construction of water projects,,,,,,,,4,UK SIC,4291,4291
+f0419389-05c6-4aa2-8ccf-3e32a43638ee,Attribute,4277ebda-1e88-4023-b68e-489de2b28416,Construction of other civil engineering projects n.e.c.,,,,,,,,4,UK SIC,4299,4299
+db03731f-baf4-44f6-b99b-9ed3c0d8d929,Group,28485fff-84b9-4a05-b9b6-bc6397980d46,Specialised construction activities,,,,,,,,2,UK SIC,43,43
+33c78acf-9249-4330-b667-2ee60d854a58,Group,db03731f-baf4-44f6-b99b-9ed3c0d8d929,Demolition and site preparation,,,,,,,,3,UK SIC,43.1,431
+81b00746-c1e2-4718-a9c7-3304c90bc885,Attribute,33c78acf-9249-4330-b667-2ee60d854a58,Demolition,,,,,,,,4,UK SIC,4311,4311
+7167a849-c2d8-4ce9-aa95-33e9ce3cf166,Attribute,33c78acf-9249-4330-b667-2ee60d854a58,Site preparation,,,,,,,,4,UK SIC,4312,4312
+99b20217-f971-4205-940e-834ecc2e9bed,Attribute,33c78acf-9249-4330-b667-2ee60d854a58,Test drilling and boring,,,,,,,,4,UK SIC,4313,4313
+a79f74f0-14c3-46bb-b4b2-405a8a073d20,Group,db03731f-baf4-44f6-b99b-9ed3c0d8d929,"Electrical, plumbing and other construction installation activities",,,,,,,,3,UK SIC,43.2,432
+aa32ce0d-e468-443e-8101-91ce505b817a,Attribute,a79f74f0-14c3-46bb-b4b2-405a8a073d20,Electrical installation,,,,,,,,4,UK SIC,4321,4321
+7a3f7aac-1e1a-4e81-9dca-a7a7fba7f6dd,Attribute,a79f74f0-14c3-46bb-b4b2-405a8a073d20,"Plumbing, heat and air-conditioning installation",,,,,,,,4,UK SIC,4322,4322
+8a5d47cc-9a17-4151-8472-6fd7240a1413,Attribute,a79f74f0-14c3-46bb-b4b2-405a8a073d20,Other construction installation,,,,,,,,4,UK SIC,4329,4329
+9c6e7c33-1861-49fa-81b6-817b97470a5f,Group,db03731f-baf4-44f6-b99b-9ed3c0d8d929,Building completion and finishing,,,,,,,,3,UK SIC,43.3,433
+227f294a-133e-46aa-9598-19fc1789ce0f,Attribute,9c6e7c33-1861-49fa-81b6-817b97470a5f,Plastering,,,,,,,,4,UK SIC,4331,4331
+8154783e-7238-4bcb-ab8d-85a3129ff532,Attribute,9c6e7c33-1861-49fa-81b6-817b97470a5f,Joinery installation,,,,,,,,4,UK SIC,4332,4332
+a0a852bb-a24d-42dc-9338-37d6fcf83f74,Attribute,9c6e7c33-1861-49fa-81b6-817b97470a5f,Floor and wall covering,,,,,,,,4,UK SIC,4333,4333
+e706ff7c-9246-49e5-afd7-c2a34c4cb07a,Group,9c6e7c33-1861-49fa-81b6-817b97470a5f,Painting and glazing,,,,,,,,4,UK SIC,4334,4334
+afacd788-2281-4349-93a7-509111e2f706,Attribute,e706ff7c-9246-49e5-afd7-c2a34c4cb07a,Painting,,,,,,,,5,UK SIC,43341,43341
+0f1009f9-e6dc-440f-835f-f0de4a3a880a,Attribute,e706ff7c-9246-49e5-afd7-c2a34c4cb07a,Glazing,,,,,,,,5,UK SIC,43342,43342
+22c222ad-6b47-4fa1-be41-bafc4cddce63,Attribute,9c6e7c33-1861-49fa-81b6-817b97470a5f,Other building completion and finishing,,,,,,,,4,UK SIC,4339,4339
+72c41537-a670-438e-b8d7-48a3e0724d2b,Group,db03731f-baf4-44f6-b99b-9ed3c0d8d929,Other specialised construction activities,,,,,,,,3,UK SIC,43.9,439
+76f27b83-aff4-424a-b1cc-99c395a1f116,Attribute,72c41537-a670-438e-b8d7-48a3e0724d2b,Roofing activities,,,,,,,,4,UK SIC,4391,4391
+f4dc646f-2914-4dd5-b0a5-f4e666f36392,Group,72c41537-a670-438e-b8d7-48a3e0724d2b,Other specialised construction activities n.e.c.,,,,,,,,4,UK SIC,4399,4399
+4d1dbb7c-ca19-420f-ad5d-ae516c7838d2,Attribute,f4dc646f-2914-4dd5-b0a5-f4e666f36392,Scaffold erection,,,,,,,,5,UK SIC,43991,43991
+c8faa3a1-fc37-47ae-aeb8-1569e4b118f2,Attribute,f4dc646f-2914-4dd5-b0a5-f4e666f36392,Specialised construction activities (other than scaffold erection) n.e.c.,,,,,,,,5,UK SIC,43999,43999
+ea18c500-0fa6-4659-b0be-8dec0d2e449a,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,,,,,,,,1,UK SIC,G,
+e6adf087-1a90-40d5-b869-da92e24eda3b,Group,ea18c500-0fa6-4659-b0be-8dec0d2e449a,Wholesale and retail trade and repair of motor vehicles and motorcycles,,,,,,,,2,UK SIC,45,45
+8a8c1587-eaea-4612-ae4e-ae05862b607b,Group,e6adf087-1a90-40d5-b869-da92e24eda3b,Sale of motor vehicles,,,,,,,,3,UK SIC,45.1,451
+eea6448a-ebd7-48fb-b623-6e027fc626ce,Group,8a8c1587-eaea-4612-ae4e-ae05862b607b,Sale of cars and light motor vehicles,,,,,,,,4,UK SIC,4511,4511
+77f5d433-ab51-4373-a6c4-6e73977f96db,Attribute,eea6448a-ebd7-48fb-b623-6e027fc626ce,Sale of new cars and light motor vehicles,,,,,,,,5,UK SIC,45111,45111
+fcfdcd2c-83b4-479e-8f61-f8cebcff6c4f,Attribute,eea6448a-ebd7-48fb-b623-6e027fc626ce,Sale of used cars and light motor vehicles,,,,,,,,5,UK SIC,45112,45112
+d02100b7-b6bd-491d-929b-b0c927638941,Attribute,8a8c1587-eaea-4612-ae4e-ae05862b607b,Sale of other motor vehicles,,,,,,,,4,UK SIC,4519,4519
+9bb8a26c-28e9-42cd-b842-9d9fc299c3b9,Group,e6adf087-1a90-40d5-b869-da92e24eda3b,Maintenance and repair of motor vehicles,,,,,,,,3,UK SIC,45.2,452
+7aa13159-e645-4b17-b99c-6a7e594e21e3,Attribute,9bb8a26c-28e9-42cd-b842-9d9fc299c3b9,Maintenance and repair of motor vehicles,,,,,,,,4,UK SIC,4520,4520
+293f106b-903b-4ccf-bb3d-0f6c536b1007,Group,e6adf087-1a90-40d5-b869-da92e24eda3b,Sale of motor vehicle parts and accessories,,,,,,,,3,UK SIC,45.3,453
+c34583e0-7eb1-4077-b040-ef878986393e,Attribute,293f106b-903b-4ccf-bb3d-0f6c536b1007,Wholesale trade of motor vehicle parts and accessories,,,,,,,,4,UK SIC,4531,4531
+24c96b9c-9a9e-4a7e-add7-729cd92c5821,Attribute,293f106b-903b-4ccf-bb3d-0f6c536b1007,Retail trade of motor vehicle parts and accessories,,,,,,,,4,UK SIC,4532,4532
+f37de3c3-6488-4cb4-86d2-ea49082eccd2,Group,e6adf087-1a90-40d5-b869-da92e24eda3b,"Sale, maintenance and repair of motorcycles and related parts and accessories",,,,,,,,3,UK SIC,45.4,454
+f3410e58-0671-4c37-b1cd-2d006f0ad0b7,Attribute,f37de3c3-6488-4cb4-86d2-ea49082eccd2,"Sale, maintenance and repair of motorcycles and related parts and accessories",,,,,,,,4,UK SIC,4540,4540
+2763f8ef-a21c-413d-a647-9cdc995e3b01,Group,ea18c500-0fa6-4659-b0be-8dec0d2e449a,"Wholesale trade, except of motor vehicles and motorcycles",,,,,,,,2,UK SIC,46,46
+73f389bf-d2c1-49d2-882b-a15b0579c346,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,Wholesale on a fee or contract basis,,,,,,,,3,UK SIC,46.1,461
+e647fbd2-30cf-4f05-9718-470869e3ecf2,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,"Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods",,,,,,,,4,UK SIC,4611,4611
+95a1b20b-22c7-42fe-9339-5624bad8855c,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,"Agents involved in the sale of fuels, ores, metals and industrial chemicals",,,,,,,,4,UK SIC,4612,4612
+a745e223-baef-494e-a9c4-94e08f329a21,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,Agents involved in the sale of timber and building materials,,,,,,,,4,UK SIC,4613,4613
+df06b5b5-e610-4417-a706-d30bc9f0d6c7,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,"Agents involved in the sale of machinery, industrial equipment, ships and aircraft",,,,,,,,4,UK SIC,4614,4614
+97fd62f1-2069-463d-bfe7-43be152ffcf1,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,"Agents involved in the sale of furniture, household goods, hardware and ironmongery",,,,,,,,4,UK SIC,4615,4615
+8d83c5a5-5b87-4497-afdc-6359157ca94d,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods",,,,,,,,4,UK SIC,4616,4616
+003d719b-8e5a-4dc9-9c94-5db457ffabb0,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,"Agents involved in the sale of food, beverages and tobacco",,,,,,,,4,UK SIC,4617,4617
+02b01cb4-5919-492b-a9fc-be8be6d0d788,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,Agents specialised in the sale of other particular products,,,,,,,,4,UK SIC,4618,4618
+1a896935-c264-4f20-a53c-8273b4622acb,Attribute,73f389bf-d2c1-49d2-882b-a15b0579c346,Agents involved in the sale of a variety of goods,,,,,,,,4,UK SIC,4619,4619
+816ae4b9-c88d-493d-820e-f74133c64056,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,Wholesale of agricultural raw materials and live animals,,,,,,,,3,UK SIC,46.2,462
+019adbaf-3340-4222-a4e9-8729ba3916d4,Attribute,816ae4b9-c88d-493d-820e-f74133c64056,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds",,,,,,,,4,UK SIC,4621,4621
+04e733fd-18b6-4f12-b0e6-1f5cb40d10df,Attribute,816ae4b9-c88d-493d-820e-f74133c64056,Wholesale of flowers and plants,,,,,,,,4,UK SIC,4622,4622
+6a6da7af-1e67-43f1-b17b-d8e42ec15a3d,Attribute,816ae4b9-c88d-493d-820e-f74133c64056,Wholesale of live animals,,,,,,,,4,UK SIC,4623,4623
+f959dcca-b9e7-4246-b30e-dceff527ce15,Attribute,816ae4b9-c88d-493d-820e-f74133c64056,"Wholesale of hides, skins and leather",,,,,,,,4,UK SIC,4624,4624
+c4c564f4-68af-4a99-adec-78df5a047bf2,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,"Wholesale of food, beverages and tobacco",,,,,,,,3,UK SIC,46.3,463
+b51e7504-1955-453c-939e-a06d03c80212,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,Wholesale of fruit and vegetables,,,,,,,,4,UK SIC,4631,4631
+b0fe43b1-9ce4-4569-9eb3-794fff9619b9,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,Wholesale of meat and meat products,,,,,,,,4,UK SIC,4632,4632
+e4f65c68-25c9-4b46-b530-5f922cf37252,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,"Wholesale of dairy products, eggs and edible oils and fats",,,,,,,,4,UK SIC,4633,4633
+48a21ca1-acb4-415c-9981-a5f0895461ff,Group,c4c564f4-68af-4a99-adec-78df5a047bf2,Wholesale of beverages,,,,,,,,4,UK SIC,4634,4634
+3a710776-bea1-4d6c-90d5-528e1c4c77aa,Attribute,48a21ca1-acb4-415c-9981-a5f0895461ff,"Wholesale of fruit and vegetable juices, mineral waters and soft drinks",,,,,,,,5,UK SIC,46341,46341
+0129851e-c431-43c8-8635-376fa6930e41,Attribute,48a21ca1-acb4-415c-9981-a5f0895461ff,"Wholesale of wine, beer, spirits and other alcoholic beverages",,,,,,,,5,UK SIC,46342,46342
+2eb180a8-47e6-45c0-8c1a-66e4e9e32544,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,Wholesale of tobacco products,,,,,,,,4,UK SIC,4635,4635
+27e5d639-abfc-4895-992d-9acfea6b05bd,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,Wholesale of sugar and chocolate and sugar confectionery,,,,,,,,4,UK SIC,4636,4636
+e9633ae5-1a4f-44d3-845f-4a4a4c2bb448,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,"Wholesale of coffee, tea, cocoa and spices",,,,,,,,4,UK SIC,4637,4637
+fa431ffc-b6ec-4491-9e7d-3bb7b9dae54a,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,"Wholesale of other food, including fish, crustaceans and molluscs",,,,,,,,4,UK SIC,4638,4638
+69dda1a5-e38c-4f27-a4e5-e49e41c25450,Attribute,c4c564f4-68af-4a99-adec-78df5a047bf2,"Non-specialised wholesale of food, beverages and tobacco",,,,,,,,4,UK SIC,4639,4639
+eec28c19-6d31-47ec-ba41-c0d8dc215472,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,Wholesale of household goods,,,,,,,,3,UK SIC,46.4,464
+26437cef-6def-46fc-b1e0-996c4bfb1908,Attribute,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of textiles,,,,,,,,4,UK SIC,4641,4641
+465a72e0-f4fc-4231-bbaf-3c521cb8bdbc,Attribute,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of clothing and footwear,,,,,,,,4,UK SIC,4642,4642
+2f072415-dbe2-47a8-a410-38f2677f4bc1,Group,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of electrical household appliances,,,,,,,,4,UK SIC,4643,4643
+3777f2d9-2bf9-4173-8207-589aaab580b6,Attribute,2f072415-dbe2-47a8-a410-38f2677f4bc1,"Wholesale of gramophone records, audio tapes, compact discs and video tapes and of the equipment on which these are played",,,,,,,,5,UK SIC,46431,46431
+3868af3d-9bc1-4452-b541-17ecd02bd4dd,Attribute,2f072415-dbe2-47a8-a410-38f2677f4bc1,"Wholesale of radio and television goods and of electrical household appliances (other than of gramophone records, audio tapes, compact discs and video tapes and the equipment on which these are played) n.e.c.",,,,,,,,5,UK SIC,46439,46439
+b9038dfa-f260-4aa5-a9ea-db648b4e07bf,Attribute,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of china and glassware and cleaning materials,,,,,,,,4,UK SIC,4644,4644
+0fbffdd8-eb1e-4338-bf0b-e94a352202f9,Attribute,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of perfume and cosmetics,,,,,,,,4,UK SIC,4645,4645
+e8acb963-a9e5-4d0b-bc8e-3d766d75b866,Attribute,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of pharmaceutical goods,,,,,,,,4,UK SIC,4646,4646
+d7db2ba1-fc84-48f6-8913-3168a5635a3c,Attribute,eec28c19-6d31-47ec-ba41-c0d8dc215472,"Wholesale of furniture, carpets and lighting equipment",,,,,,,,4,UK SIC,4647,4647
+874030bc-46e9-4427-bb34-371028011dbb,Attribute,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of watches and jewellery,,,,,,,,4,UK SIC,4648,4648
+27db32f7-4a0f-4e30-9f6f-38be40e3b9c2,Group,eec28c19-6d31-47ec-ba41-c0d8dc215472,Wholesale of other household goods,,,,,,,,4,UK SIC,4649,4649
+f990f457-ba5b-4f78-8f7c-1dc3f0eaa1a0,Attribute,27db32f7-4a0f-4e30-9f6f-38be40e3b9c2,Wholesale of musical instruments,,,,,,,,5,UK SIC,46491,46491
+f4f213b1-5ded-4f65-8941-ca2582dcfd8f,Attribute,27db32f7-4a0f-4e30-9f6f-38be40e3b9c2,Wholesale of household goods (other than musical instruments) n.e.c.,,,,,,,,5,UK SIC,46499,46499
+3f922de6-0a13-455a-b4af-df53948a6e18,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,Wholesale of information and communication equipment,,,,,,,,3,UK SIC,46.5,465
+9e6ae83d-a085-4ce2-97f9-0af752df1728,Attribute,3f922de6-0a13-455a-b4af-df53948a6e18,"Wholesale of computers, computer peripheral equipment and software",,,,,,,,4,UK SIC,4651,4651
+a3ecb797-b78b-4966-b92a-6122440d8068,Attribute,3f922de6-0a13-455a-b4af-df53948a6e18,Wholesale of electronic and telecommunications equipment and parts,,,,,,,,4,UK SIC,4652,4652
+92a25b0c-1232-454f-942a-64921dcdbc43,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,"Wholesale of other machinery, equipment and supplies",,,,,,,,3,UK SIC,46.6,466
+fe984110-deeb-4a83-b549-5cd3739cdf6f,Attribute,92a25b0c-1232-454f-942a-64921dcdbc43,"Wholesale of agricultural machinery, equipment and supplies",,,,,,,,4,UK SIC,4661,4661
+226c34be-b0e4-4e09-bd77-f7ea9d382f31,Attribute,92a25b0c-1232-454f-942a-64921dcdbc43,Wholesale of machine tools,,,,,,,,4,UK SIC,4662,4662
+acf94315-c81a-47f8-a6aa-03c488974c46,Attribute,92a25b0c-1232-454f-942a-64921dcdbc43,"Wholesale of mining, construction and civil engineering machinery",,,,,,,,4,UK SIC,4663,4663
+78a804b0-32cc-45ef-994e-85c82cbbc56b,Attribute,92a25b0c-1232-454f-942a-64921dcdbc43,Wholesale of machinery for the textile industry and of sewing and knitting machines,,,,,,,,4,UK SIC,4664,4664
+f72cd290-0a00-4bd7-9b2c-910672ed96ab,Attribute,92a25b0c-1232-454f-942a-64921dcdbc43,Wholesale of office furniture,,,,,,,,4,UK SIC,4665,4665
+2d7789fa-569b-4bb5-b451-90f2a15a85f9,Attribute,92a25b0c-1232-454f-942a-64921dcdbc43,Wholesale of other office machinery and equipment,,,,,,,,4,UK SIC,4666,4666
+0c336b13-f455-49c8-a975-1661c5b99cf8,Attribute,92a25b0c-1232-454f-942a-64921dcdbc43,Wholesale of other machinery and equipment,,,,,,,,4,UK SIC,4669,4669
+1ebb4a6f-7fa0-4b27-94da-471ef861a570,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,Other specialised wholesale,,,,,,,,3,UK SIC,46.7,467
+8c60a88a-bec2-478a-8937-315d26b44f03,Group,1ebb4a6f-7fa0-4b27-94da-471ef861a570,"Wholesale of solid, liquid and gaseous fuels and related products",,,,,,,,4,UK SIC,4671,4671
+fea90717-705d-451b-8261-25398dbb46ff,Attribute,8c60a88a-bec2-478a-8937-315d26b44f03,Wholesale of petroleum and petroleum products,,,,,,,,5,UK SIC,46711,46711
+c8bd23c0-dc8c-45c4-94c3-5ee4196604de,Attribute,8c60a88a-bec2-478a-8937-315d26b44f03,Wholesale of fuels and related products (other than petroleum and petroleum products),,,,,,,,5,UK SIC,46719,46719
+193fd2e6-7250-4f88-8728-9c6b7be49e20,Attribute,1ebb4a6f-7fa0-4b27-94da-471ef861a570,Wholesale of metals and metal ores,,,,,,,,4,UK SIC,4672,4672
+86c709d7-7b85-427b-af00-857a3f964837,Attribute,1ebb4a6f-7fa0-4b27-94da-471ef861a570,"Wholesale of wood, construction materials and sanitary equipment",,,,,,,,4,UK SIC,4673,4673
+b59e52a2-e878-4fe9-9ae1-c045840125cf,Attribute,1ebb4a6f-7fa0-4b27-94da-471ef861a570,"Wholesale of hardware, plumbing and heating equipment and supplies",,,,,,,,4,UK SIC,4674,4674
+b4029882-1c7e-428b-a51b-0280e483c47f,Attribute,1ebb4a6f-7fa0-4b27-94da-471ef861a570,Wholesale of chemical products,,,,,,,,4,UK SIC,4675,4675
+32e2b556-55bc-4fbe-bc66-4aafbca8781f,Attribute,1ebb4a6f-7fa0-4b27-94da-471ef861a570,Wholesale of other intermediate products,,,,,,,,4,UK SIC,4676,4676
+5e409ae8-d3fa-43ab-8e01-2dc72ecffd7d,Attribute,1ebb4a6f-7fa0-4b27-94da-471ef861a570,Wholesale of waste and scrap,,,,,,,,4,UK SIC,4677,4677
+18fc7506-5a64-4fe1-818b-f972b20db982,Group,2763f8ef-a21c-413d-a647-9cdc995e3b01,Non-specialised wholesale trade,,,,,,,,3,UK SIC,46.9,469
+975f5eaa-ae27-46ed-a9f2-e9983754e6dd,Attribute,18fc7506-5a64-4fe1-818b-f972b20db982,Non-specialised wholesale trade,,,,,,,,4,UK SIC,4690,4690
+3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Group,ea18c500-0fa6-4659-b0be-8dec0d2e449a,"Retail trade, except of motor vehicles and motorcycles",,,,,,,,2,UK SIC,47,47
+bc2dd37a-cbea-438b-97b4-425f1244e5e7,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Retail sale in non-specialised stores,,,,,,,,3,UK SIC,47.1,471
+4de767ff-e3ea-40ee-a611-7bb3ba06afcb,Attribute,bc2dd37a-cbea-438b-97b4-425f1244e5e7,"Retail sale in non-specialised stores with food, beverages or tobacco predominating",,,,,,,,4,UK SIC,4711,4711
+ad2e3e08-c9c0-4ab5-9fad-49c90aebacb8,Attribute,bc2dd37a-cbea-438b-97b4-425f1244e5e7,Other retail sale in non-specialised stores,,,,,,,,4,UK SIC,4719,4719
+7c9366f6-896a-4e5f-9204-a4cddfd0e79b,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,"Retail sale of food, beverages and tobacco in specialised stores",,,,,,,,3,UK SIC,47.2,472
+fbcafb3a-c909-4f4c-bee8-4e6725553bd2,Attribute,7c9366f6-896a-4e5f-9204-a4cddfd0e79b,Retail sale of fruit and vegetables in specialised stores,,,,,,,,4,UK SIC,4721,4721
+799fce51-e6f6-4c33-9f02-9e3fa651e84c,Attribute,7c9366f6-896a-4e5f-9204-a4cddfd0e79b,Retail sale of meat and meat products in specialised stores,,,,,,,,4,UK SIC,4722,4722
+7fe9c006-2fb9-4438-bc4f-80bc1a64f708,Attribute,7c9366f6-896a-4e5f-9204-a4cddfd0e79b,"Retail sale of fish, crustaceans and molluscs in specialised stores",,,,,,,,4,UK SIC,4723,4723
+c21dbf03-6b22-4efa-be9d-3fe4cdaa64db,Attribute,7c9366f6-896a-4e5f-9204-a4cddfd0e79b,"Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores",,,,,,,,4,UK SIC,4724,4724
+451df531-b4d6-4ba4-b0ed-cfe0ee252078,Attribute,7c9366f6-896a-4e5f-9204-a4cddfd0e79b,Retail sale of beverages in specialised stores,,,,,,,,4,UK SIC,4725,4725
+45e0a2d5-093c-4a44-9f81-860c33afd7ee,Attribute,7c9366f6-896a-4e5f-9204-a4cddfd0e79b,Retail sale of tobacco products in specialised stores,,,,,,,,4,UK SIC,4726,4726
+92c35798-a009-461c-8785-6dbf52c03b50,Attribute,7c9366f6-896a-4e5f-9204-a4cddfd0e79b,Other retail sale of food in specialised stores,,,,,,,,4,UK SIC,4729,4729
+b363d136-a6c0-4950-a50a-facd229d20c1,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Retail sale of automotive fuel in specialised stores,,,,,,,,3,UK SIC,47.3,473
+af01c56d-4e12-417a-84a0-1848972eeff1,Attribute,b363d136-a6c0-4950-a50a-facd229d20c1,Retail sale of automotive fuel in specialised stores,,,,,,,,4,UK SIC,4730,4730
+dc9ead9e-5a52-407c-9ddb-a2d3bc4c0607,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Retail sale of information and communication equipment in specialised stores,,,,,,,,3,UK SIC,47.4,474
+0fa05560-ef09-4bcb-90f6-c34272297979,Attribute,dc9ead9e-5a52-407c-9ddb-a2d3bc4c0607,"Retail sale of computers, peripheral units and software in specialised stores",,,,,,,,4,UK SIC,4741,4741
+dd0621f2-0016-4cf0-baa1-40fc2abb50ab,Group,dc9ead9e-5a52-407c-9ddb-a2d3bc4c0607,Retail sale of telecommunications equipment in specialised stores,,,,,,,,4,UK SIC,4742,4742
+e07ea8c8-4d66-4885-b151-a9bb1bbbfd45,Attribute,dd0621f2-0016-4cf0-baa1-40fc2abb50ab,Retail sale of mobile telephones in specialised stores,,,,,,,,5,UK SIC,47421,47421
+f5556629-cc87-4fd4-be54-3c7a24ebcac0,Attribute,dd0621f2-0016-4cf0-baa1-40fc2abb50ab,"Retail sale of telecommunications equipment (other than mobile telephones) n.e.c., in specialised stores",,,,,,,,5,UK SIC,47429,47429
+7fb76e5e-e25e-4393-b52f-d0b6d0be0f1e,Attribute,dc9ead9e-5a52-407c-9ddb-a2d3bc4c0607,Retail sale of audio and video equipment in specialised stores,,,,,,,,4,UK SIC,4743,4743
+9aceb84f-f713-4c16-92bd-242227316bcc,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Retail sale of other household equipment in specialised stores,,,,,,,,3,UK SIC,47.5,475
+50224fac-799f-4593-9b55-245a053d18ec,Attribute,9aceb84f-f713-4c16-92bd-242227316bcc,Retail sale of textiles in specialised stores,,,,,,,,4,UK SIC,4751,4751
+5ce599b4-8a69-406c-ae85-0846a1534de8,Attribute,9aceb84f-f713-4c16-92bd-242227316bcc,"Retail sale of hardware, paints and glass in specialised stores",,,,,,,,4,UK SIC,4752,4752
+5fcaa5af-daef-432b-ba34-3e6b4659d350,Attribute,9aceb84f-f713-4c16-92bd-242227316bcc,"Retail sale of carpets, rugs, wall and floor coverings in specialised stores",,,,,,,,4,UK SIC,4753,4753
+f3b53328-d823-4ba9-a797-5592d4828d0e,Attribute,9aceb84f-f713-4c16-92bd-242227316bcc,Retail sale of electrical household appliances in specialised stores,,,,,,,,4,UK SIC,4754,4754
+775f577e-361f-43c3-9a37-e023fcf0a986,Group,9aceb84f-f713-4c16-92bd-242227316bcc,"Retail sale of furniture, lighting equipment and other household articles in specialised stores",,,,,,,,4,UK SIC,4759,4759
+bf4da092-6c24-41e7-abdd-498cb4ff68d7,Attribute,775f577e-361f-43c3-9a37-e023fcf0a986,Retail sale of musical instruments and scores in specialised stores,,,,,,,,5,UK SIC,47591,47591
+f7944df9-9984-4f8c-a716-809fa3a55efa,Attribute,775f577e-361f-43c3-9a37-e023fcf0a986,"Retail sale of furniture, lighting equipment and other household articles (other than musical instruments) n.e.c., in specialised stores",,,,,,,,5,UK SIC,47599,47599
+29ad1347-a859-49ee-ad5a-e182ceb3ed71,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Retail sale of cultural and recreation goods in specialised stores,,,,,,,,3,UK SIC,47.6,476
+d9550323-080e-4b21-8b9a-f297fbb49a7c,Attribute,29ad1347-a859-49ee-ad5a-e182ceb3ed71,Retail sale of books in specialised stores,,,,,,,,4,UK SIC,4761,4761
+e0bd2023-625e-4a6a-b4a1-f254343e9a3f,Attribute,29ad1347-a859-49ee-ad5a-e182ceb3ed71,Retail sale of newspapers and stationery in specialised stores,,,,,,,,4,UK SIC,4762,4762
+07563223-ea65-4bd4-86ca-8d7bc9d57749,Attribute,29ad1347-a859-49ee-ad5a-e182ceb3ed71,Retail sale of music and video recordings in specialised stores,,,,,,,,4,UK SIC,4763,4763
+4a0d3bf5-258d-4f8c-b62e-f64486405e7e,Attribute,29ad1347-a859-49ee-ad5a-e182ceb3ed71,Retail sale of sporting equipment in specialised stores,,,,,,,,4,UK SIC,4764,4764
+70a4763f-25b1-474f-8e20-ad177376fa1a,Attribute,29ad1347-a859-49ee-ad5a-e182ceb3ed71,Retail sale of games and toys in specialised stores,,,,,,,,4,UK SIC,4765,4765
+5dba646d-d7ec-43a7-b396-cb9b6c40db24,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Retail sale of other goods in specialised stores,,,,,,,,3,UK SIC,47.7,477
+ef50d6f4-bbe1-49ee-829a-1a183edbcd40,Attribute,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Retail sale of clothing in specialised stores,,,,,,,,4,UK SIC,4771,4771
+7289fa24-5519-4535-af9d-c7dfadcc9d39,Group,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Retail sale of footwear and leather goods in specialised stores,,,,,,,,4,UK SIC,4772,4772
+8153d89d-9947-4932-a34d-56e78bb1d504,Attribute,7289fa24-5519-4535-af9d-c7dfadcc9d39,Retail sale of footwear in specialised stores,,,,,,,,5,UK SIC,47721,47721
+04e9362a-3ec0-4e03-9dd5-801e6476437f,Attribute,7289fa24-5519-4535-af9d-c7dfadcc9d39,Retail sale of leather goods in specialised stores,,,,,,,,5,UK SIC,47722,47722
+23f2ace2-3032-49e0-a9c0-3c05d2770d70,Attribute,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Dispensing chemist in specialised stores,,,,,,,,4,UK SIC,4773,4773
+b12b24f4-7c71-42b0-93ff-91aef4ffbdce,Group,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Retail sale of medical and orthopaedic goods in specialised stores,,,,,,,,4,UK SIC,4774,4774
+4136f652-80bd-4501-9a7b-a673cd0f56d7,Attribute,b12b24f4-7c71-42b0-93ff-91aef4ffbdce,Retail sale of hearing aids in specialised stores,,,,,,,,5,UK SIC,47741,47741
+d5d36405-1128-4e11-85e8-e4692bc29c6b,Attribute,b12b24f4-7c71-42b0-93ff-91aef4ffbdce,"Retail sale of medical and orthopaedic goods (other than hearing aids) n.e.c., in specialised stores",,,,,,,,5,UK SIC,47749,47749
+b9c4696f-f0d5-4d24-8a70-3f833a4ec863,Attribute,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Retail sale of cosmetic and toilet articles in specialised stores,,,,,,,,4,UK SIC,4775,4775
+d1989e13-85f7-45ce-94f4-46491db6655a,Attribute,5dba646d-d7ec-43a7-b396-cb9b6c40db24,"Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores",,,,,,,,4,UK SIC,4776,4776
+f0334116-4c2c-4969-9e97-9f82a9be8e16,Attribute,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Retail sale of watches and jewellery in specialised stores,,,,,,,,4,UK SIC,4777,4777
+772d29ee-8b06-4c90-b542-266ce8c606bd,Group,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Other retail sale of new goods in specialised stores,,,,,,,,4,UK SIC,4778,4778
+0d260e18-00d9-495b-a4f9-bb1f1930ffad,Attribute,772d29ee-8b06-4c90-b542-266ce8c606bd,Retail sale in commercial art galleries,,,,,,,,5,UK SIC,47781,47781
+102fd3b8-d8c5-4b3d-9519-9704eb82bd96,Attribute,772d29ee-8b06-4c90-b542-266ce8c606bd,Retail sale by opticians,,,,,,,,5,UK SIC,47782,47782
+e81f4d69-9446-4ecd-83ad-bb56f8228d0a,Attribute,772d29ee-8b06-4c90-b542-266ce8c606bd,"Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries), n.e.c",,,,,,,,5,UK SIC,47789,47789
+a73254fc-8183-40a7-a576-73af281b1b4a,Group,5dba646d-d7ec-43a7-b396-cb9b6c40db24,Retail sale of second-hand goods in stores,,,,,,,,4,UK SIC,4779,4779
+3903eafd-604a-4ea3-ac4b-a8624e3bc5f6,Attribute,a73254fc-8183-40a7-a576-73af281b1b4a,"Retail sale of antiques including antique books, in stores",,,,,,,,5,UK SIC,47791,47791
+b20b432b-1dde-4f90-8d65-9592a677a60c,Attribute,a73254fc-8183-40a7-a576-73af281b1b4a,Retail sale of second-hand goods (other than antiques and antique books) in stores,,,,,,,,5,UK SIC,47799,47799
+bff84aa2-359d-4604-983c-9eee72fba854,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,Retail sale via stalls and markets,,,,,,,,3,UK SIC,47.8,478
+a4815172-d2e4-4c0e-a11b-13474f2d4398,Attribute,bff84aa2-359d-4604-983c-9eee72fba854,"Retail sale via stalls and markets of food, beverages and tobacco products",,,,,,,,4,UK SIC,4781,4781
+e53d6d67-ae1f-4700-8133-7220f232d3f5,Attribute,bff84aa2-359d-4604-983c-9eee72fba854,"Retail sale via stalls and markets of textiles, clothing and footwear",,,,,,,,4,UK SIC,4782,4782
+be5ab00b-c97e-4f3b-a8c0-2aaecbbb0ffb,Attribute,bff84aa2-359d-4604-983c-9eee72fba854,Retail sale via stalls and markets of other goods,,,,,,,,4,UK SIC,4789,4789
+d8267c46-806d-4e61-a29b-488eef647345,Group,3cdf2b77-d3c7-469b-b660-ba9d25326a3b,"Retail trade not in stores, stalls or markets",,,,,,,,3,UK SIC,47.9,479
+42dc300e-9755-4eaf-b6e6-6e3ff879cfc5,Attribute,d8267c46-806d-4e61-a29b-488eef647345,Retail sale via mail order houses or via Internet,,,,,,,,4,UK SIC,4791,4791
+c89ec07a-d569-4df9-9132-679cfcdc99d5,Attribute,d8267c46-806d-4e61-a29b-488eef647345,"Other retail sale not in stores, stalls or markets",,,,,,,,4,UK SIC,4799,4799
+86b3397a-b49e-43a0-9bf5-911e42dd6c58,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,TRANSPORTATION AND STORAGE,,,,,,,,1,UK SIC,H,
+6ce4cf40-6a00-402f-b9a3-97f8aceb6ffe,Group,86b3397a-b49e-43a0-9bf5-911e42dd6c58,Land transport and transport via pipelines,,,,,,,,2,UK SIC,49,49
+888f3436-3623-432c-bf6e-3a3701557ed8,Group,6ce4cf40-6a00-402f-b9a3-97f8aceb6ffe,"Passenger rail transport, interurban",,,,,,,,3,UK SIC,49.1,491
+8322efb1-29b8-4cab-8ced-36e0435f2ab1,Attribute,888f3436-3623-432c-bf6e-3a3701557ed8,"Passenger rail transport, interurban",,,,,,,,4,UK SIC,4910,4910
+334cf5d6-5fdc-49bf-835b-ffd6f5f075c8,Group,6ce4cf40-6a00-402f-b9a3-97f8aceb6ffe,Freight rail transport,,,,,,,,3,UK SIC,49.2,492
+5dd08cd1-22a5-43d2-84a9-2483e62c28aa,Attribute,334cf5d6-5fdc-49bf-835b-ffd6f5f075c8,Freight rail transport,,,,,,,,4,UK SIC,4920,4920
+4e65a9f4-03db-42c2-a764-5a7331463b77,Group,6ce4cf40-6a00-402f-b9a3-97f8aceb6ffe,Other passenger land transport,,,,,,,,3,UK SIC,49.3,493
+9d70170e-ae24-4590-8dd0-d6a0e0b8ff14,Group,4e65a9f4-03db-42c2-a764-5a7331463b77,Urban and suburban passenger land transport,,,,,,,,4,UK SIC,4931,4931
+d5beb2cc-4484-4029-8d53-0dda3ac86216,Attribute,9d70170e-ae24-4590-8dd0-d6a0e0b8ff14,"Urban, suburban or metropolitan area passenger railway transportation by underground, metro and similar systems",,,,,,,,5,UK SIC,49311,49311
+a537869b-ff3d-43f3-b2fe-1b264c68d37d,Attribute,9d70170e-ae24-4590-8dd0-d6a0e0b8ff14,"Urban, suburban or metropolitan area passenger land transport other than railway transportation by underground, metro and similar systems",,,,,,,,5,UK SIC,49319,49319
+04a01a0a-dcd6-48cb-9b85-383120ac8220,Attribute,4e65a9f4-03db-42c2-a764-5a7331463b77,Taxi operation,,,,,,,,4,UK SIC,4932,4932
+9b45c5bb-a525-41d3-830d-3c6f775a3c90,Attribute,4e65a9f4-03db-42c2-a764-5a7331463b77,Other passenger land transport n.e.c.,,,,,,,,4,UK SIC,4939,4939
+0ca95b12-d337-4ef4-9bd3-d61190e6bbe7,Group,6ce4cf40-6a00-402f-b9a3-97f8aceb6ffe,Freight transport by road and removal services,,,,,,,,3,UK SIC,49.4,494
+b73a42cc-6826-42fa-a564-158a86987b90,Attribute,0ca95b12-d337-4ef4-9bd3-d61190e6bbe7,Freight transport by road,,,,,,,,4,UK SIC,4941,4941
+e95d79f9-f2fb-4b5b-b6d8-eaadb7b86bc8,Attribute,0ca95b12-d337-4ef4-9bd3-d61190e6bbe7,Removal services,,,,,,,,4,UK SIC,4942,4942
+cacbd02f-110f-4a50-8431-4a9e14922bdb,Group,6ce4cf40-6a00-402f-b9a3-97f8aceb6ffe,Transport via pipeline,,,,,,,,3,UK SIC,49.5,495
+f869e6d5-ed9e-4591-9b42-5fe41e7ef6f3,Attribute,cacbd02f-110f-4a50-8431-4a9e14922bdb,Transport via pipeline,,,,,,,,4,UK SIC,4950,4950
+54162acf-4207-4cc9-b580-edce37236b16,Group,86b3397a-b49e-43a0-9bf5-911e42dd6c58,Water transport,,,,,,,,2,UK SIC,50,50
+a7cefb8e-ef9d-4560-8d94-e50b2cb388dd,Group,54162acf-4207-4cc9-b580-edce37236b16,Sea and coastal passenger water transport,,,,,,,,3,UK SIC,50.1,501
+5c5ae980-7e22-4621-b60b-ae58fc2bde6c,Attribute,a7cefb8e-ef9d-4560-8d94-e50b2cb388dd,Sea and coastal passenger water transport,,,,,,,,4,UK SIC,5010,5010
+166cbdfd-c6f0-470b-91c3-484d4e1c84fa,Group,54162acf-4207-4cc9-b580-edce37236b16,Sea and coastal freight water transport,,,,,,,,3,UK SIC,50.2,502
+0c6c2dd4-e47f-435b-a63e-4170a85397cc,Attribute,166cbdfd-c6f0-470b-91c3-484d4e1c84fa,Sea and coastal freight water transport,,,,,,,,4,UK SIC,5020,5020
+0d3c9885-0282-41ce-a4c2-96d2b2c79390,Group,54162acf-4207-4cc9-b580-edce37236b16,Inland passenger water transport,,,,,,,,3,UK SIC,50.3,503
+9bf89591-6e44-4758-9e7f-21069db7ef56,Attribute,0d3c9885-0282-41ce-a4c2-96d2b2c79390,Inland passenger water transport,,,,,,,,4,UK SIC,5030,5030
+2a0704eb-6c5d-4768-a6f5-e6bd1a135c21,Group,54162acf-4207-4cc9-b580-edce37236b16,Inland freight water transport,,,,,,,,3,UK SIC,50.4,504
+1e855bc2-f777-4da0-8279-9705a0592288,Attribute,2a0704eb-6c5d-4768-a6f5-e6bd1a135c21,Inland freight water transport,,,,,,,,4,UK SIC,5040,5040
+33a543f6-cb2f-4dfd-9e32-0e5b87cdf41f,Group,86b3397a-b49e-43a0-9bf5-911e42dd6c58,Air transport,,,,,,,,2,UK SIC,51,51
+55fb3c24-155f-4660-8f7b-0297479f0a35,Group,33a543f6-cb2f-4dfd-9e32-0e5b87cdf41f,Passenger air transport,,,,,,,,3,UK SIC,51.1,511
+9365f772-5b6b-4c73-9887-0d9389d882e5,Group,55fb3c24-155f-4660-8f7b-0297479f0a35,Passenger air transport,,,,,,,,4,UK SIC,5110,5110
+35a24477-437f-4278-ae6b-12707f597e3b,Attribute,9365f772-5b6b-4c73-9887-0d9389d882e5,Scheduled passenger air transport,,,,,,,,5,UK SIC,51101,51101
+0bb68fe7-3bbe-4bbb-8fae-6caa75e3479a,Attribute,9365f772-5b6b-4c73-9887-0d9389d882e5,Non-scheduled passenger air transport,,,,,,,,5,UK SIC,51102,51102
+0822c3be-13e7-41a4-82b8-8417919f373f,Group,33a543f6-cb2f-4dfd-9e32-0e5b87cdf41f,Freight air transport and space transport,,,,,,,,3,UK SIC,51.2,512
+06a89aa4-454d-455d-b185-ddb7a028df72,Attribute,0822c3be-13e7-41a4-82b8-8417919f373f,Freight air transport,,,,,,,,4,UK SIC,5121,5121
+10488525-68f2-4d2c-9b94-6f7b93fbcc01,Attribute,0822c3be-13e7-41a4-82b8-8417919f373f,Space transport,,,,,,,,4,UK SIC,5122,5122
+e814b79b-fb15-4d25-86fa-f54fce464079,Group,86b3397a-b49e-43a0-9bf5-911e42dd6c58,Warehousing and support activities for transportation,,,,,,,,2,UK SIC,52,52
+2f6dd24d-1c55-40a5-b783-18404972b1d8,Group,e814b79b-fb15-4d25-86fa-f54fce464079,Warehousing and storage,,,,,,,,3,UK SIC,52.1,521
+d994e617-3df7-4436-be45-155de5f59919,Group,2f6dd24d-1c55-40a5-b783-18404972b1d8,Warehousing and storage,,,,,,,,4,UK SIC,5210,5210
+b7c8e492-cd9a-47f1-8fb5-c0136b1e6c77,Attribute,d994e617-3df7-4436-be45-155de5f59919,Operation of warehousing and storage facilities for water transport activities of division 50,,,,,,,,5,UK SIC,52101,52101
+5fcd2cfa-fdda-4ccc-a5a0-feab8f240eed,Attribute,d994e617-3df7-4436-be45-155de5f59919,Operation of warehousing and storage facilities for air transport activities of division 51,,,,,,,,5,UK SIC,52102,52102
+6a28b2cb-b69a-4c1f-b449-ceba4022cc27,Attribute,d994e617-3df7-4436-be45-155de5f59919,Operation of warehousing and storage facilities for land transport activities of division 49,,,,,,,,5,UK SIC,52103,52103
+3abe50f2-1c2e-4e7f-8c80-930761a61f85,Group,e814b79b-fb15-4d25-86fa-f54fce464079,Support activities for transportation,,,,,,,,3,UK SIC,52.2,522
+86f708bc-3b5e-49d4-b622-9302c167a7ff,Group,3abe50f2-1c2e-4e7f-8c80-930761a61f85,Service activities incidental to land transportation,,,,,,,,4,UK SIC,5221,5221
+d0855092-5c96-4f38-9546-5af841591b85,Attribute,86f708bc-3b5e-49d4-b622-9302c167a7ff,Operation of rail freight terminals,,,,,,,,5,UK SIC,52211,52211
+93351be6-a99e-461d-b021-68521fb596fb,Attribute,86f708bc-3b5e-49d4-b622-9302c167a7ff,Operation of rail passenger facilities at railway stations,,,,,,,,5,UK SIC,52212,52212
+85b9f5ee-1092-4372-a3a3-1a62fd50226f,Attribute,86f708bc-3b5e-49d4-b622-9302c167a7ff,Operation of bus and coach passenger facilities at bus and coach stations,,,,,,,,5,UK SIC,52213,52213
+fa628a52-e11d-47a2-8ecf-32d6ad260890,Attribute,86f708bc-3b5e-49d4-b622-9302c167a7ff,"Other service activities incidental to land transportation, n.e.c. (not including operation of rail freight terminals, passenger facilities at railway stations or passenger facilities at bus and coach stations)",,,,,,,,5,UK SIC,52219,52219
+375f05a3-214d-49c5-9fc6-71a42df5bce3,Attribute,3abe50f2-1c2e-4e7f-8c80-930761a61f85,Service activities incidental to water transportation,,,,,,,,4,UK SIC,5222,5222
+52047fff-5fd4-4f0c-a7c5-2c9e2d7ab2de,Attribute,3abe50f2-1c2e-4e7f-8c80-930761a61f85,Service activities incidental to air transportation,,,,,,,,4,UK SIC,5223,5223
+ad4c78cd-aa33-4d7a-9b23-2c405554c7fa,Group,3abe50f2-1c2e-4e7f-8c80-930761a61f85,Cargo handling,,,,,,,,4,UK SIC,5224,5224
+e3e37952-9874-4f78-b052-911b8962155c,Attribute,ad4c78cd-aa33-4d7a-9b23-2c405554c7fa,Cargo handling for water transport activities of division 50,,,,,,,,5,UK SIC,52241,52241
+5d59d6a6-b0ef-4797-8690-37f97a230793,Attribute,ad4c78cd-aa33-4d7a-9b23-2c405554c7fa,Cargo handling for air transport activities of division 51,,,,,,,,5,UK SIC,52242,52242
+c8f0bdd0-0465-40cb-ab16-7b5850894086,Attribute,ad4c78cd-aa33-4d7a-9b23-2c405554c7fa,Cargo handling for land transport activities of division 49,,,,,,,,5,UK SIC,52243,52243
+92ef55df-f146-407b-992e-17a6e970c8e2,Attribute,3abe50f2-1c2e-4e7f-8c80-930761a61f85,Other transportation support activities,,,,,,,,4,UK SIC,5229,5229
+4a091985-c82e-4a9e-ab23-37a8237f798a,Group,86b3397a-b49e-43a0-9bf5-911e42dd6c58,Postal and courier activities,,,,,,,,2,UK SIC,53,53
+60a51b9f-c1b7-4876-91d3-5d7b10454623,Group,4a091985-c82e-4a9e-ab23-37a8237f798a,Postal activities under universal service obligation,,,,,,,,3,UK SIC,53.1,531
+a2247e78-7b7d-48f0-8ca2-531a02b7e920,Attribute,60a51b9f-c1b7-4876-91d3-5d7b10454623,Postal activities under universal service obligation,,,,,,,,4,UK SIC,5310,5310
+5d2b45f1-28e9-49d5-9741-f210824edb2a,Group,4a091985-c82e-4a9e-ab23-37a8237f798a,Other postal and courier activities,,,,,,,,3,UK SIC,53.2,532
+594d8c93-f9ce-455c-92f6-d2b9c14b3410,Group,5d2b45f1-28e9-49d5-9741-f210824edb2a,Other postal and courier activities,,,,,,,,4,UK SIC,5320,5320
+c431c51e-56bc-420a-bd40-9a16ded42099,Attribute,594d8c93-f9ce-455c-92f6-d2b9c14b3410,Licensed Carriers,,,,,,,,5,UK SIC,53201,53201
+37b7f70c-d812-4fb9-82cd-890305c2e913,Attribute,594d8c93-f9ce-455c-92f6-d2b9c14b3410,Unlicensed Carriers,,,,,,,,5,UK SIC,53202,53202
+8a802573-16fd-4bc1-95d4-9581fe73c3ab,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,,,,,,,,1,UK SIC,I,
+976e4a92-3716-492c-96f6-c0f743aa3600,Group,8a802573-16fd-4bc1-95d4-9581fe73c3ab,Accommodation,,,,,,,,2,UK SIC,55,55
+530291c6-0d40-47c5-8b69-09afee00585b,Group,976e4a92-3716-492c-96f6-c0f743aa3600,Hotels and similar accommodation,,,,,,,,3,UK SIC,55.1,551
+c68f56c4-1543-4f62-8858-6d637d3ca3de,Attribute,530291c6-0d40-47c5-8b69-09afee00585b,Hotels and similar accommodation,,,,,,,,4,UK SIC,5510,5510
+f7ba991d-e16a-4a2f-af6c-3bab3bf976c9,Group,976e4a92-3716-492c-96f6-c0f743aa3600,Holiday and other short-stay accommodation,,,,,,,,3,UK SIC,55.2,552
+4e3defd5-8a49-455a-acd7-89029a9dfd16,Group,f7ba991d-e16a-4a2f-af6c-3bab3bf976c9,Holiday and other short-stay accommodation,,,,,,,,4,UK SIC,5520,5520
+5098855d-7d26-45ff-8bf0-a2f17b310375,Attribute,4e3defd5-8a49-455a-acd7-89029a9dfd16,Holiday centres and villages,,,,,,,,5,UK SIC,55201,55201
+f9b8397e-a74c-49fc-adfb-45abbd7f782a,Attribute,4e3defd5-8a49-455a-acd7-89029a9dfd16,Youth hostels,,,,,,,,5,UK SIC,55202,55202
+0c303ed4-2acf-4217-9651-4b366607a04d,Attribute,4e3defd5-8a49-455a-acd7-89029a9dfd16,Other holiday and other short-stay accommodation (not including holiday centres and villages or youth hostels) n.e.c.,,,,,,,,5,UK SIC,55209,55209
+2ca4892a-a50b-4560-8c7e-e34cb707ec7f,Group,976e4a92-3716-492c-96f6-c0f743aa3600,"Camping grounds, recreational vehicle parks and trailer parks",,,,,,,,3,UK SIC,55.3,553
+9a2924f6-1c63-42f7-97a0-c09d801cd7d6,Attribute,2ca4892a-a50b-4560-8c7e-e34cb707ec7f,"Camping grounds, recreational vehicle parks and trailer parks",,,,,,,,4,UK SIC,5530,5530
+cfc0b9c8-abe9-40cf-b373-df73945b06d0,Group,976e4a92-3716-492c-96f6-c0f743aa3600,Other accommodation,,,,,,,,3,UK SIC,55.9,559
+bcc1e353-5189-443d-9cb5-bdb3a7720c80,Attribute,cfc0b9c8-abe9-40cf-b373-df73945b06d0,Other accommodation,,,,,,,,4,UK SIC,5590,5590
+03f8acab-9358-488b-a75b-a18e7179ae38,Group,8a802573-16fd-4bc1-95d4-9581fe73c3ab,Food and beverage service activities,,,,,,,,2,UK SIC,56,56
+2bb42e4f-9f7e-4752-8be5-86a96f12a7e1,Group,03f8acab-9358-488b-a75b-a18e7179ae38,Restaurants and mobile food service activities,,,,,,,,3,UK SIC,56.1,561
+7961be0d-18bc-4c40-a5d6-eee59b2fe6b1,Group,2bb42e4f-9f7e-4752-8be5-86a96f12a7e1,Restaurants and mobile food service activities,,,,,,,,4,UK SIC,5610,5610
+6bcb4318-f326-480d-ae57-cf8c10f9d365,Attribute,7961be0d-18bc-4c40-a5d6-eee59b2fe6b1,Licensed restaurants,,,,,,,,5,UK SIC,56101,56101
+85cb0cb3-8863-41fc-9073-9094047ab5d9,Attribute,7961be0d-18bc-4c40-a5d6-eee59b2fe6b1,Unlicensed restaurants and cafes,,,,,,,,5,UK SIC,56102,56102
+20abb614-ef20-49f9-9094-05845162e4cb,Attribute,7961be0d-18bc-4c40-a5d6-eee59b2fe6b1,Take away food shops and mobile food stands,,,,,,,,5,UK SIC,56103,56103
+14401589-2dd6-43ec-ab53-ce19d34b3b23,Group,03f8acab-9358-488b-a75b-a18e7179ae38,Event catering and other food service activities,,,,,,,,3,UK SIC,56.2,562
+b5fd81c0-d5cf-405a-947d-bf8254ee8d51,Attribute,14401589-2dd6-43ec-ab53-ce19d34b3b23,Event catering activities,,,,,,,,4,UK SIC,5621,5621
+55d4230b-339c-4a1a-9000-7c50d3dd224c,Attribute,14401589-2dd6-43ec-ab53-ce19d34b3b23,Other food service activities,,,,,,,,4,UK SIC,5629,5629
+19ca5ec1-4483-4ed1-98b2-7095909b862e,Group,03f8acab-9358-488b-a75b-a18e7179ae38,Beverage serving activities,,,,,,,,3,UK SIC,56.3,563
+4d646737-0827-4798-ba36-e71d61d13343,Group,19ca5ec1-4483-4ed1-98b2-7095909b862e,Beverage serving activities,,,,,,,,4,UK SIC,5630,5630
+67c01c22-f6eb-41e4-af89-30ec621e990b,Attribute,4d646737-0827-4798-ba36-e71d61d13343,Licensed clubs,,,,,,,,5,UK SIC,56301,56301
+a98b5ee3-83ac-4bfa-9c7d-ade84686d347,Attribute,4d646737-0827-4798-ba36-e71d61d13343,Public houses and bars,,,,,,,,5,UK SIC,56302,56302
+4a479b82-a6aa-4bba-8574-f80e95652086,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,INFORMATION AND COMMUNICATION,,,,,,,,1,UK SIC,J,
+3124fe04-3086-4a30-b3a1-4fd2b7dea829,Group,4a479b82-a6aa-4bba-8574-f80e95652086,Publishing activities,,,,,,,,2,UK SIC,58,58
+d9afaf86-7a5c-4cde-927e-0cfc9d9d9cbc,Group,3124fe04-3086-4a30-b3a1-4fd2b7dea829,"Publishing of books, periodicals and other publishing activities",,,,,,,,3,UK SIC,58.1,581
+a6011446-ebaa-428e-ab94-2a7dce5c1de9,Attribute,d9afaf86-7a5c-4cde-927e-0cfc9d9d9cbc,Book publishing,,,,,,,,4,UK SIC,5811,5811
+a4a2696c-f030-477f-b040-fa0a288efd7d,Attribute,d9afaf86-7a5c-4cde-927e-0cfc9d9d9cbc,Publishing of directories and mailing lists,,,,,,,,4,UK SIC,5812,5812
+5ae3b660-daaa-444b-a43e-e9c76fdfbca1,Attribute,d9afaf86-7a5c-4cde-927e-0cfc9d9d9cbc,Publishing of newspapers,,,,,,,,4,UK SIC,5813,5813
+fea36438-ae95-4fb5-aa79-60fe23670c08,Group,d9afaf86-7a5c-4cde-927e-0cfc9d9d9cbc,Publishing of journals and periodicals,,,,,,,,4,UK SIC,5814,5814
+ff39f272-d2fb-4743-bf86-eeebc87a74a3,Attribute,fea36438-ae95-4fb5-aa79-60fe23670c08,Publishing of learned journals,,,,,,,,5,UK SIC,58141,58141
+b4e6f8c8-ca7d-4669-96e7-0a309edb3154,Attribute,fea36438-ae95-4fb5-aa79-60fe23670c08,"Publishing of consumer, business and professional journals and periodicals",,,,,,,,5,UK SIC,58142,58142
+b8fbee4b-3681-49f3-86c3-7cb1cb961d3f,Attribute,d9afaf86-7a5c-4cde-927e-0cfc9d9d9cbc,Other publishing activities,,,,,,,,4,UK SIC,5819,5819
+3d0f5cd4-afae-4e9c-a4c3-130b4d16736a,Group,3124fe04-3086-4a30-b3a1-4fd2b7dea829,Software publishing,,,,,,,,3,UK SIC,58.2,582
+901dcfbb-51da-4db8-9cb0-a1f729ee0536,Attribute,3d0f5cd4-afae-4e9c-a4c3-130b4d16736a,Publishing of computer games,,,,,,,,4,UK SIC,5821,5821
+e4026575-0dc9-4cd7-95e5-547c016d6e21,Attribute,3d0f5cd4-afae-4e9c-a4c3-130b4d16736a,Other software publishing,,,,,,,,4,UK SIC,5829,5829
+e10ab1a3-7522-447d-b93b-2246e506ff60,Group,4a479b82-a6aa-4bba-8574-f80e95652086,"Motion picture, video and television programme production, sound recording and music publishing activities",,,,,,,,2,UK SIC,59,59
+099c9e77-8be4-4045-a208-45c53feec27f,Group,e10ab1a3-7522-447d-b93b-2246e506ff60,"Motion picture, video and television programme activities",,,,,,,,3,UK SIC,59.1,591
+51f76821-7e90-4318-8e2f-ea0262cdaa2e,Group,099c9e77-8be4-4045-a208-45c53feec27f,"Motion picture, video and television programme production activities",,,,,,,,4,UK SIC,5911,5911
+813217d9-0583-400c-bc04-7336259939d1,Attribute,51f76821-7e90-4318-8e2f-ea0262cdaa2e,Motion picture production activities,,,,,,,,5,UK SIC,59111,59111
+fe3bd0b6-6dd4-4afa-b6a7-ba72b783d7b3,Attribute,51f76821-7e90-4318-8e2f-ea0262cdaa2e,Video production activities,,,,,,,,5,UK SIC,59112,59112
+c1ba142a-e04f-406f-bef1-5f363fbcef8b,Attribute,51f76821-7e90-4318-8e2f-ea0262cdaa2e,Television programme production activities,,,,,,,,5,UK SIC,59113,59113
+611f125f-2c9c-44f5-b19c-ab53ea571906,Attribute,099c9e77-8be4-4045-a208-45c53feec27f,"Motion picture, video and television programme post-production activities",,,,,,,,4,UK SIC,5912,5912
+9851e23e-bca2-4060-9a71-0df7683f6dcc,Group,099c9e77-8be4-4045-a208-45c53feec27f,"Motion picture, video and television programme distribution activities",,,,,,,,4,UK SIC,5913,5913
+968b237a-cdba-4679-b16d-99fc3d07e679,Attribute,9851e23e-bca2-4060-9a71-0df7683f6dcc,Motion picture distribution activities,,,,,,,,5,UK SIC,59131,59131
+e98550fb-355e-47f6-8006-fd1b0c51aa4b,Attribute,9851e23e-bca2-4060-9a71-0df7683f6dcc,Video distribution activities,,,,,,,,5,UK SIC,59132,59132
+cd13fcec-da29-4b63-bc3a-bbc020190efa,Attribute,9851e23e-bca2-4060-9a71-0df7683f6dcc,Television programme distribution activities,,,,,,,,5,UK SIC,59133,59133
+a5b2136a-dd0f-4abf-9d92-f5b9735dc39b,Attribute,099c9e77-8be4-4045-a208-45c53feec27f,Motion picture projection activities,,,,,,,,4,UK SIC,5914,5914
+096daf46-516d-429a-8fba-6cfb961fa444,Group,e10ab1a3-7522-447d-b93b-2246e506ff60,Sound recording and music publishing activities,,,,,,,,3,UK SIC,59.2,592
+5756b370-1e04-4c6e-b6e1-f02968d32d68,Attribute,096daf46-516d-429a-8fba-6cfb961fa444,Sound recording and music publishing activities,,,,,,,,4,UK SIC,5920,5920
+f558bafc-58f1-4432-b4e5-fdbda617f396,Group,4a479b82-a6aa-4bba-8574-f80e95652086,Programming and broadcasting activities,,,,,,,,2,UK SIC,60,60
+4c560d07-c3eb-42af-b9c4-8b8608db92d6,Group,f558bafc-58f1-4432-b4e5-fdbda617f396,Radio broadcasting,,,,,,,,3,UK SIC,60.1,601
+ea8a359c-ccc8-4e5d-b0f9-8414f32007b0,Attribute,4c560d07-c3eb-42af-b9c4-8b8608db92d6,Radio broadcasting,,,,,,,,4,UK SIC,6010,6010
+4a9e8be2-c20e-43d1-a066-af136e3dcb46,Group,f558bafc-58f1-4432-b4e5-fdbda617f396,Television programming and broadcasting activities,,,,,,,,3,UK SIC,60.2,602
+f15878b2-da4d-4ff2-8dc7-123daa9a7645,Attribute,4a9e8be2-c20e-43d1-a066-af136e3dcb46,Television programming and broadcasting activities,,,,,,,,4,UK SIC,6020,6020
+dd8a4947-6055-4744-9447-64121fb6b9bb,Group,4a479b82-a6aa-4bba-8574-f80e95652086,Telecommunications,,,,,,,,2,UK SIC,61,61
+7cd30867-b263-480b-b3ab-04bff81c48fd,Group,dd8a4947-6055-4744-9447-64121fb6b9bb,Wired telecommunications activities,,,,,,,,3,UK SIC,61.1,611
+128136f9-6dcc-420e-842c-57a3cdd78404,Attribute,7cd30867-b263-480b-b3ab-04bff81c48fd,Wired telecommunications activities,,,,,,,,4,UK SIC,6110,6110
+a3f88715-c264-4d5b-b4eb-a221ff8b8bfd,Group,dd8a4947-6055-4744-9447-64121fb6b9bb,Wireless telecommunications activities,,,,,,,,3,UK SIC,61.2,612
+43820e64-f65f-46aa-8582-f0ad0f8733bf,Attribute,a3f88715-c264-4d5b-b4eb-a221ff8b8bfd,Wireless telecommunications activities,,,,,,,,4,UK SIC,6120,6120
+23266347-1b51-4d42-84f9-d12f763cf77b,Group,dd8a4947-6055-4744-9447-64121fb6b9bb,Satellite telecommunications activities,,,,,,,,3,UK SIC,61.3,613
+300645d9-f335-4948-9a82-1d0eaeaec26b,Attribute,23266347-1b51-4d42-84f9-d12f763cf77b,Satellite telecommunications activities,,,,,,,,4,UK SIC,6130,6130
+ab65125f-41e8-4696-ab22-9793d666fcb9,Group,dd8a4947-6055-4744-9447-64121fb6b9bb,Other telecommunications activities,,,,,,,,3,UK SIC,61.9,619
+449c3413-db41-4e5a-9e26-f6416683c043,Attribute,ab65125f-41e8-4696-ab22-9793d666fcb9,Other telecommunications activities,,,,,,,,4,UK SIC,6190,6190
+77d4176e-9d57-4d5d-a7fe-25ea4c7d88ef,Group,4a479b82-a6aa-4bba-8574-f80e95652086,"Computer programming, consultancy and related activities",,,,,,,,2,UK SIC,62,62
+bb9713e4-80a8-4a87-a265-f92a859f32ad,Group,77d4176e-9d57-4d5d-a7fe-25ea4c7d88ef,"Computer programming, consultancy and related activities",,,,,,,,3,UK SIC,62,62
+f2075cae-25f8-46a5-8f62-e80db98a6f28,Group,bb9713e4-80a8-4a87-a265-f92a859f32ad,Computer programming activities,,,,,,,,4,UK SIC,6201,6201
+f2e154e2-96e5-4f23-a58f-e5787defe549,Attribute,f2075cae-25f8-46a5-8f62-e80db98a6f28,Ready-made interactive leisure and entertainment software development,,,,,,,,5,UK SIC,62011,62011
+62ecbb02-40d1-42c5-ac0f-56571a1e0502,Attribute,f2075cae-25f8-46a5-8f62-e80db98a6f28,Business and domestic software development,,,,,,,,5,UK SIC,62012,62012
+89f161ae-9189-443d-8230-313261cabc8e,Attribute,bb9713e4-80a8-4a87-a265-f92a859f32ad,Computer consultancy activities,,,,,,,,4,UK SIC,6202,6202
+db3f8ca2-18e8-456a-9b4b-444b9376db02,Attribute,bb9713e4-80a8-4a87-a265-f92a859f32ad,Computer facilities management activities,,,,,,,,4,UK SIC,6203,6203
+3890b8aa-97c7-4728-9db0-a80923893474,Attribute,bb9713e4-80a8-4a87-a265-f92a859f32ad,Other information technology and computer service activities,,,,,,,,4,UK SIC,6209,6209
+80b04d68-52fd-4006-91d9-e428ccae0c77,Group,4a479b82-a6aa-4bba-8574-f80e95652086,Information service activities,,,,,,,,2,UK SIC,63,63
+e79d88ff-e311-4f0c-b200-80edd7d6233d,Group,80b04d68-52fd-4006-91d9-e428ccae0c77,"Data processing, hosting and related activities; web portals",,,,,,,,3,UK SIC,63.1,631
+3e047238-027f-471c-96b0-a35dd9e041aa,Attribute,e79d88ff-e311-4f0c-b200-80edd7d6233d,"Data processing, hosting and related activities",,,,,,,,4,UK SIC,6311,6311
+a9a3b94a-fb3f-44d6-93d9-2762dcb0e5c2,Attribute,e79d88ff-e311-4f0c-b200-80edd7d6233d,Web portals,,,,,,,,4,UK SIC,6312,6312
+90eb1b77-af32-4582-98f1-501251c31874,Group,80b04d68-52fd-4006-91d9-e428ccae0c77,Other information service activities,,,,,,,,3,UK SIC,63.9,639
+3f835e56-daf1-44cf-ba07-eb3d64cbce01,Attribute,90eb1b77-af32-4582-98f1-501251c31874,News agency activities,,,,,,,,4,UK SIC,6391,6391
+5981a7f4-8ce1-485c-9f08-c55b0767bd58,Attribute,90eb1b77-af32-4582-98f1-501251c31874,Other information service activities n.e.c.,,,,,,,,4,UK SIC,6399,6399
+1c9b86f2-de29-4772-89bb-6e6741b713fe,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,FINANCIAL AND INSURANCE ACTIVITIES,,,,,,,,1,UK SIC,K,
+85158940-4f3d-48b9-ba61-77ecb877d87a,Group,1c9b86f2-de29-4772-89bb-6e6741b713fe,"Financial service activities, except insurance and pension funding",,,,,,,,2,UK SIC,64,64
+fc14e3a1-f7cd-4c29-ad47-feab52951afa,Group,85158940-4f3d-48b9-ba61-77ecb877d87a,Monetary intermediation,,,,,,,,3,UK SIC,64.1,641
+addb7954-b126-4842-aba5-4db0e63e7c18,Attribute,fc14e3a1-f7cd-4c29-ad47-feab52951afa,Central banking,,,,,,,,4,UK SIC,6411,6411
+7161a0f8-36e8-4644-9e28-53ff29885cae,Group,fc14e3a1-f7cd-4c29-ad47-feab52951afa,Other monetary intermediation,,,,,,,,4,UK SIC,6419,6419
+efca9695-656d-4ba3-8f1b-60723ae6b413,Attribute,7161a0f8-36e8-4644-9e28-53ff29885cae,Banks,,,,,,,,5,UK SIC,64191,64191
+688946ef-8cd7-40cd-b797-bd3572afc31d,Attribute,7161a0f8-36e8-4644-9e28-53ff29885cae,Building societies,,,,,,,,5,UK SIC,64192,64192
+dff586ff-6941-4b44-bc42-e6b385b92332,Group,85158940-4f3d-48b9-ba61-77ecb877d87a,Activities of holding companies,,,,,,,,3,UK SIC,64.2,642
+0f706bde-cd5a-47bb-804b-32bf48a35ce7,Group,dff586ff-6941-4b44-bc42-e6b385b92332,Activities of holding companies,,,,,,,,4,UK SIC,6420,6420
+36d8d153-7571-432d-b7f6-b49ccbcde5d3,Attribute,0f706bde-cd5a-47bb-804b-32bf48a35ce7,Activities of agricultural holding companies,,,,,,,,5,UK SIC,64201,64201
+d135674e-5d68-478d-b045-d488a4790eaa,Attribute,0f706bde-cd5a-47bb-804b-32bf48a35ce7,Activities of production holding companies,,,,,,,,5,UK SIC,64202,64202
+c14a50a8-02c8-4674-8a09-fce37e66cc47,Attribute,0f706bde-cd5a-47bb-804b-32bf48a35ce7,Activities of construction holding companies,,,,,,,,5,UK SIC,64203,64203
+f24927bc-c772-455a-aef5-df634677de5a,Attribute,0f706bde-cd5a-47bb-804b-32bf48a35ce7,Activities of distribution holding companies,,,,,,,,5,UK SIC,64204,64204
+1dc37cc9-c441-4f7f-a114-0c053d8a3e20,Attribute,0f706bde-cd5a-47bb-804b-32bf48a35ce7,Activities of financial services holding companies,,,,,,,,5,UK SIC,64205,64205
+0c56874a-283f-45dc-8936-0a59d487dc95,Attribute,0f706bde-cd5a-47bb-804b-32bf48a35ce7,"Activities of other holding companies (not including agricultural, production, construction, distribution and financial services holding companies) n.e.c.",,,,,,,,5,UK SIC,64209,64209
+9594fce9-e911-493c-89ec-85ff1f489c00,Group,85158940-4f3d-48b9-ba61-77ecb877d87a,"Trusts, funds and similar financial entities",,,,,,,,3,UK SIC,64.3,643
+fc3ab42f-fb20-480a-a2d4-f43727041b00,Group,9594fce9-e911-493c-89ec-85ff1f489c00,"Trusts, funds and similar financial entities",,,,,,,,4,UK SIC,6430,6430
+6eb89b71-1a65-4934-b541-02df62ddf137,Attribute,fc3ab42f-fb20-480a-a2d4-f43727041b00,Activities of investment trusts,,,,,,,,5,UK SIC,64301,64301
+d1c403c5-eca6-4f10-a634-33cd20041354,Attribute,fc3ab42f-fb20-480a-a2d4-f43727041b00,Activities of unit trusts,,,,,,,,5,UK SIC,64302,64302
+aba9aa0f-970f-4225-ae7f-e25f484c38e1,Attribute,fc3ab42f-fb20-480a-a2d4-f43727041b00,Activities of venture and development capital companies,,,,,,,,5,UK SIC,64303,64303
+2a960e4e-6497-48d3-8972-10825028a15f,Attribute,fc3ab42f-fb20-480a-a2d4-f43727041b00,Activities of open-ended investment companies,,,,,,,,5,UK SIC,64304,64304
+dc138492-620b-474d-8548-f9d7af395541,Attribute,fc3ab42f-fb20-480a-a2d4-f43727041b00,Activities of property unit trusts,,,,,,,,5,UK SIC,64305,64305
+cdc04bcb-b583-4b41-91d5-81ec7bb38aad,Attribute,fc3ab42f-fb20-480a-a2d4-f43727041b00,Activities of real estate investment trusts,,,,,,,,5,UK SIC,64306,64306
+718a0460-55ae-4b12-865a-eef198677f67,Group,85158940-4f3d-48b9-ba61-77ecb877d87a,"Other financial service activities, except insurance and pension funding",,,,,,,,3,UK SIC,64.9,649
+0364f41a-3d91-47a9-9a43-1c166ec7cca9,Attribute,718a0460-55ae-4b12-865a-eef198677f67,Financial leasing,,,,,,,,4,UK SIC,6491,6491
+245d65fb-3f8b-4dd0-8922-7e2b1a1185d0,Group,718a0460-55ae-4b12-865a-eef198677f67,Other credit granting,,,,,,,,4,UK SIC,6492,6492
+592da0c8-8eae-4b87-999a-afef857382ce,Attribute,245d65fb-3f8b-4dd0-8922-7e2b1a1185d0,Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors,,,,,,,,5,UK SIC,64921,64921
+c26a35be-7d60-464d-be35-33d117cdeeb6,Attribute,245d65fb-3f8b-4dd0-8922-7e2b1a1185d0,Activities of mortgage finance companies,,,,,,,,5,UK SIC,64922,64922
+b0584b91-8c24-4466-bef1-6004b965efe2,Attribute,245d65fb-3f8b-4dd0-8922-7e2b1a1185d0,Other credit granting (not including credit granting by non-deposit taking finance houses and other specialist consumer credit grantors and activities of mortgage finance companies) n.e.c.,,,,,,,,5,UK SIC,64929,64929
+f2912f0b-677e-41ba-bba0-073098eab5f8,Group,718a0460-55ae-4b12-865a-eef198677f67,"Other financial service activities, except insurance and pension funding, n.e.c.",,,,,,,,4,UK SIC,6499,6499
+1bbd403e-764b-41b1-8989-ec51bdae1734,Attribute,f2912f0b-677e-41ba-bba0-073098eab5f8,Security dealing on own account,,,,,,,,5,UK SIC,64991,64991
+f62b48df-4626-4d03-bb48-4d354f5e6bef,Attribute,f2912f0b-677e-41ba-bba0-073098eab5f8,Factoring,,,,,,,,5,UK SIC,64992,64992
+661d2816-0062-4cad-ae26-09ec0fb162fc,Attribute,f2912f0b-677e-41ba-bba0-073098eab5f8,"Other financial service activities, except insurance and pension funding, (not including security dealing on own account and factoring) n.e.c.",,,,,,,,5,UK SIC,64999,64999
+47171106-4d96-4f41-bcda-729bbcd030bd,Group,1c9b86f2-de29-4772-89bb-6e6741b713fe,"Insurance, reinsurance and pension funding, except compulsory social security",,,,,,,,2,UK SIC,65,65
+eee4889e-1a27-4ec4-ad30-c75b60f7db4d,Group,47171106-4d96-4f41-bcda-729bbcd030bd,Insurance,,,,,,,,3,UK SIC,65.1,651
+b739eb82-2e88-4807-b359-167bd56d2f42,Attribute,eee4889e-1a27-4ec4-ad30-c75b60f7db4d,Life insurance,,,,,,,,4,UK SIC,6511,6511
+8c9538d8-51ef-45e2-b156-d7f5e42af078,Attribute,eee4889e-1a27-4ec4-ad30-c75b60f7db4d,Non-life insurance,,,,,,,,4,UK SIC,6512,6512
+8bbc00c9-9f70-4cd7-8b1f-41cb8b6f096d,Group,47171106-4d96-4f41-bcda-729bbcd030bd,Reinsurance,,,,,,,,3,UK SIC,65.2,652
+14214e0a-eb6b-48d8-b230-0e11bd48f62c,Group,8bbc00c9-9f70-4cd7-8b1f-41cb8b6f096d,Reinsurance,,,,,,,,4,UK SIC,6520,6520
+63faeb89-ee59-4f20-9ca1-e9b666a857e7,Attribute,14214e0a-eb6b-48d8-b230-0e11bd48f62c,Life reinsurance,,,,,,,,5,UK SIC,65201,65201
+06961bc3-4dbe-4454-a973-850055862619,Attribute,14214e0a-eb6b-48d8-b230-0e11bd48f62c,Non-life reinsurance,,,,,,,,5,UK SIC,65202,65202
+a61e3703-64e7-4b7a-8e4e-92d635c1d62c,Group,47171106-4d96-4f41-bcda-729bbcd030bd,Pension funding,,,,,,,,3,UK SIC,65.3,653
+8fef5072-74c1-405c-b7a0-3057c05fbbaf,Attribute,a61e3703-64e7-4b7a-8e4e-92d635c1d62c,Pension funding,,,,,,,,4,UK SIC,6530,6530
+5521293e-03b6-4d66-b2df-523973510fc7,Group,1c9b86f2-de29-4772-89bb-6e6741b713fe,Activities auxiliary to financial services and insurance activities,,,,,,,,2,UK SIC,66,66
+b7617733-33b2-461c-b4b6-2b0b3d025e67,Group,5521293e-03b6-4d66-b2df-523973510fc7,"Activities auxiliary to financial services, except insurance and pension funding",,,,,,,,3,UK SIC,66.1,661
+987800cf-9340-494c-b73f-7aa5c9dd1ba3,Attribute,b7617733-33b2-461c-b4b6-2b0b3d025e67,Administration of financial markets,,,,,,,,4,UK SIC,6611,6611
+ee2343aa-ed19-49dd-8235-a896855bdbc1,Attribute,b7617733-33b2-461c-b4b6-2b0b3d025e67,Security and commodity contracts brokerage,,,,,,,,4,UK SIC,6612,6612
+fb8c8c6e-58d7-4717-bb50-1ebb5adb3100,Attribute,b7617733-33b2-461c-b4b6-2b0b3d025e67,"Other activities auxiliary to financial services, except insurance and pension funding",,,,,,,,4,UK SIC,6619,6619
+fd493ac6-1823-4111-8117-5aa28212d090,Group,5521293e-03b6-4d66-b2df-523973510fc7,Activities auxiliary to insurance and pension funding,,,,,,,,3,UK SIC,66.2,662
+5349501e-83ad-4a24-a70a-2a0ef7cc0f51,Attribute,fd493ac6-1823-4111-8117-5aa28212d090,Risk and damage evaluation,,,,,,,,4,UK SIC,6621,6621
+bca85ae2-e898-4919-9ff4-29439fae6353,Attribute,fd493ac6-1823-4111-8117-5aa28212d090,Activities of insurance agents and brokers,,,,,,,,4,UK SIC,6622,6622
+686595af-3482-4c7d-bfd2-c3f0b4262042,Attribute,fd493ac6-1823-4111-8117-5aa28212d090,Other activities auxiliary to insurance and pension funding,,,,,,,,4,UK SIC,6629,6629
+43f6142b-0738-4f08-96f7-eefaed3c0dcc,Group,5521293e-03b6-4d66-b2df-523973510fc7,Fund management activities,,,,,,,,3,UK SIC,66.3,663
+b7c42b13-e3bd-4815-a758-2d9c4ca3119f,Attribute,43f6142b-0738-4f08-96f7-eefaed3c0dcc,Fund management activities,,,,,,,,4,UK SIC,6630,6630
+53b21940-5509-47b0-8db2-648534c94fd7,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,REAL ESTATE ACTIVITIES,,,,,,,,1,UK SIC,L,
+b3c7e623-2e5a-4506-9ba7-14441ed1a278,Group,53b21940-5509-47b0-8db2-648534c94fd7,Real estate activities,,,,,,,,2,UK SIC,68,68
+99d9f7d0-efe1-4dfc-ae00-2621b7311e8b,Group,b3c7e623-2e5a-4506-9ba7-14441ed1a278,Buying and selling of own real estate,,,,,,,,3,UK SIC,68.1,681
+0f6460d9-140e-4f8f-b9bb-08936f7679c9,Attribute,99d9f7d0-efe1-4dfc-ae00-2621b7311e8b,Buying and selling of own real estate,,,,,,,,4,UK SIC,6810,6810
+3df3d065-3349-4cdd-81fa-3ec8b1a41ab5,Group,b3c7e623-2e5a-4506-9ba7-14441ed1a278,Renting and operating of own or leased real estate,,,,,,,,3,UK SIC,68.2,682
+8eae562a-da83-4279-8f4a-9f12b08a98f9,Group,3df3d065-3349-4cdd-81fa-3ec8b1a41ab5,Renting and operating of own or leased real estate,,,,,,,,4,UK SIC,6820,6820
+881e1f83-95b4-4b60-af91-2e9634c1270b,Attribute,8eae562a-da83-4279-8f4a-9f12b08a98f9,Renting and operating of Housing Association real estate,,,,,,,,5,UK SIC,68201,68201
+b97d9ce7-5e86-4ef0-b9dc-4f678dcb1a73,Attribute,8eae562a-da83-4279-8f4a-9f12b08a98f9,Letting and operating of conference and exhibition centres,,,,,,,,5,UK SIC,68202,68202
+ce03f96e-ab76-4441-950e-73799ed30a05,Attribute,8eae562a-da83-4279-8f4a-9f12b08a98f9,Letting and operating of own or leased real estate (other than Housing Association real estate and conference and exhibition services) n.e.c.,,,,,,,,5,UK SIC,68209,68209
+eafc1f96-40f4-477a-8e11-b8b688612d6e,Group,b3c7e623-2e5a-4506-9ba7-14441ed1a278,Real estate activities on a fee or contract basis,,,,,,,,3,UK SIC,68.3,683
+ea89f475-69f4-42bb-b879-f4c7dbd9f31d,Attribute,eafc1f96-40f4-477a-8e11-b8b688612d6e,Real estate agencies,,,,,,,,4,UK SIC,6831,6831
+e319fbf0-613e-4f8f-8cfc-f754c3ea5d49,Attribute,eafc1f96-40f4-477a-8e11-b8b688612d6e,Management of real estate on a fee or contract basis,,,,,,,,4,UK SIC,6832,6832
+ac791db8-6a07-4cd7-a115-cecea6d61b35,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",,,,,,,,1,UK SIC,M,
+25e9a412-3717-4cd5-a093-17c6cf241814,Group,ac791db8-6a07-4cd7-a115-cecea6d61b35,Legal and accounting activities,,,,,,,,2,UK SIC,69,69
+c4536ac4-8f28-4ddc-9315-24150322884a,Group,25e9a412-3717-4cd5-a093-17c6cf241814,Legal activities,,,,,,,,3,UK SIC,69.1,691
+57e9c05f-df83-4e7f-bff1-06aaa03f8587,Group,c4536ac4-8f28-4ddc-9315-24150322884a,Legal activities,,,,,,,,4,UK SIC,6910,6910
+7712b3c0-064a-4587-9cd4-a137d5dd8328,Attribute,57e9c05f-df83-4e7f-bff1-06aaa03f8587,Barristers at law,,,,,,,,5,UK SIC,69101,69101
+92d5fa92-cf58-4bb5-9eb4-aea5b930c576,Attribute,57e9c05f-df83-4e7f-bff1-06aaa03f8587,Solicitors,,,,,,,,5,UK SIC,69102,69102
+9168124a-ef34-4b9a-b51b-83b9f2e0fb99,Attribute,57e9c05f-df83-4e7f-bff1-06aaa03f8587,Activities of patent and copyright agents; other legal activities (other than those of barristers and solicitors) n.e.c.,,,,,,,,5,UK SIC,69109,69109
+88e4d9ae-8edb-401e-b1de-c9deea9cc645,Group,25e9a412-3717-4cd5-a093-17c6cf241814,"Accounting, bookkeeping and auditing activities; tax consultancy",,,,,,,,3,UK SIC,69.2,692
+f5c99ee4-626d-4d1d-bf15-a87ac0d0c36f,Group,88e4d9ae-8edb-401e-b1de-c9deea9cc645,"Accounting, bookkeeping and auditing activities; tax consultancy",,,,,,,,4,UK SIC,6920,6920
+31fcb45d-33d9-4291-a844-1f9f89b39d69,Attribute,f5c99ee4-626d-4d1d-bf15-a87ac0d0c36f,"Accounting, and auditing activities",,,,,,,,5,UK SIC,69201,69201
+180c7449-b02a-46b7-8a69-249f9ccb19f8,Attribute,f5c99ee4-626d-4d1d-bf15-a87ac0d0c36f,Bookkeeping activities,,,,,,,,5,UK SIC,69202,69202
+ca39c538-6569-4892-8b80-c16af0537ca5,Attribute,f5c99ee4-626d-4d1d-bf15-a87ac0d0c36f,Tax consultancy,,,,,,,,5,UK SIC,69203,69203
+c1e56518-341e-4ad0-bbc5-bbf571bf5391,Group,ac791db8-6a07-4cd7-a115-cecea6d61b35,Activities of head offices; management consultancy activities,,,,,,,,2,UK SIC,70,70
+1dfbfa2e-4906-4c84-afee-1b2dcb434554,Group,c1e56518-341e-4ad0-bbc5-bbf571bf5391,Activities of head offices,,,,,,,,3,UK SIC,70.1,701
+2475296c-be69-425c-be05-43ac0b5b8002,Attribute,1dfbfa2e-4906-4c84-afee-1b2dcb434554,Activities of head offices,,,,,,,,4,UK SIC,7010,7010
+9642bd8f-b7ec-4968-b556-4a30db968c75,Group,c1e56518-341e-4ad0-bbc5-bbf571bf5391,Management consultancy activities,,,,,,,,3,UK SIC,70.2,702
+aaaac0ff-2021-4401-8ffe-ea9cc4a773bd,Attribute,9642bd8f-b7ec-4968-b556-4a30db968c75,Public relations and communication activities,,,,,,,,4,UK SIC,7021,7021
+e244d5f9-5932-421a-835a-ab1854e33af1,Group,9642bd8f-b7ec-4968-b556-4a30db968c75,Business and other management consultancy activities,,,,,,,,4,UK SIC,7022,7022
+01952116-9b41-4fa1-9390-fdad96194874,Attribute,e244d5f9-5932-421a-835a-ab1854e33af1,Financial management,,,,,,,,5,UK SIC,70221,70221
+7f21d41f-bb10-44cb-9210-6a501b51a008,Attribute,e244d5f9-5932-421a-835a-ab1854e33af1,Management consultancy activities (other than financial management),,,,,,,,5,UK SIC,70229,70229
+ec610d69-e5ec-4854-80b0-7036bdf1557d,Group,ac791db8-6a07-4cd7-a115-cecea6d61b35,Architectural and engineering activities; technical testing and analysis,,,,,,,,2,UK SIC,71,71
+80ae4982-44d6-4c98-8b95-4dcf9402fd89,Group,ec610d69-e5ec-4854-80b0-7036bdf1557d,Architectural and engineering activities and related technical consultancy,,,,,,,,3,UK SIC,71.1,711
+0e7cde40-5ca8-493d-9eff-5cd77e3e52e0,Group,80ae4982-44d6-4c98-8b95-4dcf9402fd89,Architectural activities,,,,,,,,4,UK SIC,7111,7111
+773b61f0-9aa1-450e-a52b-85766590e204,Attribute,0e7cde40-5ca8-493d-9eff-5cd77e3e52e0,Architectural activities,,,,,,,,5,UK SIC,71111,71111
+2a5b2f37-ff9d-424c-bc06-5800d86bb259,Attribute,0e7cde40-5ca8-493d-9eff-5cd77e3e52e0,Urban planning and landscape architectural activities,,,,,,,,5,UK SIC,71112,71112
+ab0f0f3f-bfe1-4776-b8b7-ee9e894bed54,Group,80ae4982-44d6-4c98-8b95-4dcf9402fd89,Engineering activities and related technical consultancy,,,,,,,,4,UK SIC,7112,7112
+8d9081b4-b2ba-4e85-844d-2848d5e2698e,Attribute,ab0f0f3f-bfe1-4776-b8b7-ee9e894bed54,Engineering design activities for industrial process and production,,,,,,,,5,UK SIC,71121,71121
+1b0e7c24-a1a6-4aa7-9d80-148a93a089a0,Attribute,ab0f0f3f-bfe1-4776-b8b7-ee9e894bed54,Engineering related scientific and technical consulting activities,,,,,,,,5,UK SIC,71122,71122
+d8dae4b8-925a-4dc2-a837-01965f3c69b6,Attribute,ab0f0f3f-bfe1-4776-b8b7-ee9e894bed54,Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities),,,,,,,,5,UK SIC,71129,71129
+c2587532-407f-4402-aec6-add81b07146f,Group,ec610d69-e5ec-4854-80b0-7036bdf1557d,Technical testing and analysis,,,,,,,,3,UK SIC,71.2,712
+8780ccd1-84bb-4e80-b64e-240570a814b5,Attribute,c2587532-407f-4402-aec6-add81b07146f,Technical testing and analysis,,,,,,,,4,UK SIC,7120,7120
+9e3fda46-f48a-479e-8280-c5481e866404,Group,ac791db8-6a07-4cd7-a115-cecea6d61b35,Scientific research and development,,,,,,,,2,UK SIC,72,72
+27a65aba-5b8d-442a-b61a-a702a47aa070,Group,9e3fda46-f48a-479e-8280-c5481e866404,Research and experimental development on natural sciences and engineering,,,,,,,,3,UK SIC,72.1,721
+c9cfd753-84cf-4c3b-a0cb-47c6e273d088,Attribute,27a65aba-5b8d-442a-b61a-a702a47aa070,Research and experimental development on biotechnology,,,,,,,,4,UK SIC,7211,7211
+8cbae3b7-f0a4-4b77-a45f-77caa9a3e4c5,Attribute,27a65aba-5b8d-442a-b61a-a702a47aa070,Other research and experimental development on natural sciences and engineering,,,,,,,,4,UK SIC,7219,7219
+e692e82e-5a38-4c6d-82ee-8fd0206faaa3,Group,9e3fda46-f48a-479e-8280-c5481e866404,Research and experimental development on social sciences and humanities,,,,,,,,3,UK SIC,72.2,722
+2a2dc0f0-f689-4223-a77a-d6d678118036,Attribute,e692e82e-5a38-4c6d-82ee-8fd0206faaa3,Research and experimental development on social sciences and humanities,,,,,,,,4,UK SIC,7220,7220
+4c74db02-0034-4350-83ca-466cd3dbc04b,Group,ac791db8-6a07-4cd7-a115-cecea6d61b35,Advertising and market research,,,,,,,,2,UK SIC,73,73
+63f1c928-5d44-4578-8424-f7f13a044fb8,Group,4c74db02-0034-4350-83ca-466cd3dbc04b,Advertising,,,,,,,,3,UK SIC,73.1,731
+92879489-ca86-4656-9b35-aa1d212bef50,Attribute,63f1c928-5d44-4578-8424-f7f13a044fb8,Advertising agencies,,,,,,,,4,UK SIC,7311,7311
+7b6f2e64-ae18-4dec-a431-9ab5ea9af6dd,Attribute,63f1c928-5d44-4578-8424-f7f13a044fb8,Media representation,,,,,,,,4,UK SIC,7312,7312
+d811e926-ca33-4fe2-b323-53f85d7e9aaa,Group,4c74db02-0034-4350-83ca-466cd3dbc04b,Market research and public opinion polling,,,,,,,,3,UK SIC,73.2,732
+6f03be65-4f22-4e77-8701-0facfe15c7e8,Attribute,d811e926-ca33-4fe2-b323-53f85d7e9aaa,Market research and public opinion polling,,,,,,,,4,UK SIC,7320,7320
+b0d29dc4-ed18-4f01-9c8e-1ace30430144,Group,ac791db8-6a07-4cd7-a115-cecea6d61b35,"Other professional, scientific and technical activities",,,,,,,,2,UK SIC,74,74
+e7a51656-2432-414c-ac84-a694d4bfd6a0,Group,b0d29dc4-ed18-4f01-9c8e-1ace30430144,Specialised design activities,,,,,,,,3,UK SIC,74.1,741
+e8776f4e-058f-462f-8797-488a38187b3f,Attribute,e7a51656-2432-414c-ac84-a694d4bfd6a0,Specialised design activities,,,,,,,,4,UK SIC,7410,7410
+39c3e54d-e5d7-4164-9baf-f6d6ad9bd4c2,Group,b0d29dc4-ed18-4f01-9c8e-1ace30430144,Photographic activities,,,,,,,,3,UK SIC,74.2,742
+53f95dbd-d295-4a4a-84a6-4a9a34740be2,Group,39c3e54d-e5d7-4164-9baf-f6d6ad9bd4c2,Photographic activities,,,,,,,,4,UK SIC,7420,7420
+c7ca95c6-9fce-42f1-8ba8-7ea263c18d25,Attribute,53f95dbd-d295-4a4a-84a6-4a9a34740be2,Portrait photographic activities,,,,,,,,5,UK SIC,74201,74201
+438e3405-a69b-4032-8733-d5e346e07fc9,Attribute,53f95dbd-d295-4a4a-84a6-4a9a34740be2,Other specialist photography (not including portrait photography),,,,,,,,5,UK SIC,74202,74202
+06a6e696-e6b3-44c3-88bb-0263cb7b4519,Attribute,53f95dbd-d295-4a4a-84a6-4a9a34740be2,Film processing,,,,,,,,5,UK SIC,74203,74203
+b9b5505e-274f-4b9c-81c2-ade7354a3b19,Attribute,53f95dbd-d295-4a4a-84a6-4a9a34740be2,Other photographic activities (not including portrait and other specialist photography and film processing) n.e.c.,,,,,,,,5,UK SIC,74209,74209
+0f257483-c348-4712-8b14-8bf4de95d0c3,Group,b0d29dc4-ed18-4f01-9c8e-1ace30430144,Translation and interpretation activities,,,,,,,,3,UK SIC,74.3,743
+5e21bd49-7a41-456d-89db-cbcff0f1ec61,Attribute,0f257483-c348-4712-8b14-8bf4de95d0c3,Translation and interpretation activities,,,,,,,,4,UK SIC,7430,7430
+348e6713-3f75-4958-88aa-178d7f6d81e4,Group,b0d29dc4-ed18-4f01-9c8e-1ace30430144,"Other professional, scientific and technical activities n.e.c.",,,,,,,,3,UK SIC,74.9,749
+01a3d658-a282-4c9c-907c-4caf28e5a784,Group,348e6713-3f75-4958-88aa-178d7f6d81e4,"Other professional, scientific and technical activities n.e.c.",,,,,,,,4,UK SIC,7490,7490
+a97bae95-e04d-473c-bdb2-50300c6a05b6,Attribute,01a3d658-a282-4c9c-907c-4caf28e5a784,Environmental consulting activities,,,,,,,,5,UK SIC,74901,74901
+e4317dc3-0b81-4d6f-979d-7385c1195892,Attribute,01a3d658-a282-4c9c-907c-4caf28e5a784,Quantity surveying activities,,,,,,,,5,UK SIC,74902,74902
+ac538309-e734-451c-b481-cf552d828d37,Attribute,01a3d658-a282-4c9c-907c-4caf28e5a784,"Other professional, scientific and technical activities (not including environmental consultancy or quantity surveying) n.e.c.",,,,,,,,5,UK SIC,74909,74909
+bc56d9e7-03d0-4907-b8f1-c1fe6e503323,Group,ac791db8-6a07-4cd7-a115-cecea6d61b35,Veterinary activities,,,,,,,,2,UK SIC,75,75
+67c189f8-a0eb-450c-81d5-453eb35e343d,Group,bc56d9e7-03d0-4907-b8f1-c1fe6e503323,Veterinary activities,,,,,,,,3,UK SIC,75,75
+d6df4f40-f75a-40cb-b4c5-7d4967bba23d,Attribute,67c189f8-a0eb-450c-81d5-453eb35e343d,Veterinary activities,,,,,,,,4,UK SIC,7500,7500
+c102bc49-a796-4c98-828f-ebce03d40016,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,,,,,,,,1,UK SIC,N,
+c2704b1d-9ec3-49f2-adcb-86bb76fb7b3a,Group,c102bc49-a796-4c98-828f-ebce03d40016,Rental and leasing activities,,,,,,,,2,UK SIC,77,77
+5f6bc4d5-4fa3-47ce-a16f-439a5e5bb491,Group,c2704b1d-9ec3-49f2-adcb-86bb76fb7b3a,Renting and leasing of motor vehicles,,,,,,,,3,UK SIC,77.1,771
+269ff30d-39be-4161-9e16-12e34cb647f2,Attribute,5f6bc4d5-4fa3-47ce-a16f-439a5e5bb491,Renting and leasing of cars and light motor vehicles,,,,,,,,4,UK SIC,7711,7711
+39894f66-95ca-4292-908f-11cbb8c4db42,Attribute,5f6bc4d5-4fa3-47ce-a16f-439a5e5bb491,Renting and leasing of trucks,,,,,,,,4,UK SIC,7712,7712
+e360f5fe-325b-43fd-88b2-1592be409259,Group,c2704b1d-9ec3-49f2-adcb-86bb76fb7b3a,Renting and leasing of personal and household goods,,,,,,,,3,UK SIC,77.2,772
+19479f12-e8da-4b51-bebe-001489985628,Attribute,e360f5fe-325b-43fd-88b2-1592be409259,Renting and leasing of recreational and sports goods,,,,,,,,4,UK SIC,7721,7721
+d6286385-3379-4ca2-a35b-fb3d24dbc00b,Attribute,e360f5fe-325b-43fd-88b2-1592be409259,Renting of video tapes and disks,,,,,,,,4,UK SIC,7722,7722
+519e6945-d334-46e9-8590-9f2586a05855,Group,e360f5fe-325b-43fd-88b2-1592be409259,Renting and leasing of other personal and household goods,,,,,,,,4,UK SIC,7729,7729
+9990206b-7bea-4d9d-bceb-c0ea61a77018,Attribute,519e6945-d334-46e9-8590-9f2586a05855,Renting and leasing of media entertainment equipment,,,,,,,,5,UK SIC,77291,77291
+105d4c02-0f9d-4b53-b156-b7a702381235,Attribute,519e6945-d334-46e9-8590-9f2586a05855,Renting and leasing of other personal and household goods (other than media entertainment equipment),,,,,,,,5,UK SIC,77299,77299
+e3abb0eb-af60-45ee-a78e-b913f49288a5,Group,c2704b1d-9ec3-49f2-adcb-86bb76fb7b3a,"Renting and leasing of other machinery, equipment and tangible goods",,,,,,,,3,UK SIC,77.3,773
+37002660-5f16-4ef3-acba-fed563f8fee6,Attribute,e3abb0eb-af60-45ee-a78e-b913f49288a5,Renting and leasing of agricultural machinery and equipment,,,,,,,,4,UK SIC,7731,7731
+6c2a687c-cad9-4d61-9ef1-fdd95e0169b4,Attribute,e3abb0eb-af60-45ee-a78e-b913f49288a5,Renting and leasing of construction and civil engineering machinery and equipment,,,,,,,,4,UK SIC,7732,7732
+0bdcdc6d-1799-4b2f-9a2d-28da2798a4f4,Attribute,e3abb0eb-af60-45ee-a78e-b913f49288a5,Renting and leasing of office machinery and equipment (including computers),,,,,,,,4,UK SIC,7733,7733
+eb8505b0-9dbd-4f2c-a480-67941411b802,Group,e3abb0eb-af60-45ee-a78e-b913f49288a5,Renting and leasing of water transport equipment,,,,,,,,4,UK SIC,7734,7734
+c733b644-06f8-463d-92e8-cb80fd43f523,Attribute,eb8505b0-9dbd-4f2c-a480-67941411b802,Renting and leasing of passenger water transport equipment,,,,,,,,5,UK SIC,77341,77341
+34183710-3056-46f4-9904-b432ad23ed40,Attribute,eb8505b0-9dbd-4f2c-a480-67941411b802,Renting and leasing of freight water transport equipment,,,,,,,,5,UK SIC,77342,77342
+bedb9f54-7b69-45fd-9c31-17361b79c6d7,Group,e3abb0eb-af60-45ee-a78e-b913f49288a5,Renting and leasing of air transport equipment,,,,,,,,4,UK SIC,7735,7735
+a9d55666-26ed-4301-b735-687cad8157de,Attribute,bedb9f54-7b69-45fd-9c31-17361b79c6d7,Renting and leasing of passenger air transport equipment,,,,,,,,5,UK SIC,77351,77351
+5a762561-9a5d-43ad-ac23-b0a291dc1496,Attribute,bedb9f54-7b69-45fd-9c31-17361b79c6d7,Renting and leasing of freight air transport equipment,,,,,,,,5,UK SIC,77352,77352
+720d6b50-e4b3-42b8-8ada-ee08cd23bb6b,Attribute,e3abb0eb-af60-45ee-a78e-b913f49288a5,"Renting and leasing of other machinery, equipment and tangible goods n.e.c.",,,,,,,,4,UK SIC,7739,7739
+bf4455b1-25ec-4614-b2b4-f107dfbb5645,Group,c2704b1d-9ec3-49f2-adcb-86bb76fb7b3a,"Leasing of intellectual property and similar products, except copyrighted works",,,,,,,,3,UK SIC,77.4,774
+d6b3e357-82c6-490e-b12f-f6c4b474dce1,Attribute,bf4455b1-25ec-4614-b2b4-f107dfbb5645,"Leasing of intellectual property and similar products, except copyrighted works",,,,,,,,4,UK SIC,7740,7740
+ebe3c18a-9fef-45fb-b207-59e24850b7d2,Group,c102bc49-a796-4c98-828f-ebce03d40016,Employment activities,,,,,,,,2,UK SIC,78,78
+d76fdcb8-aa44-44c4-9b3c-085e81491f9d,Group,ebe3c18a-9fef-45fb-b207-59e24850b7d2,Activities of employment placement agencies,,,,,,,,3,UK SIC,78.1,781
+99f8e65f-2508-49ca-865d-7e28490e9cfa,Group,d76fdcb8-aa44-44c4-9b3c-085e81491f9d,Activities of employment placement agencies,,,,,,,,4,UK SIC,7810,7810
+60a90eb5-c110-47ec-b563-51c28c6dd22a,Attribute,99f8e65f-2508-49ca-865d-7e28490e9cfa,"Motion picture, television and other theatrical casting",,,,,,,,5,UK SIC,78101,78101
+df0aea98-6889-48ee-bff0-3d92efcf1e6e,Attribute,99f8e65f-2508-49ca-865d-7e28490e9cfa,"Activities of employment placement agencies (other than motion picture, television and other theatrical casting) n.e.c.",,,,,,,,5,UK SIC,78109,78109
+13f6ecab-d2b3-459f-9581-cc960b9a4c5d,Group,ebe3c18a-9fef-45fb-b207-59e24850b7d2,Temporary employment agency activities,,,,,,,,3,UK SIC,78.2,782
+49a746ec-d87f-446b-abe3-d75d9a91d548,Attribute,13f6ecab-d2b3-459f-9581-cc960b9a4c5d,Temporary employment agency activities,,,,,,,,4,UK SIC,7820,7820
+8e974d12-e756-46c9-b8ec-1e45a60a37a3,Group,ebe3c18a-9fef-45fb-b207-59e24850b7d2,Other human resources provision,,,,,,,,3,UK SIC,78.3,783
+62830775-357f-449a-a2f2-9907a7d97f20,Attribute,8e974d12-e756-46c9-b8ec-1e45a60a37a3,Other human resources provision,,,,,,,,4,UK SIC,7830,7830
+4b5bab89-1f7c-42b6-bb80-7f3fc9ac497d,Group,c102bc49-a796-4c98-828f-ebce03d40016,"Travel agency, tour operator and other reservation service and related activities",,,,,,,,2,UK SIC,79,79
+d6a73a0c-b5a7-4c01-8c0f-8edeb9c31557,Group,4b5bab89-1f7c-42b6-bb80-7f3fc9ac497d,Travel agency and tour operator activities,,,,,,,,3,UK SIC,79.1,791
+dc6ef4c2-b831-4c55-8c44-3a2fabc27262,Attribute,d6a73a0c-b5a7-4c01-8c0f-8edeb9c31557,Travel agency activities,,,,,,,,4,UK SIC,7911,7911
+4cf41c83-b6bd-417c-8f2f-a6d855193cbe,Attribute,d6a73a0c-b5a7-4c01-8c0f-8edeb9c31557,Tour operator activities,,,,,,,,4,UK SIC,7912,7912
+f40c18db-331c-4ff1-bac2-3aa0cade4675,Group,4b5bab89-1f7c-42b6-bb80-7f3fc9ac497d,Other reservation service and related activities,,,,,,,,3,UK SIC,79.9,799
+c37d8aed-c9a3-4010-bdfb-e591e4d08096,Group,f40c18db-331c-4ff1-bac2-3aa0cade4675,Other reservation service and related activities,,,,,,,,4,UK SIC,7990,7990
+46e48efb-1efd-4b38-b90b-997b7d66f2b0,Attribute,c37d8aed-c9a3-4010-bdfb-e591e4d08096,Activities of tourist guides,,,,,,,,5,UK SIC,79901,79901
+c2f740e9-90f1-498b-ae93-aef1a09e81e3,Attribute,c37d8aed-c9a3-4010-bdfb-e591e4d08096,Other reservation service and related activities (not including activities of tourist guides),,,,,,,,5,UK SIC,79909,79909
+a6347bc9-315e-432a-9752-4bfe6a929621,Group,c102bc49-a796-4c98-828f-ebce03d40016,Security and investigation activities,,,,,,,,2,UK SIC,80,80
+bd58568d-ac07-4760-964f-cd61e849871c,Group,a6347bc9-315e-432a-9752-4bfe6a929621,Private security activities,,,,,,,,3,UK SIC,80.1,801
+184db85c-2a8b-4c66-8409-e53e42d1ce34,Attribute,bd58568d-ac07-4760-964f-cd61e849871c,Private security activities,,,,,,,,4,UK SIC,8010,8010
+bf9fcbe2-97d7-4d49-b489-0651a83897dc,Group,a6347bc9-315e-432a-9752-4bfe6a929621,Security systems service activities,,,,,,,,3,UK SIC,80.2,802
+db9729fe-3d0f-4533-9067-a14c0d76f88b,Attribute,bf9fcbe2-97d7-4d49-b489-0651a83897dc,Security systems service activities,,,,,,,,4,UK SIC,8020,8020
+35ce5047-9070-4316-aba8-8c22ee42f836,Group,a6347bc9-315e-432a-9752-4bfe6a929621,Investigation activities,,,,,,,,3,UK SIC,80.3,803
+b0f4fa16-76fc-4b23-b2e2-7227bdb5be5b,Attribute,35ce5047-9070-4316-aba8-8c22ee42f836,Investigation activities,,,,,,,,4,UK SIC,8030,8030
+d3982044-72c5-4f73-a62d-8647779615c8,Group,c102bc49-a796-4c98-828f-ebce03d40016,Services to buildings and landscape activities,,,,,,,,2,UK SIC,81,81
+ff84dc66-04ae-4ef3-9d07-4382adfdd13c,Group,d3982044-72c5-4f73-a62d-8647779615c8,Combined facilities support activities,,,,,,,,3,UK SIC,81.1,811
+fb61cfc5-fc09-4e32-a52a-5ff428909033,Attribute,ff84dc66-04ae-4ef3-9d07-4382adfdd13c,Combined facilities support activities,,,,,,,,4,UK SIC,8110,8110
+3818504a-ce5a-43e7-8442-509aab1d359a,Group,d3982044-72c5-4f73-a62d-8647779615c8,Cleaning activities,,,,,,,,3,UK SIC,81.2,812
+8c6e4ec0-4f2f-4d8d-91d2-7df49ef5808e,Attribute,3818504a-ce5a-43e7-8442-509aab1d359a,General cleaning of buildings,,,,,,,,4,UK SIC,8121,8121
+600ded8a-b0e3-4bef-b6f1-7b2920c4b287,Group,3818504a-ce5a-43e7-8442-509aab1d359a,Other building and industrial cleaning activities,,,,,,,,4,UK SIC,8122,8122
+8f38af9e-a362-4c13-93ad-0c9a6f57b203,Attribute,600ded8a-b0e3-4bef-b6f1-7b2920c4b287,Window cleaning services,,,,,,,,5,UK SIC,81221,81221
+c6d6f1da-8fa4-4225-9049-321eaa8a217a,Attribute,600ded8a-b0e3-4bef-b6f1-7b2920c4b287,Specialised cleaning services,,,,,,,,5,UK SIC,81222,81222
+5fac287e-7ff8-4725-b071-7d20010661cf,Attribute,600ded8a-b0e3-4bef-b6f1-7b2920c4b287,Furnace and chimney cleaning services,,,,,,,,5,UK SIC,81223,81223
+26b97e81-2285-4615-9a2e-a74789914343,Attribute,600ded8a-b0e3-4bef-b6f1-7b2920c4b287,"Building and industrial cleaning activities (other than window cleaning, specialised cleaning and furnace and chimney cleaning services) n.e.c.",,,,,,,,5,UK SIC,81229,81229
+5e538342-bc9f-42d2-ac96-ce47cdb18626,Group,3818504a-ce5a-43e7-8442-509aab1d359a,Other cleaning activities,,,,,,,,4,UK SIC,8129,8129
+49f7d76f-2040-469a-8e8d-f3ec52ae38a8,Attribute,5e538342-bc9f-42d2-ac96-ce47cdb18626,Disinfecting and extermination services,,,,,,,,5,UK SIC,81291,81291
+8a299fa4-b743-46e1-8015-33b65d82ce4d,Attribute,5e538342-bc9f-42d2-ac96-ce47cdb18626,Cleaning services (other than disinfecting and extermination services) n.e.c.,,,,,,,,5,UK SIC,81299,81299
+4d68dad2-9038-40e6-8c89-cb8ff0c299f3,Group,d3982044-72c5-4f73-a62d-8647779615c8,Landscape service activities,,,,,,,,3,UK SIC,81.3,813
+c2f12ffd-ac5a-4b88-ab2c-5ae8713a82a9,Attribute,4d68dad2-9038-40e6-8c89-cb8ff0c299f3,Landscape service activities,,,,,,,,4,UK SIC,8130,8130
+edc0ed56-62fb-40a9-8d9f-033edb34b850,Group,c102bc49-a796-4c98-828f-ebce03d40016,"Office administrative, office support and other business support activities",,,,,,,,2,UK SIC,82,82
+27214a60-668c-468d-ac92-be678deadcb7,Group,edc0ed56-62fb-40a9-8d9f-033edb34b850,Office administrative and support activities,,,,,,,,3,UK SIC,82.1,821
+50ef19d9-08a3-4cb4-abf1-40c90b818903,Attribute,27214a60-668c-468d-ac92-be678deadcb7,Combined office administrative service activities,,,,,,,,4,UK SIC,8211,8211
+eeac908d-db91-46cf-bb36-872d8c622a23,Attribute,27214a60-668c-468d-ac92-be678deadcb7,"Photocopying, document preparation and other specialised office support activities",,,,,,,,4,UK SIC,8219,8219
+27af5ccc-6420-49e5-9858-414ada70a4c1,Group,edc0ed56-62fb-40a9-8d9f-033edb34b850,Activities of call centres,,,,,,,,3,UK SIC,82.2,822
+c9a6c6fd-6d04-4356-832a-acace09042e2,Attribute,27af5ccc-6420-49e5-9858-414ada70a4c1,Activities of call centres,,,,,,,,4,UK SIC,8220,8220
+852ecd85-cffb-4f17-9940-682fe3dbb506,Group,edc0ed56-62fb-40a9-8d9f-033edb34b850,Organisation of conventions and trade shows,,,,,,,,3,UK SIC,82.3,823
+9c9c4154-99dc-408d-a94c-49d0c46483ca,Group,852ecd85-cffb-4f17-9940-682fe3dbb506,Organisation of conventions and trade shows,,,,,,,,4,UK SIC,8230,8230
+8db054e6-7445-455a-8f0a-507c18a24d59,Attribute,9c9c4154-99dc-408d-a94c-49d0c46483ca,Activities of exhibition and fair organizers,,,,,,,,5,UK SIC,82301,82301
+19adac08-575a-4460-b6d9-cf3ba30e21ea,Attribute,9c9c4154-99dc-408d-a94c-49d0c46483ca,Activities of conference organizers,,,,,,,,5,UK SIC,82302,82302
+5bfd63bb-ddca-4d3f-a966-805c1fe8cb71,Group,edc0ed56-62fb-40a9-8d9f-033edb34b850,Business support service activities n.e.c.,,,,,,,,3,UK SIC,82.9,829
+3319d9b9-9eb1-4626-912a-61da631fade7,Group,5bfd63bb-ddca-4d3f-a966-805c1fe8cb71,Activities of collection agencies and credit bureaus,,,,,,,,4,UK SIC,8291,8291
+1678d9c8-ffc1-4e7e-8f53-61ae7be77d77,Attribute,3319d9b9-9eb1-4626-912a-61da631fade7,Activities of collection agencies,,,,,,,,5,UK SIC,82911,82911
+f98ecdb5-a8fe-4554-9c7f-07ff7ef74a30,Attribute,3319d9b9-9eb1-4626-912a-61da631fade7,Activities of credit bureaus,,,,,,,,5,UK SIC,82912,82912
+1d53d4f4-f00f-46c8-ac8d-d173528180ef,Attribute,5bfd63bb-ddca-4d3f-a966-805c1fe8cb71,Packaging activities,,,,,,,,4,UK SIC,8292,8292
+a3d3ad12-4890-444c-b07a-6f24a8fb72ea,Attribute,5bfd63bb-ddca-4d3f-a966-805c1fe8cb71,Other business support service activities n.e.c.,,,,,,,,4,UK SIC,8299,8299
+cedd7cde-2ce5-44af-bd2a-78b1cbc764e0,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,,,,,,,,1,UK SIC,O,
+9c204aec-1f6e-4c67-ba88-98eb2b1daae5,Group,cedd7cde-2ce5-44af-bd2a-78b1cbc764e0,Public administration and defence; compulsory social security,,,,,,,,2,UK SIC,84,84
+eb0e1df9-bde5-4923-a477-b974a57f32be,Group,9c204aec-1f6e-4c67-ba88-98eb2b1daae5,Administration of the State and the economic and social policy of the community,,,,,,,,3,UK SIC,84.1,841
+8bf06f59-3b50-4721-9d88-8b06a44e5288,Attribute,eb0e1df9-bde5-4923-a477-b974a57f32be,General public administration activities,,,,,,,,4,UK SIC,8411,8411
+3632eda6-9880-4c8e-90af-092259b3ad86,Attribute,eb0e1df9-bde5-4923-a477-b974a57f32be,"Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",,,,,,,,4,UK SIC,8412,8412
+d2b352a1-4c27-47d8-bbec-026247ecb5b9,Attribute,eb0e1df9-bde5-4923-a477-b974a57f32be,Regulation of and contribution to more efficient operation of businesses,,,,,,,,4,UK SIC,8413,8413
+c12ef12a-0ede-48a0-9927-236dd67bebcb,Group,9c204aec-1f6e-4c67-ba88-98eb2b1daae5,Provision of services to the community as a whole,,,,,,,,3,UK SIC,84.2,842
+5c0d23fa-dd1b-42e0-8987-7f3015440904,Attribute,c12ef12a-0ede-48a0-9927-236dd67bebcb,Foreign affairs,,,,,,,,4,UK SIC,8421,8421
+443e7aab-b85e-437e-9640-dd330429cbcc,Attribute,c12ef12a-0ede-48a0-9927-236dd67bebcb,Defence activities,,,,,,,,4,UK SIC,8422,8422
+421cd786-ccc3-4474-9c28-0f3b4c40c46f,Attribute,c12ef12a-0ede-48a0-9927-236dd67bebcb,Justice and judicial activities,,,,,,,,4,UK SIC,8423,8423
+5fd69846-1a3e-401a-a1e6-66d6016ab9fd,Attribute,c12ef12a-0ede-48a0-9927-236dd67bebcb,Public order and safety activities,,,,,,,,4,UK SIC,8424,8424
+affecd8d-7c06-4cc4-a079-349a497401b2,Attribute,c12ef12a-0ede-48a0-9927-236dd67bebcb,Fire service activities,,,,,,,,4,UK SIC,8425,8425
+efa0fd44-5be9-4ecf-a733-d5b634517448,Group,9c204aec-1f6e-4c67-ba88-98eb2b1daae5,Compulsory social security activities,,,,,,,,3,UK SIC,84.3,843
+c89afab6-cd52-4cda-a326-3650d31d4405,Attribute,efa0fd44-5be9-4ecf-a733-d5b634517448,Compulsory social security activities,,,,,,,,4,UK SIC,8430,8430
+1472d420-23e5-4265-95f6-5e5b5a527e8d,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,EDUCATION,,,,,,,,1,UK SIC,P,
+16f51c72-e76e-47e7-b8b6-699b38c34954,Group,1472d420-23e5-4265-95f6-5e5b5a527e8d,Education,,,,,,,,2,UK SIC,85,85
+4caf71bd-86dd-4211-96e5-18b436feba64,Group,16f51c72-e76e-47e7-b8b6-699b38c34954,Pre-primary education,,,,,,,,3,UK SIC,85.1,851
+eca068e8-161f-444b-a9c4-4fada5d5561e,Attribute,4caf71bd-86dd-4211-96e5-18b436feba64,Pre-primary education,,,,,,,,4,UK SIC,8510,8510
+3d236cbd-193e-43d9-b303-685715816089,Group,16f51c72-e76e-47e7-b8b6-699b38c34954,Primary education,,,,,,,,3,UK SIC,85.2,852
+154f00ba-3316-4ec8-a547-1af772135e5f,Attribute,3d236cbd-193e-43d9-b303-685715816089,Primary education,,,,,,,,4,UK SIC,8520,8520
+5aa627b0-3cb5-4ed1-9479-1e18e9b03096,Group,16f51c72-e76e-47e7-b8b6-699b38c34954,Secondary education,,,,,,,,3,UK SIC,85.3,853
+117df3e8-c05c-478b-a2df-aaf7f7e96b0d,Attribute,5aa627b0-3cb5-4ed1-9479-1e18e9b03096,General secondary education,,,,,,,,4,UK SIC,8531,8531
+452a741b-8ebc-4427-988a-eee861d1a971,Attribute,5aa627b0-3cb5-4ed1-9479-1e18e9b03096,Technical and vocational secondary education,,,,,,,,4,UK SIC,8532,8532
+bf988ccb-6d56-4dbd-829d-e98fcd440e74,Group,16f51c72-e76e-47e7-b8b6-699b38c34954,Higher education,,,,,,,,3,UK SIC,85.4,854
+72349f64-3a90-411e-a51a-bface644d589,Attribute,bf988ccb-6d56-4dbd-829d-e98fcd440e74,Post-secondary non-tertiary education,,,,,,,,4,UK SIC,8541,8541
+292a862e-3cbf-424d-9b3f-b77648f8ed12,Group,bf988ccb-6d56-4dbd-829d-e98fcd440e74,Tertiary education,,,,,,,,4,UK SIC,8542,8542
+6d26652b-a2d1-497c-93ab-b0f983dbbcd8,Attribute,292a862e-3cbf-424d-9b3f-b77648f8ed12,First-degree level higher education,,,,,,,,5,UK SIC,85421,85421
+03e365bb-ad4e-4380-9337-573588019368,Attribute,292a862e-3cbf-424d-9b3f-b77648f8ed12,Post-graduate level higher education,,,,,,,,5,UK SIC,85422,85422
+da268dac-9165-4a4b-a845-748df75f01de,Group,16f51c72-e76e-47e7-b8b6-699b38c34954,Other education,,,,,,,,3,UK SIC,85.5,855
+2c1491fd-dd9a-4da4-b9ab-ab423ece1b4f,Attribute,da268dac-9165-4a4b-a845-748df75f01de,Sports and recreation education,,,,,,,,4,UK SIC,8551,8551
+f59c9d63-d45a-4f67-989e-8f006a7c6433,Attribute,da268dac-9165-4a4b-a845-748df75f01de,Cultural education,,,,,,,,4,UK SIC,8552,8552
+a40d86aa-6ff6-4c27-a381-bf0859f4b518,Attribute,da268dac-9165-4a4b-a845-748df75f01de,Driving school activities,,,,,,,,4,UK SIC,8553,8553
+c8264aa0-1b9b-4ae0-a79a-c92ae6b791bd,Attribute,da268dac-9165-4a4b-a845-748df75f01de,Other education n.e.c.,,,,,,,,4,UK SIC,8559,8559
+62a34118-4bab-480f-97aa-6106956b027b,Group,16f51c72-e76e-47e7-b8b6-699b38c34954,Educational support activities,,,,,,,,3,UK SIC,85.6,856
+0f386806-0c01-4caa-a344-cc9d224f23a7,Attribute,62a34118-4bab-480f-97aa-6106956b027b,Educational support activities,,,,,,,,4,UK SIC,8560,8560
+24ed1f3f-67ac-4fb7-b8ee-ceb74bdc587a,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,,,,,,,,1,UK SIC,Q,
+7b818cf4-1642-4d36-814c-1eda3fb50087,Group,24ed1f3f-67ac-4fb7-b8ee-ceb74bdc587a,Human health activities,,,,,,,,2,UK SIC,86,86
+7c57d543-51c7-4bfe-aaae-3d1899fbf625,Group,7b818cf4-1642-4d36-814c-1eda3fb50087,Hospital activities,,,,,,,,3,UK SIC,86.1,861
+f0056501-88fb-4cd3-b7d9-50d14508ce00,Group,7c57d543-51c7-4bfe-aaae-3d1899fbf625,Hospital activities,,,,,,,,4,UK SIC,8610,8610
+e0823b70-4382-4b5a-9e60-e15ea0f0c4a1,Attribute,f0056501-88fb-4cd3-b7d9-50d14508ce00,Hospital activities,,,,,,,,5,UK SIC,86101,86101
+6f780d22-acee-4468-8eed-2fbdb6822a5c,Attribute,f0056501-88fb-4cd3-b7d9-50d14508ce00,Medical nursing home activities,,,,,,,,5,UK SIC,86102,86102
+e882c8dd-b3cd-41d3-b712-e192c29d525b,Group,7b818cf4-1642-4d36-814c-1eda3fb50087,Medical and dental practice activities,,,,,,,,3,UK SIC,86.2,862
+370452c4-afaf-4f24-b046-887bf16b2905,Attribute,e882c8dd-b3cd-41d3-b712-e192c29d525b,General medical practice activities,,,,,,,,4,UK SIC,8621,8621
+ca023047-1737-4ba5-a463-f3aed687fbc9,Attribute,e882c8dd-b3cd-41d3-b712-e192c29d525b,Specialist medical practice activities,,,,,,,,4,UK SIC,8622,8622
+7448a0bd-bf54-4188-b26f-82c64bec1f53,Attribute,e882c8dd-b3cd-41d3-b712-e192c29d525b,Dental practice activities,,,,,,,,4,UK SIC,8623,8623
+3a40ab26-9fee-4086-b657-e02eac68c333,Group,7b818cf4-1642-4d36-814c-1eda3fb50087,Other human health activities,,,,,,,,3,UK SIC,86.9,869
+44278ab0-2f95-47d8-8365-4a35305e0334,Attribute,3a40ab26-9fee-4086-b657-e02eac68c333,Other human health activities,,,,,,,,4,UK SIC,8690,8690
+a59de855-061b-4c2a-a98c-0a32306cdf02,Group,24ed1f3f-67ac-4fb7-b8ee-ceb74bdc587a,Residential care activities,,,,,,,,2,UK SIC,87,87
+1801ebed-05e6-4db2-a2ac-c5897f075ce5,Group,a59de855-061b-4c2a-a98c-0a32306cdf02,Residential nursing care activities,,,,,,,,3,UK SIC,87.1,871
+984dabd8-b753-4804-84f5-1170cf52f93e,Attribute,1801ebed-05e6-4db2-a2ac-c5897f075ce5,Residential nursing care activities,,,,,,,,4,UK SIC,8710,8710
+006332f6-e391-464d-8a51-9b8a5f8fa1e0,Group,a59de855-061b-4c2a-a98c-0a32306cdf02,"Residential care activities for learning disabilities, mental health and substance abuse",,,,,,,,3,UK SIC,87.2,872
+a1048a7f-9338-4859-9ac8-cccfe4aad285,Attribute,006332f6-e391-464d-8a51-9b8a5f8fa1e0,"Residential care activities for learning disabilities, mental health and substance abuse",,,,,,,,4,UK SIC,8720,8720
+1cd78c43-e4a6-48e9-a75c-7853d85f3a13,Group,a59de855-061b-4c2a-a98c-0a32306cdf02,Residential care activities for the elderly and disabled,,,,,,,,3,UK SIC,87.3,873
+1183bbed-20c8-49b9-8c11-0487ddface4d,Attribute,1cd78c43-e4a6-48e9-a75c-7853d85f3a13,Residential care activities for the elderly and disabled,,,,,,,,4,UK SIC,8730,8730
+b7d5db80-fdeb-4e59-895f-3965aa927dec,Group,a59de855-061b-4c2a-a98c-0a32306cdf02,Other residential care activities,,,,,,,,3,UK SIC,87.9,879
+51a30983-5278-48cb-9b02-5e43e988b8e5,Attribute,b7d5db80-fdeb-4e59-895f-3965aa927dec,Other residential care activities,,,,,,,,4,UK SIC,8790,8790
+96322d21-c776-46cb-aa49-38cd1ac420ca,Group,24ed1f3f-67ac-4fb7-b8ee-ceb74bdc587a,Social work activities without accommodation,,,,,,,,2,UK SIC,88,88
+2fe94793-7d8e-4e37-9058-153d781cf047,Group,96322d21-c776-46cb-aa49-38cd1ac420ca,Social work activities without accommodation for the elderly and disabled,,,,,,,,3,UK SIC,88.1,881
+33181465-d38d-441b-a3d6-4b9863ea3f9c,Attribute,2fe94793-7d8e-4e37-9058-153d781cf047,Social work activities without accommodation for the elderly and disabled,,,,,,,,4,UK SIC,8810,8810
+7f5e3130-46b1-41b7-bfe6-de4bb638dee9,Group,96322d21-c776-46cb-aa49-38cd1ac420ca,Other social work activities without accommodation,,,,,,,,3,UK SIC,88.9,889
+37ff1a99-acbe-47c1-88a0-5ebba267e053,Attribute,7f5e3130-46b1-41b7-bfe6-de4bb638dee9,Child day-care activities,,,,,,,,4,UK SIC,8891,8891
+5a36b97f-b1d0-4cf9-b127-eea6c3ce21d2,Attribute,7f5e3130-46b1-41b7-bfe6-de4bb638dee9,Other social work activities without accommodation n.e.c.,,,,,,,,4,UK SIC,8899,8899
+bbf3e23f-0cb2-44a7-9a32-a94ba344b92a,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,"ARTS, ENTERTAINMENT AND RECREATION",,,,,,,,1,UK SIC,R,
+4f223471-382b-4716-91a9-927a24de266f,Group,bbf3e23f-0cb2-44a7-9a32-a94ba344b92a,"Creative, arts and entertainment activities",,,,,,,,2,UK SIC,90,90
+8ada8b81-ad4c-4bbb-9f57-3d3beb25913e,Group,4f223471-382b-4716-91a9-927a24de266f,"Creative, arts and entertainment activities",,,,,,,,3,UK SIC,90,90
+810453dd-5722-4bc8-887a-de7740498c6d,Attribute,8ada8b81-ad4c-4bbb-9f57-3d3beb25913e,Performing arts,,,,,,,,4,UK SIC,9001,9001
+8fd3bf13-4294-4083-bfed-88d6ad894740,Attribute,8ada8b81-ad4c-4bbb-9f57-3d3beb25913e,Support activities to performing arts,,,,,,,,4,UK SIC,9002,9002
+5e5af28e-3a31-4749-a275-dfa9532da146,Attribute,8ada8b81-ad4c-4bbb-9f57-3d3beb25913e,Artistic creation,,,,,,,,4,UK SIC,9003,9003
+a4ee1988-c801-4b02-b56b-23383041a57e,Attribute,8ada8b81-ad4c-4bbb-9f57-3d3beb25913e,Operation of arts facilities,,,,,,,,4,UK SIC,9004,9004
+d5ac2862-19a4-40d2-87ee-b15c34225405,Group,bbf3e23f-0cb2-44a7-9a32-a94ba344b92a,"Libraries, archives, museums and other cultural activities",,,,,,,,2,UK SIC,91,91
+45209ba4-0191-4557-ad0b-3ba8cccc363d,Group,d5ac2862-19a4-40d2-87ee-b15c34225405,"Libraries, archives, museums and other cultural activities",,,,,,,,3,UK SIC,91,91
+e6d4dd21-e6c1-4829-83a3-7429a1c62f9c,Group,45209ba4-0191-4557-ad0b-3ba8cccc363d,Library and archive activities,,,,,,,,4,UK SIC,9101,9101
+6276e19b-f192-4f5c-987f-8c7f6cb9781d,Attribute,e6d4dd21-e6c1-4829-83a3-7429a1c62f9c,Library activities,,,,,,,,5,UK SIC,91011,91011
+ba4adcec-a872-4144-8921-8cc6438aa45b,Attribute,e6d4dd21-e6c1-4829-83a3-7429a1c62f9c,Archive activities,,,,,,,,5,UK SIC,91012,91012
+8101f40d-629c-4f18-926a-cb39945faf93,Attribute,45209ba4-0191-4557-ad0b-3ba8cccc363d,Museum activities,,,,,,,,4,UK SIC,9102,9102
+bc4f2f03-097d-42cb-8c4e-c760b7c536d3,Attribute,45209ba4-0191-4557-ad0b-3ba8cccc363d,Operation of historical sites and buildings and similar visitor attractions,,,,,,,,4,UK SIC,9103,9103
+83607fe3-ecf3-4037-bb0f-f2a7a6064fba,Attribute,45209ba4-0191-4557-ad0b-3ba8cccc363d,Botanical and zoological gardens and nature reserve activities,,,,,,,,4,UK SIC,9104,9104
+1568b732-67c7-4f8a-941c-92f8dbcd7c42,Group,bbf3e23f-0cb2-44a7-9a32-a94ba344b92a,Gambling and betting activities,,,,,,,,2,UK SIC,92,92
+2273897a-4c3f-413c-ac8f-8442b77e9332,Group,1568b732-67c7-4f8a-941c-92f8dbcd7c42,Gambling and betting activities,,,,,,,,3,UK SIC,92,92
+203a7c0e-3aa9-46f7-923d-f45322f614c1,Attribute,2273897a-4c3f-413c-ac8f-8442b77e9332,Gambling and betting activities,,,,,,,,4,UK SIC,9200,9200
+7b136891-e5fb-4155-9433-0e2b23affdc6,Group,bbf3e23f-0cb2-44a7-9a32-a94ba344b92a,Sports activities and amusement and recreation activities,,,,,,,,2,UK SIC,93,93
+94c7621f-fb4b-4e2a-84d8-cc206a69ac58,Group,7b136891-e5fb-4155-9433-0e2b23affdc6,Sports activities,,,,,,,,3,UK SIC,93.1,931
+fa491962-87f3-4fdb-bf9a-9a75b6f3c35d,Attribute,94c7621f-fb4b-4e2a-84d8-cc206a69ac58,Operation of sports facilities,,,,,,,,4,UK SIC,9311,9311
+9feb1e2a-2e7c-457e-b3b2-b9da29d6185f,Attribute,94c7621f-fb4b-4e2a-84d8-cc206a69ac58,Activities of sport clubs,,,,,,,,4,UK SIC,9312,9312
+ccdfb849-dd7e-41a0-9687-7e0f8aa03ff7,Attribute,94c7621f-fb4b-4e2a-84d8-cc206a69ac58,Fitness facilities,,,,,,,,4,UK SIC,9313,9313
+1da3fdd4-9e37-4bc8-b9a2-92f65edd9a3c,Group,94c7621f-fb4b-4e2a-84d8-cc206a69ac58,Other sports activities,,,,,,,,4,UK SIC,9319,9319
+21571cf8-1edf-4dce-9bac-be703d7dd989,Attribute,1da3fdd4-9e37-4bc8-b9a2-92f65edd9a3c,Activities of racehorse owners,,,,,,,,5,UK SIC,93191,93191
+68b23b31-fc69-43de-be07-d4541007239b,Attribute,1da3fdd4-9e37-4bc8-b9a2-92f65edd9a3c,Other sports activities (not including activities of racehorse owners) n.e.c.,,,,,,,,5,UK SIC,93199,93199
+61302db0-fe6c-4f14-a471-1b38427b1744,Group,7b136891-e5fb-4155-9433-0e2b23affdc6,Amusement and recreation activities,,,,,,,,3,UK SIC,93.2,932
+90dc812f-85e3-4982-82ae-ec904e2552dd,Attribute,61302db0-fe6c-4f14-a471-1b38427b1744,Activities of amusement parks and theme parks,,,,,,,,4,UK SIC,9321,9321
+0cac13d7-b5d2-4a35-b881-47bb3ce8fb5b,Attribute,61302db0-fe6c-4f14-a471-1b38427b1744,Other amusement and recreation activities,,,,,,,,4,UK SIC,9329,9329
+577990c5-90cf-43d0-9307-fffadefed966,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,OTHER SERVICE ACTIVITIES,,,,,,,,1,UK SIC,S,
+ebeff507-891e-4608-9f2c-dcc30bbddcdd,Group,577990c5-90cf-43d0-9307-fffadefed966,Activities of membership organisations,,,,,,,,2,UK SIC,94,94
+a4768888-fd95-482b-a278-e518592cca06,Group,ebeff507-891e-4608-9f2c-dcc30bbddcdd,"Activities of business, employers and professional membership organisations",,,,,,,,3,UK SIC,94.1,941
+6f29c60d-b9c5-42ec-bd80-143b78fdc997,Attribute,a4768888-fd95-482b-a278-e518592cca06,Activities of business and employers membership organisations,,,,,,,,4,UK SIC,9411,9411
+34667966-8fd3-477f-a091-9625a31ee6cb,Attribute,a4768888-fd95-482b-a278-e518592cca06,Activities of professional membership organisations,,,,,,,,4,UK SIC,9412,9412
+dad75fa3-d6a0-4017-9795-78a3fb016a27,Group,ebeff507-891e-4608-9f2c-dcc30bbddcdd,Activities of trade unions,,,,,,,,3,UK SIC,94.2,942
+5810a8b2-c68b-4c0e-9549-c2a987e429ef,Attribute,dad75fa3-d6a0-4017-9795-78a3fb016a27,Activities of trade unions,,,,,,,,4,UK SIC,9420,9420
+fe8f264c-fd9f-46fb-8f4a-2e2df14579d9,Group,ebeff507-891e-4608-9f2c-dcc30bbddcdd,Activities of other membership organisations,,,,,,,,3,UK SIC,94.9,949
+112237cf-d0f1-493d-adf0-223c8244c639,Attribute,fe8f264c-fd9f-46fb-8f4a-2e2df14579d9,Activities of religious organisations,,,,,,,,4,UK SIC,9491,9491
+da792364-3c30-4f7e-aed2-a93491ecc581,Attribute,fe8f264c-fd9f-46fb-8f4a-2e2df14579d9,Activities of political organisations,,,,,,,,4,UK SIC,9492,9492
+64c57848-c4b2-44f0-99c7-bcaf69e675ec,Attribute,fe8f264c-fd9f-46fb-8f4a-2e2df14579d9,Activities of other membership organisations n.e.c.,,,,,,,,4,UK SIC,9499,9499
+7b9d4787-371c-45af-886b-91d3e893dc5b,Group,577990c5-90cf-43d0-9307-fffadefed966,Repair of computers and personal and household goods,,,,,,,,2,UK SIC,95,95
+133ec895-50c5-4eb6-9f76-9856e5ca3c93,Group,7b9d4787-371c-45af-886b-91d3e893dc5b,Repair of computers and communication equipment,,,,,,,,3,UK SIC,95.1,951
+17e8a201-8391-4db9-a158-afd385b9dbb8,Attribute,133ec895-50c5-4eb6-9f76-9856e5ca3c93,Repair of computers and peripheral equipment,,,,,,,,4,UK SIC,9511,9511
+2cfec63e-3c29-4230-91ff-18d9e3f13c99,Attribute,133ec895-50c5-4eb6-9f76-9856e5ca3c93,Repair of communication equipment,,,,,,,,4,UK SIC,9512,9512
+cb19b82b-633c-4572-be3f-effeb1568a02,Group,7b9d4787-371c-45af-886b-91d3e893dc5b,Repair of personal and household goods,,,,,,,,3,UK SIC,95.2,952
+07b705e6-e368-4de8-8416-1aab5dc1bb2f,Attribute,cb19b82b-633c-4572-be3f-effeb1568a02,Repair of consumer electronics,,,,,,,,4,UK SIC,9521,9521
+b8a15adc-bd4b-4096-8634-8ebe0363087e,Attribute,cb19b82b-633c-4572-be3f-effeb1568a02,Repair of household appliances and home and garden equipment,,,,,,,,4,UK SIC,9522,9522
+125699af-72cc-4035-a9e1-9315b3eb7b43,Attribute,cb19b82b-633c-4572-be3f-effeb1568a02,Repair of footwear and leather goods,,,,,,,,4,UK SIC,9523,9523
+9f35c77d-f8af-488f-ad4a-ba2664eafbdf,Attribute,cb19b82b-633c-4572-be3f-effeb1568a02,Repair of furniture and home furnishings,,,,,,,,4,UK SIC,9524,9524
+0cc3bc29-63be-404e-9bfe-2fb9a109765c,Attribute,cb19b82b-633c-4572-be3f-effeb1568a02,"Repair of watches, clocks and jewellery",,,,,,,,4,UK SIC,9525,9525
+4cb053f0-30f9-4e35-be00-cdfcdc996981,Attribute,cb19b82b-633c-4572-be3f-effeb1568a02,Repair of other personal and household goods,,,,,,,,4,UK SIC,9529,9529
+b35d8a5d-cefc-495e-a19b-b360b24a3227,Group,577990c5-90cf-43d0-9307-fffadefed966,Other personal service activities,,,,,,,,2,UK SIC,96,96
+42c3f403-b676-4801-b4e8-8ae58ddb880b,Group,b35d8a5d-cefc-495e-a19b-b360b24a3227,Other personal service activities,,,,,,,,3,UK SIC,96,96
+00f839a3-bd80-427c-b4d7-50bd70a362db,Attribute,42c3f403-b676-4801-b4e8-8ae58ddb880b,Washing and (dry-)cleaning of textile and fur products,,,,,,,,4,UK SIC,9601,9601
+2d4c3660-e11d-4c0b-910c-a0b5921a61b8,Attribute,42c3f403-b676-4801-b4e8-8ae58ddb880b,Hairdressing and other beauty treatment,,,,,,,,4,UK SIC,9602,9602
+5f7447e2-8493-4c4c-8179-31e0eccddb2c,Attribute,42c3f403-b676-4801-b4e8-8ae58ddb880b,Funeral and related activities,,,,,,,,4,UK SIC,9603,9603
+7f0cb89f-e913-4041-aa70-e86b60c5c88c,Attribute,42c3f403-b676-4801-b4e8-8ae58ddb880b,Physical well-being activities,,,,,,,,4,UK SIC,9604,9604
+00ca0bff-bae0-4ac4-931c-16ac8bbea3a5,Attribute,42c3f403-b676-4801-b4e8-8ae58ddb880b,Other personal service activities n.e.c.,,,,,,,,4,UK SIC,9609,9609
+91046dab-eb48-4a94-8223-d3144c34febe,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS-AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE,,,,,,,,1,UK SIC,T,
+2e6a8638-0463-4cc1-ace4-89122a16773e,Group,91046dab-eb48-4a94-8223-d3144c34febe,Activities of households as employers of domestic personnel,,,,,,,,2,UK SIC,97,97
+a37957d9-53d6-4d02-8b4a-50d9eb49fb69,Group,2e6a8638-0463-4cc1-ace4-89122a16773e,Activities of households as employers of domestic personnel,,,,,,,,3,UK SIC,97,97
+b9f685e6-ca32-415b-a475-43277bccee8d,Attribute,a37957d9-53d6-4d02-8b4a-50d9eb49fb69,Activities of households as employers of domestic personnel,,,,,,,,4,UK SIC,9700,9700
+568936bb-24fd-4ca4-89ca-a4820001cddc,Group,91046dab-eb48-4a94-8223-d3144c34febe,Undifferentiated goods- and services-producing activities of private households for own use,,,,,,,,2,UK SIC,98,98
+11043bc9-8e81-4b16-8f73-49c55be4f601,Group,568936bb-24fd-4ca4-89ca-a4820001cddc,Undifferentiated goods-producing activities of private households for own use,,,,,,,,3,UK SIC,98.1,981
+41825fe0-66d9-4e69-8dac-ad942a4e16db,Attribute,11043bc9-8e81-4b16-8f73-49c55be4f601,Undifferentiated goods-producing activities of private households for own use,,,,,,,,4,UK SIC,9810,9810
+7ab86bf8-6b46-4657-a95c-e4cbef37e978,Group,568936bb-24fd-4ca4-89ca-a4820001cddc,Undifferentiated service-producing activities of private households for own use,,,,,,,,3,UK SIC,98.2,982
+a220c1e5-fdc9-46ad-8582-b0ea270ff508,Attribute,7ab86bf8-6b46-4657-a95c-e4cbef37e978,Undifferentiated service-producing activities of private households for own use,,,,,,,,4,UK SIC,9820,9820
+cd5ac046-6d0e-4fc5-b44e-b54cb8bce09b,Object,b3fdc15d-f273-4116-9ad3-4c3e2b6bb06c,ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES,,,,,,,,1,UK SIC,U,
+1b98f922-5d13-430d-95be-f78bc2434589,Group,cd5ac046-6d0e-4fc5-b44e-b54cb8bce09b,Activities of extraterritorial organisations and bodies,,,,,,,,2,UK SIC,99,99
+9617a8e8-1bb7-48c5-9cb0-d6dc37a503d9,Group,1b98f922-5d13-430d-95be-f78bc2434589,Activities of extraterritorial organisations and bodies,,,,,,,,3,UK SIC,99,99
+a12e64c9-b76d-4ac5-b521-e58656238b26,Attribute,9617a8e8-1bb7-48c5-9cb0-d6dc37a503d9,Activities of extraterritorial organisations and bodies,,,,,,,,4,UK SIC,9900,9900

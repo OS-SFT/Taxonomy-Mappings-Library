@@ -1,0 +1,424 @@
+﻿ID,TYPE,PARENT,NAME,SOURCE,TARGET,REFERENCE_MODEL_ID,TERM_ID,LABEL,,PROPERTIES:,Title,Link to Guidance,Question,Answer Format,Rows
+b5575f2e-e308-4ed1-8126-8a90f3ceacb6,Layer,,UN Global Compact,,,,,,,,,,,,
+b02df26e-da93-41a5-b1d7-94c470e12aa6,Object,b5575f2e-e308-4ed1-8126-8a90f3ceacb6,Human Rights,,,,,,,,,,,,
+ca9d8666-11f3-4a60-a77f-882ffd600584,Attribute,b02df26e-da93-41a5-b1d7-94c470e12aa6,Principle 1,,,,,,,,Businesses should support and respect the protection of internationally proclaimed human rights.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-1,,,
+81671984-d89e-41bd-9978-587e91cfbe5b,Attribute,b02df26e-da93-41a5-b1d7-94c470e12aa6,Principle 2,,,,,,,,Businesses should make sure that they are not complicit in human rights abuses.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-2,,,
+5d6e6828-72ab-4eb6-9d77-6006eb67bdc3,Object,b5575f2e-e308-4ed1-8126-8a90f3ceacb6,Labour,,,,,,,,,,,,
+d273e989-feaa-476f-9529-75fe83470b04,Attribute,5d6e6828-72ab-4eb6-9d77-6006eb67bdc3,Principle 3,,,,,,,,Businesses should uphold the freedom of association and the effective recognition of the right to collective bargaining.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3,,,
+beb2f03b-dfad-4705-8e8a-90d2cde61619,Attribute,5d6e6828-72ab-4eb6-9d77-6006eb67bdc3,Principle 4,,,,,,,,Businesses should uphold the elimination of all forms of forced and compulsory labour.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4,,,
+24d53c74-ef90-49ac-9632-fee67be8a43d,Attribute,5d6e6828-72ab-4eb6-9d77-6006eb67bdc3,Principle 5,,,,,,,,Businesses should uphold the effective abolition of child labour.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5,,,
+566b465d-89cf-4728-b2d2-a44816bd72ef,Attribute,5d6e6828-72ab-4eb6-9d77-6006eb67bdc3,Principle 6,,,,,,,,Businesses should uphold the elimination of discrimination in respect of employment and occupation.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6,,,
+3529a70b-3684-41cc-9fa9-22486bcea3a6,Object,b5575f2e-e308-4ed1-8126-8a90f3ceacb6,Environment,,,,,,,,,,,,
+ae7f2eab-b0a9-4105-a59d-643d41631aa9,Attribute,3529a70b-3684-41cc-9fa9-22486bcea3a6,Principle 7,,,,,,,,Businesses should support a precautionary approach to environmental challenges.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7,,,
+60e193de-8fd5-4973-8be0-d2869e87b7a2,Attribute,3529a70b-3684-41cc-9fa9-22486bcea3a6,Principle 8,,,,,,,,Businesses should undertake initiatives to promote greater environmental responsibility.,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8,,,
+acb773d3-8871-4530-b529-8fe38b7bc107,Attribute,3529a70b-3684-41cc-9fa9-22486bcea3a6,Principle 9,,,,,,,,Businesses should encourage the development and diffusion of environmentally friendly technologies,https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9,,,
+060301d1-176c-4f1a-ba99-994a564e1d76,Object,b5575f2e-e308-4ed1-8126-8a90f3ceacb6,Anti-Corruption,,,,,,,,,,,,
+3be1d636-6d51-42a4-83d4-74de73a1435d,Attribute,060301d1-176c-4f1a-ba99-994a564e1d76,Principle 10,,,,,,,,"Businesses should work against corruption in all its forms, including extortion and bribery.",https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10,,,
+bad292e3-fef9-4dcf-bfdb-7fe8550e3932,Layer,,Communication On Progress Questionnaire,,,,,,,,,,,,
+352f30d8-25fd-4d47-bda9-661e758966d6,Object,bad292e3-fef9-4dcf-bfdb-7fe8550e3932,Governance,,,,,,,,,,,,
+6910f630-3741-4d4d-a8bf-c1b7c08f6103,Group,352f30d8-25fd-4d47-bda9-661e758966d6,Policies and Responsibilities,,,,,,,,,,,,
+3cc1244b-4f7c-4752-a746-dbb133790eae,Attribute,6910f630-3741-4d4d-a8bf-c1b7c08f6103,G1,,,,,,,,,,Does the board/highest governance body or most senior executive of the company:,Select all that apply,"Issue an annual statement about the relevance of sustainable development to the company
+Issue an annual statement that addresses impacts on both people and the environment
+Issue an annual statement highlighting a zero tolerance for corruption
+Sign off on organizational sustainability targets
+Supervise Environmental, Social, and Governance reporting
+Regularly review potential risks related to the business model
+None of the above"
+91be38c5-7507-41c0-8dce-5acda39a76e2,Attribute,6910f630-3741-4d4d-a8bf-c1b7c08f6103,G2,,,,,,,,,,Does the company have a publicly stated commitment regarding the following sustainability topics?,Matrix – Select one answer option per line,"Human Rights
+Labour Rights/Decent Work
+Environment
+Anti-Corruption"
+64e6b547-1b32-46ef-95e5-86a2b6e35834,Attribute,6910f630-3741-4d4d-a8bf-c1b7c08f6103,G3,,,,,,,,,,Does the company have in place a code of conduct regarding each of the following sustainability topics?,Matrix – Select one answer option per line,"Human Rights
+Labour Rights/Decent Work
+Environment
+Anti-Corruption"
+b1727894-39d7-494c-95b4-dfe31fe4e650,Attribute,6910f630-3741-4d4d-a8bf-c1b7c08f6103,G4,,,,,,,,,,Has the company appointed an individual or group responsible for each of the following sustainability topics?,Matrix – Select one answer option per line,"Human Rights
+Labour Rights/Decent Work
+Environment
+Anti-Corruption"
+b005af95-6105-4d4d-8314-e1111f228f88,Attribute,6910f630-3741-4d4d-a8bf-c1b7c08f6103,G5,,,,,,,,,,Does the company have a formal structure(s) (such as a cross-functional committee) to address each of the following sustainability topics?,Matrix – Select one answer option per line,"Human Rights
+Labour Rights/Decent Work
+Environment
+Anti-Corruption"
+edfecfd5-d3df-4a80-9bc3-f1f85d4e0c76,Group,352f30d8-25fd-4d47-bda9-661e758966d6,Prevention,,,,,,,,,,,,
+4efb247b-76bc-4529-bd04-9fe2eee6d8b3,Group,edfecfd5-d3df-4a80-9bc3-f1f85d4e0c76,G6,,,,,,,,,,Does the company have a process or processes to assess risk?,Matrix – Select one answer option per line,"Human rights risks
+Labour rights risks
+Environmental risks
+Corruption risks"
+e79c4fce-3ba7-41b3-986b-168daa7c457d,Attribute,4efb247b-76bc-4529-bd04-9fe2eee6d8b3,G6.1,,,,,,,,,,"During the assessment of risk, has your company reviewed those suppliers and/or other business relationships where the risk related to human rights, labour, environment and/or anti-corruption may be particularly severe?",Matrix – Select one answer option per line,"Human rights risks
+Labour rights risks
+Environmental risks
+Corruption risks"
+3ac5ddef-571e-4d16-ac14-de76fb294617,Group,edfecfd5-d3df-4a80-9bc3-f1f85d4e0c76,G7,,,,,,,,,,"Does the company have a due diligence process through which it identifies, prevents, mitigates, and accounts for actual and potential negative impacts on sustainability topics?",Matrix – Select one answer option per line,"Human rights risks
+Labour rights risks
+Environmental risks
+Corruption risks"
+d20e1496-a64c-4b95-b441-22ec365eeb85,Attribute,3ac5ddef-571e-4d16-ac14-de76fb294617,G7.1,,,,,,,,,,"During the due diligence process, has your company reviewed those suppliers and/or other business relationships where the risk of adverse impacts on human rights, labour, environment and/or anti-corruption may be particularly severe?",Matrix – Select one answer option per line,"Human rights risks
+Labour rights risks
+Environmental risks
+Corruption risks"
+47d605c5-a527-4802-a417-0f77ee126d3c,Group,352f30d8-25fd-4d47-bda9-661e758966d6,Concerns and Grievance Mechanisms,,,,,,,,,,,,
+b68c68e9-637d-45a7-a4e3-7690a1e2eb90,Group,47d605c5-a527-4802-a417-0f77ee126d3c,G8,,,,,,,,,,"Are there any processes through which members of the company’s workforce can raise concerns about the company’s conduct related to human rights, labour rights, environment, or anti-corruption?",Radial – Select One,"No, this is not a current priority 
+No, but we plan to within two years
+Yes, we have an informal process (e.g., through supervisors, others) [Prompts G8.1]
+Yes, we have a formal process [Prompts G8.1]"
+441f267a-43c7-4cb1-b58b-2625a31d5fcc,Attribute,b68c68e9-637d-45a7-a4e3-7690a1e2eb90,G8.1,,,,,,,,,,Please provide additional detail regarding the process(es) the company has through which members of the company’s workforce can raise concerns about the company’s conduct.,Matrix – Select one answer option per line,"Is the process communicated to all employees/workers in local languages
+Is the process available to non-employees (e.g., suppliers, consumers, communities, and other business relationships)
+Is the process confidential (e.g., whistleblowing process)
+Are there processes in place to avoid retaliation
+Can concerns be raised about suppliers or other business relationships (e.g., clients, partners, etc.)
+Other (Please provide additional information) [If yes, makes text box mandatory]"
+c0e0f52e-3464-41d9-a426-f20f51bcaff5,Group,352f30d8-25fd-4d47-bda9-661e758966d6,Lessons,,,,,,,,,,,,
+802032b4-f279-40b2-819d-01314bc1bfd6,Attribute,c0e0f52e-3464-41d9-a426-f20f51bcaff5,G9,,,,,,,,,,How does the company capture lessons regarding each of the following sustainability topics?,Matrix – Select one answer option per line,"Human Rights
+Labour Rights/Decent Work
+Environment
+Anti-Corruption"
+49ca6279-1f6a-4f4b-a86a-72881199d430,Group,352f30d8-25fd-4d47-bda9-661e758966d6,Executive Pay,,,,,,,,,,,,
+4fe048bc-6082-4ddf-a592-d373470844e3,Attribute,49ca6279-1f6a-4f4b-a86a-72881199d430,G10,,,,,,,,,,Is executive pay linked to performance on one or more of the following sustainability topics?,Matrix – Select one answer option per line,"Human Rights
+Labour Rights/Decent Work
+Environment
+Anti-Corruption"
+e6fd93da-21f3-4407-a3a3-1386da8ccf31,Group,352f30d8-25fd-4d47-bda9-661e758966d6,Board Composition,,,,,,,,,,,,
+f0f1c6f8-47e2-4666-a790-7f1abab0bfc3,Attribute,e6fd93da-21f3-4407-a3a3-1386da8ccf31,G11,,,,,,,,,,Percentage of individuals within the company’s Board/highest governance body by:,Matrix – Percentage & Commentary for each line,"Total number of board members (#)
+Male (%)
+Female (%)
+Non-binary (%)
+Under 30 years old (%)
+30-50 years old (%)
+Above 50 years old (%)
+From minority or vulnerable groups (%)
+Executive (%)
+Independent (%)"
+c03202df-c83f-4097-b095-8be3af1f9105,Attribute,e6fd93da-21f3-4407-a3a3-1386da8ccf31,G12,,,,,,,,,,Do you produce sustainability reporting according to:,Select all that apply,"National/local regulation on sustainability
+Security exchange regulations
+European Union Corporate Sustainability Reporting Directive (CSRD)
+Global Reporting Initiative (GRI)
+Sustainability Accounting Standards Board (SASB, now consolidated into the IFRS Foundation)
+International Integrated Reporting Council (IIRC, now consolidated into the IFRS Foundation)
+Climate Disclosure Standards Board (CDSB, now consolidated into the IFRS Foundation)
+Task Force on Climate-related Financial Disclosures (TCFD)
+Other voluntary frameworks (Please specify in text box) [Makes text box mandatory]
+No sustainability reporting according to any frameworks nor regulations
+We do not produce sustainability reporting outside of this Communication on Progress"
+fc65d364-8ce7-435d-81d2-ce530ba01286,Group,352f30d8-25fd-4d47-bda9-661e758966d6,Data Assurance,,,,,,,,,,,,
+5aec0272-2659-4d12-8d3a-84377ec06c54,Attribute,fc65d364-8ce7-435d-81d2-ce530ba01286,G13,,,,,,,,,,Is the information disclosed in this questionnaire assured by a third-party?,Select all that apply,"No assurance for any metrics
+Limited assurance for minority of metrics (e.g., GHG emissions only)
+Limited assurance for majority of metrics
+Reasonable assurance for minority of metrics
+Reasonable assurance for majority of metrics
+Other (Please provide additional information) [Makes text box mandatory]"
+0c54ce14-6e00-49f1-9c66-5ab2a3e7b558,Object,bad292e3-fef9-4dcf-bfdb-7fe8550e3932,Human Rights,,,,,,,,,,,,
+b61d3ce8-ec4c-4d4e-ac33-0c1f1957cf98,Group,0c54ce14-6e00-49f1-9c66-5ab2a3e7b558,Materiality,,,,,,,,,,,,
+885d47c8-92e8-412b-818c-25ef1502ce6e,Attribute,b61d3ce8-ec4c-4d4e-ac33-0c1f1957cf98,HR1,,,,,,,,,,"Which of the following has the company identified as material human rights topics connected with its operations and/or value chain, whether based on their salience (e.g., the most severe potential negative impacts on people) or another basis? [Please select your top 5 material topics]",Select all that apply [Limit 5],"Freedom of association and the effective recognition of the right to collective bargaining
+Child labour
+Forced labour
+Non-discrimination in respect of employment and occupation
+Safe and healthy working environment
+Working conditions (wages, working hours) [Prompts additional line ‘Working conditions (wages, working hours)’ in Questions L1, L2, L3, L4, L5, L12]
+Freedom of expression [Prompts additional line ‘Freedom of expression’ in Questions HR2–HR7]
+Right to participate in cultural life [Prompts additional line ‘Right to participate in cultural life’ in Questions HR2–HR7]
+Access to water and sanitation [Prompts additional line ‘Access to water and sanitation’ in Questions HR2–HR7]
+Digital security/privacy [Prompts additional line ‘Digital security/privacy’ in Questions HR2–HR7]
+Gender equality and women’s rights [Prompts additional line ‘Rights of women and/or girls’ in Questions HR2–HR7]
+Rights of indigenous peoples [Prompts additional line ‘Rights of indigenous peoples’ in Questions HR2–HR7]
+Rights of refugees and migrants [Prompts additional line ‘Rights of refugees and migrants’ in Questions HR2–HR7]
+Other"
+a08a5b7a-d30f-46f7-869e-5c84fb345823,Group,0c54ce14-6e00-49f1-9c66-5ab2a3e7b558,Commitment,,,,,,,,,,,,
+643a43a1-e200-4223-a928-798a025cfe8f,Group,a08a5b7a-d30f-46f7-869e-5c84fb345823,HR2,,,,,,,,,,Does the company have a policy commitment in relation to the following human rights topics?,Matrix – Select one answer option per line,"Freedom of expression
+Right to participate in cultural life
+Access to water and sanitation
+Digital security/privacy
+Gender equality and women’s rights
+Rights of indigenous peoples
+Rights of refugees and migrants"
+e6965757-173c-4873-a8fd-113bb94f2031,Attribute,643a43a1-e200-4223-a928-798a025cfe8f,HR2.1,,,,,,,,,,"HR2.1. For each human rights policy, is it:",Matrix – Select all that apply for each line,"Freedom of expression
+Right to participate in cultural life
+Access to water and sanitation
+Digital security/privacy
+Gender equality and women’s rights
+Rights of indigenous peoples
+Rights of refugees and migrants"
+58d85c47-b512-4d4d-bec7-c5e80e78e48b,Group,0c54ce14-6e00-49f1-9c66-5ab2a3e7b558,Prevention,,,,,,,,,,,,
+2f1b47b6-fca7-4614-8610-198937383a31,Attribute,58d85c47-b512-4d4d-bec7-c5e80e78e48b,HR3,,,,,,,,,,"In the course of the reporting period, has the company engaged with affected stakeholders or their legitimate representatives in relation to the following human rights topics?",Matrix – Select one answer option per line,"Freedom of expression
+Right to participate in cultural life
+Access to water and sanitation
+Digital security/privacy
+Gender equality and women’s rights
+Rights of indigenous peoples
+Rights of refugees and migrants"
+75a4669e-22ed-4cc9-ba78-ca3b95cfae69,Attribute,58d85c47-b512-4d4d-bec7-c5e80e78e48b,HR4,,,,,,,,,,What type of action has the company taken in the reporting period with the aim of preventing/mitigating the risks/impacts associated with this human rights topic?,Matrix – Select all that apply for each line,"Freedom of expression
+Right to participate in cultural life
+Access to water and sanitation
+Digital security/privacy
+Gender equality and women’s rights
+Rights of indigenous peoples
+Rights of refugees and migrants"
+bc99f71b-02d0-4876-82f8-393c696cbddf,Attribute,58d85c47-b512-4d4d-bec7-c5e80e78e48b,HR5,,,,,,,,,,Who receives training for the following human rights topics?,Matrix – Select all that apply for each line,"Freedom of expression
+Right to participate in cultural life
+Access to water and sanitation
+Digital security/privacy
+Gender equality and women’s rights
+Rights of indigenous peoples
+Rights of refugees and migrants"
+751936ca-d1e8-411e-950c-62c8d9a24c36,Attribute,58d85c47-b512-4d4d-bec7-c5e80e78e48b,HR6,,,,,,,,,,How does the company assess progress in preventing/mitigating the risks/impacts associated with the following human rights topics?,Matrix – Select one answer option per line,"Freedom of expression
+Right to participate in cultural life
+Access to water and sanitation
+Digital security/privacy
+Gender equality and women’s rights
+Rights of indigenous peoples
+Rights of refugees and migrants"
+8aa95f94-0754-4106-bc3f-a69ddc4c23c8,Group,0c54ce14-6e00-49f1-9c66-5ab2a3e7b558,Response,,,,,,,,,,,,
+f9fc62f4-0b10-4b81-a5b0-8889791eab0c,Attribute,8aa95f94-0754-4106-bc3f-a69ddc4c23c8,HR7,,,,,,,,,,"During the reporting period, has the company been involved in providing or enabling remedy if it has caused or contributed to adverse impact associated with the following human rights topic(s)?",Matrix – Select one answer option per line,"Freedom of expression
+Right to participate in cultural life
+Access to water and sanitation
+Digital security/privacy
+Gender equality and women’s rights
+Rights of indigenous peoples
+Rights of refugees and migrants"
+55975285-3f94-4e0f-83f9-fac8aafae0be,Attribute,8aa95f94-0754-4106-bc3f-a69ddc4c23c8,HR8,,,,,,,,,,"Briefly describe additional relevant practical actions the company has taken during the reporting period and/or plans to take to implement the human rights principles, including goals set and any challenges faced and actions taken towards prevention and/or remediation.",Text Box,
+55ed2ea9-144c-4cda-926b-c66c4cfa3329,Object,bad292e3-fef9-4dcf-bfdb-7fe8550e3932,Labour,,,,,,,,,,,,
+a1d34fcb-64b5-421f-b672-aa0749d6e4d9,Group,55ed2ea9-144c-4cda-926b-c66c4cfa3329,Commitment,,,,,,,,,,,,
+548205c9-37a4-4737-a899-c761168670a7,Group,a1d34fcb-64b5-421f-b672-aa0749d6e4d9,L1,,,,,,,,,,Does the company have a policy commitment in relation to the following labour rights principles?,Matrix – Select one answer option per line,"Freedom of association and the effective recognition of the right to collective bargaining
+Forced labour
+Child labour
+Non-discrimination in respect of employment and occupation
+Safe and healthy working environment
+Working conditions (wages, working hours)"
+ed3305c8-9ced-482b-8d01-62bcde4592e7,Attribute,548205c9-37a4-4737-a899-c761168670a7,L1.1,,,,,,,,,,"For each labour rights policy, is it:",Matrix – Select all that apply for each line,"Freedom of association and the effective recognition of the right to collective bargaining
+Forced labour
+Child labour
+Non-discrimination in respect of employment and occupation
+Safe and healthy working environment
+Working conditions (wages, working hours)"
+595ca11b-c58b-48b9-a11a-d0de89820499,Attribute,548205c9-37a4-4737-a899-c761168670a7,L1.2,,,,,,,,,,Does the existing company’s policy on freedom of association and collective bargaining:,Matrix – Select all that apply for each line,"Reference the respect for the right of all workers toform and join a trade union of their choice without fear of intimidation or reprisal and protect workers against acts of antiunion discrimination
+Prohibit any acts of interference in trade unions
+Facilitate the collective bargaining with the trade union representatives
+Provide trade union representatives with information required for meaningful bargaining in the context of bona fide negotiations
+Reference the respect for the right of workers to submit grievances without suffering"
+ae5dcbd0-7312-4f73-9059-d9fb5058c426,Group,55ed2ea9-144c-4cda-926b-c66c4cfa3329,Prevention,,,,,,,,,,,,
+c12b2b53-de78-4d04-b967-cb2be9b64faa,Attribute,ae5dcbd0-7312-4f73-9059-d9fb5058c426,L2,,,,,,,,,,"In the course of the reporting period, has the company engaged with affected stakeholders or their legitimate representatives in relation to the following labour rights topics?",Matrix – Select one answer option per line,"Freedom of association and the effective recognition of the right to collective bargaining
+Forced labour
+Child labour
+Non-discrimination in respect of employment and occupation
+Safe and healthy working environment
+Working conditions (wages, working hours)"
+922861d0-010e-461b-96c4-f02435dc705e,Attribute,ae5dcbd0-7312-4f73-9059-d9fb5058c426,L3,,,,,,,,,,What type of action has the company taken in the reporting period with the aim of preventing/mitigating the risks/impacts associated with this labour rights topic?,Matrix – Select all that apply for each line,"Freedom of association and the effective recognition of the right to collective bargaining
+Forced labour
+Child labour
+Non-discrimination in respect of employment and occupation
+Occupational Safety and Health
+Working conditions (wages, working hours)"
+ced1e719-c9e4-4fa0-b6f6-cd4f744ec07b,Attribute,ae5dcbd0-7312-4f73-9059-d9fb5058c426,L4,,,,,,,,,,Who receives training for the following labour rights topics?,Matrix – Select all that apply for each line,"Freedom of association and the effective recognition of the right to collective bargaining
+Forced labour
+Child labour
+Non-discrimination in respect of employment and occupation
+Safe and healthy working environment (also in note)
+Working conditions (wages, working hours)"
+2c4b6863-804e-4c4b-8536-c6a9f046f098,Attribute,ae5dcbd0-7312-4f73-9059-d9fb5058c426,L5,,,,,,,,,,How does the company assess progress in preventing/mitigating the risks/impacts associated with the following labour rights topics?,Matrix – Select one answer option per line,"Freedom of association and the effective recognition of the right to collective bargaining
+Forced labour
+Child labour
+Non-discrimination in respect of employment and occupation
+Occupational Safety and Health
+Working conditions (wages, working hours)"
+af00a61f-cb63-462b-a017-84ba202d9278,Group,55ed2ea9-144c-4cda-926b-c66c4cfa3329,Performance,,,,,,,,,,,,
+a7c2a90b-a158-4205-b435-0b503e5e41c8,Attribute,af00a61f-cb63-462b-a017-84ba202d9278,L6,,,,,,,,,,"Do(es) the existing collective bargaining agreement(s) provide(s) more favourable rights than those provided in legislation or in an applicable sectoral agreement, where appropriate?",Select all that apply,"No
+Yes, by providing more favourable conditions related to wages
+Yes, by providing more favourable conditions related to working hours
+Yes, by providing more favourable conditions related to health coverage and/or sick leave
+Yes, by providing additional rights not otherwise provided (Please provide additional information) [Makes text box mandatory]
+There is (are) no existing collective bargaining agreement(s)"
+dd17db94-80c0-41f9-bf5f-7aec35a15fbb,Attribute,af00a61f-cb63-462b-a017-84ba202d9278,L7,,,,,,,,,,"In the course of the reporting period, what was the percentage of women in senior leadership level positions? (%)",Matrix – Text Box with option for Unknown or N/A,Senior leadership level position
+80a6ec1f-1ab7-4216-a6e0-c63d081c1e57,Attribute,af00a61f-cb63-462b-a017-84ba202d9278,L8,,,,,,,,,,What was the average ratio of the basic salary and remuneration of women to men (comparing jobs of equal value) during the reporting period?,Matrix – Text Box with option for Unknown or N/A,Women/Men (%)
+5472f528-17f5-4dad-907c-5d3a6a447d4e,Attribute,af00a61f-cb63-462b-a017-84ba202d9278,L9,,,,,,,,,,"In the course of the reporting period, how frequently were workers injured (injuries per hour worked)?",Matrix – Text Box with option for Unknown or N/A,Frequency of injury
+5ab13142-d27c-479d-a8cb-82e6efcbf362,Attribute,af00a61f-cb63-462b-a017-84ba202d9278,L10,,,,,,,,,,"In the course of the reporting period, what was the company’s incident rate?",Matrix – Text Box with option for Unknown or N/A,Incident rate
+f0e718b1-52b0-43ad-a380-4dcdfc462e72,Group,55ed2ea9-144c-4cda-926b-c66c4cfa3329,Response and Reporting,,,,,,,,,,,,
+aea61fa5-4105-432d-be4d-c39e6cd091ea,Attribute,f0e718b1-52b0-43ad-a380-4dcdfc462e72,L11,,,,,,,,,,"In the course of the reporting period, has the company been involved in providing or enabling remedy if it has caused or contributed to the adverse impact associated with the following labour rights topics?",Matrix – Select one answer option per line,"Freedom of association and the effective recognition of the right to collective bargaining
+Forced labour
+Child labour
+Non-discrimination in respect of employment and occupation
+Safe and healthy working environment (also in note)
+Working conditions (wages, working hours)"
+6720d767-536c-475f-a0b7-f650f393ae0d,Attribute,f0e718b1-52b0-43ad-a380-4dcdfc462e72,L12,,,,,,,,,,"Briefly describe additional relevant practical actions the company has taken during the reporting period and/or plans to take to implement the labour principles, including goals set and any challenges faced and actions taken towards prevention and/or remediation.",Text Box,
+b980fea5-8de6-4116-aea6-6cd9126be8c5,Object,bad292e3-fef9-4dcf-bfdb-7fe8550e3932,Environment,,,,,,,,,,,,
+d40b9209-57c8-409e-88c8-8a8441e872ac,Group,b980fea5-8de6-4116-aea6-6cd9126be8c5,Commitment,,,,,,,,,,,,
+5c8b03ad-a7d4-4d6e-b947-157f6c128053,Group,d40b9209-57c8-409e-88c8-8a8441e872ac,E1,,,,,,,,,,Does the company have a policy commitment on the following environmental topics?,Matrix – Select one answer option per line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+4f166e28-8010-4ca0-a0fa-a6fd9ea3dc2c,Attribute,5c8b03ad-a7d4-4d6e-b947-157f6c128053,E1.1,,,,,,,,,,"For each environmental policy, is it:",Matrix – Select all that apply for each line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+81c8d884-6668-43e4-8278-5d79daa8d36b,Group,b980fea5-8de6-4116-aea6-6cd9126be8c5,Prevention,,,,,,,,,,,,
+87395e4a-1c8a-4238-a9cb-bfe431fd1ecb,Attribute,81c8d884-6668-43e4-8278-5d79daa8d36b,E2,,,,,,,,,,"In the course of the reporting period, has the company engaged with affected stakeholders or their legitimate representatives in relation to the following environmental topics?",Matrix – Select one answer option per line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+b6c59136-3165-414c-8546-a784267c4c53,Attribute,81c8d884-6668-43e4-8278-5d79daa8d36b,E3,,,,,,,,,,What type of action has the company taken in the reporting period with the aim of preventing/mitigating the risks/impacts associated with these environmental topics?,Matrix – Select all that apply for each line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+6925e0a5-a0f8-4d8a-9745-1aa130c7080d,Group,81c8d884-6668-43e4-8278-5d79daa8d36b,E4,,,,,,,,,,How does the company assess progress in preventing/mitigating the risks/impacts associated with the following environmental topics?,Matrix – Select one answer option per line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+82d19ce3-46f2-4ec9-a552-1e33a6ae9aea,Attribute,6925e0a5-a0f8-4d8a-9745-1aa130c7080d,E4.1,,,,,,,,,,"For each environmental topic in which the company sets timebound goals/targets, what kind of targets has the company set?",Matrix – Text box for each line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+51be868d-834a-4fc6-bee5-14fc94b29b71,Attribute,6925e0a5-a0f8-4d8a-9745-1aa130c7080d,E4.2,,,,,,,,,,"For each environmental topic in which the company sets timebound goals/targets, how is progress against target/goal tracked?",Matrix – Select all that apply for each line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+9d564814-9d9e-441e-828f-b988eea939cf,Attribute,81c8d884-6668-43e4-8278-5d79daa8d36b,E5,,,,,,,,,,"In the course of the reporting period, has the company been involved in providing or enabling remedy for any actual impacts associated with the following environmental topic(s)?",Matrix – Select one answer option per line,"Climate change
+Water
+Oceans
+Forests/biodiversity/land use
+Air pollution
+Waste (e.g., chemical spills, solid waste, hazardous, plastic, etc.)
+Energy & resource use"
+9142c9d9-0d72-48bf-832e-d399d2ad1f29,Group,b980fea5-8de6-4116-aea6-6cd9126be8c5,Climate Action,,,,,,,,,,,,
+dc7a2712-3cea-4ea0-837c-6aab8790a74d,Group,9142c9d9-0d72-48bf-832e-d399d2ad1f29,E6,,,,,,,,,,What were the company’s gross global greenhouse gas emissions for the reporting period?,Matrix – Select one answer option per line + text box,"Scope 1 emissions
+Scope 2 emissions
+Scope 3 emissions"
+fe956844-b3f2-4fc6-8108-e240e50d5e1e,Attribute,dc7a2712-3cea-4ea0-837c-6aab8790a74d,E6.1,,,,,,,,,,Which Scope 3 categories are included in the organization’s Scope 3 emissions calculation?,Select all that apply,"Purchased goods and services
+Capital goods
+Fuel- and energy-related activities
+Upstream transportation and distribution
+Waste generated in operations
+Business travel
+Employee commuting
+Upstream leased assets
+Downstream transportation and distribution
+Processing of sold products
+Use of sold products
+End-of-life treatment of sold products
+Downstream leased assets
+Franchises
+Investments
+Other - upstream
+Other - downstream"
+95d927e5-035a-4097-ba10-12d58b74b6cc,Attribute,9142c9d9-0d72-48bf-832e-d399d2ad1f29,E7,,,,,,,,,,What percentage of the company’s revenue was invested in R&D of low-carbon products/services during this reporting period?,Matrix – Text Box with option for Unknown or N/A,R&D for low-carbon products/services
+043c0692-627e-4632-8151-af6532e6e13f,Attribute,9142c9d9-0d72-48bf-832e-d399d2ad1f29,E8,,,,,,,,,,Has the organization acted to support climate change adaptation and resilience?,Select all that apply,"We have taken action to increase organization-wide resilience to climate change
+We have taken action to increase resilience in our supply chains
+We have taken action to increase resilience in the communities in which we operate
+We have provided funding for climate change adaptation and resilience initiatives and projects
+We have not taken actions to build climate change resilience in the reporting period
+Unknown"
+8a4ba0d3-1107-4a56-b994-e7d46cb51705,Group,b980fea5-8de6-4116-aea6-6cd9126be8c5,Energy/Resource Use,,,,,,,,,,,,
+82389257-8929-4906-af79-db9589c1ee49,Attribute,8a4ba0d3-1107-4a56-b994-e7d46cb51705,E9,,,,,,,,,,Please report the company’s renewable energy consumption as a percentage of total energy consumption in the reporting period.,Matrix – Text Box with option for Unknown,Renewable energy consumption as % of total energy consumption
+7977abff-cae4-443f-ade4-e32e4f367667,Group,b980fea5-8de6-4116-aea6-6cd9126be8c5,Technology,,,,,,,,,,,,
+1de63bce-e324-4979-93ba-4aa708b1e2b1,Attribute,7977abff-cae4-443f-ade4-e32e4f367667,E10,,,,,,,,,,What percent of the company’s revenue came from low-carbon products/services during this reporting period?,Matrix – Text Boxes with option for Unknown or N/A,Low-carbon products and services/total revenue for the reporting period
+fcac29c4-43ec-4505-9276-5e883ab08bc4,Group,b980fea5-8de6-4116-aea6-6cd9126be8c5,Sector-specific Questions,,,,,,,,,,,,
+cbdfb7b3-f870-4276-bf4d-f998c468a1a1,Group,fcac29c4-43ec-4505-9276-5e883ab08bc4,Sector-specific: Water,,,,,,,,,,,,
+ab80c2cf-f102-4c5c-ab30-2957a6c8f872,Attribute,cbdfb7b3-f870-4276-bf4d-f998c468a1a1,E11,,,,,,,,,,Please provide details regarding the company’s water withdrawal and consumption (own operations) during the reporting period.,Matrix – Text Boxes with option for Unknown or N/A,"Water withdrawal (volume of water in megaliters):
+Total
+BY SOURCE
+Fresh surface water
+Groundwater
+Brackish surface water/seawater
+Produced water
+Third-party water
+Percentage of water withdrawn in regions with high or extremely high water stress (%)
+Water consumption (volume of water in megaliters):
+Total
+BY SOURCE
+Fresh surface water
+Groundwater
+Brackish surface water/seawater
+Produced water
+Third-party water
+Percentage of water withdrawn in regions with high or extremely high water stress (%)"
+f164de98-ced1-4e73-9fa2-f44823b04e95,Attribute,cbdfb7b3-f870-4276-bf4d-f998c468a1a1,E12,,,,,,,,,,Please provide details about the company’s water intensity of products in regions with high or extremely high water stress.,Matrix – Text Boxes with option for Unknown or N/A,Water intensity of products (cubic meter/$ OR cubic meter/product type)
+594679f2-f525-4084-8c11-13f0f60035f4,Group,fcac29c4-43ec-4505-9276-5e883ab08bc4,"Sector-specific: Forests, Biodiversity, and Land Use",,,,,,,,,,,,
+7777247a-d996-4848-a4a5-671c72e87957,Attribute,594679f2-f525-4084-8c11-13f0f60035f4,E13,,,,,,,,,,"Please report the number and area (in hectares) of sites owned, leased, or managed by the company in or adjacent to protected areas and/or key biodiversity areas (KBA).",Matrix – Text Boxes with option for Unknown or N/A,"Sites
+Hectares"
+0dd63a93-4fe2-4149-a275-2503638f2b62,Attribute,594679f2-f525-4084-8c11-13f0f60035f4,E14,,,,,,,,,,"What area (in hectares) of natural ecosystems was converted during the reporting period in areas owned, leased, or managed by the company?",Matrix – Text Boxes with option for Unknown or N/A,Conversion of natural resources
+9d678417-c64b-4cc5-82ea-261c741aea49,Attribute,594679f2-f525-4084-8c11-13f0f60035f4,E15,,,,,,,,,,Is the company supporting or implementing project(s) focused on ecosystem restoration and protection?,Matrix – Select one answer option per line + text box,"Forest ecosystem restoration
+Other ecosystem restoration
+Reforestation
+Natural regeneration
+Agroforestry
+Set-aside land
+Biodiversity offsetting
+Other (Please provide additional information)"
+04fd5d17-0ae4-42f9-9395-4b370ee07688,Group,fcac29c4-43ec-4505-9276-5e883ab08bc4,Sector-specific: Air Pollution,,,,,,,,,,,,
+ca644d19-4869-4230-ac98-f78b903574d1,Attribute,04fd5d17-0ae4-42f9-9395-4b370ee07688,E16,,,,,,,,,,"Where applicable, please report the company’s emissions of the following pollutants during the reporting period.",Matrix – Text Box with option for Unknown or N/A,"NOx
+SOx
+Volatile organic compounds (VOCs)
+Hazardous air pollutants (HAPs)
+Particulate matter (PM10)
+Persistent organic pollutants (POPs)
+Other (Please provide additional information)"
+f0e50963-b67f-44ad-a8a4-67c3edae022c,Group,fcac29c4-43ec-4505-9276-5e883ab08bc4,Sector-specific: Waste,,,,,,,,,,,,
+b7f10422-ff3a-40bf-920c-e2f973398ccb,Attribute,f0e50963-b67f-44ad-a8a4-67c3edae022c,E17,,,,,,,,,,Please report the company’s total weight of waste generated in metric tonnes during the reporting period.,Matrix – Text Box with option for Unknown or N/A,Solid waste
+d3f497b6-e8a2-43b5-80ea-f12cc3272667,Attribute,f0e50963-b67f-44ad-a8a4-67c3edae022c,E18,,,,,,,,,,"Please report the percentage of the company’s waste that was hazardous waste (e.g., hazardous waste ratio) during the reporting period.",Matrix – Text Box with option for Unknown or N/A,Solid waste
+a3037e9a-6945-4712-8079-afb58163048a,Attribute,f0e50963-b67f-44ad-a8a4-67c3edae022c,E19,,,,,,,,,,Please report the company’s estimated metric tonnes of single-use plastic consumed wherever material along the value chain during the reporting period.,Matrix – Text Box with option for Unknown or N/A,Single-use plastics
+d6b5d2e0-1d21-482b-aeb7-97f3f8ac590b,Group,b980fea5-8de6-4116-aea6-6cd9126be8c5,Overall Environment,,,,,,,,,,,,
+b83ef772-2956-4f88-8f71-6598430bbb72,Attribute,d6b5d2e0-1d21-482b-aeb7-97f3f8ac590b,E20,,,,,,,,,,"Briefly describe additional relevant practical actions the company has taken during the reporting period and/or plans to take to implement the environment principles, including goals set and any challenges faced and actions taken towards prevention and/or remediation.",Text Box,
+c55e4dfe-e88f-45a0-87d3-d2ad554918a6,Object,bad292e3-fef9-4dcf-bfdb-7fe8550e3932,Anti-Corruption,,,,,,,,,,,,
+e0500695-3227-48a6-95d9-786eaa0a3e1d,Group,c55e4dfe-e88f-45a0-87d3-d2ad554918a6,Commitment,,,,,,,,,,,,
+317ce095-1ba7-4594-99e6-3659e1d34370,Group,e0500695-3227-48a6-95d9-786eaa0a3e1d,AC1,,,,,,,,,,Does the company have an anti-corruption compliance programme?,Radial – Select One,"No, it is not an immediate business priority
+No, but we plan to in the next two years
+Yes [Prompts AC1.1]"
+aa079ada-3417-43cd-bf8e-73b2a266fbbf,Attribute,317ce095-1ba7-4594-99e6-3659e1d34370,AC1.1,,,,,,,,,,"If yes, in what year was this programme last reviewed?",YYYY,
+f40191a1-75d6-469f-8e10-d16cf7b945ba,Attribute,e0500695-3227-48a6-95d9-786eaa0a3e1d,AC2,,,,,,,,,,"Does your company have policies and recommendations for employees on how to act in case of doubt and/or in situations that may represent a conflict of interest, e.g., with regard to gifts and hospitality, donations, sponsorship, or interactions with public officials?",Radial – Select One,"No, and we have no plants to develop them
+No, but we plan to in the next two years
+Yes, included within a broader policy
+Yes, articulated as a stand-alone policy"
+cd266550-68fe-46df-bece-163bf7361c8f,Group,c55e4dfe-e88f-45a0-87d3-d2ad554918a6,Prevention,,,,,,,,,,,,
+62a9e125-c9e2-41ea-9090-72e2b4280b37,Group,cd266550-68fe-46df-bece-163bf7361c8f,AC3,,,,,,,,,,Who receives training on anti-corruption and integrity?,Select all that apply,"No training provided
+Select employees [Prompts AC3.1]
+All employees [Prompts AC3.1]
+Contractors [Prompts AC3.1]
+Direct suppliers of the organization [Prompts AC3.1]
+Indirect suppliers of the organization [Prompts AC3.1]
+Other – such as partners, clients, etc. [Prompts AC3.1]"
+028031b5-ed21-4402-8e91-78d50afbc323,Attribute,62a9e125-c9e2-41ea-9090-72e2b4280b37,AC3.1,,,,,,,,,,How often is such training provided?,Matrix – Select one answer option per line,"Select employees
+All employees
+Contractors
+Direct suppliers of the organization
+Indirect suppliers of the organization
+Other – such as partners, clients, etc."
+97afb59f-d984-4316-a013-51a0da3919ae,Attribute,cd266550-68fe-46df-bece-163bf7361c8f,AC4,,,,,,,,,,Does the company monitor its anti-corruption compliance programme?,Select all that apply,"No, we do not monitor the anti-corruption compliance programme (Please provide additional information) [Makes text box mandatory]
+Review topics on ad hoc basis
+Yes, through internal employee self-evaluations
+Yes, through automated controls monitoring
+Yes, through external independent monitoring
+Yes, through other mechanisms (Please provide additional information) [Makes text box mandatory]"
+7b014cb0-1976-495e-be20-facc49919cf3,Group,c55e4dfe-e88f-45a0-87d3-d2ad554918a6,Performance,,,,,,,,,,,,
+772f54cf-56d0-49bc-801a-16ca5ea504f1,Attribute,7b014cb0-1976-495e-be20-facc49919cf3,AC5,,,,,,,,,,Please report the company’s total number and nature of incidents of corruption during the reporting year.,Matrix – Text Boxes with option for Unknown or N/A,"Confirmed during the current year, but related to previous years
+Confirmed during the current year, and related to this year"
+57bc263b-ccd9-49e6-9518-a0352cb0bd42,Group,c55e4dfe-e88f-45a0-87d3-d2ad554918a6,Response and Reporting,,,,,,,,,,,,
+3060f1ac-fcb1-48b1-80f3-8a31db9ff9de,Attribute,57bc263b-ccd9-49e6-9518-a0352cb0bd42,AC6,,,,,,,,,,"Within the reporting period, what measures has the company taken to address suspected incidents of corruption independently or in response to a dispute or investigation by a government regulator?",Select all that apply,"Initial case assessment
+Internal investigation
+Review by risk/ethics committee
+Review by board of directors
+External audit/review
+Other (Please provide additional information) [Makes text box mandatory]
+Not applicable/no incidents in the reporting period"
+d1e87ecf-eba4-40ca-b8ba-a4ce13f090a8,Attribute,57bc263b-ccd9-49e6-9518-a0352cb0bd42,AC7,,,,,,,,,,Does your company engage in Collective Action against corruption?,Radial – Select One,"No, it is not an immediate business priority
+No, but we plan to in the next two years
+Yes (Please explain) [Makes text box mandatory]"
+230820f7-6f5e-4e30-a1e5-1403eb9de2f3,Attribute,57bc263b-ccd9-49e6-9518-a0352cb0bd42,AC8,,,,,,,,,,"Briefly describe additional relevant practical actions the company has taken during the reporting period and/or plans to implement the anti-corruption principle, including goals set and any challenges faced and actions taken towards prevention and/or remediation.",Text Box,

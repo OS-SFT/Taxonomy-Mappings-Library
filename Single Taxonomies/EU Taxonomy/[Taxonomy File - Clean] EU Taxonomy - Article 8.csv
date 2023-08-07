@@ -1,0 +1,819 @@
+﻿ID,TYPE,PARENT,NAME,SOURCE,TARGET,REFERENCE_MODEL_ID,TERM_ID,LABEL,,PROPERTIES:,Row,Comments/Description,Column
+3c799de4-12f0-4ddb-9af8-87625969c64e,Layer,,Art. 8: KPIs of Non-Financial Undertakings,,,,,,,,,,
+63a49bd9-7d8a-4c79-a545-39d66cbab7f5,Object,3c799de4-12f0-4ddb-9af8-87625969c64e,Turnover KPI,,,,,,,,,,
+0b48f377-086f-4e18-b73d-66cec4523bff,Group,63a49bd9-7d8a-4c79-a545-39d66cbab7f5,Taxonomy-eligible activities,,,,,,,,A: Taxonomy-eligible activities,,
+06041b87-f1ad-4f8d-91eb-7623139f4da8,Group,0b48f377-086f-4e18-b73d-66cec4523bff,Taxonomy-aligned activities,,,,,,,,A1: Taxonomy-aligned activities,List of eligible and aligned activities under the EU Taxonomy.,
+070bfccb-bae3-47c1-8236-8cc3089eb3da,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,Economic activity,,,,,,,,A1: Taxonomy-aligned activities,,(1)
+e9b0fc68-4d27-4be3-a6eb-70254bd3a13b,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,Code(s),,,,,,,,A1: Taxonomy-aligned activities,,(2)
+d89b6afc-d9e5-4eea-833e-4c7c71523ec1,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,Absolute turnover,,,,,,,,A1: Taxonomy-aligned activities,,(3)
+42c1f3b6-efb5-40c9-9f60-7bbd2f272b67,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,Proportion of turnover,,,,,,,,A1: Taxonomy-aligned activities,Proportion of turnover of a given activity against the total turnover of the company.,(4)
+fee69970-c35f-41e5-9c43-76a8256beefb,Group,06041b87-f1ad-4f8d-91eb-7623139f4da8,Substantial Contribution Criteria,,,,,,,,A1: Taxonomy-aligned activities,"Proportion of turnover of a given activity that substantially contributes to one of the environmental objectives. While a given activity can Significantly Contribute to multiple environmental objectives, only one of these columns is expected to be populated.",(5)-(10)
+25a0e9ca-851b-4334-ac8f-3eddcdd05fe7,Attribute,fee69970-c35f-41e5-9c43-76a8256beefb,Climate change mitigation,,,,,,,,A1: Taxonomy-aligned activities,Proportion of turnover of a given activity that substantially contributes to the Climate change mitigation objective.,(5)
+3d36e60e-c463-42d7-a1ea-d043944c48bd,Attribute,fee69970-c35f-41e5-9c43-76a8256beefb,Climate change adaptation,,,,,,,,A1: Taxonomy-aligned activities,Proportion of turnover of a given activity that substantially contributes to the Climate change adaptation objective.,(6)
+dd5d5594-4dc4-41c0-838b-9cbd330caff0,Attribute,fee69970-c35f-41e5-9c43-76a8256beefb,Water and marine resources,,,,,,,,A1: Taxonomy-aligned activities,Proportion of turnover of a given activity that substantially contributes to the Water and marine resources objective.,(7)
+ea99810a-acf8-4520-b9ea-0eebe46df945,Attribute,fee69970-c35f-41e5-9c43-76a8256beefb,Circular economy,,,,,,,,A1: Taxonomy-aligned activities,Proportion of turnover of a given activity that substantially contributes to the Circular economy objective.,(8)
+36e9b5ed-3532-413a-bddc-2652858cbb94,Attribute,fee69970-c35f-41e5-9c43-76a8256beefb,Pollution,,,,,,,,A1: Taxonomy-aligned activities,Proportion of turnover of a given activity that substantially contributes to the Pollution objective.,(9)
+ed523a4d-24d6-48e4-adbb-a63be1d4f22b,Attribute,fee69970-c35f-41e5-9c43-76a8256beefb,Biodiversity and ecosystems,,,,,,,,A1: Taxonomy-aligned activities,Proportion of turnover of a given activity that substantially contributes to the Biodiversity and ecosystems objective.,(10)
+d18f9dec-90c0-49d8-a715-9c54389c864c,Group,06041b87-f1ad-4f8d-91eb-7623139f4da8,DNSH criteria,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(11)-(16)
+0e439794-51d0-439f-8252-eb1ac3d4d7ca,Attribute,d18f9dec-90c0-49d8-a715-9c54389c864c,Climate change mitigation,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(11)
+be4d6aa1-997f-4069-8ab0-972c81bc8f2d,Attribute,d18f9dec-90c0-49d8-a715-9c54389c864c,Climate change adaptation,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(12)
+4f686cfb-a5fe-4b8f-b9b8-7bb60e8e653c,Attribute,d18f9dec-90c0-49d8-a715-9c54389c864c,Water and marine resources,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(13)
+493dc371-53cb-4601-9021-72ef7f8405b6,Attribute,d18f9dec-90c0-49d8-a715-9c54389c864c,Circular economy,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(14)
+cde1fd82-7151-4774-a89a-e5f1dbe2c979,Attribute,d18f9dec-90c0-49d8-a715-9c54389c864c,Pollution,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(15)
+c14bd510-9c3a-4e2b-8063-679dd69e1236,Attribute,d18f9dec-90c0-49d8-a715-9c54389c864c,Biodiversity and ecosystems,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(16)
+7404c73f-757e-4710-9ccf-686c4c068114,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,Minimum safeguards,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with MS (Y/N).,(17)
+023d635a-51a7-4529-b518-0098c55cf934,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,"Taxonomy-aligned proportion of turnover, year N",,,,,,,,A1: Taxonomy-aligned activities,Taxonomy-aligned proportion of turnover of a given activity.,(18)
+4cd48e73-631a-4ebb-9e9a-07515c3bd0fc,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,"Taxonomy-aligned proportion of turnover, year N-1",,,,,,,,A1: Taxonomy-aligned activities,Taxonomy-aligned proportion of turnover of a given activity.,(19)
+8a79389f-c439-490a-84fa-7e9e02d578c2,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,Enabling activity flag,,,,,,,,A1: Taxonomy-aligned activities,Categorisations based on whether an activity is transitional (only for climate change mitigation) or enabling. Information in these columns is only to be selected if officially classified as such and the activity does not substantially contribute by its own performance.,(20)
+998b5a0d-ff22-4071-a2e3-6de93b753eb2,Attribute,06041b87-f1ad-4f8d-91eb-7623139f4da8,Transitional activity flag,,,,,,,,A1: Taxonomy-aligned activities,Categorisations based on whether an activity is transitional (only for climate change mitigation) or enabling. Information in these columns is only to be selected if officially classified as such and the activity does not substantially contribute by its own performance.,(21)
+8ea9c552-59b5-4fa9-93c6-b64c62972361,Attribute,0b48f377-086f-4e18-b73d-66cec4523bff,Turnover of Taxonomy-aligned activities (Total),,,,,,,,A1T: Taxonomy-aligned activities (Total),Incl. sum or total of all Taxonomy-eligible activities’ Taxonomy-aligned proportion of turnovers.,"(3)-(10), (18)-(19)"
+14a21a6c-1800-4244-9361-11e91c3f1ffb,Group,0b48f377-086f-4e18-b73d-66cec4523bff,Taxonomy-eligible but not Taxonomy-aligned activities,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,"List of eligible but non-aligned activities under the EU Taxonomy. The missing columns refer to the criteria (DNSH and MS) and other classifications (enabling, transitional and own performance) that only pertain to Taxonomy alignment. This information need not be reported if the result is that the activity is not Taxonomy aligned.",
+90766cc8-7041-416b-bdcc-449c7bc29e27,Attribute,14a21a6c-1800-4244-9361-11e91c3f1ffb,Economic activity,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(1)
+1f5baa99-ad17-4f3d-83c4-3e54338f996f,Attribute,14a21a6c-1800-4244-9361-11e91c3f1ffb,Code(s),,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(2)
+6c356a35-6e93-45d7-a84c-5f83425a55f7,Attribute,14a21a6c-1800-4244-9361-11e91c3f1ffb,Absolute turnover,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(3)
+3cbefa02-4c2b-46f8-a250-e5ec672ee303,Attribute,14a21a6c-1800-4244-9361-11e91c3f1ffb,Proportion of turnover,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,Proportion of turnover of a given activity against the total turnover of the company.,(4)
+6e1e0e1e-1bc5-4473-9354-f03e67ec4805,Attribute,0b48f377-086f-4e18-b73d-66cec4523bff,Turnover of Taxonomy-eligible but not Taxonomy-aligned activities (Total),,,,,,,,A2T: Taxonomy-eligible but not Taxonomy-aligned activities (Total),,
+1c50e7a4-69ca-4f2d-b312-fd53f111ec9e,Group,0b48f377-086f-4e18-b73d-66cec4523bff,Total (Taxonomy-eligible activities),,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,
+47295839-fcc5-452f-b3c1-3af54dc3ad57,Attribute,1c50e7a4-69ca-4f2d-b312-fd53f111ec9e,Absolute turnover,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(3)
+aa209a7b-e297-435c-bff9-6918eff9a9f2,Attribute,1c50e7a4-69ca-4f2d-b312-fd53f111ec9e,Proportion of turnover,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),Proportion of turnover of all Taxonomy-eligible activities (including those that failed the Taxonomy alignment check).,(4)
+fe05097c-d01f-49bc-a81e-2e7ac1d97f26,Attribute,1c50e7a4-69ca-4f2d-b312-fd53f111ec9e,"Taxonomy-aligned proportion of turnover, year N",,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(18)
+2cc68f8f-815c-406c-ac67-55aa712c23b7,Attribute,1c50e7a4-69ca-4f2d-b312-fd53f111ec9e,"Taxonomy-aligned proportion of turnover, year N-1",,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(19)
+b97d8d26-18e5-4eb5-bd18-197549742882,Attribute,1c50e7a4-69ca-4f2d-b312-fd53f111ec9e,Enabling activity flag,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(20)
+0d11e743-ebfa-46da-87f4-94f3a0cd9f5e,Attribute,1c50e7a4-69ca-4f2d-b312-fd53f111ec9e,Transitional activity flag,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(21)
+bae242fe-87c5-4f0c-aa02-084a22ecb852,Group,63a49bd9-7d8a-4c79-a545-39d66cbab7f5,Taxonomy-non-eligible activities,,,,,,,,B: Taxonomy-non-eligible activities,Non-eligible activities under the EU Taxonomy.,
+d21c6564-6868-481b-ac1c-cdea1f2e331c,Attribute,bae242fe-87c5-4f0c-aa02-084a22ecb852,Turnover of Taxonomy-non-eligible activities,,,,,,,,B1: Turnover of Taxonomy-non-eligible activities,Proportion of turnover of non-eligible activities under the EU Taxonomy.,(4)
+04191975-818c-4303-8f45-903050f7686d,Attribute,bae242fe-87c5-4f0c-aa02-084a22ecb852,Total turnover,,,,,,,,A+B: Turnover (Total),"Total turnover of the company, in percentage (always 100%).",(4)
+0495ed29-babd-45c5-95d2-ce734a6c4380,Object,3c799de4-12f0-4ddb-9af8-87625969c64e,CapEx KPI,,,,,,,,,,
+4864eb79-b0ee-4d00-bc13-f15cbf78fb6d,Group,0495ed29-babd-45c5-95d2-ce734a6c4380,Taxonomy-eligible activities,,,,,,,,A: Taxonomy-eligible activities,,
+c9bedf33-c98f-4204-96c7-adfd4c478d60,Group,4864eb79-b0ee-4d00-bc13-f15cbf78fb6d,Taxonomy-aligned activities,,,,,,,,A1: Taxonomy-aligned activities,List of eligible and aligned activities under the EU Taxonomy.,
+5718face-8460-4dea-b4d6-64699d6f72a0,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,Economic activity,,,,,,,,A1: Taxonomy-aligned activities,,(1)
+671ffafe-0683-4b56-82f2-c6fd78dfc7ce,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,Code(s),,,,,,,,A1: Taxonomy-aligned activities,,(2)
+60ee0266-4928-4dc6-b66f-7557a6782653,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,Absolute CapEx,,,,,,,,A1: Taxonomy-aligned activities,,(3)
+3b5c2b05-3ebd-470d-8da3-d4c8fb3c1605,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,Proportion of CapEx,,,,,,,,A1: Taxonomy-aligned activities,Proportion of CapEx of a given activity against the total CapEx of the company.,(4)
+c4c66a04-e4ff-4049-8db8-ac7656bded0d,Group,c9bedf33-c98f-4204-96c7-adfd4c478d60,Substantial Contribution Criteria,,,,,,,,A1: Taxonomy-aligned activities,"Proportion of CapEx of a given activity that substantially contributes to one of the environmental objectives. While a given activity can Significantly Contribute to multiple environmental objectives, only one of these columns is expected to be populated.",(5)-(10)
+5d43df51-197a-493e-a99c-5f69c60e5dde,Attribute,c4c66a04-e4ff-4049-8db8-ac7656bded0d,Climate change mitigation,,,,,,,,A1: Taxonomy-aligned activities,Proportion of CapEx of a given activity that substantially contributes to the Climate change mitigation objective.,(5)
+bb830d6d-563a-40bc-9e0e-adc73ffee1f1,Attribute,c4c66a04-e4ff-4049-8db8-ac7656bded0d,Climate change adaptation,,,,,,,,A1: Taxonomy-aligned activities,Proportion of CapEx of a given activity that substantially contributes to the Climate change adaptation objective.,(6)
+0201a313-a230-4759-94e4-af131190cd91,Attribute,c4c66a04-e4ff-4049-8db8-ac7656bded0d,Water and marine resources,,,,,,,,A1: Taxonomy-aligned activities,Proportion of CapEx of a given activity that substantially contributes to the Water and marine resources objective.,(7)
+98eb454a-ac12-449a-898e-15b8e3623574,Attribute,c4c66a04-e4ff-4049-8db8-ac7656bded0d,Circular economy,,,,,,,,A1: Taxonomy-aligned activities,Proportion of CapEx of a given activity that substantially contributes to the Circular economy objective.,(8)
+2f9265fc-b4e9-4ec8-b2c3-82e9762f5d9d,Attribute,c4c66a04-e4ff-4049-8db8-ac7656bded0d,Pollution,,,,,,,,A1: Taxonomy-aligned activities,Proportion of CapEx of a given activity that substantially contributes to the Pollution objective.,(9)
+757d5705-f240-440d-895e-76ffe380d872,Attribute,c4c66a04-e4ff-4049-8db8-ac7656bded0d,Biodiversity and ecosystems,,,,,,,,A1: Taxonomy-aligned activities,Proportion of CapEx of a given activity that substantially contributes to the Biodiversity and ecosystems objective.,(10)
+fbdb9a25-e897-4fb7-8839-cb0dbcc2ddd4,Group,c9bedf33-c98f-4204-96c7-adfd4c478d60,DNSH criteria,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(11)-(16)
+4ba9d40c-b429-4b3e-aa29-795e0a876cb8,Attribute,fbdb9a25-e897-4fb7-8839-cb0dbcc2ddd4,Climate change mitigation,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(11)
+af0055ad-fba0-41fa-bd5c-b02190db4183,Attribute,fbdb9a25-e897-4fb7-8839-cb0dbcc2ddd4,Climate change adaptation,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(12)
+3ba112de-63a6-4cd0-9292-23a735ba39bd,Attribute,fbdb9a25-e897-4fb7-8839-cb0dbcc2ddd4,Water and marine resources,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(13)
+7183988e-87fc-4ddb-bf39-95722f4e137c,Attribute,fbdb9a25-e897-4fb7-8839-cb0dbcc2ddd4,Circular economy,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(14)
+e14cd51c-57a8-4753-a8a6-fbdfe89ee9c1,Attribute,fbdb9a25-e897-4fb7-8839-cb0dbcc2ddd4,Pollution,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(15)
+5052f325-cc32-4ecf-93cd-1b979fb98c0a,Attribute,fbdb9a25-e897-4fb7-8839-cb0dbcc2ddd4,Biodiversity and ecosystems,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(16)
+0baf9291-3635-4713-80f6-c638f4244b5e,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,Minimum safeguards,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with MS (Y/N).,(17)
+25fcf0a0-d6cf-400e-90fa-c3d25fabdeea,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,"Taxonomy-aligned proportion of CapEx, year N",,,,,,,,A1: Taxonomy-aligned activities,Taxonomy-aligned proportion of CapEx of a given activity.,(18)
+8d59a0f0-d9f7-470f-a653-c89e1d20a097,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,"Taxonomy-aligned proportion of CapEx, year N-1",,,,,,,,A1: Taxonomy-aligned activities,Taxonomy-aligned proportion of CapEx of a given activity.,(19)
+18066c7e-b13d-4c18-a3e1-564273dd333b,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,Enabling activity flag,,,,,,,,A1: Taxonomy-aligned activities,Categorisations based on whether an activity is transitional (only for climate change mitigation) or enabling. Information in these columns is only to be selected if officially classified as such and the activity does not substantially contribute by its own performance.,(20)
+2571273e-fd2e-4fac-aa8e-f434e3555a05,Attribute,c9bedf33-c98f-4204-96c7-adfd4c478d60,Transitional activity flag,,,,,,,,A1: Taxonomy-aligned activities,Categorisations based on whether an activity is transitional (only for climate change mitigation) or enabling. Information in these columns is only to be selected if officially classified as such and the activity does not substantially contribute by its own performance.,(21)
+7765ba82-6984-40da-9ab9-c506fc0171a5,Attribute,4864eb79-b0ee-4d00-bc13-f15cbf78fb6d,CapEx of Taxonomy-aligned activities (Total),,,,,,,,A1T: Taxonomy-aligned activities (Total),Incl. sum or total of all Taxonomy-eligible activities’ Taxonomy-aligned proportion of CapExs.,"(3)-(10), (18)-(19)"
+b38f6810-7760-4803-b6b7-55d65a536416,Group,4864eb79-b0ee-4d00-bc13-f15cbf78fb6d,Taxonomy-eligible but not Taxonomy-aligned activities,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,"List of eligible but non-aligned activities under the EU Taxonomy. The missing columns refer to the criteria (DNSH and MS) and other classifications (enabling, transitional and own performance) that only pertain to Taxonomy alignment. This information need not be reported if the result is that the activity is not Taxonomy aligned.",
+ac09ff44-8997-46f1-9dae-e96824050f1a,Attribute,b38f6810-7760-4803-b6b7-55d65a536416,Economic activity,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(1)
+6eea1715-8969-4096-bd23-c2aa5accf5f1,Attribute,b38f6810-7760-4803-b6b7-55d65a536416,Code(s),,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(2)
+c80bb8bd-97c6-485b-9413-c38510485d15,Attribute,b38f6810-7760-4803-b6b7-55d65a536416,Absolute CapEx,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(3)
+1e16d418-7088-4230-b007-e7c3e281967f,Attribute,b38f6810-7760-4803-b6b7-55d65a536416,Proportion of CapEx,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,Proportion of CapEx of a given activity against the total CapEx of the company.,(4)
+55a4e0fd-3fbc-43ab-b5ef-bc54171aa2d0,Attribute,4864eb79-b0ee-4d00-bc13-f15cbf78fb6d,CapEx of Taxonomy-eligible but not Taxonomy-aligned activities (Total),,,,,,,,A2T: Taxonomy-eligible but not Taxonomy-aligned activities (Total),,
+c4cb0a91-7a3b-4f03-8015-f3c69b26e803,Group,4864eb79-b0ee-4d00-bc13-f15cbf78fb6d,Total (Taxonomy-eligible activities),,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,
+21f695e1-b646-42ba-8655-33b0a696ed12,Attribute,c4cb0a91-7a3b-4f03-8015-f3c69b26e803,Absolute CapEx,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(3)
+3a376526-a247-49a7-8a78-7273ce49dcf2,Attribute,c4cb0a91-7a3b-4f03-8015-f3c69b26e803,Proportion of CapEx,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),Proportion of CapEx of all Taxonomy-eligible activities (including those that failed the Taxonomy alignment check).,(4)
+9f28269a-d1c2-48f4-999e-4d8e2041b634,Attribute,c4cb0a91-7a3b-4f03-8015-f3c69b26e803,"Taxonomy-aligned proportion of CapEx, year N",,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(18)
+28452a50-826b-4936-a9b7-3668b2371959,Attribute,c4cb0a91-7a3b-4f03-8015-f3c69b26e803,"Taxonomy-aligned proportion of CapEx, year N-1",,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(19)
+c0c3dbd5-6617-4178-962e-c02edf11ebec,Attribute,c4cb0a91-7a3b-4f03-8015-f3c69b26e803,Enabling activity flag,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(20)
+e20dca11-d370-47fa-85bd-72b64ebd6353,Attribute,c4cb0a91-7a3b-4f03-8015-f3c69b26e803,Transitional activity flag,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(21)
+d4d2c327-4d89-4e9b-8264-27c779dbb07e,Group,0495ed29-babd-45c5-95d2-ce734a6c4380,Taxonomy-non-eligible activities,,,,,,,,B: Taxonomy-non-eligible activities,Non-eligible activities under the EU Taxonomy.,
+b106cc79-13b7-48de-a4ad-2f4610fcfcec,Attribute,d4d2c327-4d89-4e9b-8264-27c779dbb07e,CapEx of Taxonomy-non-eligible activities,,,,,,,,B1: CapEx of Taxonomy-non-eligible activities,Proportion of CapEx of non-eligible activities under the EU Taxonomy.,(4)
+be99669f-3089-49ec-be5a-17f70cf4f224,Attribute,d4d2c327-4d89-4e9b-8264-27c779dbb07e,Total CapEx,,,,,,,,A+B: CapEx (Total),"Total CapEx of the company, in percentage (always 100%).",(4)
+cb53b85a-2cfb-42d8-b76c-7894ba61e7da,Object,3c799de4-12f0-4ddb-9af8-87625969c64e,OpEx KPI,,,,,,,,,,
+d92289a4-0482-4812-b7f5-bb4015ca5b68,Group,cb53b85a-2cfb-42d8-b76c-7894ba61e7da,Taxonomy-eligible activities,,,,,,,,A: Taxonomy-eligible activities,,
+525d708d-19ed-48df-ad59-7d1f85b0a5ab,Group,d92289a4-0482-4812-b7f5-bb4015ca5b68,Taxonomy-aligned activities,,,,,,,,A1: Taxonomy-aligned activities,List of eligible and aligned activities under the EU Taxonomy.,
+02346072-6a69-491f-891a-2470e3fcc34f,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Economic activity,,,,,,,,A1: Taxonomy-aligned activities,,(1)
+c4f4fbac-10a7-49b8-af4b-7c5538fa5229,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Code(s),,,,,,,,A1: Taxonomy-aligned activities,,(2)
+f0cf7ae2-7091-41a2-9890-132be1ce07ad,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Absolute OpEx,,,,,,,,A1: Taxonomy-aligned activities,,(3)
+40043695-0fd4-47ab-878f-efc2ba5445af,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Proportion of OpEx,,,,,,,,A1: Taxonomy-aligned activities,Proportion of OpEx of a given activity against the total OpEx of the company.,(4)
+e66692a5-fab1-4e65-a0b3-5180f0548347,Group,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Substantial Contribution Criteria,,,,,,,,A1: Taxonomy-aligned activities,"Proportion of OpEx of a given activity that substantially contributes to one of the environmental objectives. While a given activity can Significantly Contribute to multiple environmental objectives, only one of these columns is expected to be populated.",(5)-(10)
+d227ee43-2354-436f-9b43-b393a73d3da4,Attribute,e66692a5-fab1-4e65-a0b3-5180f0548347,Climate change mitigation,,,,,,,,A1: Taxonomy-aligned activities,Proportion of OpEx of a given activity that substantially contributes to the Climate change mitigation objective.,(5)
+88727dbc-831f-4371-9a27-a9b613060755,Attribute,e66692a5-fab1-4e65-a0b3-5180f0548347,Climate change adaptation,,,,,,,,A1: Taxonomy-aligned activities,Proportion of OpEx of a given activity that substantially contributes to the Climate change adaptation objective.,(6)
+7e07d7e1-796e-49c5-a0fb-10713d2f926d,Attribute,e66692a5-fab1-4e65-a0b3-5180f0548347,Water and marine resources,,,,,,,,A1: Taxonomy-aligned activities,Proportion of OpEx of a given activity that substantially contributes to the Water and marine resources objective.,(7)
+058a3325-13dc-49c6-a2b8-0aea4021ec35,Attribute,e66692a5-fab1-4e65-a0b3-5180f0548347,Circular economy,,,,,,,,A1: Taxonomy-aligned activities,Proportion of OpEx of a given activity that substantially contributes to the Circular economy objective.,(8)
+bdf12751-b994-4eff-b1b9-b800631385ad,Attribute,e66692a5-fab1-4e65-a0b3-5180f0548347,Pollution,,,,,,,,A1: Taxonomy-aligned activities,Proportion of OpEx of a given activity that substantially contributes to the Pollution objective.,(9)
+4b781af7-bb36-4fdd-bc44-77d01b5cf74b,Attribute,e66692a5-fab1-4e65-a0b3-5180f0548347,Biodiversity and ecosystems,,,,,,,,A1: Taxonomy-aligned activities,Proportion of OpEx of a given activity that substantially contributes to the Biodiversity and ecosystems objective.,(10)
+7ad9ad79-cd77-48d1-b383-6f67b6c2e415,Group,525d708d-19ed-48df-ad59-7d1f85b0a5ab,DNSH criteria,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(11)-(16)
+7dde1786-72ba-41ae-a67b-70c1e5cf0cb5,Attribute,7ad9ad79-cd77-48d1-b383-6f67b6c2e415,Climate change mitigation,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(11)
+9c218fbe-569b-4887-a9b5-3bca699abb40,Attribute,7ad9ad79-cd77-48d1-b383-6f67b6c2e415,Climate change adaptation,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(12)
+7c15a8c5-4622-4602-8a8d-e9a29355f60f,Attribute,7ad9ad79-cd77-48d1-b383-6f67b6c2e415,Water and marine resources,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(13)
+561dea09-3eab-4982-aa1e-11a13af40b0b,Attribute,7ad9ad79-cd77-48d1-b383-6f67b6c2e415,Circular economy,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(14)
+b44b4f5a-8a61-4693-b4d9-e20865f37e97,Attribute,7ad9ad79-cd77-48d1-b383-6f67b6c2e415,Pollution,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(15)
+d1e296c9-5651-4ddb-b90f-ab5a96e024b7,Attribute,7ad9ad79-cd77-48d1-b383-6f67b6c2e415,Biodiversity and ecosystems,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with DNSH (Y/N).,(16)
+6e14dd23-c073-43c4-838f-ec5bd9f42c39,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Minimum safeguards,,,,,,,,A1: Taxonomy-aligned activities,Alignment of a given activity with MS (Y/N).,(17)
+d06ba760-7441-450a-9f75-f5fac2321732,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,"Taxonomy-aligned proportion of OpEx, year N",,,,,,,,A1: Taxonomy-aligned activities,Taxonomy-aligned proportion of OpEx of a given activity.,(18)
+6d460e63-c9a5-475e-ae1e-761f09d1db73,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,"Taxonomy-aligned proportion of OpEx, year N-1",,,,,,,,A1: Taxonomy-aligned activities,Taxonomy-aligned proportion of OpEx of a given activity.,(19)
+23d47820-ff8c-426a-8096-820e62560142,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Enabling activity flag,,,,,,,,A1: Taxonomy-aligned activities,Categorisations based on whether an activity is transitional (only for climate change mitigation) or enabling. Information in these columns is only to be selected if officially classified as such and the activity does not substantially contribute by its own performance.,(20)
+9b6ab29e-495f-41e8-b617-f2c71c8a34b8,Attribute,525d708d-19ed-48df-ad59-7d1f85b0a5ab,Transitional activity flag,,,,,,,,A1: Taxonomy-aligned activities,Categorisations based on whether an activity is transitional (only for climate change mitigation) or enabling. Information in these columns is only to be selected if officially classified as such and the activity does not substantially contribute by its own performance.,(21)
+700e72d6-21a7-4e7f-9fe2-b38b94c636dd,Attribute,d92289a4-0482-4812-b7f5-bb4015ca5b68,OpEx of Taxonomy-aligned activities (Total),,,,,,,,A1T: Taxonomy-aligned activities (Total),Incl. sum or total of all Taxonomy-eligible activities’ Taxonomy-aligned proportion of OpExs.,"(3)-(10), (18)-(19)"
+d04edd86-4075-43cd-8e7e-55e2895967a2,Group,d92289a4-0482-4812-b7f5-bb4015ca5b68,Taxonomy-eligible but not Taxonomy-aligned activities,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,"List of eligible but non-aligned activities under the EU Taxonomy. The missing columns refer to the criteria (DNSH and MS) and other classifications (enabling, transitional and own performance) that only pertain to Taxonomy alignment. This information need not be reported if the result is that the activity is not Taxonomy aligned.",
+11b2e778-7275-41b5-a6b0-6a66031a7216,Attribute,d04edd86-4075-43cd-8e7e-55e2895967a2,Economic activity,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(1)
+5fa7712d-c93c-48a9-847d-e42cdfaeaf68,Attribute,d04edd86-4075-43cd-8e7e-55e2895967a2,Code(s),,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(2)
+f7a60132-f8c3-490c-87a8-8914ac9a81f6,Attribute,d04edd86-4075-43cd-8e7e-55e2895967a2,Absolute OpEx,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,,(3)
+9b41cf1b-2a27-4b17-a75c-005b67d682f9,Attribute,d04edd86-4075-43cd-8e7e-55e2895967a2,Proportion of OpEx,,,,,,,,A2: Taxonomy-eligible but not Taxonomy-aligned activities,Proportion of OpEx of a given activity against the total OpEx of the company.,(4)
+0de9983f-eb39-49eb-8e26-521740bb6d02,Attribute,d92289a4-0482-4812-b7f5-bb4015ca5b68,OpEx of Taxonomy-eligible but not Taxonomy-aligned activities (Total),,,,,,,,A2T: Taxonomy-eligible but not Taxonomy-aligned activities (Total),,
+a1780172-565d-4639-a243-564fcabcf6b4,Group,d92289a4-0482-4812-b7f5-bb4015ca5b68,Total (Taxonomy-eligible activities),,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,
+3931850a-c1c6-4aab-84df-d11eeefeed1e,Attribute,a1780172-565d-4639-a243-564fcabcf6b4,Absolute OpEx,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(3)
+b8e25718-484b-4925-a9e9-6adf983ca0c3,Attribute,a1780172-565d-4639-a243-564fcabcf6b4,Proportion of OpEx,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),Proportion of OpEx of all Taxonomy-eligible activities (including those that failed the Taxonomy alignment check).,(4)
+9c1bd039-2202-4ff7-b61a-1e12e9d59c7f,Attribute,a1780172-565d-4639-a243-564fcabcf6b4,"Taxonomy-aligned proportion of OpEx, year N",,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(18)
+1805e390-953f-4bac-b9a7-ee0247030c99,Attribute,a1780172-565d-4639-a243-564fcabcf6b4,"Taxonomy-aligned proportion of OpEx, year N-1",,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(19)
+2b4aeec1-3c84-423b-884b-b97997521577,Attribute,a1780172-565d-4639-a243-564fcabcf6b4,Enabling activity flag,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(20)
+e3e2c564-6352-4e22-bdda-02f9c02c22bb,Attribute,a1780172-565d-4639-a243-564fcabcf6b4,Transitional activity flag,,,,,,,,A1+A2: All Taxonomy-eligible activities (Total),,(21)
+ae212aa9-2079-4583-afa9-87e98c22b483,Group,cb53b85a-2cfb-42d8-b76c-7894ba61e7da,Taxonomy-non-eligible activities,,,,,,,,B: Taxonomy-non-eligible activities,Non-eligible activities under the EU Taxonomy.,
+1ddc8aff-bd62-4e5e-9f36-0e243cd87bff,Attribute,ae212aa9-2079-4583-afa9-87e98c22b483,OpEx of Taxonomy-non-eligible activities,,,,,,,,B1: OpEx of Taxonomy-non-eligible activities,Proportion of OpEx of non-eligible activities under the EU Taxonomy.,(4)
+8c235f9f-a020-438d-aac5-e8343ea4bfb4,Attribute,ae212aa9-2079-4583-afa9-87e98c22b483,Total OpEx,,,,,,,,A+B: OpEx (Total),"Total OpEx of the company, in percentage (always 100%).",(4)
+8cb1eb40-ec41-4a54-89f5-20d714fb85a9,Layer,,Art. 8: KPI of Asset Managers,,,,,,,,,,
+ae934486-cfa7-4231-acfb-efafa1447acd,Object,8cb1eb40-ec41-4a54-89f5-20d714fb85a9,Standard KPI disclosures,,,,,,,,,,
+1a6a28b7-9eca-4f45-92e1-1dda0f6d1257,Group,ae934486-cfa7-4231-acfb-efafa1447acd,KPI (%),,,,,,,,,"The weighted average value of all the investments that are directed at funding, or are associated with taxonomy-aligned economic activities relative to the value of total assets covered by the KPI, with following weights for investments in undertakings per below:
+Turnover-based: %
+CapEx—based: %",
+c0ce98a6-75db-40e1-9669-4d4f02ef37f0,Attribute,1a6a28b7-9eca-4f45-92e1-1dda0f6d1257,Turnover-based,,,,,,,,,"The weighted average value of all the investments that are directed at funding, or are associated with taxonomy-aligned economic activities relative to the value of total assets covered by the KPI, with weights for investments in undertakings per Turnover.",
+bc9f6d7c-5f3a-48ed-9f1f-89ad8eeebc0b,Attribute,1a6a28b7-9eca-4f45-92e1-1dda0f6d1257,CapEx-based,,,,,,,,,"The weighted average value of all the investments that are directed at funding, or are associated with taxonomy-aligned economic activities relative to the value of total assets covered by the KPI, with weights for investments in undertakings per CapEx.",
+9314e272-e2e8-41ed-a10f-b66e3976c5db,Group,ae934486-cfa7-4231-acfb-efafa1447acd,KPI (monetary amount),,,,,,,,,"The weighted average value of all the investments that are directed at funding, or are associated with taxonomy-aligned economic activities, with following weights for investments in undertakings per below:
+Turnover-based: [monetary amount]
+CapEx-based: [monetary amount]",
+42312a76-f17d-4028-b99f-f250604958f8,Attribute,9314e272-e2e8-41ed-a10f-b66e3976c5db,Turnover-based,,,,,,,,,"The weighted average value of all the investments that are directed at funding, or are associated with taxonomy-aligned economic activities, with weights for investments in undertakings per Turnover.",
+7575e5c4-421a-4cf7-8657-d80c006ec5f7,Attribute,9314e272-e2e8-41ed-a10f-b66e3976c5db,CapEx-based,,,,,,,,,"The weighted average value of all the investments that are directed at funding, or are associated with taxonomy-aligned economic activities, with weights for investments in undertakings per CapEx.",
+0e1db323-7154-4615-b733-c1e29a837ebe,Group,ae934486-cfa7-4231-acfb-efafa1447acd,KPI Coverage,,,,,,,,,,
+7a9a166a-c826-47ae-84e3-15853ba28c49,Attribute,0e1db323-7154-4615-b733-c1e29a837ebe,Coverage ratio (%),,,,,,,,,The percentage of assets covered by the KPI relative to total investments (total AuM). Excluding investments in sovereign entities.,
+99c3fa8f-7891-46e1-bf57-b047b376fb48,Attribute,0e1db323-7154-4615-b733-c1e29a837ebe,Coverage (monetary amount),,,,,,,,,The monetary value of assets covered by the KPI. Excluding investments in sovereign entities.,
+10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Object,8cb1eb40-ec41-4a54-89f5-20d714fb85a9,"Additional, complementary disclosures: breakdown of denominator of the KPI",,,,,,,,,,
+ba879274-e444-4ae9-8f1c-ea29b4a1a621,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Derivatives (%),,,,,,,,,The percentage of derivatives relative to total assets covered by the KPI.,
+fb1a54a1-6514-4ffa-ac0a-72de15cab4de,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Derivatives (monetary amount),,,,,,,,,The value in monetary amounts of derivatives.,
+89ac1182-6c37-4a89-bdf8-ea0e01199f74,Group,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,EU non-NFRD counterparty exposures (%),,,,,,,,,"The proportion of exposures to EU financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings
+For financial undertakings",
+3563a48b-df9b-445f-9b3a-280c2e9c5914,Attribute,89ac1182-6c37-4a89-bdf8-ea0e01199f74,For non-financial undertakings,,,,,,,,,The proportion of exposures to EU financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+d68349c0-71a4-41fe-b88e-4a080541f8a4,Attribute,89ac1182-6c37-4a89-bdf8-ea0e01199f74,For financial undertakings,,,,,,,,,The proportion of exposures to EU financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+1083be02-3e3c-4c7e-b162-2fdbb126e309,Group,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,EU non-NFRD counterparty exposures (monetary amount),,,,,,,,,"Value of exposures to EU financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]",
+cb0bb0a2-0d47-49db-82e0-1522ee111087,Attribute,1083be02-3e3c-4c7e-b162-2fdbb126e309,For non-financial undertakings,,,,,,,,,Value of exposures to EU financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+0ec5e15d-86fc-4d8b-9163-7db5d9c02bc3,Attribute,1083be02-3e3c-4c7e-b162-2fdbb126e309,For financial undertakings,,,,,,,,,Value of exposures to EU financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+cf077a1d-d3ba-41e8-8ed3-73d8e02a2fdf,Group,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Third-country non-NFRD counterparty exposures (%),,,,,,,,,"The proportion of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings
+For financial undertakings",
+f33c86a1-4b2f-4a09-9f4e-9366b573f6fc,Attribute,cf077a1d-d3ba-41e8-8ed3-73d8e02a2fdf,For non-financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+0c66cef3-7ff5-4987-8430-485dd66f0123,Attribute,cf077a1d-d3ba-41e8-8ed3-73d8e02a2fdf,For financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+136444ba-88a1-468a-95a8-a1d230bb00da,Group,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Third-country non-NFRD counterparty exposures (monetary amount),,,,,,,,,"Value of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]",
+86811e06-81ca-4da4-8eef-aaaf305230bc,Attribute,136444ba-88a1-468a-95a8-a1d230bb00da,For non-financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+3f8ce093-1917-4b56-bab7-57c67f4fde9c,Attribute,136444ba-88a1-468a-95a8-a1d230bb00da,For financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+9b469592-12f0-4e48-a3d9-3c2529e0fa8a,Group,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,NFRD counterparty exposures (%),,,,,,,,,"The proportion of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings
+For financial undertakings",
+93407595-b445-4885-981b-a1228a055b83,Attribute,9b469592-12f0-4e48-a3d9-3c2529e0fa8a,For non-financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+fd52274f-b47f-4a8a-8c1e-410b67eab9f7,Attribute,9b469592-12f0-4e48-a3d9-3c2529e0fa8a,For financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+df3de9c2-56d5-4c2f-9234-4b13964f8287,Group,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,NFRD counterparty exposures (monetary amount),,,,,,,,,"Value of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]",
+ba5f0b0b-acc3-4ed7-bca9-e3d0fb76a996,Attribute,df3de9c2-56d5-4c2f-9234-4b13964f8287,For non-financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+9ebbc571-6480-44a9-afde-4d4d1e82b616,Attribute,df3de9c2-56d5-4c2f-9234-4b13964f8287,For financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+2d98f36f-64b5-4c64-adad-f8474551cbf3,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Other exposures (%),,,,,,,,,The proportion of exposures to other counterparties over total assets covered by the KPI.,
+17ae9f21-eff1-493e-bbc3-8427bd49b628,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Other exposures (monetary amount),,,,,,,,,Value of exposures to other counterparties.,
+138223c1-a40c-4bcc-a6fe-ef5c80f77dcb,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Taxonomy-non-eligible exposures (%),,,,,,,,,The value of all the investments that are funding economic activities that are not taxonomy-eligible relative to the value of total assets covered by the KPI.,
+6b576ef0-df92-4ae2-b90a-8b160b095694,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Taxonomy-non-eligible exposures (monetary amount),,,,,,,,,Value of all the investments that are funding economic activities that are not taxonomy-eligible.,
+10802082-d5a8-48bd-8808-545af116d4e5,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Taxonomy-eligible but not Taxonomy-aligned activities (%),,,,,,,,,"The value of all the investments that are funding taxonomy-eligible economic activities, but not taxonomy-aligned relative to the value of total assets covered by the KPI.",
+0ea38d61-853e-4a61-8aef-b446d85d6f7c,Attribute,10c854b1-c7d1-4f94-83d4-287d9d7de5e9,Taxonomy-eligible but not Taxonomy-aligned activities (monetary amount),,,,,,,,,"Value of all the investments that are funding Taxonomy-eligible economic activities, but not taxonomy-aligned.",
+2fabc81b-87f9-40eb-9a78-1a1d173385a5,Object,8cb1eb40-ec41-4a54-89f5-20d714fb85a9,"Additional, complementary disclosures: breakdown of numerator of the KPI",,,,,,,,,,
+9103996c-d8c9-4236-98ec-6cba2596ac72,Group,2fabc81b-87f9-40eb-9a78-1a1d173385a5,Taxonomy-aligned NFRD counterparty exposures (%),,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI.,
+e81b173b-7d8d-4bc5-a18d-3213718d5a57,Group,9103996c-d8c9-4236-98ec-6cba2596ac72,For non-financial undertakings,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+0362566e-6e65-421c-be67-924d81f70cc3,Attribute,e81b173b-7d8d-4bc5-a18d-3213718d5a57,Turnover-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings based on Turnover.,
+554c0b9e-e0a3-4939-a5bf-1671d4035f8d,Attribute,e81b173b-7d8d-4bc5-a18d-3213718d5a57,CapEx-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings based on CapEx.,
+db3ca333-e8ee-4774-bd54-412233ae9570,Group,9103996c-d8c9-4236-98ec-6cba2596ac72,For financial undertakings,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+faa4182e-556d-4b1b-bf25-7f1056204d44,Attribute,db3ca333-e8ee-4774-bd54-412233ae9570,Turnover-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings based on Turnover.,
+bb572fb2-31de-48e9-88e2-263b6c9f9aa3,Attribute,db3ca333-e8ee-4774-bd54-412233ae9570,CapEx-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings based on CapEx.,
+6c49085c-ae42-4864-ae28-b55579bc07be,Group,2fabc81b-87f9-40eb-9a78-1a1d173385a5,Taxonomy-aligned NFRD counterparty exposures (monetary amount),,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU.,
+fc0fe395-a6fe-4e04-99b3-02473cb9c799,Group,6c49085c-ae42-4864-ae28-b55579bc07be,For non-financial undertakings,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+e41304a9-34a7-400f-9255-fabf1a3590c1,Attribute,fc0fe395-a6fe-4e04-99b3-02473cb9c799,Turnover-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings based on Turnover.,
+30f01886-6cbd-4ad5-a456-9aa3991191a3,Attribute,fc0fe395-a6fe-4e04-99b3-02473cb9c799,CapEx-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings based on CapEx.,
+a1b7a5ed-fceb-4fa3-94c5-741151dd2ca8,Group,6c49085c-ae42-4864-ae28-b55579bc07be,For financial undertakings,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+7f47bb12-b75b-47af-812f-9c1f30646395,Attribute,a1b7a5ed-fceb-4fa3-94c5-741151dd2ca8,Turnover-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings based on Turnover.,
+ad2d41b6-c5c7-46d0-9522-4a79613a3843,Attribute,a1b7a5ed-fceb-4fa3-94c5-741151dd2ca8,CapEx-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings based on CapEx.,
+47a5e04d-d0c8-4dc5-a15a-6d9ba610f837,Group,2fabc81b-87f9-40eb-9a78-1a1d173385a5,Taxonomy-aligned other counterparty exposures (%),,,,,,,,,The proportion of taxonomy-aligned exposures to other counterparties in over total assets covered by the KPI.,
+db31949b-bcd0-410e-a8cc-12f69bd69034,Attribute,47a5e04d-d0c8-4dc5-a15a-6d9ba610f837,Turnover-based,,,,,,,,,The proportion of taxonomy-aligned exposures to other counterparties in over total assets covered by the KPI based on Turnover.,
+7ac1dadf-072e-4572-8725-197ecdab8c10,Attribute,47a5e04d-d0c8-4dc5-a15a-6d9ba610f837,CapEx-based,,,,,,,,,The proportion of taxonomy-aligned exposures to other counterparties in over total assets covered by the KPI based on CapEx.,
+bcdb56e1-3e55-49ad-aa72-7d6b82e659b5,Group,2fabc81b-87f9-40eb-9a78-1a1d173385a5,Taxonomy-aligned other counterparty exposures (monetary amount),,,,,,,,,Value of taxonomy-aligned exposures to other counterparties.,
+18b6afc9-764e-4507-a579-9366a45ef89e,Attribute,bcdb56e1-3e55-49ad-aa72-7d6b82e659b5,Turnover-based,,,,,,,,,Value of taxonomy-aligned exposures to other counterparties based on Turnover.,
+59b552f1-bfa2-43c5-87b3-013df53bd2e6,Attribute,bcdb56e1-3e55-49ad-aa72-7d6b82e659b5,CapEx-based,,,,,,,,,Value of taxonomy-aligned exposures to other counterparties based on CapEx.,
+b4d27519-2f7e-479b-ae07-88baad737dda,Object,8cb1eb40-ec41-4a54-89f5-20d714fb85a9,Breakdown of the numerator of the KPI per environmental objective,,,,,,,,,,
+471d621b-56c9-4ce5-9710-188272b0672c,Group,b4d27519-2f7e-479b-ae07-88baad737dda,(1) Climate change mitigation,,,,,,,,,,
+a795eeb1-3412-4934-9193-6b726bda046d,Group,471d621b-56c9-4ce5-9710-188272b0672c,Turnover: %,,,,,,,,,,
+2f178d4e-5c7c-4503-a8cd-4f3616d9d8b5,Attribute,a795eeb1-3412-4934-9193-6b726bda046d,Transitional activities: A%,,,,,,,,,,
+73395403-c24f-4eac-a6a2-4570e88034fc,Attribute,a795eeb1-3412-4934-9193-6b726bda046d,Enabling activities: B%,,,,,,,,,,
+4d9f6261-c41e-410b-9157-29df7d731c1f,Group,471d621b-56c9-4ce5-9710-188272b0672c,CapEx: %,,,,,,,,,,
+630e16ba-f94d-4a5a-8990-1e77fe5bb5f6,Attribute,4d9f6261-c41e-410b-9157-29df7d731c1f,Transitional activities: A%,,,,,,,,,,
+771c8fdc-274b-447f-bdbd-993229a4c9da,Attribute,4d9f6261-c41e-410b-9157-29df7d731c1f,Enabling activities: B%,,,,,,,,,,
+8281d6ff-83dd-4188-8743-e2a92849d9cc,Group,b4d27519-2f7e-479b-ae07-88baad737dda,(2) Climate change adaptation,,,,,,,,,,
+b98635fe-1b4a-43af-92f0-31625aedf5d0,Group,8281d6ff-83dd-4188-8743-e2a92849d9cc,Turnover: %,,,,,,,,,,
+db471147-4120-4b3e-bf5c-1379b3a89623,Attribute,b98635fe-1b4a-43af-92f0-31625aedf5d0,Transitional activities: A%,,,,,,,,,,
+5096709d-678a-4e93-a4db-0bd94ad38d18,Attribute,b98635fe-1b4a-43af-92f0-31625aedf5d0,Enabling activities: B%,,,,,,,,,,
+17514997-73b2-4d68-845c-c39f540d4580,Group,8281d6ff-83dd-4188-8743-e2a92849d9cc,CapEx: %,,,,,,,,,,
+a490d9c6-1d16-447a-af07-24051d215a40,Attribute,17514997-73b2-4d68-845c-c39f540d4580,Transitional activities: A%,,,,,,,,,,
+3b941232-899f-4ef5-96e2-7d90414cd398,Attribute,17514997-73b2-4d68-845c-c39f540d4580,Enabling activities: B%,,,,,,,,,,
+eb6d28ee-b68f-4cd3-a176-dea574ee45c1,Group,b4d27519-2f7e-479b-ae07-88baad737dda,(3) The sustainable use and protection of water and marine resources,,,,,,,,,,
+75552998-eb49-411d-b818-61319602e965,Group,eb6d28ee-b68f-4cd3-a176-dea574ee45c1,Turnover: %,,,,,,,,,,
+73de0894-8cee-4268-b92a-d7e18728af52,Attribute,75552998-eb49-411d-b818-61319602e965,Transitional activities: A%,,,,,,,,,,
+a0fc8b23-e881-45df-886b-9eda10b85526,Attribute,75552998-eb49-411d-b818-61319602e965,Enabling activities: B%,,,,,,,,,,
+77771410-6590-4007-a4b5-bcad12a0ceb5,Group,eb6d28ee-b68f-4cd3-a176-dea574ee45c1,CapEx: %,,,,,,,,,,
+caf6fc2d-3433-4707-9c79-9293e1dd8781,Attribute,77771410-6590-4007-a4b5-bcad12a0ceb5,Transitional activities: A%,,,,,,,,,,
+f40c213f-c1e2-49f4-ae3d-86e3a968ce82,Attribute,77771410-6590-4007-a4b5-bcad12a0ceb5,Enabling activities: B%,,,,,,,,,,
+4f7bfbcd-973f-4e07-8d64-b1f8950161bb,Group,b4d27519-2f7e-479b-ae07-88baad737dda,(4) The transition to a circular economy,,,,,,,,,,
+81fccecf-c334-4003-ac03-49c364f36321,Group,4f7bfbcd-973f-4e07-8d64-b1f8950161bb,Turnover: %,,,,,,,,,,
+d4056462-91c5-412a-b249-5122d108d129,Attribute,81fccecf-c334-4003-ac03-49c364f36321,Transitional activities: A%,,,,,,,,,,
+d9a17a50-c643-4148-8b41-45af0cb0feec,Attribute,81fccecf-c334-4003-ac03-49c364f36321,Enabling activities: B%,,,,,,,,,,
+74654f91-5ef5-4ce6-9fdf-7e7429520092,Group,4f7bfbcd-973f-4e07-8d64-b1f8950161bb,CapEx: %,,,,,,,,,,
+e8eaf85b-ea0f-463f-bf0c-58e0d58bd7da,Attribute,74654f91-5ef5-4ce6-9fdf-7e7429520092,Transitional activities: A%,,,,,,,,,,
+e4a66e8b-4ed2-4e74-96c2-48bf6c8c2cfc,Attribute,74654f91-5ef5-4ce6-9fdf-7e7429520092,Enabling activities: B%,,,,,,,,,,
+4e69a3c9-56ea-4f7d-bb1c-c837ef3ceaa8,Group,b4d27519-2f7e-479b-ae07-88baad737dda,(5) Pollution prevention and control,,,,,,,,,,
+c17c53cb-a79c-45de-b31f-24180a5ce711,Group,4e69a3c9-56ea-4f7d-bb1c-c837ef3ceaa8,Turnover: %,,,,,,,,,,
+4b7fb224-b1cb-464a-bae3-8a46d0173e41,Attribute,c17c53cb-a79c-45de-b31f-24180a5ce711,Transitional activities: A%,,,,,,,,,,
+94929ce3-481b-4816-83f4-b456314204a0,Attribute,c17c53cb-a79c-45de-b31f-24180a5ce711,Enabling activities: B%,,,,,,,,,,
+4fa28e47-dcc2-43f1-ac80-311902b1013a,Group,4e69a3c9-56ea-4f7d-bb1c-c837ef3ceaa8,CapEx: %,,,,,,,,,,
+f79dd1a9-047e-4a28-98a5-5b2009af30a3,Attribute,4fa28e47-dcc2-43f1-ac80-311902b1013a,Transitional activities: A%,,,,,,,,,,
+cf49a319-7db5-4597-988d-1443ad6230a6,Attribute,4fa28e47-dcc2-43f1-ac80-311902b1013a,Enabling activities: B%,,,,,,,,,,
+7a2e5686-6911-41d5-9ef5-b52863393983,Group,b4d27519-2f7e-479b-ae07-88baad737dda,(6) The protection and restoration of biodiversity and ecosystems,,,,,,,,,,
+8bba2ad6-b141-45f0-8e0c-4ed883f83dca,Group,7a2e5686-6911-41d5-9ef5-b52863393983,Turnover: %,,,,,,,,,,
+28da0289-4e64-42e2-b3e1-95aaa9d130cb,Attribute,8bba2ad6-b141-45f0-8e0c-4ed883f83dca,Transitional activities: A%,,,,,,,,,,
+83dc15d9-c898-4720-af1b-727772abe204,Attribute,8bba2ad6-b141-45f0-8e0c-4ed883f83dca,Enabling activities: B%,,,,,,,,,,
+1e591eb4-ce62-4a3a-b77d-8239b568e11d,Group,7a2e5686-6911-41d5-9ef5-b52863393983,CapEx: %,,,,,,,,,,
+776bb942-a384-4c02-abc9-40f9e7176584,Attribute,1e591eb4-ce62-4a3a-b77d-8239b568e11d,Transitional activities: A%,,,,,,,,,,
+3df4a11b-3a95-4657-837e-85d6f451364f,Attribute,1e591eb4-ce62-4a3a-b77d-8239b568e11d,Enabling activities: B%,,,,,,,,,,
+ad204be2-8c5e-4f07-82f5-158f05c5b746,Group,b4d27519-2f7e-479b-ae07-88baad737dda,Taxonomy-aligned activities:,,,,,,,,,,
+9c08b1b8-9a9a-4c23-9f07-3c0a90b00549,Group,ad204be2-8c5e-4f07-82f5-158f05c5b746,(1) Climate change mitigation,,,,,,,,,,
+b13ce6eb-57d1-4eb1-9377-3edf9b787c2a,Group,9c08b1b8-9a9a-4c23-9f07-3c0a90b00549,Turnover: %,,,,,,,,,,
+923e9342-a475-4936-bae5-de58b46dedf4,Attribute,b13ce6eb-57d1-4eb1-9377-3edf9b787c2a,Transitional activities: A%,,,,,,,,,,
+acb09838-4ed7-4e2b-bf8d-adff5efd4404,Attribute,b13ce6eb-57d1-4eb1-9377-3edf9b787c2a,Enabling activities: B%,,,,,,,,,,
+2485da8a-6e9a-494d-9e10-e0fb942250bf,Group,9c08b1b8-9a9a-4c23-9f07-3c0a90b00549,CapEx: %,,,,,,,,,,
+5207dd9b-515f-436f-8f20-f3ee5692a3f6,Attribute,2485da8a-6e9a-494d-9e10-e0fb942250bf,Transitional activities: A%,,,,,,,,,,
+ee953397-90be-4428-9632-ce24fbb7245f,Attribute,2485da8a-6e9a-494d-9e10-e0fb942250bf,Enabling activities: B%,,,,,,,,,,
+f95e83e0-6969-44f0-8478-5fd0242a0e45,Layer,,Art. 8: KPIs of Credit Institutions,,,,,,,,,,
+2ef70d62-f10f-4568-b843-6b8042f75bf7,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,Summary of KPIs,,,,,,,,,,
+7f97fec5-7d80-49fb-8ad6-39fe5785c643,Group,2ef70d62-f10f-4568-b843-6b8042f75bf7,Green asset ratio (GAR) stock,,,,,,,,1: GAR stock,Main KPI,
+243077a1-5d1b-446d-9941-bce7320a50de,Attribute,7f97fec5-7d80-49fb-8ad6-39fe5785c643,Total environmentally sustainable assets,,,,,,,,1: GAR stock,,a
+e433dcf8-a649-49e5-8495-cb0636bfef45,Attribute,7f97fec5-7d80-49fb-8ad6-39fe5785c643,KPI (Counterparty turnover),,,,,,,,1: GAR stock,Based on the Turnover KPI of the counterparty,b
+e683c4f8-1393-4aa7-b5d2-6a256a80080a,Attribute,7f97fec5-7d80-49fb-8ad6-39fe5785c643,KPI (Counterparty CapEx),,,,,,,,1: GAR stock,"Based on the CapEx KPI of the counterparty, except for lending activities where for general lending Turnover KPI is used",c
+6b333c6b-28c4-4386-b487-ac5161ae58c0,Attribute,7f97fec5-7d80-49fb-8ad6-39fe5785c643,% coverage (over total assets),,,,,,,,1: GAR stock,% of assets covered by the KPI over banks' total assets,d
+9f8d8ef9-27f3-4aa4-b275-5801372b7837,Group,2ef70d62-f10f-4568-b843-6b8042f75bf7,GAR (flow),,,,,,,,2: GAR flow,Additional KPI,
+840c9863-45c4-45eb-b52a-68cfe645f4bb,Attribute,9f8d8ef9-27f3-4aa4-b275-5801372b7837,Total environmentally sustainable activities,,,,,,,,2: GAR flow,,a
+9c0d5fdb-9ba6-4177-8e1b-9ad9519b6376,Attribute,9f8d8ef9-27f3-4aa4-b275-5801372b7837,KPI (Counterparty turnover),,,,,,,,2: GAR flow,Based on the Turnover KPI of the counterparty,b
+ebebc131-2fb7-473e-a5cf-4c753c1ad959,Attribute,9f8d8ef9-27f3-4aa4-b275-5801372b7837,KPI (Counterparty CapEx),,,,,,,,2: GAR flow,"Based on the CapEx KPI of the counterparty, except for lending activities where for general lending Turnover KPI is used",c
+8b288354-fe8b-4d44-8235-035f46a2debd,Attribute,9f8d8ef9-27f3-4aa4-b275-5801372b7837,% coverage (over total assets),,,,,,,,2: GAR flow,% of assets covered by the KPI over banks' total assets,d
+b61b0918-98fe-4880-8000-6c1ff6d22fd3,Group,2ef70d62-f10f-4568-b843-6b8042f75bf7,Trading book,,,,,,,,3: Trading book,"Additional KPI. For credit institutions that do not meet the conditions of Article 94(1) of the CRR or the conditions set out in Article 325a(1) of the CRR. Institutions shall disclose forward-looking information for this KPI, including information in terms of targets, together with relevant explanations on the methodology applied.",
+815f956f-59d1-4f64-8563-8887643617f4,Attribute,b61b0918-98fe-4880-8000-6c1ff6d22fd3,Total environmentally sustainable activities,,,,,,,,3: Trading book,,a
+a015701f-46d2-4818-b02c-7e7fcb71e559,Attribute,b61b0918-98fe-4880-8000-6c1ff6d22fd3,KPI (Counterparty turnover),,,,,,,,3: Trading book,Based on the Turnover KPI of the counterparty,b
+024d7be1-74f9-439e-8dfd-78e31733b113,Attribute,b61b0918-98fe-4880-8000-6c1ff6d22fd3,KPI (Counterparty CapEx),,,,,,,,3: Trading book,"Based on the CapEx KPI of the counterparty, except for lending activities where for general lending Turnover KPI is used",c
+cb738bf7-f2ca-4ac9-a1c5-c1e7ee8612e2,Group,2ef70d62-f10f-4568-b843-6b8042f75bf7,Financial guarantees,,,,,,,,4: Financial guarantees,Additional KPI,
+cc541a6a-9eb4-4819-92b2-124a6c0160e9,Attribute,cb738bf7-f2ca-4ac9-a1c5-c1e7ee8612e2,Total environmentally sustainable activities,,,,,,,,4: Financial guarantees,,a
+02bdd470-6eb5-4789-9fff-9c20455b74d1,Attribute,cb738bf7-f2ca-4ac9-a1c5-c1e7ee8612e2,KPI (Counterparty turnover),,,,,,,,4: Financial guarantees,Based on the Turnover KPI of the counterparty,b
+1c0940e8-f7c5-4b5e-b2b7-ff3a8ece90d0,Attribute,cb738bf7-f2ca-4ac9-a1c5-c1e7ee8612e2,KPI (Counterparty CapEx),,,,,,,,4: Financial guarantees,"Based on the CapEx KPI of the counterparty, except for lending activities where for general lending Turnover KPI is used",c
+e12753b8-941b-4139-9f09-cde0cb720681,Group,2ef70d62-f10f-4568-b843-6b8042f75bf7,Assets under management,,,,,,,,5: Assets under management,Additional KPI,
+b3c7cb62-44eb-4eec-91e4-4bd1833425d0,Attribute,e12753b8-941b-4139-9f09-cde0cb720681,Total environmentally sustainable activities,,,,,,,,5: Assets under management,,a
+06979922-349f-4c8c-82c9-b58f35a35557,Attribute,e12753b8-941b-4139-9f09-cde0cb720681,KPI (Counterparty turnover),,,,,,,,5: Assets under management,Based on the Turnover KPI of the counterparty,b
+936d1a84-59d8-40a1-a4b6-63679c3a01ad,Attribute,e12753b8-941b-4139-9f09-cde0cb720681,KPI (Counterparty CapEx),,,,,,,,5: Assets under management,"Based on the CapEx KPI of the counterparty, except for lending activities where for general lending Turnover KPI is used",c
+8b5da2ac-be41-46e5-b47e-666100c889a6,Group,2ef70d62-f10f-4568-b843-6b8042f75bf7,Fees and commissions income,,,,,,,,6: Fees and commissions income,"Additional KPI. Fees and commissions income from services other than lending and AuM. Institutions shall disclose forward-looking information for this KPI, including information in terms of targets, together with relevant explanations on the methodology applied.",
+3ae554de-ac4b-4d90-b95a-79a822e569a2,Attribute,8b5da2ac-be41-46e5-b47e-666100c889a6,Total environmentally sustainable activities,,,,,,,,6: Fees and commissions income,,a
+7425afb5-bb60-4c74-b8f3-446383c37604,Attribute,8b5da2ac-be41-46e5-b47e-666100c889a6,KPI (Counterparty turnover),,,,,,,,6: Fees and commissions income,Based on the Turnover KPI of the counterparty,b
+0dd5153e-f390-4d2d-a7a4-47e04e4711c2,Attribute,8b5da2ac-be41-46e5-b47e-666100c889a6,KPI (Counterparty CapEx),,,,,,,,6: Fees and commissions income,"Based on the CapEx KPI of the counterparty, except for lending activities where for general lending Turnover KPI is used",c
+520d1cac-a190-45c2-a675-0f29154fa379,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,Assets for the calculation of GAR,,,,,,,,,"1. This template shall include information for loans and advances, debt securities and equity instruments in the banking book, towards financial corporates, non-financial corporates (NFC), including SMEs, households (including residential real estate, house renovation loans and motor vehicle loans only) and local governments/municipalities (house financing).
+
+2. The following accounting categories of financial assets should be considered: Financial assets at amortised cost, financial assets at fair value through other comprehensive income, investments in subsidiaries, joint ventures and associates, financial assets designated at fair value through profit or loss and non-trading financial assets mandatorily at fair value through profit or loss, and real estate collaterals obtained by credit institutions by taking possession in exchange in of cancellation of debts.
+
+3. Banks with non-EU subsidiary should provide this information separately for exposures towards non-EU counterparties. For non-EU exposures, while there are additional challenges in terms of absence of common disclosure requirements and methodology, as the EU taxonomy and the NFRD apply only at EU level, given the relevance of these exposures for those credit institutions with non-EU subsidiaries, these institutions should disclose a separate GAR for non-EU exposures, on a best effort basis, in the form of estimates and ranges, using proxies, and explaining the assumptions, caveats and limitations.
+
+4. For motor vehicle loans, institutions shall only include those exposures generated after the date of application of the disclosure.",
+e946b48a-3881-40a5-b7a6-6cfbf2fdeab5,Group,520d1cac-a190-45c2-a675-0f29154fa379,Total gross carrying amount,,,,,,,,,Million EUR,a
+49b4862e-b7be-4865-842b-55211d7aa99d,Group,e946b48a-3881-40a5-b7a6-6cfbf2fdeab5,Climate Change Mitigation (CCM),,,,,,,,,,b-f
+8eda63e5-2cc7-46d9-864c-1c2e4084f312,Group,49b4862e-b7be-4865-842b-55211d7aa99d,Of which towards taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,Million EUR,b
+8ef18983-fe63-4430-af4e-8dbe9f7a8dac,Group,8eda63e5-2cc7-46d9-864c-1c2e4084f312,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,Million EUR,c
+ccd427b3-b33f-44f7-8441-a5ebca6097b7,Attribute,8ef18983-fe63-4430-af4e-8dbe9f7a8dac,Of which specialised lending,,,,,,,,,Million EUR,d
+0972e08f-26b7-4820-9272-52150c8a53c9,Attribute,8ef18983-fe63-4430-af4e-8dbe9f7a8dac,Of which transitional,,,,,,,,,Million EUR,e
+7f3dea5b-839b-4d41-8202-eeced5b4fb2c,Attribute,8ef18983-fe63-4430-af4e-8dbe9f7a8dac,Of which enabling,,,,,,,,,Million EUR,f
+0dcd89dd-5a0e-4fcb-b2db-7dcedb17da41,Group,e946b48a-3881-40a5-b7a6-6cfbf2fdeab5,Climate Change Adaptation (CCA),,,,,,,,,,g-k
+38781f81-a428-4b46-9324-679536e4619e,Group,0dcd89dd-5a0e-4fcb-b2db-7dcedb17da41,Of which towards taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,Million EUR,g
+6b88f7d3-d0cf-43a9-97b4-a887c9dc65f0,Group,38781f81-a428-4b46-9324-679536e4619e,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,Million EUR,h
+35abafb3-0ed3-44b4-a8c0-8310041695d2,Attribute,6b88f7d3-d0cf-43a9-97b4-a887c9dc65f0,Of which specialised lending,,,,,,,,,Million EUR,i
+779eb224-d97a-4f8f-adef-41ef94a50a66,Attribute,6b88f7d3-d0cf-43a9-97b4-a887c9dc65f0,Of which adaptation,,,,,,,,,Million EUR,j
+53334347-0b40-4685-91b6-f7ef8ef0b043,Attribute,6b88f7d3-d0cf-43a9-97b4-a887c9dc65f0,Of which enabling,,,,,,,,,Million EUR,k
+5e811420-9fa2-4127-8996-3bfd473446f7,Group,e946b48a-3881-40a5-b7a6-6cfbf2fdeab5,Total (CCM + CCA),,,,,,,,,,l-p
+706cdb58-d3b1-4d99-956d-5234c37ad45b,Group,5e811420-9fa2-4127-8996-3bfd473446f7,Of which towards taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,Million EUR,l
+3f9d72f0-8d79-4535-b347-616037f6feea,Group,706cdb58-d3b1-4d99-956d-5234c37ad45b,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,Million EUR,m
+4e748c2e-2f4b-484f-ae67-6f92c7bb1f61,Attribute,3f9d72f0-8d79-4535-b347-616037f6feea,Of which specialised lending,,,,,,,,,Million EUR,n
+526b5868-c05f-49ca-987b-038b821dcda3,Attribute,3f9d72f0-8d79-4535-b347-616037f6feea,Of which transitional/adaptation,,,,,,,,,Million EUR,o
+95b27880-e568-4c6e-94ff-b96e178a9486,Attribute,3f9d72f0-8d79-4535-b347-616037f6feea,Of which enabling,,,,,,,,,Million EUR,p
+a5eeff1d-957a-4782-9d53-1b218341c3d2,Group,520d1cac-a190-45c2-a675-0f29154fa379,GAR - Covered assets in both numerator and denominator,,,,,,,,1,Million EUR,
+7623a0e1-6368-4875-8d9b-024f7b225903,Group,a5eeff1d-957a-4782-9d53-1b218341c3d2,"Loans and advances, debt securities and equity instruments not HfT eligible for GAR calculation",,,,,,,,2,Million EUR,
+4c5e5c57-501a-45fe-bbda-aa861613eceb,Group,7623a0e1-6368-4875-8d9b-024f7b225903,Financial corporations,,,,,,,,3,Million EUR,
+1193a95b-a0e4-405b-9594-36e5abe4f893,Group,4c5e5c57-501a-45fe-bbda-aa861613eceb,Credit institutions,,,,,,,,4,Million EUR,
+c632c9d7-3b8e-4f84-8e98-41ccff2ef9dd,Attribute,1193a95b-a0e4-405b-9594-36e5abe4f893,Loans and advances,,,,,,,,5,Million EUR,
+e6bd76f5-e8bb-4414-81fd-d363c406a00f,Attribute,1193a95b-a0e4-405b-9594-36e5abe4f893,"Debt securities, including UoP",,,,,,,,6,Million EUR,
+3f32e1f7-8531-4e96-ba5f-bec639149d03,Attribute,1193a95b-a0e4-405b-9594-36e5abe4f893,Equity instruments,,,,,,,,7,Million EUR,
+6b7a0382-800a-47b5-8037-2b3a26fc28ad,Group,4c5e5c57-501a-45fe-bbda-aa861613eceb,Other financial corporations,,,,,,,,8,Million EUR,
+51cc94c5-d631-46da-8724-37970e5b2655,Group,6b7a0382-800a-47b5-8037-2b3a26fc28ad,of which investment firms,,,,,,,,9,Million EUR,
+d04b4169-d27c-4bd2-a88a-9c05c32892fc,Attribute,51cc94c5-d631-46da-8724-37970e5b2655,Loans and advances,,,,,,,,10,Million EUR,
+5f7f9913-a529-40e6-a5ad-cc7c4ca7743e,Attribute,51cc94c5-d631-46da-8724-37970e5b2655,"Debt securities, including UoP",,,,,,,,11,Million EUR,
+862e77e2-bbdf-4afe-bcf9-f83a27fd133c,Attribute,51cc94c5-d631-46da-8724-37970e5b2655,Equity instruments,,,,,,,,12,Million EUR,
+84e73ea2-ee4e-4182-84ff-466888a27630,Group,6b7a0382-800a-47b5-8037-2b3a26fc28ad,of which  management companies,,,,,,,,13,Million EUR,
+d20763df-6c0f-4353-b707-f2d3497853ad,Attribute,84e73ea2-ee4e-4182-84ff-466888a27630,Loans and advances,,,,,,,,14,Million EUR,
+60af288e-a3a6-463c-9afe-cb4635f8d979,Attribute,84e73ea2-ee4e-4182-84ff-466888a27630,"Debt securities, including UoP",,,,,,,,15,Million EUR,
+8d235240-f468-4b04-a16e-2572da3eff5e,Attribute,84e73ea2-ee4e-4182-84ff-466888a27630,Equity instruments,,,,,,,,16,Million EUR,
+046a20be-86e1-462f-8edc-8b7e2f0223dd,Group,6b7a0382-800a-47b5-8037-2b3a26fc28ad,of which insurance undertakings,,,,,,,,17,Million EUR,
+12f67973-3d45-469f-8790-0bbf7dac7612,Attribute,046a20be-86e1-462f-8edc-8b7e2f0223dd,Loans and advances,,,,,,,,18,Million EUR,
+acb87b77-e904-4f99-9a3b-90f9e3b5e2c8,Attribute,046a20be-86e1-462f-8edc-8b7e2f0223dd,"Debt securities, including UoP",,,,,,,,19,Million EUR,
+df06a8a4-6290-4458-9c94-386ed75dcb1f,Attribute,046a20be-86e1-462f-8edc-8b7e2f0223dd,Equity instruments,,,,,,,,20,Million EUR,
+d5ffe90d-2207-4a3d-8e7f-27132568fd5d,Group,4c5e5c57-501a-45fe-bbda-aa861613eceb,Non-financial corporations,,,,,,,,21,Million EUR,
+f566ac0c-6365-4887-94f7-2120692a87f9,Group,d5ffe90d-2207-4a3d-8e7f-27132568fd5d,NFCs subject to NFRD disclosure obligations,,,,,,,,22,Million EUR,
+24c29d50-52fb-42a5-aff5-649ae5ac7ea0,Attribute,f566ac0c-6365-4887-94f7-2120692a87f9,Loans and advances,,,,,,,,23,Million EUR,
+dd779fbc-6e17-4aa0-b3e7-dbf5e707e926,Attribute,f566ac0c-6365-4887-94f7-2120692a87f9,"Debt securities, including UoP",,,,,,,,24,Million EUR,
+b16e95c8-f061-468c-a1de-0ee8be26f42b,Attribute,f566ac0c-6365-4887-94f7-2120692a87f9,Equity instruments,,,,,,,,25,Million EUR,
+754b4b47-ccbb-4271-a9a0-d96dadb88261,Group,d5ffe90d-2207-4a3d-8e7f-27132568fd5d,Households,,,,,,,,26,Million EUR,
+7ce25755-307a-4b5d-8972-f9131e08b7cb,Attribute,754b4b47-ccbb-4271-a9a0-d96dadb88261,of which loans collateralised by residential immovable property,,,,,,,,27,Million EUR,
+bd8df123-c7b5-4d38-a763-988eec35cc4c,Attribute,754b4b47-ccbb-4271-a9a0-d96dadb88261,of which building renovation loans,,,,,,,,28,Million EUR,
+dc162371-87a7-4364-b974-38c943bdffd7,Attribute,754b4b47-ccbb-4271-a9a0-d96dadb88261,of which motor vehicle loans,,,,,,,,29,Million EUR,
+76f5668a-44ba-4350-9193-17163dbf2156,Group,d5ffe90d-2207-4a3d-8e7f-27132568fd5d,Local governments financing,,,,,,,,30,Million EUR,
+f31caeec-cd4c-4cfd-ba1e-31c71398fdbb,Attribute,76f5668a-44ba-4350-9193-17163dbf2156,Collateral obtained by taking possession: residential and commercial immovable properties,,,,,,,,31,Million EUR,
+464834c5-8f21-4aa9-b3f8-abbfe3751497,Attribute,76f5668a-44ba-4350-9193-17163dbf2156,Other local government financing,,,,,,,,32,Million EUR,
+1cec5254-cfb1-4ae1-bf24-df2338f2315d,Group,520d1cac-a190-45c2-a675-0f29154fa379,Other assets excluded from the numerator for GAR calculation (covered in the denominator),,,,,,,,33,Million EUR,
+6b198d32-555e-48db-8395-74c2bcf4df35,Group,1cec5254-cfb1-4ae1-bf24-df2338f2315d,Non-financial corporations,,,,,,,,34,Million EUR,
+55d7c331-2cd3-4f4c-b286-cff6886955bc,Group,6b198d32-555e-48db-8395-74c2bcf4df35,SMEs and NFCs (other than SMEs) not subject to NFRD disclosure obligations,,,,,,,,35,Million EUR,
+09d21196-5e05-4a10-b399-7832fb7c3c05,Group,55d7c331-2cd3-4f4c-b286-cff6886955bc,Loans and advances,,,,,,,,36,Million EUR,
+dd0d6926-a7b4-418f-9a04-e6949a4920d3,Attribute,09d21196-5e05-4a10-b399-7832fb7c3c05,of which loans collateralised by residential immovable property,,,,,,,,37,Million EUR,
+b849a223-9728-4950-8922-71be7ec69072,Attribute,09d21196-5e05-4a10-b399-7832fb7c3c05,of which building renovation loans,,,,,,,,38,Million EUR,
+c2c5883b-820c-4be1-a865-af0d6f9cb298,Attribute,55d7c331-2cd3-4f4c-b286-cff6886955bc,Debt securities,,,,,,,,39,Million EUR,
+7e28231b-36c8-416b-b398-b99248c3f028,Attribute,55d7c331-2cd3-4f4c-b286-cff6886955bc,Equity instruments,,,,,,,,40,Million EUR,
+4a8622b1-1cd6-45e2-a06e-593c338c0b19,Group,6b198d32-555e-48db-8395-74c2bcf4df35,Non-EU country counterparties not subject to NFRD disclosure obligations,,,,,,,,41,Million EUR,
+ce60807c-de86-4d65-8edd-c7c1b5e7f7f7,Attribute,4a8622b1-1cd6-45e2-a06e-593c338c0b19,Loans and advances,,,,,,,,42,Million EUR,
+9e37672c-a456-4a6b-87c5-495baf9ca094,Attribute,4a8622b1-1cd6-45e2-a06e-593c338c0b19,Debt securities,,,,,,,,43,Million EUR,
+2b334c9a-3440-4fdd-96b0-23fe0602e763,Attribute,4a8622b1-1cd6-45e2-a06e-593c338c0b19,Equity instruments,,,,,,,,44,Million EUR,
+f8ce693d-b368-463f-ae82-c4040b4e777e,Attribute,1cec5254-cfb1-4ae1-bf24-df2338f2315d,Derivatives,,,,,,,,45,Million EUR,
+7567013a-5da5-4cf9-9557-fcfbb67fbdc6,Attribute,1cec5254-cfb1-4ae1-bf24-df2338f2315d,On demand interbank loans,,,,,,,,46,Million EUR,
+1494e881-b10e-484f-ad69-f7b127e00828,Attribute,1cec5254-cfb1-4ae1-bf24-df2338f2315d,Cash and cash-related assets,,,,,,,,47,Million EUR,
+103eb12c-c65c-47a8-943a-cde3d4c506e3,Attribute,1cec5254-cfb1-4ae1-bf24-df2338f2315d,"Other assets (e.g. Goodwill, commodities etc.)",,,,,,,,48,Million EUR,
+1c84c426-e6c3-4f1f-a866-4dcd6c9fe64e,Attribute,520d1cac-a190-45c2-a675-0f29154fa379,Total GAR assets,,,,,,,,49,Million EUR,
+22e0f059-05a2-4997-9c91-59e4323ac282,Group,520d1cac-a190-45c2-a675-0f29154fa379,Other assets not covered for GAR calculation,,,,,,,,50,Million EUR,
+e622f633-4cb5-49c5-b3c6-7e0cc60fb78d,Attribute,22e0f059-05a2-4997-9c91-59e4323ac282,Sovereigns,,,,,,,,51,Million EUR,
+c99a5daf-a6e8-4024-b377-d133b0d0853b,Attribute,22e0f059-05a2-4997-9c91-59e4323ac282,Central banks exposure,,,,,,,,52,Million EUR,
+4573b2a2-1a7d-4ba6-af23-980d505a4e9c,Attribute,22e0f059-05a2-4997-9c91-59e4323ac282,Trading book,,,,,,,,53,Million EUR,
+28334cdc-dff5-4dd9-b63f-c797caaa4f6e,Attribute,520d1cac-a190-45c2-a675-0f29154fa379,Total assets,,,,,,,,54,Million EUR,
+652c77f3-e528-4b0c-90fb-7c316758b96b,Group,520d1cac-a190-45c2-a675-0f29154fa379,Off-balance sheet exposures - Corporates subject to NFRD disclosure obligations,,,,,,,,55-58,,
+863a8713-6cd6-4f4b-a183-e3449ed2f8d4,Attribute,652c77f3-e528-4b0c-90fb-7c316758b96b,Financial guarantees,,,,,,,,55,Million EUR,
+dd602693-890e-44b6-ab8d-b604c06b2262,Group,652c77f3-e528-4b0c-90fb-7c316758b96b,Assets under management,,,,,,,,56,Million EUR,
+1b915d77-2da4-4aaa-964c-f5a0dec6f7ad,Attribute,dd602693-890e-44b6-ab8d-b604c06b2262,Of which debt securities,,,,,,,,57,Million EUR,
+4c4c7969-0056-4a4e-b94e-6628851a5ef4,Attribute,dd602693-890e-44b6-ab8d-b604c06b2262,Of which equity instruments,,,,,,,,58,Million EUR,
+acfe48ab-9ab4-4c42-8318-d66db859a4c5,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,GAR sector information,,,,,,,,,"1. Credit institutions shall disclose in this tempate information on exposures in the banking book towards those sectors covered by the Taxonomy (NACE sectors 4 levels of detail), using the relevant NACE Codes on the basis of the principal activity of the counterparty.
+
+2. The counterparty NACE sector allocation shall be based exclusively on the nature of the immediate counterparty. The classification of the exposures incurred jointly by more than one obligor shall be done on the basis of the characteristics of the obligor that was the more relevant, or determinant, for the institution to grant the exposure. The distribution of jointly incurred exposures by NACE codes shall be driven by the characteristics of the more relevant or determinant obligor. Institutions shall disclose information by NACE codes with the level of disaggregation required in the template.",
+867226f3-abb2-4530-a7b6-085e300a7307,Attribute,acfe48ab-9ab4-4c42-8318-d66db859a4c5,Breakdown by sector - NACE 4 digits level (code and label),,,,,,,,,,a
+df998f70-4474-4711-b151-340ae5eb7868,Group,acfe48ab-9ab4-4c42-8318-d66db859a4c5,Climate Change Mitigation (CCM),,,,,,,,,,b-f
+32c0bba7-742f-4b48-abcc-fccd5e0ec649,Group,df998f70-4474-4711-b151-340ae5eb7868,Non-Financial corporates (Subject to NFRD),,,,,,,,,,b-c
+a5732980-e1bb-4a71-89c4-f78f1f64514e,Group,32c0bba7-742f-4b48-abcc-fccd5e0ec649,Gross carrying amount,,,,,,,,,Million EUR,b
+b1eb8cee-7425-44ad-a64d-74dba0d1f6e2,Attribute,a5732980-e1bb-4a71-89c4-f78f1f64514e,Of which environmentally sustainable (CCM),,,,,,,,,Million EUR,c
+428c6b39-59f3-488c-a267-ac6d339a6da8,Group,df998f70-4474-4711-b151-340ae5eb7868,SMEs and other NFC not subject to NFRD,,,,,,,,,,e-f
+55b62a4a-058b-4218-89d4-c3dbf065ac86,Group,428c6b39-59f3-488c-a267-ac6d339a6da8,Gross carrying amount,,,,,,,,,Million EUR,e
+05d950ef-cd1e-4c08-922a-f8360a0981f2,Attribute,55b62a4a-058b-4218-89d4-c3dbf065ac86,Of which environmentally sustainable (CCM),,,,,,,,,Million EUR,f
+9fa08eec-bbeb-4079-ae56-1f2f19de69e8,Group,acfe48ab-9ab4-4c42-8318-d66db859a4c5,Climate Change Adaptation (CCA),,,,,,,,,,h-l
+92bd122e-5650-46fa-8ad0-b698adc60683,Group,9fa08eec-bbeb-4079-ae56-1f2f19de69e8,Non-Financial corporates (Subject to NFRD),,,,,,,,,,h-i
+088a1914-9bc2-4c3d-9658-b75760c0922d,Group,92bd122e-5650-46fa-8ad0-b698adc60683,Gross carrying amount,,,,,,,,,Million EUR,h
+a66dacfe-1879-4cb1-8b3e-a506dd492977,Attribute,088a1914-9bc2-4c3d-9658-b75760c0922d,Of which environmentally sustainable (CCM),,,,,,,,,Million EUR,i
+71db3eb5-1e6d-47ac-807e-219a970d242d,Group,9fa08eec-bbeb-4079-ae56-1f2f19de69e8,SMEs and other NFC not subject to NFRD,,,,,,,,,,k-l
+29dd86ca-4184-4239-85f3-e3e9ea4218b0,Group,71db3eb5-1e6d-47ac-807e-219a970d242d,Gross carrying amount,,,,,,,,,Million EUR,k
+68318b15-87f0-4545-8bb5-5807450fc6ac,Attribute,29dd86ca-4184-4239-85f3-e3e9ea4218b0,Of which environmentally sustainable (CCM),,,,,,,,,Million EUR,l
+9a3dbd50-2fef-420a-9349-001290fa7240,Group,acfe48ab-9ab4-4c42-8318-d66db859a4c5,Total (CCM + CCA),,,,,,,,,,n-r
+88ab0303-2442-437e-a4aa-fba2fb76e91b,Group,9a3dbd50-2fef-420a-9349-001290fa7240,Non-Financial corporates (Subject to NFRD),,,,,,,,,,n-o
+379ba067-bb14-4630-80be-be6139a64b9f,Group,88ab0303-2442-437e-a4aa-fba2fb76e91b,Gross carrying amount,,,,,,,,,Million EUR,n
+fc7c95c4-a491-4ed2-9ced-dad8b6197e36,Attribute,379ba067-bb14-4630-80be-be6139a64b9f,Of which environmentally sustainable (CCM),,,,,,,,,Million EUR,o
+96fa6b5c-4ba0-4da5-8b8f-7fc18a1f3477,Group,9a3dbd50-2fef-420a-9349-001290fa7240,SMEs and other NFC not subject to NFRD,,,,,,,,,,q-r
+fd7a5d8b-1d28-442c-a9f0-77d7c69d7fec,Group,96fa6b5c-4ba0-4da5-8b8f-7fc18a1f3477,Gross carrying amount,,,,,,,,,Million EUR,q
+1b59ac4d-a45c-4c5b-9111-e51f630748d6,Attribute,fd7a5d8b-1d28-442c-a9f0-77d7c69d7fec,Of which environmentally sustainable (CCM),,,,,,,,,Million EUR,r
+a59d210d-7e59-417a-87e0-ff564d7e5ff2,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,GAR KPI stock,,,,,,,,,"1. Institution shall disclose in this template the GAR KPIs on stock of loans calculated based on the data disclosed in template 1, on covered assets, and by applying the formulas proposed in this template.
+
+2. Information on the GAR (green asset ration of 'eligible' activities) shall be accompanied with information on the proportion of total assets covered by the GAR.
+
+3. Credit institutions can, in addition to the information included in this template, show the proportion of assets funding taxonomy relevant sectors that are environmentally sustainable (Taxonomy-aligned). This information would enrich the information on the KPI on environmentally sustainable assets compared to total covered assets.",
+e0f30f2f-8451-47a2-89f9-343d0396544c,Group,a59d210d-7e59-417a-87e0-ff564d7e5ff2,Climate Change Mitigation (CCM),,,,,,,,,,a-e
+eacddb14-1e1a-46f8-b0ad-7083b781b6d1,Group,e0f30f2f-8451-47a2-89f9-343d0396544c,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to total covered assets in the denominator),a
+cc7c2e4b-c9b3-4457-a3a7-2cde90dd3d09,Group,eacddb14-1e1a-46f8-b0ad-7083b781b6d1,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to total covered assets in the denominator),b
+55d3e403-0ca0-4b48-93db-7d9c92bd82e7,Attribute,cc7c2e4b-c9b3-4457-a3a7-2cde90dd3d09,Of which specialised lending,,,,,,,,,% (compared to total covered assets in the denominator),c
+518840d2-5fa9-4105-9441-9a89e22f3e5a,Attribute,cc7c2e4b-c9b3-4457-a3a7-2cde90dd3d09,Of which transitional,,,,,,,,,% (compared to total covered assets in the denominator),d
+f4dd02b7-e8b8-465c-b4e8-084f37be58c3,Attribute,cc7c2e4b-c9b3-4457-a3a7-2cde90dd3d09,Of which enabling,,,,,,,,,% (compared to total covered assets in the denominator),e
+c2300e49-887a-4e85-b2ec-ba5fb9494ca5,Group,a59d210d-7e59-417a-87e0-ff564d7e5ff2,Climate Change Adaptation (CCA),,,,,,,,,,f-j
+dba906da-f8d3-4bb4-8292-a48cfc26d5a6,Group,c2300e49-887a-4e85-b2ec-ba5fb9494ca5,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to total covered assets in the denominator),f
+48a36727-8ccd-47d7-ad6d-42d53231923e,Group,dba906da-f8d3-4bb4-8292-a48cfc26d5a6,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to total covered assets in the denominator),g
+2acf10da-94d6-47d4-a8a8-51bd342ce7f1,Attribute,48a36727-8ccd-47d7-ad6d-42d53231923e,Of which specialised lending,,,,,,,,,% (compared to total covered assets in the denominator),h
+b34e4971-f9ad-4713-8a8f-a2db1d2e5643,Attribute,48a36727-8ccd-47d7-ad6d-42d53231923e,Of which transitional,,,,,,,,,% (compared to total covered assets in the denominator),i
+14ba6973-e34f-45d4-b0e3-da8c83b9e5c8,Attribute,48a36727-8ccd-47d7-ad6d-42d53231923e,Of which enabling,,,,,,,,,% (compared to total covered assets in the denominator),j
+583427b2-f57c-4a37-a0ad-5172d2409d66,Group,a59d210d-7e59-417a-87e0-ff564d7e5ff2,Total (CCM + CCA),,,,,,,,,,k-o
+cc384d63-4a7b-4086-bd16-33c390aa69ed,Group,583427b2-f57c-4a37-a0ad-5172d2409d66,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to total covered assets in the denominator),k
+72bc1e9b-a1a2-4908-bb55-773e82760752,Group,cc384d63-4a7b-4086-bd16-33c390aa69ed,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to total covered assets in the denominator),l
+82e48562-081f-4952-a84a-0b266fef4fb4,Attribute,72bc1e9b-a1a2-4908-bb55-773e82760752,Of which specialised lending,,,,,,,,,% (compared to total covered assets in the denominator),m
+805a69b7-ea40-415a-9c9e-20e2ed216969,Attribute,72bc1e9b-a1a2-4908-bb55-773e82760752,Of which transitional,,,,,,,,,% (compared to total covered assets in the denominator),n
+440af34f-04d1-43ba-ae2f-30cf3eb97ecd,Attribute,72bc1e9b-a1a2-4908-bb55-773e82760752,Of which enabling,,,,,,,,,% (compared to total covered assets in the denominator),o
+a1b13461-ad81-45ae-9746-c8e5e18cfa99,Attribute,a59d210d-7e59-417a-87e0-ff564d7e5ff2,Proportion of total assets covered,,,,,,,,,% (compared to total covered assets in the denominator),p
+2536539b-0f7e-4a41-9267-47d6edac5f17,Group,a59d210d-7e59-417a-87e0-ff564d7e5ff2,GAR - Covered assets in both numerator and denominator,,,,,,,,1,% (compared to total covered assets in the denominator),
+25d61a19-9564-4922-8fe5-c7a41d6f5418,Group,2536539b-0f7e-4a41-9267-47d6edac5f17,"Loans and advances, debt securities and equity instruments not HfT eligible for GAR calculation",,,,,,,,2,% (compared to total covered assets in the denominator),
+f8137237-a2cb-4191-acac-f6e6f14441b9,Group,25d61a19-9564-4922-8fe5-c7a41d6f5418,Financial corporations,,,,,,,,3,% (compared to total covered assets in the denominator),
+a1e248d9-58a8-47e4-8ba7-cfad0168b3af,Group,f8137237-a2cb-4191-acac-f6e6f14441b9,Credit institutions,,,,,,,,4,% (compared to total covered assets in the denominator),
+d333d5e6-a527-4239-86b0-8538da56b839,Attribute,a1e248d9-58a8-47e4-8ba7-cfad0168b3af,Loans and advances,,,,,,,,5,% (compared to total covered assets in the denominator),
+061a5464-d342-48ca-8e2d-3301aa84233d,Attribute,a1e248d9-58a8-47e4-8ba7-cfad0168b3af,"Debt securities, including UoP",,,,,,,,6,% (compared to total covered assets in the denominator),
+72a44b80-fbd3-473d-a14d-2953ce9b40f4,Attribute,a1e248d9-58a8-47e4-8ba7-cfad0168b3af,Equity instruments,,,,,,,,7,% (compared to total covered assets in the denominator),
+e0626685-2b77-45fa-87c5-8db39cd5294d,Group,f8137237-a2cb-4191-acac-f6e6f14441b9,Other financial corporations,,,,,,,,8,% (compared to total covered assets in the denominator),
+fbd54679-c198-4614-a794-51cef3350e68,Group,e0626685-2b77-45fa-87c5-8db39cd5294d,of which investment firms,,,,,,,,9,% (compared to total covered assets in the denominator),
+fd5de0e7-5be3-426e-905b-27bf16df2e25,Attribute,fbd54679-c198-4614-a794-51cef3350e68,Loans and advances,,,,,,,,10,% (compared to total covered assets in the denominator),
+7865cbeb-07bf-4c80-8ee9-4225c6e21db4,Attribute,fbd54679-c198-4614-a794-51cef3350e68,"Debt securities, including UoP",,,,,,,,11,% (compared to total covered assets in the denominator),
+aacba680-21ec-4f1f-a177-372d7fd79519,Attribute,fbd54679-c198-4614-a794-51cef3350e68,Equity instruments,,,,,,,,12,% (compared to total covered assets in the denominator),
+05a44b8c-14ac-426a-a73e-365b2103b510,Group,e0626685-2b77-45fa-87c5-8db39cd5294d,of which  management companies,,,,,,,,13,% (compared to total covered assets in the denominator),
+587f33a4-60a3-44c9-b6b3-11ec736e73b8,Attribute,05a44b8c-14ac-426a-a73e-365b2103b510,Loans and advances,,,,,,,,14,% (compared to total covered assets in the denominator),
+900cccee-99a7-4e83-ba11-d99673fef5e9,Attribute,05a44b8c-14ac-426a-a73e-365b2103b510,"Debt securities, including UoP",,,,,,,,15,% (compared to total covered assets in the denominator),
+38aeb3b7-7dd7-4cf4-b346-533f5bcc6762,Attribute,05a44b8c-14ac-426a-a73e-365b2103b510,Equity instruments,,,,,,,,16,% (compared to total covered assets in the denominator),
+cc297bf8-6a8f-497a-b00c-cdb5e30abaa1,Group,e0626685-2b77-45fa-87c5-8db39cd5294d,of which insurance undertakings,,,,,,,,17,% (compared to total covered assets in the denominator),
+13c02200-c3be-4f6c-b5d7-01f142de6578,Attribute,cc297bf8-6a8f-497a-b00c-cdb5e30abaa1,Loans and advances,,,,,,,,18,% (compared to total covered assets in the denominator),
+11858af4-f029-46d5-a97f-9b42da9fe645,Attribute,cc297bf8-6a8f-497a-b00c-cdb5e30abaa1,"Debt securities, including UoP",,,,,,,,19,% (compared to total covered assets in the denominator),
+219a7177-ce42-4945-bf39-cd1532f20555,Attribute,cc297bf8-6a8f-497a-b00c-cdb5e30abaa1,Equity instruments,,,,,,,,20,% (compared to total covered assets in the denominator),
+1fb00315-549f-44d1-9ebb-f6cd661acfa5,Group,f8137237-a2cb-4191-acac-f6e6f14441b9,Non-financial corporations,,,,,,,,21,% (compared to total covered assets in the denominator),
+82ffe299-240f-4c82-982d-74eb89b74f03,Group,1fb00315-549f-44d1-9ebb-f6cd661acfa5,NFCs subject to NFRD disclosure obligations,,,,,,,,22,% (compared to total covered assets in the denominator),
+b99f66ea-d322-4c0d-bd50-9291f964c0ef,Attribute,82ffe299-240f-4c82-982d-74eb89b74f03,Loans and advances,,,,,,,,23,% (compared to total covered assets in the denominator),
+fd3d3019-1527-4e5c-8022-915ebf4a8c34,Attribute,82ffe299-240f-4c82-982d-74eb89b74f03,"Debt securities, including UoP",,,,,,,,24,% (compared to total covered assets in the denominator),
+d602fcf4-f6fe-450b-947b-280f2189b9b6,Attribute,82ffe299-240f-4c82-982d-74eb89b74f03,Equity instruments,,,,,,,,25,% (compared to total covered assets in the denominator),
+4af03822-a9ec-4d19-948f-854698a00303,Group,1fb00315-549f-44d1-9ebb-f6cd661acfa5,Households,,,,,,,,26,% (compared to total covered assets in the denominator),
+bc65f6d7-00a1-4550-b0f1-71d1e8948b70,Attribute,4af03822-a9ec-4d19-948f-854698a00303,of which loans collateralised by residential immovable property,,,,,,,,27,% (compared to total covered assets in the denominator),
+cb791fc9-ba8f-4894-b15d-7509b3aae7ee,Attribute,4af03822-a9ec-4d19-948f-854698a00303,of which building renovation loans,,,,,,,,28,% (compared to total covered assets in the denominator),
+085790e5-a6f8-498f-bfa0-e28a70000c46,Attribute,4af03822-a9ec-4d19-948f-854698a00303,of which motor vehicle loans,,,,,,,,29,% (compared to total covered assets in the denominator),
+e77864a3-4744-4e73-b673-db17af254def,Group,1fb00315-549f-44d1-9ebb-f6cd661acfa5,Local governments financing,,,,,,,,30,% (compared to total covered assets in the denominator),
+9c4e4373-3d2b-4801-8f80-b64b508db2b6,Attribute,e77864a3-4744-4e73-b673-db17af254def,Collateral obtained by taking possession: residential and commercial immovable properties,,,,,,,,31,% (compared to total covered assets in the denominator),
+ad2ee7ba-b594-4f89-b8d3-e3fd81a1c5da,Attribute,e77864a3-4744-4e73-b673-db17af254def,Other local government financing,,,,,,,,32,% (compared to total covered assets in the denominator),
+7f8b8579-31c3-4436-8748-adb02bd30aa5,Attribute,a59d210d-7e59-417a-87e0-ff564d7e5ff2,Total GAR assets,,,,,,,,49,% (compared to total covered assets in the denominator),
+987e0e3c-5071-4e7e-8860-f5396d86f839,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,GAR KPI flow,,,,,,,,,"1. Institution shall disclose in this template the GAR KPIs on flow of loans calculated (new loans on a net basis) based on the data disclosed in template 1, on covered assets, and by applying the formulas proposed in this template.",
+2b6fff01-ed18-400b-8ba5-a8d880079e1e,Group,987e0e3c-5071-4e7e-8860-f5396d86f839,Climate Change Mitigation (CCM),,,,,,,,,,a-e
+42de178e-2105-4bc7-9db7-06a087e731b0,Group,2b6fff01-ed18-400b-8ba5-a8d880079e1e,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to flow of total eligible assets),a
+95ad897f-b2b2-4ded-bacd-66c9995b0c1f,Group,42de178e-2105-4bc7-9db7-06a087e731b0,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to flow of total eligible assets),b
+4e9fa1cb-3610-4d21-93b8-9d2fad00cafa,Attribute,95ad897f-b2b2-4ded-bacd-66c9995b0c1f,Of which specialised lending,,,,,,,,,% (compared to flow of total eligible assets),c
+01e189d6-a5f0-40b2-aa2a-2d4ecb4378e7,Attribute,95ad897f-b2b2-4ded-bacd-66c9995b0c1f,Of which transitional,,,,,,,,,% (compared to flow of total eligible assets),d
+221c7417-cf67-4178-83b9-7d52d233aa5a,Attribute,95ad897f-b2b2-4ded-bacd-66c9995b0c1f,Of which enabling,,,,,,,,,% (compared to flow of total eligible assets),e
+e9a44108-3c06-45e5-8c0a-866f99444e49,Group,987e0e3c-5071-4e7e-8860-f5396d86f839,Climate Change Adaptation (CCA),,,,,,,,,,f-j
+d3e6c446-94e8-4a70-ae69-e0b4d1292c6e,Group,e9a44108-3c06-45e5-8c0a-866f99444e49,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to flow of total eligible assets),f
+43ce6ac7-c61a-4634-b326-b833168c6700,Group,d3e6c446-94e8-4a70-ae69-e0b4d1292c6e,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to flow of total eligible assets),g
+e57a37ee-8430-4f02-9e10-a466f0e57af1,Attribute,43ce6ac7-c61a-4634-b326-b833168c6700,Of which specialised lending,,,,,,,,,% (compared to flow of total eligible assets),h
+9154334f-c1da-400a-99cf-ef39b3d3de4a,Attribute,43ce6ac7-c61a-4634-b326-b833168c6700,Of which transitional,,,,,,,,,% (compared to flow of total eligible assets),i
+f7f5b0d1-1c99-48e4-9893-20728ab744f7,Attribute,43ce6ac7-c61a-4634-b326-b833168c6700,Of which enabling,,,,,,,,,% (compared to flow of total eligible assets),j
+af07a3ac-7589-4675-b1a9-0485dcffad25,Group,987e0e3c-5071-4e7e-8860-f5396d86f839,Total (CCM + CCA),,,,,,,,,,k-o
+13a3437e-eb0e-4ff4-be41-606b80407c90,Group,af07a3ac-7589-4675-b1a9-0485dcffad25,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to flow of total eligible assets),k
+4967deb5-d224-410f-a4a5-5187c280c35f,Group,13a3437e-eb0e-4ff4-be41-606b80407c90,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to flow of total eligible assets),l
+32271ce2-cefc-4c80-b86e-7a24206242b6,Attribute,4967deb5-d224-410f-a4a5-5187c280c35f,Of which specialised lending,,,,,,,,,% (compared to flow of total eligible assets),m
+88727070-5c39-4f18-83bb-f322442d3578,Attribute,4967deb5-d224-410f-a4a5-5187c280c35f,Of which transitional,,,,,,,,,% (compared to flow of total eligible assets),n
+0908a8c1-e887-449b-bc8b-e4a22cdb0dde,Attribute,4967deb5-d224-410f-a4a5-5187c280c35f,Of which enabling,,,,,,,,,% (compared to flow of total eligible assets),o
+d1afcc86-289b-4083-919f-23eaf5c7a84c,Attribute,987e0e3c-5071-4e7e-8860-f5396d86f839,Proportion of total new assets covered,,,,,,,,,% (compared to flow of total eligible assets),p
+ab57d549-86cd-4381-9aa5-ee6b2aeb8b17,Group,987e0e3c-5071-4e7e-8860-f5396d86f839,GAR - Covered assets in both numerator and denominator,,,,,,,,1,% (compared to flow of total eligible assets),
+0d54af6d-2239-4340-8fae-8eee136678ba,Group,ab57d549-86cd-4381-9aa5-ee6b2aeb8b17,"Loans and advances, debt securities and equity instruments not HfT eligible for GAR calculation",,,,,,,,2,% (compared to flow of total eligible assets),
+c0becc82-1ab2-40bd-8587-184836f56004,Group,0d54af6d-2239-4340-8fae-8eee136678ba,Financial corporations,,,,,,,,3,% (compared to flow of total eligible assets),
+ba749ec6-c8bb-4da5-89e3-71188169470c,Group,c0becc82-1ab2-40bd-8587-184836f56004,Credit institutions,,,,,,,,4,% (compared to flow of total eligible assets),
+088e4492-e5b3-4b14-8560-bf75d56afb89,Attribute,ba749ec6-c8bb-4da5-89e3-71188169470c,Loans and advances,,,,,,,,5,% (compared to flow of total eligible assets),
+ae8f6f7e-505d-4be1-9ebb-f76568e48095,Attribute,ba749ec6-c8bb-4da5-89e3-71188169470c,"Debt securities, including UoP",,,,,,,,6,% (compared to flow of total eligible assets),
+19bb9f44-3c43-41d9-97ab-08ed60aef8a4,Attribute,ba749ec6-c8bb-4da5-89e3-71188169470c,Equity instruments,,,,,,,,7,% (compared to flow of total eligible assets),
+309cdf1b-9a3f-47bf-a832-50c8fe2c5a95,Group,c0becc82-1ab2-40bd-8587-184836f56004,Other financial corporations,,,,,,,,8,% (compared to flow of total eligible assets),
+b87ec736-be38-436a-a367-02d41d62002a,Group,309cdf1b-9a3f-47bf-a832-50c8fe2c5a95,of which investment firms,,,,,,,,9,% (compared to flow of total eligible assets),
+7b77268a-83f7-4223-8f44-61c8c9fa7cbe,Attribute,b87ec736-be38-436a-a367-02d41d62002a,Loans and advances,,,,,,,,10,% (compared to flow of total eligible assets),
+0949746f-b574-4f9e-bead-1c23137eeac4,Attribute,b87ec736-be38-436a-a367-02d41d62002a,"Debt securities, including UoP",,,,,,,,11,% (compared to flow of total eligible assets),
+5084fa62-73b1-4450-9f67-679fbf0fb2e9,Attribute,b87ec736-be38-436a-a367-02d41d62002a,Equity instruments,,,,,,,,12,% (compared to flow of total eligible assets),
+fde80a1d-e068-4c5f-a897-eed5eb652764,Group,309cdf1b-9a3f-47bf-a832-50c8fe2c5a95,of which  management companies,,,,,,,,13,% (compared to flow of total eligible assets),
+1de39a25-3058-4fd1-b030-5c6b0efc3ca7,Attribute,fde80a1d-e068-4c5f-a897-eed5eb652764,Loans and advances,,,,,,,,14,% (compared to flow of total eligible assets),
+41030852-363a-445c-b90c-99353ea3b8f4,Attribute,fde80a1d-e068-4c5f-a897-eed5eb652764,"Debt securities, including UoP",,,,,,,,15,% (compared to flow of total eligible assets),
+bade6b8c-8f65-48e4-b76b-e8ddb9155511,Attribute,fde80a1d-e068-4c5f-a897-eed5eb652764,Equity instruments,,,,,,,,16,% (compared to flow of total eligible assets),
+96a46e6e-e6bf-4b7e-b7aa-3035bcacaa31,Group,309cdf1b-9a3f-47bf-a832-50c8fe2c5a95,of which insurance undertakings,,,,,,,,17,% (compared to flow of total eligible assets),
+3eb81f71-2f05-473d-9e28-47b5003bebcd,Attribute,96a46e6e-e6bf-4b7e-b7aa-3035bcacaa31,Loans and advances,,,,,,,,18,% (compared to flow of total eligible assets),
+a285adc9-1bdd-45e9-b368-1d70a0e0974e,Attribute,96a46e6e-e6bf-4b7e-b7aa-3035bcacaa31,"Debt securities, including UoP",,,,,,,,19,% (compared to flow of total eligible assets),
+1fa63e6f-8d2f-4fe0-baec-dc08366a57d7,Attribute,96a46e6e-e6bf-4b7e-b7aa-3035bcacaa31,Equity instruments,,,,,,,,20,% (compared to flow of total eligible assets),
+cc2cd54d-e129-4d84-8c96-aeda11fc4a00,Group,c0becc82-1ab2-40bd-8587-184836f56004,Non-financial corporations,,,,,,,,21,% (compared to flow of total eligible assets),
+2adc9b10-de0c-4a3c-8da9-c48452877c46,Group,cc2cd54d-e129-4d84-8c96-aeda11fc4a00,NFCs subject to NFRD disclosure obligations,,,,,,,,22,% (compared to flow of total eligible assets),
+db062ca4-b8da-4345-8b8d-32420f6e7ed1,Attribute,2adc9b10-de0c-4a3c-8da9-c48452877c46,Loans and advances,,,,,,,,23,% (compared to flow of total eligible assets),
+9d728f66-54a9-4434-b3de-f0488b39335d,Attribute,2adc9b10-de0c-4a3c-8da9-c48452877c46,"Debt securities, including UoP",,,,,,,,24,% (compared to flow of total eligible assets),
+805fb804-d2a6-4174-b108-487fc6536c93,Attribute,2adc9b10-de0c-4a3c-8da9-c48452877c46,Equity instruments,,,,,,,,25,% (compared to flow of total eligible assets),
+94d365d6-1804-4cdd-b096-12a5e9da0583,Group,cc2cd54d-e129-4d84-8c96-aeda11fc4a00,Households,,,,,,,,26,% (compared to flow of total eligible assets),
+6f85b8b5-f546-4a1c-a226-5082bc0826be,Attribute,94d365d6-1804-4cdd-b096-12a5e9da0583,of which loans collateralised by residential immovable property,,,,,,,,27,% (compared to flow of total eligible assets),
+00211922-4a47-448e-86b9-02fc24b539d9,Attribute,94d365d6-1804-4cdd-b096-12a5e9da0583,of which building renovation loans,,,,,,,,28,% (compared to flow of total eligible assets),
+0039339e-bbbc-452e-8a5e-5a51ea575050,Attribute,94d365d6-1804-4cdd-b096-12a5e9da0583,of which motor vehicle loans,,,,,,,,29,% (compared to flow of total eligible assets),
+1e3c9a10-da9e-4485-8e0b-f04c363f57cb,Group,cc2cd54d-e129-4d84-8c96-aeda11fc4a00,Local governments financing,,,,,,,,30,% (compared to flow of total eligible assets),
+f62a9328-4dd6-4748-a41f-db1d707dcee7,Attribute,1e3c9a10-da9e-4485-8e0b-f04c363f57cb,Collateral obtained by taking possession: residential and commercial immovable properties,,,,,,,,31,% (compared to flow of total eligible assets),
+33b59c68-d692-44c4-aa99-ed222ab130a8,Attribute,1e3c9a10-da9e-4485-8e0b-f04c363f57cb,Other local government financing,,,,,,,,32,% (compared to flow of total eligible assets),
+a60f9646-28ee-41c7-84c4-6cd64f43fc38,Attribute,987e0e3c-5071-4e7e-8860-f5396d86f839,Total GAR assets,,,,,,,,49,% (compared to flow of total eligible assets),
+15c5e430-d61d-480e-985e-493b6c39e26f,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,KPI off-balance sheet exposures,,,,,,,,,"1. Institution shall disclose in this template the KPIs for off-balance sheet exposures (financial guarantees and AuM) based on the data disclosed in template 1, on covered assets, and by applying the formulas proposed in this template.",
+275e65d2-e0d1-43fe-879b-62403da65146,Group,15c5e430-d61d-480e-985e-493b6c39e26f,Climate Change Mitigation (CCM),,,,,,,,,,a-e
+fac734fa-d59d-4cc3-bb6c-77bffb76bb40,Group,275e65d2-e0d1-43fe-879b-62403da65146,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to total eligible off-balance sheet assets),a
+17105404-e501-447c-865c-4c8ecf381cb0,Group,fac734fa-d59d-4cc3-bb6c-77bffb76bb40,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to total eligible off-balance sheet assets),b
+c9c881a1-c5f9-49ab-acfb-40af58c56f59,Attribute,17105404-e501-447c-865c-4c8ecf381cb0,Of which specialised lending,,,,,,,,,% (compared to total eligible off-balance sheet assets),c
+acf14571-85fb-42a0-850d-084d039f7571,Attribute,17105404-e501-447c-865c-4c8ecf381cb0,Of which transitional,,,,,,,,,% (compared to total eligible off-balance sheet assets),d
+1f5f2896-eec0-42fd-86d5-d881b9a56ecb,Attribute,17105404-e501-447c-865c-4c8ecf381cb0,Of which enabling,,,,,,,,,% (compared to total eligible off-balance sheet assets),e
+6b55f769-080a-4b85-8c32-c07c7129d355,Group,15c5e430-d61d-480e-985e-493b6c39e26f,Climate Change Adaptation (CCA),,,,,,,,,,f-j
+91914686-152c-41e3-9fd6-97d147bc182b,Group,6b55f769-080a-4b85-8c32-c07c7129d355,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to total eligible off-balance sheet assets),f
+dce20d57-8ffe-4923-adde-5760234ad67e,Group,91914686-152c-41e3-9fd6-97d147bc182b,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to total eligible off-balance sheet assets),g
+e3117d41-771c-4fe3-83ee-71cbe1c0e93d,Attribute,dce20d57-8ffe-4923-adde-5760234ad67e,Of which specialised lending,,,,,,,,,% (compared to total eligible off-balance sheet assets),h
+58320558-cbf1-446a-bc79-79e0a9d05e3e,Attribute,dce20d57-8ffe-4923-adde-5760234ad67e,Of which transitional,,,,,,,,,% (compared to total eligible off-balance sheet assets),i
+b437f4c1-f1bc-4cdf-a2e2-8384af1d5284,Attribute,dce20d57-8ffe-4923-adde-5760234ad67e,Of which enabling,,,,,,,,,% (compared to total eligible off-balance sheet assets),j
+a1875a35-4fb0-4df4-b5dc-2cf9b0df10d6,Group,15c5e430-d61d-480e-985e-493b6c39e26f,Total (CCM + CCA),,,,,,,,,,k-o
+9be20dad-3d89-456b-8c31-137fe91d065f,Group,a1875a35-4fb0-4df4-b5dc-2cf9b0df10d6,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-eligible),,,,,,,,,% (compared to total eligible off-balance sheet assets),k
+c00d2b50-0fcd-4e9a-b7f8-dd5b01482bc8,Group,9be20dad-3d89-456b-8c31-137fe91d065f,Proportion of total covered assets funding taxonomy relevant sectors (Taxonomy-aligned),,,,,,,,,% (compared to total eligible off-balance sheet assets),l
+cfa9b0d8-8284-400f-be12-8545eb2658f5,Attribute,c00d2b50-0fcd-4e9a-b7f8-dd5b01482bc8,Of which specialised lending,,,,,,,,,% (compared to total eligible off-balance sheet assets),m
+480d3380-9735-4cd1-b353-78c748f51f11,Attribute,c00d2b50-0fcd-4e9a-b7f8-dd5b01482bc8,Of which transitional,,,,,,,,,% (compared to total eligible off-balance sheet assets),n
+3e09498a-8278-4d86-9345-7995837d5768,Attribute,c00d2b50-0fcd-4e9a-b7f8-dd5b01482bc8,Of which enabling,,,,,,,,,% (compared to total eligible off-balance sheet assets),o
+d790fe39-4fa2-499f-8c98-a869c9098768,Group,15c5e430-d61d-480e-985e-493b6c39e26f,Financial guarantees (FinGuar KPI),,,,,,,,1,% (compared to total eligible off-balance sheet assets),
+33a486f9-ce2d-4bbc-b56e-5dd1422b825b,Attribute,d790fe39-4fa2-499f-8c98-a869c9098768,Assets under management (AuM KPI),,,,,,,,2,% (compared to total eligible off-balance sheet assets),
+c759d395-d34f-4d35-9a86-ca4672191300,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,KPI on fees and commissions income from services other than lending and asset management,,,,,,,,,1. Institutions shall disclose in this template information on the percentage (%) of fees and commission income towards taxonomy relevant sectors and environmentally sustainable (with breakdown for transitional/adaptation and enabling activities) compared to total fees and commission income from NFRD corporates for services other than lending and asset management.,
+f61ddba3-9491-46d0-8fce-1388cae56cc6,Group,c759d395-d34f-4d35-9a86-ca4672191300,Total,,,,,,,,,Million EUR,a
+b699c374-4d50-41a5-b1be-763aba3b92fe,Group,f61ddba3-9491-46d0-8fce-1388cae56cc6,Climate Change Mitigation (CCM),,,,,,,,,,b-f
+f4d07dbb-6106-4969-8756-61e4750954eb,Group,b699c374-4d50-41a5-b1be-763aba3b92fe,Of which towards taxonomy relevant sectors (%) (Taxonomy-eligible),,,,,,,,,%,b
+7c339096-a090-435f-8fe5-dd69c8feb10a,Group,f4d07dbb-6106-4969-8756-61e4750954eb,Of which environmentally sustainable,,,,,,,,,%,c
+1b16a027-6dc9-45f1-baa0-f0df8aa5abed,Attribute,7c339096-a090-435f-8fe5-dd69c8feb10a,Of which transitional,,,,,,,,,%,e
+1b0b8fcf-b623-4768-8d78-d8a0159277a5,Attribute,7c339096-a090-435f-8fe5-dd69c8feb10a,Of which enabling,,,,,,,,,%,f
+96d630f2-fe4e-4ae1-9711-25d8b9ee9036,Group,f61ddba3-9491-46d0-8fce-1388cae56cc6,Climate Change Adaptation (CCA),,,,,,,,,,g-k
+caaf71ba-47ea-4bbc-86ad-baa2005c5ba2,Group,96d630f2-fe4e-4ae1-9711-25d8b9ee9036,Of which towards taxonomy relevant sectors (%) (Taxonomy-eligible),,,,,,,,,%,g
+dfb84e1d-cf31-4799-913a-6c693acf03b7,Group,caaf71ba-47ea-4bbc-86ad-baa2005c5ba2,Of which environmentally sustainable,,,,,,,,,%,h
+f804cbec-0905-4ed9-ab79-2e5ccb9943b9,Attribute,dfb84e1d-cf31-4799-913a-6c693acf03b7,Of which adaptation,,,,,,,,,%,j
+50f2c712-8ded-438f-869f-ee504d9b9066,Attribute,dfb84e1d-cf31-4799-913a-6c693acf03b7,Of which enabling,,,,,,,,,%,k
+79eae5fe-3bce-4162-ab28-4f54b1919748,Group,f61ddba3-9491-46d0-8fce-1388cae56cc6,Total (CCM + CCA),,,,,,,,,,l-o
+754f87fb-9fb6-4009-8d7e-91f10b2a5098,Group,79eae5fe-3bce-4162-ab28-4f54b1919748,Of which towards taxonomy relevant sectors (%) (Taxonomy-eligible),,,,,,,,,%,l
+01fde5b0-63dc-4b14-8772-e513ad94e3b4,Group,754f87fb-9fb6-4009-8d7e-91f10b2a5098,Of which environmentally sustainable,,,,,,,,,%,m
+7c3deba5-23c6-4294-b20b-a86b8ae85a03,Attribute,01fde5b0-63dc-4b14-8772-e513ad94e3b4,Of which adaptation,,,,,,,,,%,n
+c4d9a41a-044b-4a42-adee-d41769999055,Attribute,01fde5b0-63dc-4b14-8772-e513ad94e3b4,Of which enabling,,,,,,,,,%,o
+a2c4a67a-883e-42ca-82a1-febec8c63737,Group,c759d395-d34f-4d35-9a86-ca4672191300,Fees and Commission income from NFRD corporates - Services other than lending,,,,,,,,1,,
+61c5fc0c-4062-40f8-a7a8-ae68c5fd1f18,Group,a2c4a67a-883e-42ca-82a1-febec8c63737,Services towards financial corporations,,,,,,,,2,,
+a16533de-7813-45de-85ba-b92a7e9d5dcd,Attribute,61c5fc0c-4062-40f8-a7a8-ae68c5fd1f18,Credit institutions,,,,,,,,3,,
+1c6e5363-0253-4adf-aedd-b2f2d661d369,Group,61c5fc0c-4062-40f8-a7a8-ae68c5fd1f18,Other financial corporations,,,,,,,,4,,
+1d91472e-c539-4b04-9030-473dd22ea97d,Attribute,1c6e5363-0253-4adf-aedd-b2f2d661d369,of which investment firms,,,,,,,,5,,
+dcd5f1bd-ac50-488f-bd39-91eae43b1aa7,Attribute,1c6e5363-0253-4adf-aedd-b2f2d661d369,of which management companies,,,,,,,,6,,
+15a599bb-6408-41c4-a1a7-af70806887a9,Attribute,1c6e5363-0253-4adf-aedd-b2f2d661d369,of which insurance undertakings,,,,,,,,7,,
+6d252c27-24e0-41b9-8003-c4a9a8a75052,Attribute,a2c4a67a-883e-42ca-82a1-febec8c63737,Non-financial corporations,,,,,,,,8,,
+663ebe97-ec00-4ba9-9557-c656f7d0d645,Attribute,a2c4a67a-883e-42ca-82a1-febec8c63737,"Counterparties not subject to NFRD disclosure obligations, including third-country counterparties",,,,,,,,9,,
+fd8b1095-1696-4aec-8f1e-7d9ff8948313,Object,f95e83e0-6969-44f0-8478-5fd0242a0e45,KPI Trading book portfolio,,,,,,,,,,
+dbf809d5-afb8-4d78-b37c-09882de070a8,Attribute,fd8b1095-1696-4aec-8f1e-7d9ff8948313,Fair value,,,,,,,,,,a
+a8dc1207-4018-4ce4-bfd7-e1a56dbfcf58,Group,fd8b1095-1696-4aec-8f1e-7d9ff8948313,Climate Change Mitigation (CCM),,,,,,,,,,b-h
+9d1fc364-bda6-4aed-8caf-cf26b95bc319,Group,a8dc1207-4018-4ce4-bfd7-e1a56dbfcf58,Absolute purchases,,,,,,,,,,b
+42e815d2-5ce3-401c-aac8-f3fda08b8f43,Attribute,9d1fc364-bda6-4aed-8caf-cf26b95bc319,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,c
+d5c39738-6ca4-4689-b0fc-9cd214c49b80,Group,a8dc1207-4018-4ce4-bfd7-e1a56dbfcf58,Absolute sales,,,,,,,,,,d
+6ac832a1-6c17-4138-9107-1cbd48324fdc,Attribute,d5c39738-6ca4-4689-b0fc-9cd214c49b80,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,e
+43263aa2-2478-4387-b619-665c04097aba,Group,a8dc1207-4018-4ce4-bfd7-e1a56dbfcf58,Absolute purchases plus absolute sales,,,,,,,,,,f
+57896f2c-2cef-4d24-a37a-d86b709cc5d9,Attribute,43263aa2-2478-4387-b619-665c04097aba,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,g
+4f79d214-16b9-41fb-8e93-9228b6ac0282,Attribute,a8dc1207-4018-4ce4-bfd7-e1a56dbfcf58,Trading KPI,,,,,,,,,,h
+523533c2-b156-42ea-af72-41a53422984a,Group,fd8b1095-1696-4aec-8f1e-7d9ff8948313,Climate Change Adaptation (CCA),,,,,,,,,,i-o
+757a7a5f-261b-4c51-8b77-098362612271,Group,523533c2-b156-42ea-af72-41a53422984a,Absolute purchases,,,,,,,,,,i
+9f28235f-c6eb-4a5e-a37e-f8eea67d46ce,Attribute,757a7a5f-261b-4c51-8b77-098362612271,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,j
+b7001e15-8aef-4d50-96f0-1fef9c9bfdb1,Group,523533c2-b156-42ea-af72-41a53422984a,Absolute sales,,,,,,,,,,k
+8a42c8c5-4987-4da3-969f-b38566715080,Attribute,b7001e15-8aef-4d50-96f0-1fef9c9bfdb1,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,l
+f5ff9cc6-796e-4f61-81f7-be86b6c215d3,Group,523533c2-b156-42ea-af72-41a53422984a,Absolute purchases plus absolute sales,,,,,,,,,,m
+ca087ba9-2202-4370-bcfb-456b8600c49c,Attribute,f5ff9cc6-796e-4f61-81f7-be86b6c215d3,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,n
+72967310-86f4-405a-b6ae-9a1a31e09990,Attribute,523533c2-b156-42ea-af72-41a53422984a,Trading KPI,,,,,,,,,,o
+502e2b3d-f464-4c81-91d2-9fe26f30c3b4,Group,fd8b1095-1696-4aec-8f1e-7d9ff8948313,Total (CCM + CCA),,,,,,,,,,p-v
+33e0358d-97c9-4155-a9f4-06a6534113a6,Group,502e2b3d-f464-4c81-91d2-9fe26f30c3b4,Absolute purchases,,,,,,,,,,p
+af76f512-6b60-4f33-82bb-bce16f41c8e8,Attribute,33e0358d-97c9-4155-a9f4-06a6534113a6,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,q
+97b7c4ba-a849-4d71-af83-91f0ce8c7496,Group,502e2b3d-f464-4c81-91d2-9fe26f30c3b4,Absolute sales,,,,,,,,,,r
+a8bb464a-46d9-438d-be44-b1e67c96405d,Attribute,97b7c4ba-a849-4d71-af83-91f0ce8c7496,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,s
+6ec3923c-69ac-44bd-bf1e-638c09a0ab7c,Group,502e2b3d-f464-4c81-91d2-9fe26f30c3b4,Absolute purchases plus absolute sales,,,,,,,,,,t
+e634e517-e5e0-41de-9a1b-68fbc2aa7c97,Attribute,6ec3923c-69ac-44bd-bf1e-638c09a0ab7c,Of which environmentally sustainable (Taxonomy-aligned),,,,,,,,,,u
+ae5b67e4-85c0-48cd-abe0-399be403b2eb,Attribute,502e2b3d-f464-4c81-91d2-9fe26f30c3b4,Trading KPI,,,,,,,,,,v
+6db43b9b-0b93-4659-b265-4a2f72528ab0,Group,fd8b1095-1696-4aec-8f1e-7d9ff8948313,Financial assets held for trading (debt securities and equity holdings) - NFRD corporates,,,,,,,,1,,
+4b4b9075-76fd-4fae-9a0b-54aaf54d362e,Group,6db43b9b-0b93-4659-b265-4a2f72528ab0,Financial corporations,,,,,,,,2,,
+56956a30-3657-4981-be9c-a845e7bc2696,Group,4b4b9075-76fd-4fae-9a0b-54aaf54d362e,Credit institutions,,,,,,,,3,,
+2b2e5692-029f-42bc-a272-860444008aaf,Attribute,56956a30-3657-4981-be9c-a845e7bc2696,Debt securities,,,,,,,,4,,
+6df82569-592d-443d-a882-cbe7ae3c90c0,Attribute,56956a30-3657-4981-be9c-a845e7bc2696,Equity instruments,,,,,,,,5,,
+e3f49267-52f9-4347-be5a-73e274aefb40,Group,4b4b9075-76fd-4fae-9a0b-54aaf54d362e,Other financial corporations,,,,,,,,6,,
+3693d32d-fa6d-492b-ab29-2779a9957ec7,Group,e3f49267-52f9-4347-be5a-73e274aefb40,of which investment firms,,,,,,,,7,,
+e14a2c44-7c43-4868-b6f4-dcefa26d7474,Attribute,3693d32d-fa6d-492b-ab29-2779a9957ec7,Debt securities,,,,,,,,8,,
+1081ffea-3409-4cbb-bc52-a497149d82ec,Attribute,3693d32d-fa6d-492b-ab29-2779a9957ec7,Equity instruments,,,,,,,,9,,
+a0b541b5-53e9-42ee-b5ca-461d8f97edc3,Group,e3f49267-52f9-4347-be5a-73e274aefb40,of which asset managers,,,,,,,,10,,
+a70f7cdc-76f8-47dd-b126-f69017358cfc,Attribute,a0b541b5-53e9-42ee-b5ca-461d8f97edc3,Debt securities,,,,,,,,11,,
+b9d3f8eb-aee4-4d58-8bff-d99c8b79fde7,Attribute,a0b541b5-53e9-42ee-b5ca-461d8f97edc3,Equity instruments,,,,,,,,12,,
+a9adac5c-49b2-4ed0-a14d-57eec6168a46,Group,e3f49267-52f9-4347-be5a-73e274aefb40,of which insurance companies,,,,,,,,13,,
+1d113408-799c-43ad-92c1-c6d6c35625fc,Attribute,a9adac5c-49b2-4ed0-a14d-57eec6168a46,Debt securities,,,,,,,,14,,
+a48d62b3-9473-4898-9a8a-ac914e5667de,Attribute,a9adac5c-49b2-4ed0-a14d-57eec6168a46,Equity instruments,,,,,,,,15,,
+bf1a486b-5dab-4937-a998-330df934fd55,Group,6db43b9b-0b93-4659-b265-4a2f72528ab0,NFCs subject to NFRD disclosure obligations,,,,,,,,16,,
+74093be6-61ab-4a2c-b89c-98fb43813ee8,Attribute,bf1a486b-5dab-4937-a998-330df934fd55,Debt securities,,,,,,,,17,,
+c5749c9c-048b-4445-9cb9-33de85c5fe62,Attribute,bf1a486b-5dab-4937-a998-330df934fd55,Equity instruments,,,,,,,,18,,
+4d8063b0-f6f2-4485-b8ca-5a99ea3c92f7,Group,6db43b9b-0b93-4659-b265-4a2f72528ab0,"Counterparties not subject to NFRD disclosure obligations, including third-country counterparties",,,,,,,,19,,
+6f315655-f4fa-4e20-b3ca-f20fb5a10cba,Attribute,4d8063b0-f6f2-4485-b8ca-5a99ea3c92f7,Debt securities,,,,,,,,20,,
+7d8da4ec-2101-49ac-b1ab-0030e424fa85,Attribute,4d8063b0-f6f2-4485-b8ca-5a99ea3c92f7,Equity instruments,,,,,,,,21,,
+3f04e46a-473c-44ad-a3c2-9b17cfcc062a,Layer,,Art. 8: KPIs of Investment Firms,,,,,,,,,,
+c74daa27-f20e-4282-8fef-88fbcd18359f,Object,3f04e46a-473c-44ad-a3c2-9b17cfcc062a,Summary of KPIs,,,,,,,,,,
+cb0f1e60-38ca-4d53-adac-217b31ccc50e,Group,c74daa27-f20e-4282-8fef-88fbcd18359f,Green asset ratio,,,,,,,,1: GAR,Main KPI (for dealing on own account),
+89e68b68-0c44-4ce4-8b69-13048e02d817,Attribute,cb0f1e60-38ca-4d53-adac-217b31ccc50e,Total environmentally sustainable assets,,,,,,,,1: GAR,,a
+c0c7e097-46a2-4a35-a914-4ff1d086dee0,Attribute,cb0f1e60-38ca-4d53-adac-217b31ccc50e,KPI (Counterparty turnover),,,,,,,,1: GAR,Based on the Turnover KPI of the counterparty,b
+6dd96020-f3ae-4b09-8dc8-d4d4314c9359,Attribute,cb0f1e60-38ca-4d53-adac-217b31ccc50e,KPI (Counterparty CapEx),,,,,,,,1: GAR,Based on the CapEx KPI of the counterparty,c
+5cfd1eb0-7493-48e7-b29b-34cd99aaca51,Attribute,cb0f1e60-38ca-4d53-adac-217b31ccc50e,% coverage (over total assets),,,,,,,,1: GAR,% of assets covered by the KPI over total assets,d
+8e7283da-4b53-489a-9bbc-1b8783bb6f49,Group,c74daa27-f20e-4282-8fef-88fbcd18359f,KPI on Revenue,,,,,,,,2: Revenue KPI,"Main KPI (for services and activities other than dealing on own account). Includes fees, commissions and other monetary benefits",
+9ab62889-3340-4adf-a487-619553138d19,Attribute,8e7283da-4b53-489a-9bbc-1b8783bb6f49,Total revenue from environmentally sustainable services and activities,,,,,,,,2: Revenue KPI,,a
+281adc21-ac16-47a2-8b06-89fe0bc99301,Attribute,8e7283da-4b53-489a-9bbc-1b8783bb6f49,KPI (Counterparty turnover),,,,,,,,2: Revenue KPI,Based on the Turnover KPI of the counterparty,b
+370d76fa-ffc8-433d-a35a-ede6b3e1a7e1,Attribute,8e7283da-4b53-489a-9bbc-1b8783bb6f49,KPI (Counterparty CapEx),,,,,,,,2: Revenue KPI,Based on the CapEx KPI of the counterparty,c
+e5acf029-c2ad-4346-9cb6-a71e27c71011,Attribute,8e7283da-4b53-489a-9bbc-1b8783bb6f49,% coverage (over total revenue),,,,,,,,2: Revenue KPI,% of revenue covered by the KPI over total revenue,d
+f7a2f1f6-44a1-4e87-9a75-5ecfa99f8811,Object,3f04e46a-473c-44ad-a3c2-9b17cfcc062a,KPI IF - Dealing on own account services,,,,,,,,,,
+74f7f1e2-fd6a-47ab-bd56-97bf6432cbec,Attribute,f7a2f1f6-44a1-4e87-9a75-5ecfa99f8811,Total,,,,,,,,,Million EUR,a
+c8213aa1-d9db-46dd-80cb-5b5dceb2ae96,Attribute,f7a2f1f6-44a1-4e87-9a75-5ecfa99f8811,Of which covered by the KPI,,,,,,,,,Million EUR,b
+e4f969ba-260f-4681-817a-ff38e8a91b27,Group,f7a2f1f6-44a1-4e87-9a75-5ecfa99f8811,Climate Change Mitigation (CCM),,,,,,,,,,c-f
+0462e68e-d61d-46cc-adb2-1e3ff095ff0f,Group,e4f969ba-260f-4681-817a-ff38e8a91b27,Of which assets covered by the EU Taxonomy (%) (Taxonomy-eligible),,,,,,,,,%,c
+4b2de2a7-9754-406a-8581-38a74aed9380,Group,0462e68e-d61d-46cc-adb2-1e3ff095ff0f,Of which linked to activities aligned with the EU Taxonomy (%) (Taxonomy-aligned),,,,,,,,,%,d
+83d59a77-81d7-4dda-94bd-0986ff024635,Attribute,4b2de2a7-9754-406a-8581-38a74aed9380,Of which transitional (%),,,,,,,,,%,e
+0bc7e276-b6b9-44c4-89ff-a07bf664ec70,Attribute,4b2de2a7-9754-406a-8581-38a74aed9380,Of which enabling (%),,,,,,,,,%,f
+88d68fd2-e4e3-4281-b4e5-ea626b19ebb1,Group,f7a2f1f6-44a1-4e87-9a75-5ecfa99f8811,Climate Change Adaptation (CCA),,,,,,,,,,g-j
+c87af987-643a-4677-8d5d-a428dc94affb,Group,88d68fd2-e4e3-4281-b4e5-ea626b19ebb1,Of which assets covered by the EU Taxonomy (%) (Taxonomy-eligible),,,,,,,,,%,g
+10f744b5-a58d-4f5d-bbb0-0b9e0177f4d4,Group,c87af987-643a-4677-8d5d-a428dc94affb,Of which linked to activities aligned with the EU Taxonomy (%) (Taxonomy-aligned),,,,,,,,,%,h
+962141a9-d567-4d27-9867-f7c0d22acb74,Attribute,10f744b5-a58d-4f5d-bbb0-0b9e0177f4d4,Of which transitional (%),,,,,,,,,%,i
+aec22352-4008-4d5d-9a1e-f0b14201694b,Attribute,10f744b5-a58d-4f5d-bbb0-0b9e0177f4d4,Of which enabling (%),,,,,,,,,%,j
+a2933fa5-a2a9-4ebe-9a81-559c16b8952c,Group,f7a2f1f6-44a1-4e87-9a75-5ecfa99f8811,Total (CCM + CCA),,,,,,,,,,k-n
+5dca07f5-9711-4f00-9bd0-6ef3374f24b0,Group,a2933fa5-a2a9-4ebe-9a81-559c16b8952c,Of which assets covered by the EU Taxonomy (%) (Taxonomy-eligible),,,,,,,,,%,k
+d723f361-f2df-458f-af9d-ec7589406d5b,Group,5dca07f5-9711-4f00-9bd0-6ef3374f24b0,Of which linked to activities aligned with the EU Taxonomy (%) (Taxonomy-aligned),,,,,,,,,%,l
+bc63bd27-36e1-4763-8b12-b90e8f0a801e,Attribute,d723f361-f2df-458f-af9d-ec7589406d5b,Of which transitional (%),,,,,,,,,%,m
+bd33527b-91b3-4541-b4f2-407cceef87e6,Attribute,d723f361-f2df-458f-af9d-ec7589406d5b,Of which enabling (%),,,,,,,,,%,n
+9148e85b-c92d-4858-a0d6-6cf52d9eefd5,Group,f7a2f1f6-44a1-4e87-9a75-5ecfa99f8811,Total assets invested,,,,,,,,1,Total assets invested under firms'activities dealing on own account (as per Section A of Annex I of Directive 2014/65/EU),
+847df5bc-c200-49ae-ad0d-aa853d719912,Attribute,9148e85b-c92d-4858-a0d6-6cf52d9eefd5,Of which: on own behalf,,,,,,,,2,,
+82870e4e-74aa-4f53-9da6-3b6a172bfd00,Attribute,9148e85b-c92d-4858-a0d6-6cf52d9eefd5,Of which: on behalf of clients,,,,,,,,3,,
+1cf7d06c-baca-48d4-b9b1-10bf8a95fc90,Object,3f04e46a-473c-44ad-a3c2-9b17cfcc062a,KPI IF - Other services,,,,,,,,,,
+d76ba26a-2539-4165-bc4c-a3a319ec890d,Attribute,1cf7d06c-baca-48d4-b9b1-10bf8a95fc90,Total,,,,,,,,,Million EUR,a
+b22fa84c-0af5-47cb-8f45-37cd0b1f793c,Attribute,1cf7d06c-baca-48d4-b9b1-10bf8a95fc90,Of which covered by the KPI,,,,,,,,,Million EUR,b
+f42bedd6-fe79-4aab-8090-6f079a21d0b0,Group,1cf7d06c-baca-48d4-b9b1-10bf8a95fc90,Climate Change Mitigation (CCM),,,,,,,,,,c-f
+0a7ac7a7-2e18-476e-8f7b-ea691fc7d386,Group,f42bedd6-fe79-4aab-8090-6f079a21d0b0,Of which Revenue from services and activities towards sectors covered by the EU Taxonomy (%) (Taxonomy-eligible),,,,,,,,,"%. Revenue includes fees, commissions and other monetary benefits.",c
+96bca28f-309a-41fc-8222-81f16b7fe1c9,Group,0a7ac7a7-2e18-476e-8f7b-ea691fc7d386,Of which from services and activities linked to activities aligned with EU Taxonomy (%) (Taxonomy-aligned),,,,,,,,,%,d
+d5d67b29-528f-4b5b-863a-061a2fb56055,Attribute,96bca28f-309a-41fc-8222-81f16b7fe1c9,Of which transitional (%),,,,,,,,,%,e
+1c6ec362-2c0c-47c5-b682-294178414438,Attribute,96bca28f-309a-41fc-8222-81f16b7fe1c9,Of which enabling (%),,,,,,,,,%,f
+e6dfd20d-f648-4ff4-b948-efb2f4f2c15f,Group,1cf7d06c-baca-48d4-b9b1-10bf8a95fc90,Climate Change Adaptation (CCA),,,,,,,,,,g-j
+aff9a740-2905-4ca2-8665-c4a1b3e06d37,Group,e6dfd20d-f648-4ff4-b948-efb2f4f2c15f,Of which Revenue from services and activities towards sectors covered by the EU Taxonomy (%) (Taxonomy-eligible),,,,,,,,,"%. Revenue includes fees, commissions and other monetary benefits.",g
+95a064d8-2611-4d54-b445-112809a2f7ca,Group,aff9a740-2905-4ca2-8665-c4a1b3e06d37,Of which from services and activities linked to activities aligned with EU Taxonomy (%) (Taxonomy-aligned),,,,,,,,,%,h
+4150c523-c542-4325-a379-b48ad7951ee9,Attribute,95a064d8-2611-4d54-b445-112809a2f7ca,Of which transitional (%),,,,,,,,,%,i
+94e104f5-c26f-4524-9dfe-9912bcdc0e41,Attribute,95a064d8-2611-4d54-b445-112809a2f7ca,Of which enabling (%),,,,,,,,,%,j
+c97ffa6b-dd53-4249-aa16-0bb99085e5b5,Group,1cf7d06c-baca-48d4-b9b1-10bf8a95fc90,Total (CCM + CCA),,,,,,,,,,k-n
+89bab222-4b8a-4281-b452-831bff8dc544,Group,c97ffa6b-dd53-4249-aa16-0bb99085e5b5,Of which Revenue from services and activities towards sectors covered by the EU Taxonomy (%) (Taxonomy-eligible),,,,,,,,,"%. Revenue includes fees, commissions and other monetary benefits.",k
+be499809-3a07-4139-9219-d6d22a0091da,Group,89bab222-4b8a-4281-b452-831bff8dc544,Of which from services and activities linked to activities aligned with EU Taxonomy (%) (Taxonomy-aligned),,,,,,,,,%,l
+a468c2c8-efb7-49f6-b121-3c05297d1730,Attribute,be499809-3a07-4139-9219-d6d22a0091da,Of which transitional (%),,,,,,,,,%,m
+ce6b2874-bb42-4f97-9845-e6f79d80fe2c,Attribute,be499809-3a07-4139-9219-d6d22a0091da,Of which enabling (%),,,,,,,,,%,n
+5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Group,1cf7d06c-baca-48d4-b9b1-10bf8a95fc90,Revenue from investment services and activities other than dealing on own account,,,,,,,,1,"Revenue (i.e. fees, commissions and other monetary benefits) from investment services and activities other than dealing on own account (as per Section A of Annex I of Directive 2014/65/EU)",
+48abe19b-798e-4009-9ffa-43aac62fcd38,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Reception and transmission of orders in relation to one or more financial instruments,,,,,,,,2,,
+64f48b19-2421-4486-af35-28e052043cb8,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Execution of orders on behalf of clients,,,,,,,,3,,
+a22dbe56-8271-41ef-9aec-526015df7964,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Portfolio management,,,,,,,,4,,
+438a8a2b-1ed9-439b-ac2c-97bc88ad7491,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Investment advice,,,,,,,,5,,
+2982bc45-1618-4c29-be43-6182541fdc72,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Underwriting of financial instruments and/or placing of financial instruments on a firm commitment basis,,,,,,,,6,,
+8e91406d-ecfd-4f29-b26b-a7383328cf2a,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Placing of financial instruments without a firm commitment basis,,,,,,,,7,,
+a7b943f7-7e53-4113-90f1-293a6263d38e,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Operation of an MTF,,,,,,,,8,,
+50a54ec7-1e77-47d7-8a44-99ce9a58946a,Attribute,5ada20c0-5cdd-4849-a523-fa8f4a7e40aa,Operation of an OTF,,,,,,,,9,,
+34bfc71e-5132-4521-ae57-5dc042cfe737,Layer,,Art. 8: KPIs of Insurance and Reinsurance Undertakings,,,,,,,,,,
+71edbf74-9b5f-469b-b02a-711676beb52b,Object,34bfc71e-5132-4521-ae57-5dc042cfe737,Underwriting KPI,,,,,,,,,,
+8e377f5d-47f9-4ae8-bc62-dab31f1de59e,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,Economic activities,,,,,,,,,,(1)
+6aa648fa-5f88-4316-a030-c0db52ea9cdb,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,"Absolute premiums, year t",,,,,,,,,"Currency. “Premiums” in columns (3) and (4) shall be reported as gross premiums written or, as applicable, turnover relating to non-life insurance or reinsurance activity.",(3)
+24bb8ed5-08e2-4fa0-963b-c2f27ee796a1,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,"Proportion of premiums, year t",,,,,,,,,"%. “Premiums” in columns (3) and (4) shall be reported as gross premiums written or, as applicable, turnover relating to non-life insurance or reinsurance activity.",(4)
+96c5020b-4d12-4327-998a-2df81a344994,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,"Proportion of premiums, year t-1",,,,,,,,,%. The information in column (5) shall be reported in disclosures in the year 2024 and thereafter.,(5)
+8ef0ce2d-2b5f-42e4-a096-1e819df6d722,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,Climate change adaptation,,,,,,,,,%. Non-life insurance and reinsurance can only be aligned with Regulation (EU) 2020/852 as activity that enables climate change adaptation. The information reported in column (6) is therefore the same for all insurance and reinsurance undertakings with non-life and/or reinsurance activities.,(6)
+62a13107-ea3e-4178-9e88-a6e2abda61d2,Group,71edbf74-9b5f-469b-b02a-711676beb52b,DNSH (Do No Significant Harm),,,,,,,,,Y/N,(7)-(12)
+cdd3633c-2118-4945-9b02-73473111ce02,Attribute,62a13107-ea3e-4178-9e88-a6e2abda61d2,Climate change mitigation,,,,,,,,,Y/N,(7)
+af8c3807-3223-4614-963d-a9c836f53097,Attribute,62a13107-ea3e-4178-9e88-a6e2abda61d2,Water and marine resources,,,,,,,,,Y/N,(8)
+3ec438f9-cb89-4a52-8ad4-f991d73c583e,Attribute,62a13107-ea3e-4178-9e88-a6e2abda61d2,Circular economy,,,,,,,,,Y/N,(9)
+4f333632-077e-4110-8f3d-3a5840ea28cd,Attribute,62a13107-ea3e-4178-9e88-a6e2abda61d2,Pollution,,,,,,,,,Y/N,(10)
+96b6421a-a8cb-4e8f-8523-82fde8f65969,Attribute,62a13107-ea3e-4178-9e88-a6e2abda61d2,Biodiversity and ecosystems,,,,,,,,,Y/N,(11)
+3db62463-cc63-4f45-8fd1-9b31c1035a31,Attribute,62a13107-ea3e-4178-9e88-a6e2abda61d2,Minimum safeguards,,,,,,,,,Y/N,(12)
+f2848db0-4637-43ca-8c11-dc9852bad5ce,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,Category (enabling activity (E)),,,,,,,,,E/-,(13)
+20791d8e-9576-4ce1-8368-b29fee271e7d,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,Category (transitional activity (T)),,,,,,,,,T/-,(14)
+10b3a617-9786-4001-82b1-fdb8cd9a2e95,Group,71edbf74-9b5f-469b-b02a-711676beb52b,Non-life insurance and reinsurance underwriting Taxonomy-aligned activities (environmentally sustainable),,,,,,,,A.1,,
+13d176ad-9a12-4446-87e0-c590150d27de,Attribute,10b3a617-9786-4001-82b1-fdb8cd9a2e95,Of which reinsured,,,,,,,,A.1.1,,
+a07d95c8-1d6d-43d2-a46d-ba26a085995e,Group,10b3a617-9786-4001-82b1-fdb8cd9a2e95,Of which stemming from reinsurance activity,,,,,,,,A.1.2,"Where a reinsurance activities of an undertaking comprises products applying at the level of a portfolio of underlying direct insurance products and the undertaking assesses the compliance of the activity with the technical screening criteria and the do no significant harm criteria for a proportion of the reinsurance activity’s underlying products pursuant to Climate Delegated Act, Annex II, point 10.2, paragraph 2.3 (“pro-rata approach”), the pro-rata approach should be applied consistently for the information reported in all columns of row A.1.2.",
+57131662-b5e2-4569-b8bf-71ffee05f512,Attribute,a07d95c8-1d6d-43d2-a46d-ba26a085995e,Of which reinsured (retrocession),,,,,,,,A.1.2.1,,
+0a64a282-6728-4add-9a8b-d1b46461b506,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,Other activities,,,,,,,,A.2,Activities not included in A.1,
+2ee92a78-fc95-42c5-9555-2b62bc917a0a,Attribute,71edbf74-9b5f-469b-b02a-711676beb52b,Total,,,,,,,,A.1 + A.2,A.1 + A.2,
+bf4d7138-76ae-4fbd-a2f7-911f6c1b6738,Object,34bfc71e-5132-4521-ae57-5dc042cfe737,Investment KPI,,,,,,,,,,
+cc6bf091-3c22-41c1-a58c-e99d00ce6346,Group,bf4d7138-76ae-4fbd-a2f7-911f6c1b6738,Standard KPI disclosures,,,,,,,,,,
+4032ca4e-4562-432a-bb0d-107ce31f300f,Group,cc6bf091-3c22-41c1-a58c-e99d00ce6346,KPI (%),,,,,,,,,"The weighted average value of all the investments of insurance or reinsurance undertakings that are directed at funding, or are associated with taxonomy-aligned economic activities relative to the value of total assets covered by the KPI, with following weights for investments in undertakings per below:
+Turnover-based: %
+CapEx—based: %",
+178bfb95-040f-4923-a5a7-f403a7171c69,Attribute,4032ca4e-4562-432a-bb0d-107ce31f300f,Turnover-based,,,,,,,,,"The weighted average value of all the investments of insurance or reinsurance undertakings that are directed at funding, or are associated with taxonomy-aligned economic activities relative to the value of total assets covered by the KPI, with weights for investments in undertakings per Turnover.",
+d7314b9b-8026-4048-b235-c9358f265a91,Attribute,4032ca4e-4562-432a-bb0d-107ce31f300f,CapEx-based,,,,,,,,,"The weighted average value of all the investments of insurance or reinsurance undertakings that are directed at funding, or are associated with taxonomy-aligned economic activities relative to the value of total assets covered by the KPI, with weights for investments in undertakings per CapEx.",
+d6d4c687-b808-419d-95fd-58eed5cd61d6,Group,cc6bf091-3c22-41c1-a58c-e99d00ce6346,KPI (monetary amount),,,,,,,,,"The weighted average value of all the investments of insurance or reinsurance undertakings that are directed at funding, or are associated with taxonomy-aligned economic activities, with following weights for investments in undertakings per below:
+Turnover-based: [monetary amount]
+CapEx-based: [monetary amount]",
+f0d15362-7df0-49eb-805f-003f4d53d312,Attribute,d6d4c687-b808-419d-95fd-58eed5cd61d6,Turnover-based,,,,,,,,,"The weighted average value of all the investments of insurance or reinsurance undertakings that are directed at funding, or are associated with taxonomy-aligned economic activities, with weights for investments in undertakings per Turnover.",
+cb4ac51e-3902-4e80-a89f-8d921e2e7866,Attribute,d6d4c687-b808-419d-95fd-58eed5cd61d6,CapEx-based,,,,,,,,,"The weighted average value of all the investments of insurance or reinsurance undertakings that are directed at funding, or are associated with taxonomy-aligned economic activities, with weights for investments in undertakings per CapEx.",
+7531bcf2-d10c-499c-bae1-358e04dda8f3,Group,cc6bf091-3c22-41c1-a58c-e99d00ce6346,KPI Coverage,,,,,,,,,,
+aa194b76-4938-42b2-b2fe-69fbb3082830,Attribute,7531bcf2-d10c-499c-bae1-358e04dda8f3,Coverage ratio (%),,,,,,,,,The percentage of assets covered by the KPI relative to total investments of insurance or reinsurance undertakings (total AuM). Excluding investments in sovereign entities.,
+0865fb13-ce94-48c2-90f4-637f9deda52c,Attribute,7531bcf2-d10c-499c-bae1-358e04dda8f3,Coverage (monetary amount),,,,,,,,,The monetary value of assets covered by the KPI. Excluding investments in sovereign entities.,
+15930a29-35ee-41c3-8858-d7ab588f343f,Group,bf4d7138-76ae-4fbd-a2f7-911f6c1b6738,"Additional, complementary disclosures: breakdown of denominator of the KPI",,,,,,,,,,
+57988b40-4568-49f4-9949-ebaa76d43154,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Derivatives (%),,,,,,,,,The percentage of derivatives relative to total assets covered by the KPI.,
+2dcbf027-ced7-4b80-9607-cdc6d09ec362,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Derivatives (monetary amount),,,,,,,,,The value in monetary amounts of derivatives.,
+9b4ebfac-9158-4dcb-8347-c55b5aa4adcd,Group,15930a29-35ee-41c3-8858-d7ab588f343f,Non-NFRD counterparty exposures (%),,,,,,,,,"The proportion of exposures to financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings
+For financial undertakings",
+c3d6aab9-8703-4840-829a-be893c00155c,Attribute,9b4ebfac-9158-4dcb-8347-c55b5aa4adcd,For non-financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+8b3dcf2d-fa5e-433f-b18e-fa60c382c34f,Attribute,9b4ebfac-9158-4dcb-8347-c55b5aa4adcd,For financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+e273be75-12a2-434d-bd84-1004e2fd71bd,Group,15930a29-35ee-41c3-8858-d7ab588f343f,Non-NFRD counterparty exposures (monetary amount),,,,,,,,,"Value of exposures to financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]",
+cbb846a1-5339-4af4-a8e9-168f9c7823c2,Attribute,e273be75-12a2-434d-bd84-1004e2fd71bd,For non-financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+82240bbf-9e90-429b-b546-c30c88acccb6,Attribute,e273be75-12a2-434d-bd84-1004e2fd71bd,For financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings not subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+057be790-7412-4469-9ba4-18bfb5860443,Group,15930a29-35ee-41c3-8858-d7ab588f343f,Third-country non-NFRD counterparty exposures (%),,,,,,,,,"The proportion of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings
+For financial undertakings",
+5650aaea-6180-4014-8707-1a19a20b04b1,Attribute,057be790-7412-4469-9ba4-18bfb5860443,For non-financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+6c2b3964-deb1-4ed3-8c75-68d5ad408d61,Attribute,057be790-7412-4469-9ba4-18bfb5860443,For financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+d8cbac37-6f2e-4d22-8733-0ba0ae43fc27,Group,15930a29-35ee-41c3-8858-d7ab588f343f,Third-country non-NFRD counterparty exposures (monetary amount),,,,,,,,,"Value of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]",
+8c001f4c-df54-4ab3-b3af-7031b7e69eff,Attribute,d8cbac37-6f2e-4d22-8733-0ba0ae43fc27,For non-financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+1a4e9621-5005-448b-87ab-95344566748b,Attribute,d8cbac37-6f2e-4d22-8733-0ba0ae43fc27,For financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings from non-EU countries not subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+3362f7b2-01c4-4a93-a59e-0a588c4f4f82,Group,15930a29-35ee-41c3-8858-d7ab588f343f,NFRD counterparty exposures (%),,,,,,,,,"The proportion of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI:
+For non-financial undertakings
+For financial undertakings",
+5c12546b-08ad-4063-9102-38c048e77667,Attribute,3362f7b2-01c4-4a93-a59e-0a588c4f4f82,For non-financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+fce0082b-7790-4153-8e0f-2901577094f9,Attribute,3362f7b2-01c4-4a93-a59e-0a588c4f4f82,For financial undertakings,,,,,,,,,The proportion of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+7a0963dd-8c7e-4503-85fd-6a55db22e4ac,Group,15930a29-35ee-41c3-8858-d7ab588f343f,NFRD counterparty exposures (monetary amount),,,,,,,,,"Value of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU:
+For non-financial undertakings: [monetary amount]
+For financial undertakings: [monetary amount]",
+7bcae3b7-0125-4e0a-9698-0c15d7df3ba4,Attribute,7a0963dd-8c7e-4503-85fd-6a55db22e4ac,For non-financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+6a62d5bc-6677-449d-9511-c19a2e080135,Attribute,7a0963dd-8c7e-4503-85fd-6a55db22e4ac,For financial undertakings,,,,,,,,,Value of exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+07747b8d-3366-4554-958e-43534eb75e69,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Other exposures (%),,,,,,,,,The proportion of exposures to other counterparties over total assets covered by the KPI.,
+aa5be6ea-81fc-410a-9660-5be1bf23db01,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Other exposures (monetary amount),,,,,,,,,Value of exposures to other counterparties.,
+2558743a-45c1-4cea-9017-78efc44d990f,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Taxonomy-aligned exposures where investment risk is borne by the policy holders (%),,,,,,,,,"The proportion of the insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned economic activities.",
+03a06162-e291-40ff-9eda-e9696883fbcd,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Taxonomy-aligned exposures where investment risk is borne by the policy holders (monetary amount),,,,,,,,,"Value of insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned economic activities.",
+d75ee605-7cb5-4e32-a6cd-5b1eb5bf91eb,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Taxonomy-non-eligible exposures (%),,,,,,,,,The value of all the investments that are funding economic activities that are not taxonomy-eligible relative to the value of total assets covered by the KPI.,
+9a61cec3-a94e-462d-9f30-b919bf29dc87,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Taxonomy-non-eligible exposures (monetary amount),,,,,,,,,Value of all the investments that are funding economic activities that are not taxonomy-eligible.,
+38002077-7b1e-4247-8798-cba692e1d746,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Taxonomy-eligible but not Taxonomy-aligned activities (%),,,,,,,,,"The value of all the investments that are funding taxonomy-eligible economic activities, but not taxonomy-aligned relative to the value of total assets covered by the KPI.",
+cc3cb465-cad4-4d8d-b989-7edaf800a27f,Attribute,15930a29-35ee-41c3-8858-d7ab588f343f,Taxonomy-eligible but not Taxonomy-aligned activities (monetary amount),,,,,,,,,"Value of all the investments that are funding Taxonomy-eligible economic activities, but not taxonomy-aligned.",
+40ef9826-c303-480e-9a56-39e37eab5d1e,Group,bf4d7138-76ae-4fbd-a2f7-911f6c1b6738,"Additional, complementary disclosures: breakdown of numerator of the KPI",,,,,,,,,,
+cbbc6aae-f8b6-4d62-a84b-fd358684a16b,Group,40ef9826-c303-480e-9a56-39e37eab5d1e,Taxonomy-aligned NFRD counterparty exposures (%),,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI.,
+74c1d085-c0a7-4695-96c1-fa8b77e4a2d6,Group,cbbc6aae-f8b6-4d62-a84b-fd358684a16b,For non-financial undertakings,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings.,
+ddff4ef9-143e-4933-9e34-54e40a46742f,Attribute,74c1d085-c0a7-4695-96c1-fa8b77e4a2d6,Turnover-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings based on Turnover.,
+c52d5449-e217-4f40-b5c4-2f836962e8af,Attribute,74c1d085-c0a7-4695-96c1-fa8b77e4a2d6,CapEx-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for non-financial undertakings based on CapEx.,
+a20f4923-2f6a-4da1-b63f-545d858b68f2,Group,cbbc6aae-f8b6-4d62-a84b-fd358684a16b,For financial undertakings,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings.,
+ab0f7565-b27f-4621-88a8-11d808efb2f6,Attribute,a20f4923-2f6a-4da1-b63f-545d858b68f2,Turnover-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings based on Turnover.,
+395eeb6e-9750-4c44-a33d-5dc331b32cbc,Attribute,a20f4923-2f6a-4da1-b63f-545d858b68f2,CapEx-based,,,,,,,,,The proportion of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU over total assets covered by the KPI for financial undertakings based on CapEx.,
+c35a2920-69ea-445a-8720-93a286e0424a,Group,40ef9826-c303-480e-9a56-39e37eab5d1e,Taxonomy-aligned NFRD counterparty exposures (monetary amount),,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU.,
+e349a66d-40af-4ce8-bfe8-ea9a8d75a826,Group,c35a2920-69ea-445a-8720-93a286e0424a,For non-financial undertakings,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings.,
+aca2041f-93b7-4233-90a3-051cfe8a0846,Attribute,e349a66d-40af-4ce8-bfe8-ea9a8d75a826,Turnover-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings based on Turnover.,
+08393d21-7cae-45a7-84c1-f89c7820199b,Attribute,e349a66d-40af-4ce8-bfe8-ea9a8d75a826,CapEx-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for non-financial undertakings based on CapEx.,
+37379a3c-5330-483b-bafd-5576e2700653,Group,c35a2920-69ea-445a-8720-93a286e0424a,For financial undertakings,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings.,
+c5ad90cd-de13-41ad-ae37-859815f94c93,Attribute,37379a3c-5330-483b-bafd-5576e2700653,Turnover-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings based on Turnover.,
+cbd78981-0594-45d9-be83-b62e60a57eaf,Attribute,37379a3c-5330-483b-bafd-5576e2700653,CapEx-based,,,,,,,,,Value of Taxonomy-aligned exposures to financial and non-financial undertakings subject to Articles 19a and 29a of Directive 2013/34/EU for financial undertakings based on CapEx.,
+6d67e394-a27e-4a8c-9060-a5ea6f5620c8,Group,40ef9826-c303-480e-9a56-39e37eab5d1e,Taxonomy-aligned exposures where investment risk is borne by the policy holders (%),,,,,,,,,"The proportion of the insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned:
+Turnover-based: %
+Capital expenditures-based: %",
+79097aab-5275-46f0-a04b-8069eb8adb7e,Attribute,6d67e394-a27e-4a8c-9060-a5ea6f5620c8,Turnover-based,,,,,,,,,"The proportion of the insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned based on Turnover.",
+b74f4cee-df5b-45d6-b044-a53fccf00f77,Attribute,6d67e394-a27e-4a8c-9060-a5ea6f5620c8,CapEx-based,,,,,,,,,"The proportion of the insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned based on CapEx.",
+4ee3e5e2-3388-4fdf-b014-335cc48260ab,Group,40ef9826-c303-480e-9a56-39e37eab5d1e,Taxonomy-aligned exposures where investment risk is borne by the policy holders (monetary amount),,,,,,,,,"Value of insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned:
+Turnover-based: [monetary amount]
+Capital expenditures-based: [monetary amount]",
+e0337157-8753-42fc-ab19-044be4e3c230,Attribute,4ee3e5e2-3388-4fdf-b014-335cc48260ab,Turnover-based,,,,,,,,,"Value of insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned based on Turnover.",
+f0368f3e-b171-4fd4-8a73-18db9fab50c5,Attribute,4ee3e5e2-3388-4fdf-b014-335cc48260ab,CapEx-based,,,,,,,,,"Value of insurance or reinsurance undertaking’s investments other than investments held in respect of life insurance contracts where the investment risk is borne by the policy holders, that are directed at funding, or are associated with, Taxonomy-aligned based on CapEx.",
+8374aabe-a0c1-4e8e-af4d-96a7d946c7ab,Group,40ef9826-c303-480e-9a56-39e37eab5d1e,Taxonomy-aligned other counterparty exposures (%),,,,,,,,,The proportion of taxonomy-aligned exposures to other counterparties in over total assets covered by the KPI.,
+eff216d7-5d62-4cb8-85bf-754d919b641b,Attribute,8374aabe-a0c1-4e8e-af4d-96a7d946c7ab,Turnover-based,,,,,,,,,The proportion of taxonomy-aligned exposures to other counterparties in over total assets covered by the KPI based on Turnover.,
+13968687-19cd-4307-a8ce-6e3819e573bc,Attribute,8374aabe-a0c1-4e8e-af4d-96a7d946c7ab,CapEx-based,,,,,,,,,The proportion of taxonomy-aligned exposures to other counterparties in over total assets covered by the KPI based on CapEx.,
+025f5d69-085f-4c3e-9bb5-326f5381d77b,Group,40ef9826-c303-480e-9a56-39e37eab5d1e,Taxonomy-aligned other counterparty exposures (monetary amount),,,,,,,,,Value of taxonomy-aligned exposures to other counterparties.,
+448e47c9-4fcb-43ea-8dba-b5a500dfd880,Attribute,025f5d69-085f-4c3e-9bb5-326f5381d77b,Turnover-based,,,,,,,,,Value of taxonomy-aligned exposures to other counterparties based on Turnover.,
+d2561082-1977-4dfa-ab08-028c27ec54ae,Attribute,025f5d69-085f-4c3e-9bb5-326f5381d77b,CapEx-based,,,,,,,,,Value of taxonomy-aligned exposures to other counterparties based on CapEx.,
+efbe0433-55a9-4c1b-a938-13afbda9608e,Group,bf4d7138-76ae-4fbd-a2f7-911f6c1b6738,Breakdown of the numerator of the KPI per environmental objective,,,,,,,,,,
+93aea427-1f53-49da-b1f7-63dcbf7b8505,Group,efbe0433-55a9-4c1b-a938-13afbda9608e,Taxonomy-aligned activities – provided ‘do-no-significant-harm’(DNSH) and social safeguards positive assessment:,,,,,,,,,,
+0818c3ec-ab35-4b17-ba89-71cbfc139d33,Group,93aea427-1f53-49da-b1f7-63dcbf7b8505,(1) Climate change mitigation,,,,,,,,,,
+714fbc15-1252-410e-9126-f694ee82a65e,Group,0818c3ec-ab35-4b17-ba89-71cbfc139d33,Turnover: %,,,,,,,,,,
+d17b2a2a-052f-4e3c-80f6-2c8c011d59dc,Attribute,714fbc15-1252-410e-9126-f694ee82a65e,Transitional activities: A%,,,,,,,,,,
+615c5251-b7ab-4b8c-8333-a10971fac643,Attribute,714fbc15-1252-410e-9126-f694ee82a65e,Enabling activities: B%,,,,,,,,,,
+53f5de57-7f6a-4317-82a7-f05bfa885256,Group,0818c3ec-ab35-4b17-ba89-71cbfc139d33,CapEx: %,,,,,,,,,,
+f32735b7-80f3-4753-b94f-d14b6be5d279,Attribute,53f5de57-7f6a-4317-82a7-f05bfa885256,Transitional activities: A%,,,,,,,,,,
+ea094234-82f2-4fc5-b8c6-7f50ebe67ec3,Attribute,53f5de57-7f6a-4317-82a7-f05bfa885256,Enabling activities: B%,,,,,,,,,,
+cdd548c9-33de-49ca-bcae-39ba01422803,Group,efbe0433-55a9-4c1b-a938-13afbda9608e,(2) Climate change adaptation,,,,,,,,,,
+a3b8b489-338c-4b4d-8f94-cffbd7e51723,Group,cdd548c9-33de-49ca-bcae-39ba01422803,Turnover: %,,,,,,,,,,
+5502a143-4611-4374-89be-1f4c57c38bf9,Attribute,a3b8b489-338c-4b4d-8f94-cffbd7e51723,Transitional activities: A%,,,,,,,,,,
+eaf0acb5-121a-404a-8bc6-fd719d68bfe2,Attribute,a3b8b489-338c-4b4d-8f94-cffbd7e51723,Enabling activities: B%,,,,,,,,,,
+f766615c-9448-4bbc-ab02-faefbfacb0c3,Group,cdd548c9-33de-49ca-bcae-39ba01422803,CapEx: %,,,,,,,,,,
+9b1fcdc1-59d4-4de0-9d90-e7255980dccf,Attribute,f766615c-9448-4bbc-ab02-faefbfacb0c3,Transitional activities: A%,,,,,,,,,,
+137e27f0-51e1-4c1f-aed0-107d764e56c3,Attribute,f766615c-9448-4bbc-ab02-faefbfacb0c3,Enabling activities: B%,,,,,,,,,,
+2e55beea-c9bd-4540-ab12-9b2bfb76f568,Group,efbe0433-55a9-4c1b-a938-13afbda9608e,(3) The sustainable use and protection of water and marine resources,,,,,,,,,,
+b03a9a7e-9729-472f-aa30-11286a7b7b9a,Group,2e55beea-c9bd-4540-ab12-9b2bfb76f568,Turnover: %,,,,,,,,,,
+e6b25af1-1428-4c45-90f0-33dcbcd6a878,Attribute,b03a9a7e-9729-472f-aa30-11286a7b7b9a,Transitional activities: A%,,,,,,,,,,
+8635a889-1e40-43f6-ae08-78b4b14571a4,Attribute,b03a9a7e-9729-472f-aa30-11286a7b7b9a,Enabling activities: B%,,,,,,,,,,
+5530b86b-f433-4bbd-949e-27b47da5c82b,Group,2e55beea-c9bd-4540-ab12-9b2bfb76f568,CapEx: %,,,,,,,,,,
+0d8d639d-9104-4bad-9e7f-2045ccba6df2,Attribute,5530b86b-f433-4bbd-949e-27b47da5c82b,Transitional activities: A%,,,,,,,,,,
+16aac1d1-5f5d-4eaa-bc6a-ba63a27a04a9,Attribute,5530b86b-f433-4bbd-949e-27b47da5c82b,Enabling activities: B%,,,,,,,,,,
+b3bde8ad-1fac-4886-b51f-97db55426b68,Group,efbe0433-55a9-4c1b-a938-13afbda9608e,(4) The transition to a circular economy,,,,,,,,,,
+8be069a4-9d3a-4e0c-a2dd-aa406585c980,Group,b3bde8ad-1fac-4886-b51f-97db55426b68,Turnover: %,,,,,,,,,,
+4af631ce-f9bd-41f7-a498-0c75ae714ff1,Attribute,8be069a4-9d3a-4e0c-a2dd-aa406585c980,Transitional activities: A%,,,,,,,,,,
+a1745fd2-893f-4c27-b805-d7fef62d1022,Attribute,8be069a4-9d3a-4e0c-a2dd-aa406585c980,Enabling activities: B%,,,,,,,,,,
+2b2d5fa4-9bca-4fab-a720-8d8f03998f0b,Group,b3bde8ad-1fac-4886-b51f-97db55426b68,CapEx: %,,,,,,,,,,
+b338f1a5-9e26-44d2-9b3e-7dde41eca163,Attribute,2b2d5fa4-9bca-4fab-a720-8d8f03998f0b,Transitional activities: A%,,,,,,,,,,
+be8073e0-39ce-4a8c-9124-a79bc628d64f,Attribute,2b2d5fa4-9bca-4fab-a720-8d8f03998f0b,Enabling activities: B%,,,,,,,,,,
+689faa22-dba1-4520-82f9-7349d0215cc7,Group,efbe0433-55a9-4c1b-a938-13afbda9608e,(5) Pollution prevention and control,,,,,,,,,,
+6f49dba5-55fd-4831-8e49-4f693447edf2,Group,689faa22-dba1-4520-82f9-7349d0215cc7,Turnover: %,,,,,,,,,,
+989201b1-9fc0-4c97-8198-ef946e3f0963,Attribute,6f49dba5-55fd-4831-8e49-4f693447edf2,Transitional activities: A%,,,,,,,,,,
+071a9794-51da-47de-863a-f0bfcb700004,Attribute,6f49dba5-55fd-4831-8e49-4f693447edf2,Enabling activities: B%,,,,,,,,,,
+739f1736-a2b4-46c1-9ff2-a1c1f1719a4a,Group,689faa22-dba1-4520-82f9-7349d0215cc7,CapEx: %,,,,,,,,,,
+d6d614fb-2cd6-4afb-bfad-cf36523d95e7,Attribute,739f1736-a2b4-46c1-9ff2-a1c1f1719a4a,Transitional activities: A%,,,,,,,,,,
+ddb659ca-a1ea-45c3-93f6-e6bbdcac97e1,Attribute,739f1736-a2b4-46c1-9ff2-a1c1f1719a4a,Enabling activities: B%,,,,,,,,,,
+56897244-f9dd-43a0-a30e-728a9a825889,Group,efbe0433-55a9-4c1b-a938-13afbda9608e,(6) The protection and restoration of biodiversity and ecosystems,,,,,,,,,,
+1e579d67-b460-433f-8dde-5285e02da931,Group,56897244-f9dd-43a0-a30e-728a9a825889,Turnover: %,,,,,,,,,,
+e9ce9a73-7521-4d20-9074-c119dfb2e3ca,Attribute,1e579d67-b460-433f-8dde-5285e02da931,Transitional activities: A%,,,,,,,,,,
+1d4115d3-5fe2-47c4-8690-8693e3379ab2,Attribute,1e579d67-b460-433f-8dde-5285e02da931,Enabling activities: B%,,,,,,,,,,
+e5b5c648-da43-43cd-86a1-87aac3c8d96f,Group,56897244-f9dd-43a0-a30e-728a9a825889,CapEx: %,,,,,,,,,,
+d7ecad8f-4b70-4d76-a48f-fe49275192a6,Attribute,e5b5c648-da43-43cd-86a1-87aac3c8d96f,Transitional activities: A%,,,,,,,,,,
+de18cc65-856d-40c1-8a22-bd82365d9bc8,Attribute,e5b5c648-da43-43cd-86a1-87aac3c8d96f,Enabling activities: B%,,,,,,,,,,
+4e4692a4-1857-4dd6-8c8b-138217e68b0b,Layer,,Art. 8: Qualitative Disclosures,,,,,,,,,,
+9a10c9e2-deb8-44fa-a518-3219cb39f6b9,Object,4e4692a4-1857-4dd6-8c8b-138217e68b0b,Qualitative information to support financial undertakings’ explanations and markets’ understanding of the quantitative KPIs:,,,,,,,,,,
+a5c2d762-44cf-47a5-942f-2ec460638cbe,Attribute,9a10c9e2-deb8-44fa-a518-3219cb39f6b9,"Contextual information in support of the quantitative indicators including the scope of assets and activities covered by the KPIs, information on data sources and limitation.",,,,,,,,,,
+16f11877-3be4-4ae1-a359-583276538da9,Attribute,9a10c9e2-deb8-44fa-a518-3219cb39f6b9,"Explanations of the nature and objectives of Taxonomy-aligned economic activities and the evolution of the Taxonomy-aligned economic activities over time, starting from the second year of implementation, distinguishing between business-related and methodological and data-related elements.",,,,,,,,,,
+88e47f85-333a-4b77-ba6f-7554176dd704,Attribute,9a10c9e2-deb8-44fa-a518-3219cb39f6b9,"Description of the compliance with Regulation (EU) 2020/852 in the financial undertaking’s business strategy, product design processes and engagement with clients and counterparties.",,,,,,,,,,
+3ccf4d86-10ed-4ac4-ade4-d91b7004d575,Attribute,9a10c9e2-deb8-44fa-a518-3219cb39f6b9,"For credit institutions that are not required to disclose quantitative information for trading exposures, qualitative information on the alignment of trading portfolios with Regulation (EU) 2020/852, including overall composition, trends observed, objectives and policy.",,,,,,,,,,
+c3fcd6cb-1ccf-4a0c-b452-09a2b76d9f4c,Attribute,9a10c9e2-deb8-44fa-a518-3219cb39f6b9,Additional or complementary information in support of the financial undertaking’s strategies and the weight of the financing of Taxonomy-aligned economic activities in their overall activity.,,,,,,,,,,

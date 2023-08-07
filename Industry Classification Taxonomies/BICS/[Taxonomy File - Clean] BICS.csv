@@ -1,107 +1,107 @@
 ﻿ID,TYPE,PARENT,NAME,SOURCE,TARGET,REFERENCE_MODEL_ID,TERM_ID,LABEL,,PROPERTIES:,Description,Level,Code
-962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Layer,,Bloomberg Industry Classification Systems (BICS) - Partial,,,,,,,,Please note that the Bloomberg Industry Classification Systems (BICS) is a proprietary hierarchical classification system and this is a partial model that was sourced via the EU Taxonomy site on line. These are the codes that map to EU Taxonomy.,,
-400ed100-547a-43db-bc94-70b2692a0e73,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Consumer Discretionary,,,,,,,,,,
-4d29b071-31c3-4b06-b527-996068b7b171,Group,400ed100-547a-43db-bc94-70b2692a0e73,Automotive,,,,,,,,,,
-1374d289-7456-4038-89c5-220f29a4e158,Attribute,4d29b071-31c3-4b06-b527-996068b7b171,Automobiles,,,,,,,,,4,11101110
-90393ee0-380c-4ef0-b83d-eaeb6766533f,Attribute,4d29b071-31c3-4b06-b527-996068b7b171,Auto Parts,,,,,,,,,4,11101111
-195bde06-48ad-4b90-a4fa-a74b3cabc16d,Group,400ed100-547a-43db-bc94-70b2692a0e73,Home Construction,,,,,,,,,3,111012
-509b5649-6089-4c97-a1e0-b8ea71a7c25b,Attribute,195bde06-48ad-4b90-a4fa-a74b3cabc16d,Homebuilding,,,,,,,,,4,11101210
-2a829aa3-5adf-4993-b2f1-bd47da4bb11a,Attribute,195bde06-48ad-4b90-a4fa-a74b3cabc16d,Residential Contractors,,,,,,,,,4,11111017
-7faeba13-7e7d-4cc8-ba8a-85446cdf2bd5,Attribute,195bde06-48ad-4b90-a4fa-a74b3cabc16d,Household Appliances,,,,,,,,,4,11101310
-25eb0eee-2bd1-4181-bf99-a2f0f3e7f6ca,Attribute,195bde06-48ad-4b90-a4fa-a74b3cabc16d,Recreational Vehicles,,,,,,,,,4,11101412
-4f94fbc5-174a-466b-872f-6cfb6bf78f0c,Attribute,195bde06-48ad-4b90-a4fa-a74b3cabc16d,Sporting Goods,,,,,,,,,4,11101413
-e1e8e97b-e70d-43d9-a69d-2e03809994e8,Group,400ed100-547a-43db-bc94-70b2692a0e73,Retail - Discretionary,,,,,,,,,3,111211
-b100bd07-09f4-4eb5-9c90-2fd815e4098b,Attribute,e1e8e97b-e70d-43d9-a69d-2e03809994e8,Automotive Retailers,,,,,,,,,4,11121110
-613ce3b1-fd7a-4645-9cf8-4c6064c3fe4f,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Agriculture,,,,,,,,,,
-d24d0620-0f3d-4250-a2ef-025a929e2cc4,Group,613ce3b1-fd7a-4645-9cf8-4c6064c3fe4f,Agricultural Producers,,,,,,,,,4,12101010
-498753ca-9a19-4810-bb39-060013cb7814,Attribute,d24d0620-0f3d-4250-a2ef-025a929e2cc4,Animal Production & Process,,,,,,,,,5,1210101011
-c2b6c186-2323-4435-b0aa-4413a68603ab,Attribute,d24d0620-0f3d-4250-a2ef-025a929e2cc4,Food Crop Production,,,,,,,,,5,1210101013
-1171dc53-074e-4c17-a05e-d7b84d4e44e3,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Forestry,,,,,,,,,,
-c17ad120-3d08-49f8-8061-ee52170d67d8,Group,1171dc53-074e-4c17-a05e-d7b84d4e44e3,"Forestry, Paper & Wood Products",,,,,,,,,3,181013
-09236074-6cb0-4be4-8f2e-5bacc5f6b6a5,Attribute,c17ad120-3d08-49f8-8061-ee52170d67d8,Forestry & Logging,,,,,,,,,4,18101310
-ac44f5fc-92fc-4591-b2cf-d006088830c7,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Energy,,,,,,,,,,
-ba87dc5e-fabb-44e7-9c9d-cd22ec16533b,Group,ac44f5fc-92fc-4591-b2cf-d006088830c7,Renewable Energy,,,,,,,,,2,1311
-dbdcab64-9f3f-4134-adc7-e7fe56075d02,Group,ba87dc5e-fabb-44e7-9c9d-cd22ec16533b,Renewable Energy,,,,,,,,,3,131110
-5dbcb8db-d173-4dc3-93ee-bb465fa5993e,Attribute,dbdcab64-9f3f-4134-adc7-e7fe56075d02,Biofuels,,,,,,,,,4,13111010
-31b0db08-3ec0-4d03-ab43-bcc5f78086ad,Group,dbdcab64-9f3f-4134-adc7-e7fe56075d02,Renewable Energy Equipment,,,,,,,,,4,13111011
-521d870a-a4d8-4c1f-9f75-43b8b5ca3634,Attribute,31b0db08-3ec0-4d03-ab43-bcc5f78086ad,Solar Energy Equipment,,,,,,,,,5,1311101110
-8093161d-807b-4c58-8356-030348afcf60,Attribute,31b0db08-3ec0-4d03-ab43-bcc5f78086ad,Wind Energy Equipment,,,,,,,,,5,1311101111
-e68d5261-f22a-4353-98ed-07c1f4bfec41,Attribute,31b0db08-3ec0-4d03-ab43-bcc5f78086ad,Geothermal Energy Equipment,,,,,,,,,5,1311101112
-077a20eb-bcc4-4060-8aa9-4566ea6640bf,Attribute,31b0db08-3ec0-4d03-ab43-bcc5f78086ad,Hydro Energy Equipment,,,,,,,,,5,1311101113
-d1ff0cd9-0a9a-47b9-87d4-5d49b4e2d5c8,Attribute,31b0db08-3ec0-4d03-ab43-bcc5f78086ad,Marine Energy Equipment,,,,,,,,,5,1311101114
-9905a47a-d3cf-422e-a62e-75a11a511f16,Attribute,dbdcab64-9f3f-4134-adc7-e7fe56075d02,Renewable Energy Project Dev,,,,,,,,,4,13111012
-2c616bfb-38a9-4bea-b6d0-91f690d910b3,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Utilities,,,,,,,,,,
-cb27a31a-0bac-4a98-aa99-53f48578d556,Group,2c616bfb-38a9-4bea-b6d0-91f690d910b3,Utilities,,,,,,,,,,
-72bd45e6-734f-4c64-9460-b150c24f648d,Group,cb27a31a-0bac-4a98-aa99-53f48578d556,Electric Utilities,,,,,,,,,3,201010
-71196740-490f-406c-8fe6-a3f59c60cbb7,Attribute,72bd45e6-734f-4c64-9460-b150c24f648d,Power Generation,,,,,,,,,4,20101011
-f3ee6c3e-b85e-4ae8-9799-72c61b524297,Attribute,72bd45e6-734f-4c64-9460-b150c24f648d,Electric Transmission & Dist,,,,,,,,,4,20101012
-098640ab-3c25-494d-892f-1c52a2b7a584,Attribute,72bd45e6-734f-4c64-9460-b150c24f648d,District Heating & Cooling,,,,,,,,,4,20101013
-2f922b99-5548-47f8-b89e-feceed6186ce,Group,cb27a31a-0bac-4a98-aa99-53f48578d556,Gas & Water Utilities,,,,,,,,,3,201011
-795f24a5-7a54-47e0-9c4e-bc6882bcbefa,Attribute,2f922b99-5548-47f8-b89e-feceed6186ce,Water Utilities,,,,,,,,,4,20101111
-094be746-8148-40e0-8fd9-69757f5c21d9,Attribute,2f922b99-5548-47f8-b89e-feceed6186ce,Gas Utilities,,,,,,,,,4,20101110
-0e20956f-6e3f-4167-94ae-b3c3b7d61a23,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Real Estate,,,,,,,,,,
-6983c380-ea83-4051-baeb-5d0ebba8a0d7,Group,0e20956f-6e3f-4167-94ae-b3c3b7d61a23,Real Estate,,,,,,,,,,
-e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Group,6983c380-ea83-4051-baeb-5d0ebba8a0d7,Real Estate Owners & Developers,,,,,,,,,3,151010
-d2d209e3-f812-45ce-acb6-7c5a8db3bb92,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Multi Asset Class Own & Develop,,,,,,,,,4,15101010
-7d27d955-2add-4197-ae57-0e2ec1d5cc53,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Health Care Owners & Develop,,,,,,,,,4,15101011
-56e39a3b-c1fe-4399-a0fe-8e6cf62166d0,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Hotel Owners & Developers,,,,,,,,,4,15101012
-00157825-5091-452d-a8be-27a7365bbc31,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Residential Owners & Developers,,,,,,,,,4,15101013
-164e3d34-2743-49c6-80fa-d50caba5f045,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Industrial Owners & Developers,,,,,,,,,4,15101014
-f2803529-2c91-4865-a9c6-92d0a374fb91,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Office Owners & Developers,,,,,,,,,4,15101015
-721cfbbd-74ea-4a26-b484-56ef11860dfe,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Retail Owners & Developers,,,,,,,,,4,15101016
-1b0e3fff-96bb-45d7-a31b-65b9deec74a5,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Self-Storage Owners & Develop,,,,,,,,,4,15101017
-9f93789d-1516-4ba9-823a-284cc507cbd5,Attribute,e0bb58cd-3303-4e3a-8b0e-28fa35fadc30,Specialty Owners & Developers,,,,,,,,,4,15101018
-0ecfd5d1-9edb-457c-97c2-7289eecc6e50,Attribute,6983c380-ea83-4051-baeb-5d0ebba8a0d7,REIT,,,,,,,,,3,151011
-eb3adbae-0726-48f7-97c6-0786f641b93e,Group,6983c380-ea83-4051-baeb-5d0ebba8a0d7,Real Estate Services,,,,,,,,,3,151012
-c0597f30-3642-44c3-976d-eab0f679f8dd,Attribute,eb3adbae-0726-48f7-97c6-0786f641b93e,Real Estate Services,,,,,,,,,4,15101210
-38e81783-7179-489a-a7c2-d8276e3b73ef,Attribute,eb3adbae-0726-48f7-97c6-0786f641b93e,Building Construction,,,,,,,,,4,17111312
-69f7a0d8-05f1-4123-bc30-3fdba2e5cebf,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Industrials,,,,,,,,,,
-2780a65d-a7d8-4f5b-956e-bedea5739fdd,Group,69f7a0d8-05f1-4123-bc30-3fdba2e5cebf,Industrial Products,,,,,,,,,,
-135f94fc-cd96-4ac9-a9f4-39bbbe4ad19f,Attribute,2780a65d-a7d8-4f5b-956e-bedea5739fdd,Electrical Power Equipment,,,,,,,,,4,17101211
-78e03adb-2a8e-43c0-b11e-7893c51e39ef,Group,69f7a0d8-05f1-4123-bc30-3fdba2e5cebf,Machinery,,,,,,,,,3,171013
-35a9f2fa-543d-4592-ab2f-726ac2eaa877,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Agricultural Machinery,,,,,,,,,4,17101310
-72375a13-52cc-4891-acee-e73a91d19e3b,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Construction & Mining Machinery,,,,,,,,,4,17101311
-4aa3a265-5402-4bf2-b94c-f137f9219c8e,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Engine & Transmission,,,,,,,,,4,17101312
-ebfb84fb-29b3-47fb-9976-fb5a864ec0b3,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Factory Automation Equipment,,,,,,,,,4,17101313
-e933b7e9-2597-4412-80b2-7ea88559686e,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Flow Control Equipment,,,,,,,,,4,17101314
-8122fa24-8ad3-49bf-97b8-4c1885ad46ab,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Other Machinery & Equipment,,,,,,,,,4,17101315
-bc34652e-3b8d-49a5-992e-f0cfee38521c,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Material Handling Machinery,,,,,,,,,4,17101316
-4242ddd1-977c-434a-8edd-6858b9f79bbb,Attribute,78e03adb-2a8e-43c0-b11e-7893c51e39ef,Pollution Control Equipment,,,,,,,,,4,17101318
-65d3fb6e-9150-41d5-a6ca-acf5dcfff651,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Transport,,,,,,,,,,
-c5bdfdde-3957-45e5-87e4-c2cda03e8812,Group,65d3fb6e-9150-41d5-a6ca-acf5dcfff651,Transportation Equipment,,,,,,,,,3,171014
-ce17a1a3-85ab-4ad6-a851-998d67f3c967,Attribute,c5bdfdde-3957-45e5-87e4-c2cda03e8812,Commercial Vehicles,,,,,,,,,4,17101410
-2361c9be-a70e-453b-a56d-3bfcad9baa74,Attribute,c5bdfdde-3957-45e5-87e4-c2cda03e8812,Railroad Rolling Stock,,,,,,,,,4,17101411
-ca4f5abf-424d-4e36-9199-2069f0c1b46d,Group,65d3fb6e-9150-41d5-a6ca-acf5dcfff651,Transportation & Logistics,,,,,,,,,3,171112
-d8aed52b-48ab-4849-ac73-6550250c675b,Attribute,ca4f5abf-424d-4e36-9199-2069f0c1b46d,Courier Services,,,,,,,,,4,17111212
-323a5e1b-6fa7-48dd-a7a7-888bda085adb,Attribute,ca4f5abf-424d-4e36-9199-2069f0c1b46d,Rail Freight,,,,,,,,,4,17111214
-ca57e3d1-bdd3-490a-8639-6b0770bc1610,Attribute,ca4f5abf-424d-4e36-9199-2069f0c1b46d,Trucking,,,,,,,,,4,17111215
-43df0b44-8349-48eb-a724-ac765b4c1cbe,Attribute,ca4f5abf-424d-4e36-9199-2069f0c1b46d,Transit Services,,,,,,,,,4,17111216
-c3520f9f-8afb-43fe-bb95-65e88464430a,Attribute,ca4f5abf-424d-4e36-9199-2069f0c1b46d,Logistics Services,,,,,,,,,4,17111217
-1d5aa433-32e4-480c-ba7a-fac681763aab,Attribute,ca4f5abf-424d-4e36-9199-2069f0c1b46d,Transport Operations & Services,,,,,,,,,4,17111218
-708d3a7a-7233-4d80-8651-49d4c1317afd,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Metals + Plastics,,,,,,,,,,
-9cabbb5b-1022-4b6f-80d6-8ecb0a65379e,Attribute,708d3a7a-7233-4d80-8651-49d4c1317afd,Plastic Products,,,,,,,,,5,1710151110
-3fd6da86-d5aa-42b2-9298-39254541d47d,Attribute,708d3a7a-7233-4d80-8651-49d4c1317afd,Steel,,,,,,,,,3,181014
-783fdbdd-dcfe-43a9-9f6d-71b23a039ccd,Group,708d3a7a-7233-4d80-8651-49d4c1317afd,Metals & Mining,,,,,,,,,3,181015
-f6e9dbc9-8bda-44ba-89b4-104fe2a4cdb6,Attribute,783fdbdd-dcfe-43a9-9f6d-71b23a039ccd,Iron,,,,,,,,,4,18101510
-9b75fb3a-7b17-4f35-9d92-7d537a54d1de,Attribute,783fdbdd-dcfe-43a9-9f6d-71b23a039ccd,Aluminum,,,,,,,,,5,1810151110
-a13083b0-a725-47e8-bc5c-2c543a37263d,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Waste Management,,,,,,,,,,
-23a598fb-1f9d-49d6-aa95-6eaa0b0fcd23,Group,a13083b0-a725-47e8-bc5c-2c543a37263d,Waste Management,,,,,,,,,4,17111115
-1193c63d-eb9e-4a66-bb1a-2c514e237cf0,Attribute,23a598fb-1f9d-49d6-aa95-6eaa0b0fcd23,Recyclable Materials,,,,,,,,,5,1711111511
-457e6c69-a45e-4f5e-90d6-3a79a140a60b,Attribute,23a598fb-1f9d-49d6-aa95-6eaa0b0fcd23,Solid Waste Collection & Treat,,,,,,,,,5,1711111512
-1a395dcf-2a9b-42a3-b858-43804d8042b7,Group,a13083b0-a725-47e8-bc5c-2c543a37263d,Engineering & Construction,,,,,,,,,3,171113
-944ad706-4884-48de-9bfb-e6059e000e48,Attribute,1a395dcf-2a9b-42a3-b858-43804d8042b7,Engineering Services,,,,,,,,,4,17111310
-0fe3b5b6-1bf5-4496-80a3-cf07bfe75a7c,Attribute,1a395dcf-2a9b-42a3-b858-43804d8042b7,Infrastructure Construction,,,,,,,,,4,17111311
-51e586c1-2a3e-4a4b-8ca8-c8b4306c25ba,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Manufacturing,,,,,,,,,,
-73e8a600-f618-42ee-a5e4-b56b45cca335,Group,51e586c1-2a3e-4a4b-8ca8-c8b4306c25ba,Chemicals,,,,,,,,,3,181010
-05fbccc0-a4c5-45a2-a071-689d280d0eab,Attribute,73e8a600-f618-42ee-a5e4-b56b45cca335,Agricultural Chemicals,,,,,,,,,4,18101010
-73d0689a-b080-4675-afde-6aec6d04881c,Attribute,73e8a600-f618-42ee-a5e4-b56b45cca335,Basic & Diversified Chemicals,,,,,,,,,4,18101011
-dce54103-ac08-46b5-af6b-5f5e9f2ec6b1,Attribute,73e8a600-f618-42ee-a5e4-b56b45cca335,Specialty Chemicals,,,,,,,,,4,18101012
-4f41f5f7-195a-4d6b-9bec-5c3fbdd4f987,Group,51e586c1-2a3e-4a4b-8ca8-c8b4306c25ba,Construction Materials,,,,,,,,,3,181011
-93aca9a9-d592-4d3a-9523-3bb75d768313,Attribute,4f41f5f7-195a-4d6b-9bec-5c3fbdd4f987,Cement & Aggregates,,,,,,,,,4,18101110
-b069e7db-4bfe-4de1-a83e-149c6d3cd659,Attribute,4f41f5f7-195a-4d6b-9bec-5c3fbdd4f987,Containers & Packaging,,,,,,,,,4,18101210
-45c9fbc9-afa3-4a43-90bf-63524707e6c4,Object,962efac7-b2be-44bf-ad6b-1ffb74ab59d1,Technology,,,,,,,,,,
-b43d7dbd-051b-4cdc-ae2e-e6137e7e1875,Attribute,45c9fbc9-afa3-4a43-90bf-63524707e6c4,Engineering Software,,,,,,,,,5,1911101012
-75d2c1e2-dd2b-423e-b50f-d168a66f43f0,Group,45c9fbc9-afa3-4a43-90bf-63524707e6c4,Enterprise Software,,,,,,,,,5,1911101013
-6cc5112a-de70-4a44-9597-b3f3730906b9,Attribute,75d2c1e2-dd2b-423e-b50f-d168a66f43f0,Real Estate Information,,,,,,,,,6,191111111112
-d7c465ae-9ad3-45a5-ba10-92b77c0cd85b,Attribute,75d2c1e2-dd2b-423e-b50f-d168a66f43f0,Scientific Information,,,,,,,,,6,191111111113
-7cc6db77-0dbc-4596-91c1-029d52d599b9,Attribute,75d2c1e2-dd2b-423e-b50f-d168a66f43f0,Technology Information,,,,,,,,,6,191111111114
+641efcca-f51d-45bd-aff7-3f917d1ccf89,Layer,,Bloomberg Industry Classification Standard (BICS) - Partial,,,,,,,,Please note that the Bloomberg Industry Classification Systems (BICS) is a proprietary hierarchical classification system and this is a partial model that was sourced via the EU Taxonomy site on line. These are the codes that map to EU Taxonomy.,,
+073a3c89-ab01-45ac-9031-9cd728488523,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Consumer Discretionary,,,,,,,,,,
+0e5766ec-7c94-4f09-bd23-2828cdc1f248,Group,073a3c89-ab01-45ac-9031-9cd728488523,Automotive,,,,,,,,,,
+31ed1c0c-00e7-48c8-bd52-49d3699ad97d,Attribute,0e5766ec-7c94-4f09-bd23-2828cdc1f248,Automobiles,,,,,,,,,4,11101110
+e700620e-fa3e-4a3a-9430-50925666be91,Attribute,0e5766ec-7c94-4f09-bd23-2828cdc1f248,Auto Parts,,,,,,,,,4,11101111
+9ee8d3e1-4420-46ba-a96d-04e5cf9bf584,Group,073a3c89-ab01-45ac-9031-9cd728488523,Home Construction,,,,,,,,,3,111012
+5c0c809c-369c-4805-a1bf-5adf081777a3,Attribute,9ee8d3e1-4420-46ba-a96d-04e5cf9bf584,Homebuilding,,,,,,,,,4,11101210
+fcc36c21-526d-40ef-9438-08dccf1fe5c7,Attribute,9ee8d3e1-4420-46ba-a96d-04e5cf9bf584,Residential Contractors,,,,,,,,,4,11111017
+04063255-2854-4857-8b5b-b1c2cf17f8f4,Attribute,9ee8d3e1-4420-46ba-a96d-04e5cf9bf584,Household Appliances,,,,,,,,,4,11101310
+20284112-a346-4c98-8fb8-8ca17343d736,Attribute,9ee8d3e1-4420-46ba-a96d-04e5cf9bf584,Recreational Vehicles,,,,,,,,,4,11101412
+9157b2ce-70a4-485c-b15b-1ceb0e767dcd,Attribute,9ee8d3e1-4420-46ba-a96d-04e5cf9bf584,Sporting Goods,,,,,,,,,4,11101413
+15c22279-645d-48db-8700-cbc839b1a316,Group,073a3c89-ab01-45ac-9031-9cd728488523,Retail - Discretionary,,,,,,,,,3,111211
+bf957d5e-ff75-4595-a565-f0139767e795,Attribute,15c22279-645d-48db-8700-cbc839b1a316,Automotive Retailers,,,,,,,,,4,11121110
+9b661717-d4b2-4a81-831e-0c07230ac3f5,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Agriculture,,,,,,,,,,
+ddc15347-c953-4a39-920d-3522edd6908f,Group,9b661717-d4b2-4a81-831e-0c07230ac3f5,Agricultural Producers,,,,,,,,,4,12101010
+e7df06e8-8a44-4ee5-933e-53de4eceefa1,Attribute,ddc15347-c953-4a39-920d-3522edd6908f,Animal Production & Process,,,,,,,,,5,1210101011
+f3ad350d-b15b-40f2-9965-c3b0d405e613,Attribute,ddc15347-c953-4a39-920d-3522edd6908f,Food Crop Production,,,,,,,,,5,1210101013
+56e22429-29b4-4922-8d9e-1baf93c834e4,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Forestry,,,,,,,,,,
+41e9ebaa-e4f8-4da2-930c-cc90a2e8aecf,Group,56e22429-29b4-4922-8d9e-1baf93c834e4,"Forestry, Paper & Wood Products",,,,,,,,,3,181013
+36bdf0f3-7581-4110-88b3-7e521fedf2b0,Attribute,41e9ebaa-e4f8-4da2-930c-cc90a2e8aecf,Forestry & Logging,,,,,,,,,4,18101310
+7e4bb968-a623-40a2-b22a-dcb9c22b46c9,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Energy,,,,,,,,,,
+1baf7453-ad23-4b4b-b857-6759a233501b,Group,7e4bb968-a623-40a2-b22a-dcb9c22b46c9,Renewable Energy,,,,,,,,,2,1311
+366866be-57f1-4cc4-b2cc-0d51eeac18d6,Group,1baf7453-ad23-4b4b-b857-6759a233501b,Renewable Energy,,,,,,,,,3,131110
+fcb11af2-4023-4274-a072-981b26146ba0,Attribute,366866be-57f1-4cc4-b2cc-0d51eeac18d6,Biofuels,,,,,,,,,4,13111010
+c96a9916-936b-4cc3-b66a-e5bfc20a66e0,Group,366866be-57f1-4cc4-b2cc-0d51eeac18d6,Renewable Energy Equipment,,,,,,,,,4,13111011
+fb315593-a81c-497e-bf57-65b3f5e66368,Attribute,c96a9916-936b-4cc3-b66a-e5bfc20a66e0,Solar Energy Equipment,,,,,,,,,5,1311101110
+49efdbd4-e217-4ce2-8cad-252718d8d70e,Attribute,c96a9916-936b-4cc3-b66a-e5bfc20a66e0,Wind Energy Equipment,,,,,,,,,5,1311101111
+8ce731c6-d5ab-41eb-a5ef-613f825b13d0,Attribute,c96a9916-936b-4cc3-b66a-e5bfc20a66e0,Geothermal Energy Equipment,,,,,,,,,5,1311101112
+069d38a7-f585-4f85-93f8-a328ad0553e5,Attribute,c96a9916-936b-4cc3-b66a-e5bfc20a66e0,Hydro Energy Equipment,,,,,,,,,5,1311101113
+cae35ae7-d6eb-4bb0-b18d-6c9d3fcbbf4e,Attribute,c96a9916-936b-4cc3-b66a-e5bfc20a66e0,Marine Energy Equipment,,,,,,,,,5,1311101114
+6915ab0a-7f33-4697-8ec4-b5aba7663010,Attribute,366866be-57f1-4cc4-b2cc-0d51eeac18d6,Renewable Energy Project Dev,,,,,,,,,4,13111012
+8c65069b-e241-4c44-80ba-1e1a65f18464,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Utilities,,,,,,,,,,
+7a6b0607-adc3-47cf-ab33-1a1f777eb9b0,Group,8c65069b-e241-4c44-80ba-1e1a65f18464,Utilities,,,,,,,,,,
+c29d75f3-f3af-49ce-8329-989c51cc0ac1,Group,7a6b0607-adc3-47cf-ab33-1a1f777eb9b0,Electric Utilities,,,,,,,,,3,201010
+a59e6154-5f85-46b2-9c0d-b91b88463f20,Attribute,c29d75f3-f3af-49ce-8329-989c51cc0ac1,Power Generation,,,,,,,,,4,20101011
+8c6b0615-f300-4021-84c0-dd46e867dd29,Attribute,c29d75f3-f3af-49ce-8329-989c51cc0ac1,Electric Transmission & Dist,,,,,,,,,4,20101012
+45f53f00-ac49-4b17-98f6-db42564c6d5b,Attribute,c29d75f3-f3af-49ce-8329-989c51cc0ac1,District Heating & Cooling,,,,,,,,,4,20101013
+5ca1682a-9e2d-4411-9208-2a48bcc8ddaa,Group,7a6b0607-adc3-47cf-ab33-1a1f777eb9b0,Gas & Water Utilities,,,,,,,,,3,201011
+99375c3b-d3cb-4219-9e28-1d2a68d3872e,Attribute,5ca1682a-9e2d-4411-9208-2a48bcc8ddaa,Water Utilities,,,,,,,,,4,20101111
+c0a384f8-3742-4e69-823c-c87e23f6984b,Attribute,5ca1682a-9e2d-4411-9208-2a48bcc8ddaa,Gas Utilities,,,,,,,,,4,20101110
+b908e0c3-5af4-47fc-80c8-24d4d61967bd,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Real Estate,,,,,,,,,,
+e2a1d20f-670f-4f93-9174-0b4fe73b81e4,Group,b908e0c3-5af4-47fc-80c8-24d4d61967bd,Real Estate,,,,,,,,,,
+5440d62a-60a5-482d-89ec-7d8ccebea815,Group,e2a1d20f-670f-4f93-9174-0b4fe73b81e4,Real Estate Owners & Developers,,,,,,,,,3,151010
+75320f93-d698-4f17-ae9c-b2e7d1aa3e2a,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Multi Asset Class Own & Develop,,,,,,,,,4,15101010
+56755dbb-a7ed-4ad0-88dc-a45a5d3aab41,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Health Care Owners & Develop,,,,,,,,,4,15101011
+cdae2095-a7e1-414b-945b-21bc2a09cf39,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Hotel Owners & Developers,,,,,,,,,4,15101012
+09cdff27-dcd2-40c0-b453-80f0306ee8bc,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Residential Owners & Developers,,,,,,,,,4,15101013
+9236f45f-9c84-4367-ab43-683d3f597924,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Industrial Owners & Developers,,,,,,,,,4,15101014
+eaca3ef0-6ea3-46f4-8fcb-2d783d9e2f06,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Office Owners & Developers,,,,,,,,,4,15101015
+63c3224f-13ac-4ade-b536-61aafe3a3ac8,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Retail Owners & Developers,,,,,,,,,4,15101016
+35186a3d-b510-4eb7-aeed-28e3876b646a,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Self-Storage Owners & Develop,,,,,,,,,4,15101017
+f75f2501-79b1-4029-bda3-4b914074ab55,Attribute,5440d62a-60a5-482d-89ec-7d8ccebea815,Specialty Owners & Developers,,,,,,,,,4,15101018
+9c91e16e-0615-42ae-8890-a3a18095f87e,Attribute,e2a1d20f-670f-4f93-9174-0b4fe73b81e4,REIT,,,,,,,,,3,151011
+f0225eef-5771-44c9-b655-62a9257c8b6e,Group,e2a1d20f-670f-4f93-9174-0b4fe73b81e4,Real Estate Services,,,,,,,,,3,151012
+efcde4fa-250e-49c7-ac5e-fb9cdda804ed,Attribute,f0225eef-5771-44c9-b655-62a9257c8b6e,Real Estate Services,,,,,,,,,4,15101210
+a5bb1189-6081-4676-a1a2-eeafcb1bed38,Attribute,f0225eef-5771-44c9-b655-62a9257c8b6e,Building Construction,,,,,,,,,4,17111312
+8754e7bd-3cae-4976-9fa7-69a1e1b456fd,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Industrials,,,,,,,,,,
+f0da4bce-1f9a-4fa4-a5d4-e71cdf9a5525,Group,8754e7bd-3cae-4976-9fa7-69a1e1b456fd,Industrial Products,,,,,,,,,,
+41e5a0fe-ac8a-4569-bb73-b0beb3f77c6c,Attribute,f0da4bce-1f9a-4fa4-a5d4-e71cdf9a5525,Electrical Power Equipment,,,,,,,,,4,17101211
+25ca4fdb-a61d-442e-a0ce-050a5250e1df,Group,8754e7bd-3cae-4976-9fa7-69a1e1b456fd,Machinery,,,,,,,,,3,171013
+cb95c2f0-0ca9-4b42-b22c-9c5d6b7bf128,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Agricultural Machinery,,,,,,,,,4,17101310
+a4628e71-46d7-4a1b-b8da-e11ce464476f,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Construction & Mining Machinery,,,,,,,,,4,17101311
+b1a386d6-2209-4c15-8bd3-086cbba615af,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Engine & Transmission,,,,,,,,,4,17101312
+e9dff49c-5f76-487e-8312-90be6a9a2fa8,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Factory Automation Equipment,,,,,,,,,4,17101313
+2ae96aed-94b7-4a0a-bde7-2bdbadffb108,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Flow Control Equipment,,,,,,,,,4,17101314
+3192bf0a-8a4d-4fa3-9bb7-423138535cce,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Other Machinery & Equipment,,,,,,,,,4,17101315
+e0d9f668-57f6-4ceb-af93-c4e12220cfe4,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Material Handling Machinery,,,,,,,,,4,17101316
+f0bb3398-1fd9-4ae3-92c6-0b2fe13f9f97,Attribute,25ca4fdb-a61d-442e-a0ce-050a5250e1df,Pollution Control Equipment,,,,,,,,,4,17101318
+41f58447-5485-4132-b7a0-2ad46a948ea5,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Transport,,,,,,,,,,
+d563ab68-7229-42ad-bdb9-36467443a673,Group,41f58447-5485-4132-b7a0-2ad46a948ea5,Transportation Equipment,,,,,,,,,3,171014
+fd905037-9471-4030-8f68-f283886f0cac,Attribute,d563ab68-7229-42ad-bdb9-36467443a673,Commercial Vehicles,,,,,,,,,4,17101410
+126b9c5b-2b06-47a0-b9d7-6071ab141317,Attribute,d563ab68-7229-42ad-bdb9-36467443a673,Railroad Rolling Stock,,,,,,,,,4,17101411
+c8571150-8ec5-4f22-a579-52f53a7270bb,Group,41f58447-5485-4132-b7a0-2ad46a948ea5,Transportation & Logistics,,,,,,,,,3,171112
+ccc32158-0418-4fd0-a6f0-8bf0b55324c8,Attribute,c8571150-8ec5-4f22-a579-52f53a7270bb,Courier Services,,,,,,,,,4,17111212
+737f9b64-fa9f-4c06-bb8d-a8f97083f0d8,Attribute,c8571150-8ec5-4f22-a579-52f53a7270bb,Rail Freight,,,,,,,,,4,17111214
+23a08c37-8291-4bc8-96bc-241ee3507c36,Attribute,c8571150-8ec5-4f22-a579-52f53a7270bb,Trucking,,,,,,,,,4,17111215
+d841ee01-6915-4f03-b978-b850b184c7ee,Attribute,c8571150-8ec5-4f22-a579-52f53a7270bb,Transit Services,,,,,,,,,4,17111216
+3f972368-874c-46bd-a055-3569b2649106,Attribute,c8571150-8ec5-4f22-a579-52f53a7270bb,Logistics Services,,,,,,,,,4,17111217
+3c73e8f3-1eec-41f4-9e64-e0f6dd948d13,Attribute,c8571150-8ec5-4f22-a579-52f53a7270bb,Transport Operations & Services,,,,,,,,,4,17111218
+f86dfaf5-bbd9-442c-8681-15b3ee9bbc95,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Metals + Plastics,,,,,,,,,,
+a01026fc-af63-4ff0-b14b-61462d43f0fc,Attribute,f86dfaf5-bbd9-442c-8681-15b3ee9bbc95,Plastic Products,,,,,,,,,5,1710151110
+e306124b-7520-470a-8eac-a8a9274ba440,Attribute,f86dfaf5-bbd9-442c-8681-15b3ee9bbc95,Steel,,,,,,,,,3,181014
+ebbb034c-1764-4c80-aa2a-6d8eb9e4602c,Group,f86dfaf5-bbd9-442c-8681-15b3ee9bbc95,Metals & Mining,,,,,,,,,3,181015
+38ed6055-b728-41ce-a838-cdf49cfdfb1d,Attribute,ebbb034c-1764-4c80-aa2a-6d8eb9e4602c,Iron,,,,,,,,,4,18101510
+f5de8955-3b51-4e61-9a9f-2318a81fc986,Attribute,ebbb034c-1764-4c80-aa2a-6d8eb9e4602c,Aluminum,,,,,,,,,5,1810151110
+cd80dbc3-e67d-4f8e-abe2-62d48804788f,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Waste Management,,,,,,,,,,
+0a599481-d973-444d-b9dc-a1c1006a7db4,Group,cd80dbc3-e67d-4f8e-abe2-62d48804788f,Waste Management,,,,,,,,,4,17111115
+3d6bf622-812e-40d6-987d-de4231f011e3,Attribute,0a599481-d973-444d-b9dc-a1c1006a7db4,Recyclable Materials,,,,,,,,,5,1711111511
+850e9e22-f761-445d-b419-4fc2e5ed34fe,Attribute,0a599481-d973-444d-b9dc-a1c1006a7db4,Solid Waste Collection & Treat,,,,,,,,,5,1711111512
+313e7822-29d0-4826-b795-71299c8c517b,Group,cd80dbc3-e67d-4f8e-abe2-62d48804788f,Engineering & Construction,,,,,,,,,3,171113
+678dd738-a659-4ecd-abe0-f356ed04741d,Attribute,313e7822-29d0-4826-b795-71299c8c517b,Engineering Services,,,,,,,,,4,17111310
+25c2fd6a-0c48-4814-a4eb-1514aac8b8b0,Attribute,313e7822-29d0-4826-b795-71299c8c517b,Infrastructure Construction,,,,,,,,,4,17111311
+de07f513-46f8-4d62-aef3-72317885c8ca,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Manufacturing,,,,,,,,,,
+824bf972-eae6-4fa7-b65c-f2872b952040,Group,de07f513-46f8-4d62-aef3-72317885c8ca,Chemicals,,,,,,,,,3,181010
+9e709f3a-1401-4f59-9c8c-3fc91c363f6f,Attribute,824bf972-eae6-4fa7-b65c-f2872b952040,Agricultural Chemicals,,,,,,,,,4,18101010
+9f57d891-6efa-4b36-b8c0-088b248bb545,Attribute,824bf972-eae6-4fa7-b65c-f2872b952040,Basic & Diversified Chemicals,,,,,,,,,4,18101011
+c08c1c12-57d9-4c0b-96bb-6012be3b05dc,Attribute,824bf972-eae6-4fa7-b65c-f2872b952040,Specialty Chemicals,,,,,,,,,4,18101012
+b55d5a31-6e9a-4063-8959-c19d803c4fcb,Group,de07f513-46f8-4d62-aef3-72317885c8ca,Construction Materials,,,,,,,,,3,181011
+36318834-1807-4066-9aa9-99c8221a9c2f,Attribute,b55d5a31-6e9a-4063-8959-c19d803c4fcb,Cement & Aggregates,,,,,,,,,4,18101110
+5deb594d-043f-46c2-9131-7e45ad46a5de,Attribute,b55d5a31-6e9a-4063-8959-c19d803c4fcb,Containers & Packaging,,,,,,,,,4,18101210
+61bd4640-859b-4c0d-acf9-5a7ec1339092,Object,641efcca-f51d-45bd-aff7-3f917d1ccf89,Technology,,,,,,,,,,
+cd281d37-0b82-404d-a1db-e6cf7d0e614c,Attribute,61bd4640-859b-4c0d-acf9-5a7ec1339092,Engineering Software,,,,,,,,,5,1911101012
+4fb46830-712b-4726-992d-b353517825a6,Group,61bd4640-859b-4c0d-acf9-5a7ec1339092,Enterprise Software,,,,,,,,,5,1911101013
+659e59ba-977b-46c4-b51d-eae9b1a105ec,Attribute,4fb46830-712b-4726-992d-b353517825a6,Real Estate Information,,,,,,,,,6,191111111112
+70003677-b117-4017-830c-feffd56f1e8f,Attribute,4fb46830-712b-4726-992d-b353517825a6,Scientific Information,,,,,,,,,6,191111111113
+7c68d8e1-cbb6-4483-83fe-0a5da9ebe4fe,Attribute,4fb46830-712b-4726-992d-b353517825a6,Technology Information,,,,,,,,,6,191111111114
