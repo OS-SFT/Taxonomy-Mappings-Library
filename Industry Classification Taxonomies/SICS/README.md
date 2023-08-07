@@ -19,7 +19,7 @@ Single taxonomy for the SICS industry classification system published by SASB.
 - The differences between SICS and traditional industry classification systems can be categorized in three types: (1) new thematic sectors; (2) new industries with unique sustainability profiles; and (3) industries classified in different sectors.
 
 ## Taxonomy Versioning
-- Taxonomy Version: Initial_Draft
+- Taxonomy Version: Draft_1.0
 - Source Documentation: [SASB - Find Your Industry](https://www.sasb.org/find-your-industry/)
 - Version Date: 20220801
 - Model Source: First Derivative Research
