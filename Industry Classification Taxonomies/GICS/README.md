@@ -27,7 +27,7 @@ Single taxonomy for the GICS industry classification system published by MSCI.
 - Source Documentation: [GICS 2018](https://www.msci.com/documents/1296102/11185224/Effective+until+March+17%2C+2023.xlsx/9666eafc-5dff-7a72-721e-7f81bc14dbab?t=1679088582735)
 - Version Date: 20180928
 - Model Source: First Derivative Research
-- Model Date: 20221012
+- Model Date: 20221019
 
 ## Background Links
 
