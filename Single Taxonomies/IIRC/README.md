@@ -26,7 +26,7 @@ The IIRC developed the International Integrated Reporting "IR" Framework to meet
 - Source Documentation: [IIRC January 2021](https://www.integratedreporting.org/wp-content/uploads/2021/01/InternationalIntegratedReportingFramework.pdf)
 - Version Date: 20210101
 - Model Source: First Derivative Research
-- Model Date: 20220913
+- Model Date: 20221019
 
 ## Background Links
 
