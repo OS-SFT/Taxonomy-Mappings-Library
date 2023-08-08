@@ -20,7 +20,7 @@ Single taxonomy for the SEC's proposed Climate-Related Disclosure rule.
 
 ## Taxonomy Versioning
 
-- Taxonomy Version: Initial_Draft
+- Taxonomy Version: Draft_1.0
 - Source Documentation: [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.sec.gov/rules/proposed/2022/33-11042.pdf)
 - Version Date: 20220321
 - Model Source: First Derivative Research
