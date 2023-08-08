@@ -20,7 +20,7 @@ Single taxonomy for the EU's Sustainable Finance Disclosure Regulation (SFDR).
 
 ## Taxonomy Versioning
 
-- Taxonomy Version: SFDR
+- Taxonomy Version: Draft_1.0
 - Source Documentation: [SFDR Templates](https://www.esma.europa.eu/document/sfdr-templates)
 - Version Date: 20220406
 - Model Source: First Derivative Research
