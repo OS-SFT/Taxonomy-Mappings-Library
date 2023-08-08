@@ -20,8 +20,9 @@ Because of this, CDP has the biggest TCFD-aligned environmental database in the 
 
 ## Taxonomy Versioning
 
-- [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - Source - FD Research
-- [CDP](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDP)
+- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [CDP](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDP)
+- Model Source: First Derivative Research
+- Model Date: 20220916
 
 ## Background Links
 
