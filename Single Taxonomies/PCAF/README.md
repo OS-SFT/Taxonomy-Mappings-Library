@@ -2,7 +2,7 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# PCAF - Partnership for Carbon Accounting Financials
+# PCAF: Partnership for Carbon Accounting Financials
 
 ## Project Summary
 
@@ -21,7 +21,7 @@ The Standard has been reviewed by the GHG Protocol and is in conformance with th
 ## Taxonomy Versioning
 
 - Taxonomy Version: Draft_1.0
-- Source Documentation: [PCAF](https://carbonaccountingfinancials.com/files/downloads/PCAF-Global-GHG-Standard.pdf)
+- Source Documentation: [The Global GHG Accounting & Reporting Standard](https://carbonaccountingfinancials.com/files/downloads/PCAF-Global-GHG-Standard.pdf)
 - Version Date: 20201118
 - Model Source: First Derivative Research
 - Model Date: 20220926
