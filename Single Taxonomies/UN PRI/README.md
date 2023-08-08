@@ -29,7 +29,7 @@ The PRI acts in the long-term interests:
 - Source Documentation:
   - [UN PRI - The Six Principles](https://www.unpri.org/about-us/what-are-the-principles-for-responsible-investment)
   - [2021 Reporting Framework modules](https://www.unpri.org/reporting-and-assessment/reporting-and-assessment-archive/6567.article)
-- Version Date: 20210107
+- Version Date: 20220817
 - Model Source: First Derivative Research
 - Model Date: 20220922
 
