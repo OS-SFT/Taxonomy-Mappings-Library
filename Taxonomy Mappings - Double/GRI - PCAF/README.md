@@ -19,7 +19,7 @@ PCAF is a global, industry-led initiative of financial institutions that work to
 
 - Individual Taxonomies: [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI) - [PCAF](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/PCAF)
 - Model Source: First Derivative Research
-- Model Date: 20221104
+- Model Date: 20220916
 
 ## Taxonomy Mapping Visualisation
 
