@@ -21,7 +21,7 @@ The CDSB Framework explains how environmental/natural capital information disclo
 
 - Individual Taxonomies: [GRI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/GRI) - [CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB)
 - Model Source: First Derivative Research
-- Model Date: 20221104
+- Model Date: 20220916
 
 ## Background Links
 
