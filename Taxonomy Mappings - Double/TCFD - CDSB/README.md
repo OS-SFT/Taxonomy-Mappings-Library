@@ -19,8 +19,9 @@ Pairwise taxonomy mapping between the TCFD recommendations and those of the Clim
 
 ## Taxonomy Versioning
 
-- [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - Source - FD Research
-- [CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB) - Source - FD Research
+- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CDSB)
+- Model Source: First Derivative Research
+- Model Date: 20220916
 
 ## Background Links
 
