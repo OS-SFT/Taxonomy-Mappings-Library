@@ -15,8 +15,8 @@ The Financial Stability Board (FSB) established the [Task Force on Climate-Relat
 
 ## Taxonomy versioning
 
-- Taxonomy Version: 2021
-- Source Documentation: [Implementing the Recommendations of the Task Force on Climate-related Financial Disclosures](https://assets.bbhub.io/company/sites/60/2021/07/2021-TCFD-Implementing_Guidance.pdf)
+- Taxonomy Version: Draft_1.0
+- Source Documentation: [Annex: Implementing the Recommendations of the Task Force on Climate-related Financial Disclosures](https://assets.bbhub.io/company/sites/60/2021/07/2021-TCFD-Implementing_Guidance.pdf)
 - Version Date: 20211031
 - Model Source: First Derivative Research
 - Model Date: 20220913
