@@ -33,9 +33,9 @@ Given the pace of change in climate risk management, OSFI intends to review and 
 
 - Taxonomy Version: Draft_1.0
 - Source Documentation: [OSFI Climate Risk Management Guideline](https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b15-dft.aspx)
-- Version Date: 20221130
+- Version Date: 20220930
 - Model Source: First Derivative Research
-- Model Date: 20221130
+- Model Date: 20221213
 
 ## Taxonomy Mappings
 
