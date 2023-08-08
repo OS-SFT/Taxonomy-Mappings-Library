@@ -21,11 +21,11 @@ SASB standards can de downloaded from their site [here](https://www.sasb.org/sta
 
 ## Taxonomy Versioning
 
-* Taxonomy Version: Draft_Final
+* Taxonomy Version: Dec_2021_Financial_industries_only
 * Source Documentation: [SASB Standards](https://www.sasb.org/standards/download/?lang=en-us)
-* Version Date: 20220124
+* Version Date: 20211231
 * Model Source: First Derivative Research
-* Model Date: 20220913
+* Model Date: 20220801
 
 ## Taxonomy Mappings
 
