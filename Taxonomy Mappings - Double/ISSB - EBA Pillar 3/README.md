@@ -2,13 +2,13 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# Mapping: ISSB S2 - EBA Pillar 3 ESG Risk Disclosures
+# Mapping: ISSB - EBA Pillar 3 ESG Risk Disclosures
 
 ## Project Summary
 
-Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Risk Disclosures.
+Pairwise taxonomy mapping between the ISSB Standards (IFRS S2) and EBA Pillar 3 ESG Risk Disclosures.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/BjWS7Uda8Kf7ww31ocLbk7QTPbCNPexK) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/BNsi214rhhJH4p73OkonoQnLnTJ21SXT) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EBA%20Pillar%203#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - ADD
 
@@ -22,13 +22,13 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and EBA Pillar 3 ESG Ri
 
 - Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
 - Model Source: First Derivative Research
-- Model Date: 20220916
+- Model Date: 20230822
 
 ## Taxonomy Mapping Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/BjWS7Uda8Kf7ww31ocLbk7QTPbCNPexK) to view an interactive version of the taxonomy mapping
+Click [here](https://os-sft.solidatus.com/viewer/share/BNsi214rhhJH4p73OkonoQnLnTJ21SXT) to view an interactive version of the taxonomy mapping
 
-![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/1bcd154a-3d56-4848-8ae9-0baa506770d6)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/98563278-468c-40f6-a067-a6d975f6d1be)
 
 ## Further Commentary
 
