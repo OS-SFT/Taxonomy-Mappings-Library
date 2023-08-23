@@ -6,24 +6,33 @@
 
 ## Project Summary
 
-Single taxonomy for Exposure Drafts S1 and S2 of IFRS ISSB.
+Single taxonomy for the ISSB Standards, IFRS S1 and IFRS S2.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/eYzJlRwxtekLaIQYsC22ISgSaB9hFLTF) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/yKhNR9KlV6uiiB5SZ1gyplUKU7IbprKf) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/ISSB/README.md#detailed-research) for detailed research
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
 
 - The ISSB taxonomy was divided into three sections:
-  - Exposure Draft IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information
-  - Exposure Draft IFRS S2: Climate-related Disclosures
-  - S2 Appendix B: Industry-specific Disclosures (Financial sector only)
+  - IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information
+  - IFRS S2: Climate-related Disclosures
+  - IFRS S2: Industry-based Guidance on implementing Climate-related Disclosures
 - ISSB aims to develop a comprehensive global baseline of sustainability disclosures. It is built on the recommendations of the TCFD and has absorbed various existing standards and frameworks including the IIRC, SASB, VRF and CBSD.
-- Requirements under Exposure Draft S1 are difficult to map to other existing frameworks given their generic nature.
+- Requirements under IFRS S1 are difficult to map to other existing frameworks given their generic nature. However, IFRS S2 and future topic specific standards will align more closely with frameworks addressing specific areas of sustainability.
 
 ## Taxonomy Versioning
 
-- Taxonomy Version: Draft_1.0
+**Taxonomy Version: ISSB_v20230626**
+- Source Documentation:
+  - [IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
+  - [IFRS S2: Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s2-climate-related-disclosures.pdf)
+  - [IFRS S2:Industry-based Guidance on implementing Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-b/ifrs-s2-ibg.pdf)
+- Version Date: 20230626
+- Model Source: First Derivative Research
+- Model Date: 20220822
+
+**Taxonomy Version: ISSB_v20220331**
 - Source Documentation:
   - [Exposure Draft IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
   - [Exposure Draft IFRS S2 Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
@@ -39,7 +48,6 @@ Pairwise:
 - [ISSB-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EBA%20Pillar%203)
 - [ISSB-SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SASB)
 - [ISSB-SEC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SEC)
-- [ISSB-EFRAG ESRS 1](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20EFRAG)
 
 String:
 - [ISSB-TCFD-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Triple/ISSB%20-%20EBA%20Pillar%203%20-%20TCFD)
@@ -47,13 +55,13 @@ String:
 ## Background Links
 
 - [About the International Sustainability Standards Board](https://www.ifrs.org/groups/international-sustainability-standards-board/#about)
-- [ISSB Climate-related Disclosures](https://www.ifrs.org/projects/work-plan/climate-related-disclosures/#about)
+- [IFRS Sustainability Standards Navigator](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/?lang=en&year=2023&type=%2Fcontent%2Fcq%3Atags%2Fifrs%2Fproduction%2Fissue-type%2Fissued)
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/eYzJlRwxtekLaIQYsC22ISgSaB9hFLTF) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/share/yKhNR9KlV6uiiB5SZ1gyplUKU7IbprKf) to view an interactive version of the taxonomy
 
-![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/afe79143-e539-41e7-a6ba-35b4ebeac709)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/68dc3285-09d6-4cb3-bcd7-3e842e222597)
 
 # Detailed Research
 
