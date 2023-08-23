@@ -2,13 +2,13 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# Mapping: ISSB S2 - SEC Climate-related Disclosures
+# Mapping: ISSB - SEC Climate-related Disclosures
 
 ## Project Summary
 
-Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SEC proposed rule on climate-related disclosures.
+Pairwise taxonomy mapping between the ISSB Standards (IFRS S2) and the SEC proposed rule on climate-related disclosures.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/0IXZNJ5RUQwk1GtqpeVFqtWvxGb4knkW) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/DNt1R2gKG71cclb7vGnrypz89EaLCajK) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SEC#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case
 
@@ -26,9 +26,9 @@ Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SEC proposed ru
 
 ## Taxonomy Mapping Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/0IXZNJ5RUQwk1GtqpeVFqtWvxGb4knkW) to view an interactive version of the taxonomy mapping
+Click [here](https://os-sft.solidatus.com/viewer/share/DNt1R2gKG71cclb7vGnrypz89EaLCajK) to view an interactive version of the taxonomy mapping
 
-![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/18738e70-ab00-46de-8bd2-d0baacfd4f4f)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/93fc9bed-f86e-483c-b6d2-1cde3b5d86c8)
 
 ## Further Commentary
 
