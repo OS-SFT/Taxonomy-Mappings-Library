@@ -30,7 +30,7 @@ Single taxonomy for the ISSB Standards, IFRS S1 and IFRS S2.
   - [IFRS S2:Industry-based Guidance on implementing Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-b/ifrs-s2-ibg.pdf)
 - Version Date: 20230626
 - Model Source: First Derivative Research
-- Model Date: 20220822
+- Model Date: 20230822
 
 #### Taxonomy Version: ISSB_v20220331
 - Source Documentation:

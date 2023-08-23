@@ -2,13 +2,13 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# Mapping: TCFD - ISSB S2
+# Mapping: TCFD - ISSB
 
 ## Project Summary
 
-Pairwise taxonomy mapping between the TCFD Recommendations and ISSB Exposure Draft S2.
+Pairwise taxonomy mapping between the TCFD Recommendations and the ISSB Standards (IFRS S2).
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/I87DQi7gB4s8uvmwHtvOddzie3Zdm6P7) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/NMFXftir1aAwrcZIqWVsFUMWwR9geLYr) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20ISSB#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -21,15 +21,15 @@ The General Requirements Standard creates an umbrella of disclosure expectations
 
 ## Taxonomy Versioning
 
-- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
+- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB)
 - Model Source: First Derivative Research
-- Model Date: 20221006
+- Model Date: 20230822
 
 ## Taxonomy Mapping Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/I87DQi7gB4s8uvmwHtvOddzie3Zdm6P7) to view an interactive version of the taxonomy mapping
+Click [here](https://os-sft.solidatus.com/viewer/share/NMFXftir1aAwrcZIqWVsFUMWwR9geLYr) to view an interactive version of the taxonomy mapping
 
-![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/94a72fe5-3ede-4ca9-911f-590cb330b977)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/7714f653-d3da-4ed1-b10c-da0cb335f0b3)
 
 ## Further Commentary
 
