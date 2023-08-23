@@ -23,7 +23,7 @@ Single taxonomy for the ISSB Standards, IFRS S1 and IFRS S2.
 
 ## Taxonomy Versioning
 
-**Taxonomy Version: ISSB_v20230626**
+#### Taxonomy Version: ISSB_v20230626
 - Source Documentation:
   - [IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
   - [IFRS S2: Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s2-climate-related-disclosures.pdf)
@@ -32,7 +32,7 @@ Single taxonomy for the ISSB Standards, IFRS S1 and IFRS S2.
 - Model Source: First Derivative Research
 - Model Date: 20220822
 
-**Taxonomy Version: ISSB_v20220331**
+#### Taxonomy Version: ISSB_v20220331
 - Source Documentation:
   - [Exposure Draft IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
   - [Exposure Draft IFRS S2 Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
