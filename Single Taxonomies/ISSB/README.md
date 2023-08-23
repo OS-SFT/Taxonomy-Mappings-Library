@@ -27,16 +27,16 @@ Single taxonomy for the ISSB Standards, IFRS S1 and IFRS S2.
 - Source Documentation:
   - [IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
   - [IFRS S2: Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s2-climate-related-disclosures.pdf)
-  - [IFRS S2:Industry-based Guidance on implementing Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-b/ifrs-s2-ibg.pdf)
+  - [IFRS S2: Industry-based Guidance on implementing Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-b/ifrs-s2-ibg.pdf)
 - Version Date: 20230626
 - Model Source: First Derivative Research
 - Model Date: 20230822
 
 #### Taxonomy Version: ISSB_v20220331
 - Source Documentation:
-  - [Exposure Draft IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
-  - [Exposure Draft IFRS S2 Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
-  - [IFRS S2 Climate-related Disclosures Appendix B Industry-based disclosure requirements](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-appendix-b.pdf)
+  - [Exposure Draft IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
+  - [Exposure Draft IFRS S2: Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
+  - [IFRS S2: Climate-related Disclosures Appendix B - Industry-based disclosure requirements](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-appendix-b.pdf)
 - Version Date: 20220331
 - Model Source: First Derivative Research
 - Model Date: 20220913
