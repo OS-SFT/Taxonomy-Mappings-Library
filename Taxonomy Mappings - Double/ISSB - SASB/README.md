@@ -2,11 +2,11 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# Mapping: ISSB S2 - SASB
+# Mapping: ISSB - SASB
 
-Pairwise taxonomy mapping between ISSB Exposure Draft S2 and the SASB financial industry classifications.
+Pairwise taxonomy mapping between the ISSB Standards (IFRS) S2 and the SASB financial industry classifications.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/VBThHsOdHCcMwZt3gY0p7QtzJWlX3Odd) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/0xCzxhH27q9gl5YntroWjgCjpW561RMb) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SASB#further-commentary) for further commentary. **Please note that additional future research on this topic is to added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -27,7 +27,7 @@ Work is expected to continue on these projects, although upcoming public consult
 
 - Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB)
 - Model Source: First Derivative Research
-- Model Date: 20220928
+- Model Date: 20230822
 
 ## Background Links
 
@@ -36,9 +36,9 @@ Work is expected to continue on these projects, although upcoming public consult
 
 ## Taxonomy Mapping Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/VBThHsOdHCcMwZt3gY0p7QtzJWlX3Odd) to view an interactive version of the taxonomy mapping
+Click [here](https://os-sft.solidatus.com/viewer/share/0xCzxhH27q9gl5YntroWjgCjpW561RMb) to view an interactive version of the taxonomy mapping
 
-![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/a614bb5f-1b0f-4e09-b2db-8f9ed69f2414)
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/e7b8b3f5-a5f8-41fe-be9e-5a188549d2ce)
 
 ## Further Commentary
 
