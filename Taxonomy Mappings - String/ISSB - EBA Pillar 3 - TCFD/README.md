@@ -23,12 +23,16 @@ In relation to Climate-related Disclosures (IFRS S2), the EBA has recommended en
 
 ## Taxonomy Versioning
 
-- Individual Taxonomies:
-  - [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
-  - [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB)
-  - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
+Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
+
+#### Taxonomy Version: [TCFD-ISSB-EBA_P3_v2.0](https://os-sft.solidatus.com/viewer/share/swCsTMqENYv3B8n0q13CynauDg9VdjvT)
 - Model Source: First Derivative Research
 - Model Date: 20230824
+- Notes: Updated to reflect new ISSB Standards issued June 2023
+
+#### Taxonomy Version: [TCFD-ISSB-EBA_P3_v1.0](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrgUu2AKdU)
+- Model Source: First Derivative Research
+- Model Date: 20220919
 
 ## Taxonomy Mapping Visualisation
 
