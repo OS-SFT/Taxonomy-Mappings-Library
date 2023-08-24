@@ -23,12 +23,12 @@ The General Requirements Standard creates an umbrella of disclosure expectations
 
 Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB)
 
-#### Taxonomy Version: TCFD-ISSB_v2.0
+#### Taxonomy Version: [TCFD-ISSB_v2.0](https://os-sft.solidatus.com/viewer/share/NMFXftir1aAwrcZIqWVsFUMWwR9geLYr)
 - Model Source: First Derivative Research
 - Model Date: 20230824
 - Notes: Updated to reflect new ISSB Standards issued June 2023
 
-#### Taxonomy Version: TCFD-ISSB_v1.0
+#### Taxonomy Version: [TCFD-ISSB_v1.0](https://os-sft.solidatus.com/viewer/share/I87DQi7gB4s8uvmwHtvOddzie3Zdm6P7)
 - Model Source: First Derivative Research
 - Model Date: 20221006
 
