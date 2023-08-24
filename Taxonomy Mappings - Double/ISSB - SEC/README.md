@@ -20,7 +20,7 @@ Pairwise taxonomy mapping between the ISSB Standards (IFRS S2) and the SEC propo
 
 ## Taxonomy Versioning
 
-- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [SEC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SEC%20-%20Climate%20Disclosure%20Rule)
+Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [SEC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SEC%20-%20Climate%20Disclosure%20Rule)
 
 #### Taxonomy Version: [ISSB-SEC_v2.0](https://os-sft.solidatus.com/viewer/share/DNt1R2gKG71cclb7vGnrypz89EaLCajK)
 - Model Source: First Derivative Research
