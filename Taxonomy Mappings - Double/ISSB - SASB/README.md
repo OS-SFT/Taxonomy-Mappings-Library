@@ -27,12 +27,12 @@ Work is expected to continue on these projects, although upcoming public consult
 
 Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SASB)
 
-#### Taxonomy Version: ISSB-SASB_v2.0
+#### Taxonomy Version: [ISSB-SASB_v2.0](https://os-sft.solidatus.com/viewer/share/0xCzxhH27q9gl5YntroWjgCjpW561RMb)
 - Model Source: First Derivative Research
 - Model Date: 20230824
 - Notes: Updated to reflect new ISSB Standards issued June 2023
 
-#### Taxonomy Version: ISSB-SASB_v1.0
+#### Taxonomy Version: [ISSB-SASB_v1.0](https://os-sft.solidatus.com/viewer/share/VBThHsOdHCcMwZt3gY0p7QtzJWlX3Odd)
 - Model Source: First Derivative Research
 - Model Date: 20220928
 
