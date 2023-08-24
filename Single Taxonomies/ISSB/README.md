@@ -50,7 +50,7 @@ Pairwise:
 - [ISSB-SEC](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/ISSB%20-%20SEC)
 
 String:
-- [ISSB-TCFD-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/ISSB%20-%20EBA%20Pillar%203%20-%20TCFD)
+- [ISSB-TCFD-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20ISSB%20-%20EBA%20Pillar%203)
 
 ## Background Links
 
