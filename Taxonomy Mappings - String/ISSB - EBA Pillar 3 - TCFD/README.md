@@ -2,13 +2,13 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# Mapping: TCFD - ISSB S2 - EBA Pillar 3 ESG Disclosures
+# Mapping: TCFD - ISSB - EBA Pillar 3 ESG Disclosures
 
 ## Project Summary
 
-String taxonomy mapping between the TCFD Recommendations, ISSB Exposure Draft S2 and EBA Pillar 3 ESG Disclosures.
+String taxonomy mapping between the TCFD Recommendations, ISSB Standards (IFRS S2) and EBA Pillar 3 ESG Disclosures.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrgUu2AKdU) to view an interactive version of the taxonomy mapping
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/swCsTMqENYv3B8n0q13CynauDg9VdjvT) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Triple/ISSB%20-%20EBA%20Pillar%203%20-%20TCFD#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -19,7 +19,7 @@ In relation to Climate-related Disclosures (IFRS S2), the EBA has recommended en
 
 * The EBA has also called on the ISSB and TCFD to closely cooperate with each other during the finalisation of their own consultations, so as to ensure greater comparability between EU companies and the companies outside of the EU which will be adopting the international standards. In light of the requirements set out in its draft ITS on Pillar 3 ESG risks, the EBA also stressed the importance of enhancing the disclosure of corporates’ transition plans and of standardising the climate change-related metrics, so as to ensure the comparability and quality of their disclosures.
 
-* ISSB enhances both TCFD and EBA Pillar 3 to create a sort of Gold Standard for sustainability reporting. The proposals build on the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD) and incorporate industry-based disclosure requirements derived from SASB Standards. The consultations end on July 29, 2022, with ISSB planning to review the feedback in the second half of 2022 and issue the final standards by year-end.
+* ISSB enhances both TCFD and EBA Pillar 3 to create a sort of Gold Standard for sustainability reporting. The proposals build on the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD) and incorporate industry-based disclosure requirements derived from SASB Standards. The the final standards IFRS S1 and IFRS S2, relating to general sustainability and climate change respectively, were issued in June 2023.
 
 ## Taxonomy Versioning
 
@@ -28,14 +28,13 @@ In relation to Climate-related Disclosures (IFRS S2), the EBA has recommended en
   - [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB)
   - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
 - Model Source: First Derivative Research
-- Model Date: 20220919
+- Model Date: 20230824
 
 ## Taxonomy Mapping Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/TnmcN155u6zwp8ibsNtI4vfrgUu2AKdU) to view an interactive version of the taxonomy mapping
+Click [here](https://os-sft.solidatus.com/viewer/share/swCsTMqENYv3B8n0q13CynauDg9VdjvT) to view an interactive version of the taxonomy mapping
 
-![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/6ea73008-6146-47a3-8cfe-74bced44cf5e)
-
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/8837b65c-e0df-43c2-aef5-fda19c787324)
 
 ## Further Commentary
 
