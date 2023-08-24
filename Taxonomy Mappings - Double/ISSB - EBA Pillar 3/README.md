@@ -20,9 +20,16 @@ Pairwise taxonomy mapping between the ISSB Standards (IFRS S2) and EBA Pillar 3 
 
 ## Taxonomy Versioning
 
-- Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
+Individual Taxonomies: [ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISSB) - [EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/EBA%20Pillar%203)
+
+#### Taxonomy Version: ISSB-EBA_P3_v2.0
 - Model Source: First Derivative Research
-- Model Date: 20230822
+- Model Date: 20230824
+- Notes: Updated to reflect new ISSB Standards issued June 2023
+
+#### Taxonomy Version: ISSB-EBA_P3_v1.0
+- Model Source: First Derivative Research
+- Model Date: 20220916
 
 ## Taxonomy Mapping Visualisation
 
