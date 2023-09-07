@@ -2,7 +2,7 @@
 **Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
-# TCFD: Task Force on Climate-Related Financial Disclosures
+# TNFD: Task Force on Nature-Related Financial Disclosures
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
