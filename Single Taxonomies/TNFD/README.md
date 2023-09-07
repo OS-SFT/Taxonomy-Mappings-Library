@@ -30,7 +30,7 @@ The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for 
 * [TCFD - CDP](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDP)
 
 ## Background Links
-- [TCFD](https://www.fsb-tcfd.org/)
+- [TNFD](https://tnfd.global/)
 - [LinkedIn Page](https://www.linkedin.com/company/taskforce-on-nature-related-financial-disclosures-tnfd/).
 
 
