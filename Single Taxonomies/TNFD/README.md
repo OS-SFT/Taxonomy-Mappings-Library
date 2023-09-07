@@ -11,7 +11,7 @@
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
-The Financial Stability Board (FSB) established the [Task Force on Climate-Related Financial Disclosures (TCFD)](https://www.fsb-tcfd.org/) in 2015 to develop uniform climate-related financial risk disclosures for use by businesses, banks, and investors in informing stakeholders. The financial system will be more stable, with a better understanding of climate risks, and it will be easier to finance the shift to a more sustainable and stable economy if there is more accurate information available on how exposed financial institutions are to climate-related risks and opportunities.
+The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for nature-related risk management and disclosure. It was designed to help organizations act and report on nature-related risks relevant to their direct and indirect operations. Established in 2021, the TNFD aims to assist in shifting the global financial system from one that exploits nature to one that supports and nourishes it
 
 ## Taxonomy versioning
 
