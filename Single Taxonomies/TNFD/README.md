@@ -42,12 +42,14 @@ Click [here](https://os-sft.solidatus.com/viewer/share/hZ26grXBOM08dTEKQpGTqYeL4
 
 ## Further Commentary
 TNFD recommended disclosures are designed to:
+
 • Meet the corporate reporting needs of a wide range of organisations across geographies, sectors and jurisdictions, including different approaches to materiality;
 • Help provide better information to support strategy and risk management at the board and management level, and ultimately improve capital allocation and asset valuation decisions;
 • Promote more informed investment, credit and insurance underwriting decisions by financial institutions; 
 • Enable understanding of nature-related risk and opportunities, based on insights into dependencies and impacts on nature
 
 Taskforce has:
+
 • Introduced a new general requirements component to the overall approach to disclosure and corporate reporting with six general requirements for use of the TNFD framework;
 • Retained the four pillars of the TCFD Recommendations – Governance, Strategy, Risk Management and Metrics and Targets – with Impact Management incorporated into Risk Management;
 • Carried over all 11 TCFD recommended disclosures into the TNFD recommended disclosures, providing maximum consistency of content and enabling report users to start reporting on nature-related issues alongside, or integrated with, climate-related issues;
