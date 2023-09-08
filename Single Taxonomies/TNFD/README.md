@@ -41,20 +41,40 @@ Click [here](https://os-sft.solidatus.com/viewer/share/hZ26grXBOM08dTEKQpGTqYeL4
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/28ccd9b5-2974-4384-9707-69735a930618)
 
 ## Further Commentary
-The TCFD focuses on documenting how an organisation affects the climate on a global scale. It aims to improve consistency and comparability among companies' climate-related disclosures. Better information, in the FSB's opinion, will enable businesses to take climate-related risks and opportunities into account when making risk management and strategic planning decisions. The ability of markets to direct investment toward sustainable and resilient solutions, opportunities, and business models will improve as businesses and investors alike improve their grasp of the financial consequences of climate change. The objective of the disclosure requirements under each category are as follows:
+TNFD recommended disclosures are designed to:
+• Meet the corporate reporting needs of a wide range of organisations across geographies, sectors and jurisdictions, including different approaches to materiality;
+• Help provide better information to support strategy and risk management at the board and management level, and ultimately improve capital allocation and asset valuation decisions;
+• Promote more informed investment, credit and insurance underwriting decisions by financial institutions; 
+• Enable understanding of nature-related risk and opportunities, based on insights into dependencies and impacts on nature
+
+Taskforce has:
+• Introduced a new general requirements component to the overall approach to disclosure and corporate reporting with six general requirements for use of the TNFD framework;
+• Retained the four pillars of the TCFD Recommendations – Governance, Strategy, Risk Management and Metrics and Targets – with Impact Management incorporated into Risk Management;
+• Carried over all 11 TCFD recommended disclosures into the TNFD recommended disclosures, providing maximum consistency of content and enabling report users to start reporting on nature-related issues alongside, or integrated with, climate-related issues;
+• Adapted the approach taken to incorporate value chain impacts (Scope 3 climate reporting) to the nature context as direct operations, upstream, downstream and financed; 
+• Developed additional guidance, building from TCFD guidance where it exists. 
+This includes new guidance on scenario analysis to inform strategy and on key topics for nature, such as engagement with affected stakeholders.
 
 #### Governance:
-* Explain how the board monitors climate-related threats and opportunities.
-* Outline the function of management in identifying and addressing climate-related risks and opportunities.
+Disclose the organisation’s governance around nature-related dependencies, impacts, risks and opportunities:
+* Describe the board’s oversight of nature-related dependencies, impacts, risks and opportunities.
+* Describe management’s role in assessing and managing nature-related dependencies, impacts, risks and opportunities.
 #### Strategy:
-* Describe the short-, medium-, and long-term climate-related risks and opportunities the organisation has identified. 
-* Describe the impact of these risks and opportunities on the organization's operations, strategy, and financial planning.
-* Highlight the resilience of the organization's strategy while considering various climate-related scenarios.
-#### Risks:
-* Elucidate the organization's methods for recognising and evaluating climate-related threats.
-* Describe the organization's procedures for mitigating hazards associated with the climate.
-* Explain the methods used to incorporate climate-related risk management into the organization's overall risk management.
-#### Metrics and Objectives:
-* Declare the metrics that the organisation uses to evaluate opportunities and hazards connected to climate change in accordance with its strategy and risk management procedure.
-* Disclose the risk associated with Scope 1, Scope 2, and, if applicable, Scope 3 greenhouse gas (GHG) emissions.
-* Describe the objectives that the organisation uses to manage opportunities and risks connected to climate change, as well as performance against targets.
+Disclose the actual and potential impacts of nature-related dependencies, impacts, risks and opportunitiess on the organisation’s businesses, strategy and financial planning where such information is material:
+* Describe the nature-related dependencies, impacts, risks and opportunities the organisation has identified over the short, medium, and long term.
+* Describe the effect nature-related risks and opportunities have had and may have on the organisation’s businesses, strategy, and financial planning.
+* Describe the resilience of the organisation’s strategy to nature-related risks and opportunities, taking into consideration different scenarios.
+* Disclose the locations where there are assets and/or activities in the organisation's direct operations, and upstream and/or downstream and/or financed where relevant, that are in priority areas.
+#### Risks & Impact Management:
+Disclose how the organisation identifies, assesses and manages nature-related dependencies, impacts, risks and opportunities:
+* Describe the organisation’s processes for identifying and assessing nature-related dependencies, impacts, risks and opportunities in its direct operations.
+* Describe the organisation’s approach to identifying nature-related dependencies, impacts, risks and opportunities in its upstream and downstream value chain(s) and financed activities and assets.
+* Describe the organisation’s processes for managing nature-related dependencies, impacts, risks and opportunities and actions taken in light of these processes. 
+* Describe how processes for identifying, assessing and managing nature-related risks are integrated into the organisation’s overall risk management.
+* Describe how affected stakeholders are engaged by the organisation in its assessment of, and response to, nature-related dependencies, impacts, risks and opportunities.
+#### Metrics and Targets:
+Disclose the metrics and targets used to assess and manage relevant nature-related dependencies, impacts, risks and opportunities where such information is material:
+* Disclose the metrics used by the organisation to assess and manage material nature-related risks and opportunities in line with its strategy and risk management process.
+* Disclose the metrics used by the organisation to assess and manage dependencies and impacts on nature.
+* Describe the targets and goals used by the organisation to manage nature-related dependencies, impacts, risks and opportunities and its performance against these.
+
