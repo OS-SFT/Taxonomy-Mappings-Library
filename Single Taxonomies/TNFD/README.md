@@ -22,12 +22,7 @@ The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for 
 - Model Date: 20230907
 
 ## Taxonomy Mapping
-* [TCFD - ISSB S2](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20ISSB)
-* [EBA Pillar 3 - TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20EBA%20Pillar%203)
-* [Partial Mapping: GRI 305 Emissions - TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/GRI%20-%20TCFD)
-* [TCFD - SASB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20SASB)
-* [TCFD - CDSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDSB)
-* [TCFD - CDP](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20CDP)
+* [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
 
 ## Background Links
 - [TNFD](https://tnfd.global/)
