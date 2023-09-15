@@ -11,7 +11,7 @@ Mapping including the TCFD recommendations, NFRD/CSRD requirements, SFDR Princip
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/RRqNWeTdFUDhFHgTSZsscbxwBozfKC6T) to view an interactive version of the taxonomy mapping
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20CSRD%20-%20SFDR%20-%20Supply%20Chain#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
-- Video - [Understanding the Modle and the Calculation Flow](https://vimeo.com/user188894913/esg-carbon-emissions)
+- Video - [Understanding the Model and the Calculation Flow](https://vimeo.com/user188894913/esg-carbon-emissions)
 
 ## Summary Observations
 
