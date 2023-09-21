@@ -22,7 +22,7 @@ The Paris Agreement is an international treaty on climate change. Adopted in 201
 - Model Date: 20230921
 
 ## Taxonomy Mapping
-* [Paris Agreement](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
+* [???]
 
 ## Background Links
 - [Paris Agreement](https://treaties.un.org/doc/Treaties/2016/02/20160215%2006-03%20PM/Ch_XXVII-7-d.pdf)
