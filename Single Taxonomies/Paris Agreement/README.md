@@ -7,7 +7,7 @@
 ## Project Summary
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/650c26788f6f032c7aee4b48) to view an interactive version of the taxonomy 
-- Research: See [below](Compliancelearning.thomsonreuters.com/fdtechnologies/pages/32/user-dashboard) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
+- Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/Paris%20Agreement) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
