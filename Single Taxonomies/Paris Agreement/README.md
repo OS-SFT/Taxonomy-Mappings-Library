@@ -11,21 +11,21 @@
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
-T  t
+The Paris Agreement is an international treaty on climate change. Adopted in 2015, the agreement covers climate change mitigation, adaptation, and finance. As of 2023, 195 members of the  United Nations Framework Convention on Climate Change (UNFCCC) are parties to the agreement. The Paris Agreement's long-term temperature goal is to keep the rise in mean global temperature to well below 2 °C (3.6 °F) above pre-industrial levels, and preferably limit the increase to 1.5 °C (2.7 °F), recognizing that this would substantially reduce the effects of climate change. Emissions should be reduced as soon as possible and reach net zero by the middle of the 21st century.[3] To stay below 1.5 °C of global warming, emissions need to be cut by roughly 50% by 2030. 
 
 ## Taxonomy versioning
 
 - Taxonomy Version: Draft_2.0
-- Source Documentation: [Paris Agreement]()
-- Version Date: 20230323
+- Source Documentation: [Paris Agreement](https://unfccc.int/sites/default/files/english_paris_agreement.pdf)
+- Version Date: 2015
 - Model Source: First Derivative Research
-- Model Date: 20230907
+- Model Date: 20230921
 
 ## Taxonomy Mapping
 * [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
 
 ## Background Links
-- [TNFD](https://tnfd.global/)
+- [TNFD]([https://tnfd.global/](https://treaties.un.org/doc/Treaties/2016/02/20160215%2006-03%20PM/Ch_XXVII-7-d.pdf))
 - [LinkedIn Page](https://www.linkedin.com/company/taskforce-on-nature-related-financial-disclosures-tnfd/).
 
 
