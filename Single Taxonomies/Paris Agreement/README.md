@@ -25,8 +25,8 @@ The Paris Agreement is an international treaty on climate change. Adopted in 201
 * [Paris Agreement](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
 
 ## Background Links
-- [TNFD]([https://tnfd.global/](https://treaties.un.org/doc/Treaties/2016/02/20160215%2006-03%20PM/Ch_XXVII-7-d.pdf))
-- [LinkedIn Page](https://www.linkedin.com/company/taskforce-on-nature-related-financial-disclosures-tnfd/).
+- [Paris Agreement](https://treaties.un.org/doc/Treaties/2016/02/20160215%2006-03%20PM/Ch_XXVII-7-d.pdf)
+
 
 
 ## Taxonomy Visualisation
