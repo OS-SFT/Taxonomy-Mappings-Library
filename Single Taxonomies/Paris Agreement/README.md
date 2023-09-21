@@ -25,7 +25,8 @@ The Paris Agreement is an international treaty on climate change. Adopted in 201
 * [???]
 
 ## Background Links
-- [Paris Agreement](https://treaties.un.org/doc/Treaties/2016/02/20160215%2006-03%20PM/Ch_XXVII-7-d.pdf)
+- [Source of UN Treaty - Official multi-language Paris Agreement - Document](https://treaties.un.org/doc/Treaties/2016/02/20160215%2006-03%20PM/Ch_XXVII-7-d.pdf)
+- [Short Version of ENGLISH text only - listing all "29 Articles" of the "Paris Agreement"](https://unfccc.int/sites/default/files/english_paris_agreement.pdf)
 
 
 
