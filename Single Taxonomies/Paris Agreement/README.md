@@ -37,41 +37,15 @@ Click [here](https://os-sft.solidatus.com/viewer/650c26788f6f032c7aee4b48) to vi
 ![image]()
 
 ## Further Commentary
-#### Key Principles
-### Nationally determined contribution:
+### Key Principles
+#### NDC - Nationally Determined Contributions:
 
 * A nationally determined contribution (NDC) or intended nationally determined contribution (INDC) is a non-binding national plan highlighting climate change mitigation, including climate-related targets for greenhouse gas emission reductions. These plans also include policies and measures governments aim to implement in response to climate change and as a contribution to achieve the global targets set out in the Paris Agreement.
 
 * NDCs are the first greenhouse gas targets under the UNFCCC that apply equally to both developed and developing countries
 
-#### Taskforce has:
+#### ITMO - Internationally Transferred Mitigation Outcomes:
 
-* Introduced a new general requirements component to the overall approach to disclosure and corporate reporting with six general requirements for use of the TNFD framework;
-* Retained the four pillars of the TCFD Recommendations – Governance, Strategy, Risk Management and Metrics and Targets – with Impact Management incorporated into Risk Management;
-* Carried over all 11 TCFD recommended disclosures into the TNFD recommended disclosures, providing maximum consistency of content and enabling report users to start reporting on nature-related issues alongside, or integrated with, climate-related issues;
-* Adapted the approach taken to incorporate value chain impacts (Scope 3 climate reporting) to the nature context as direct operations, upstream, downstream and financed; 
-* Developed additional guidance, building from TCFD guidance where it exists. 
-This includes new guidance on scenario analysis to inform strategy and on key topics for nature, such as engagement with affected stakeholders.
+* Internationally Transferred Mitigation Outcomes (ITMO) are units from the new mechanism for the international emissions trading between Parties to the Paris Agreement. ITMO is a carbon emissions trading system where countries can purchase or trade carbon credits from other countries. Developed countries can lower the cost of meeting their own NDC by supporting less-costly emissions reductions in another country under the general heading of “internationally transferred mitigation outcomes”.
 
-#### Governance:
-Disclose the organisation’s governance around nature-related dependencies, impacts, risks and opportunities:
-* Describe the board’s oversight of nature-related dependencies, impacts, risks and opportunities.
-* Describe management’s role in assessing and managing nature-related dependencies, impacts, risks and opportunities.
-#### Strategy:
-Disclose the actual and potential impacts of nature-related dependencies, impacts, risks and opportunitiess on the organisation’s businesses, strategy and financial planning where such information is material:
-* Describe the nature-related dependencies, impacts, risks and opportunities the organisation has identified over the short, medium, and long term.
-* Describe the effect nature-related risks and opportunities have had and may have on the organisation’s businesses, strategy, and financial planning.
-* Describe the resilience of the organisation’s strategy to nature-related risks and opportunities, taking into consideration different scenarios.
-* Disclose the locations where there are assets and/or activities in the organisation's direct operations, and upstream and/or downstream and/or financed where relevant, that are in priority areas.
-#### Risks & Impact Management:
-Disclose how the organisation identifies, assesses and manages nature-related dependencies, impacts, risks and opportunities:
-* Describe the organisation’s processes for identifying and assessing nature-related dependencies, impacts, risks and opportunities in its direct operations.
-* Describe the organisation’s approach to identifying nature-related dependencies, impacts, risks and opportunities in its upstream and downstream value chain(s) and financed activities and assets.
-* Describe the organisation’s processes for managing nature-related dependencies, impacts, risks and opportunities and actions taken in light of these processes. 
-* Describe how processes for identifying, assessing and managing nature-related risks are integrated into the organisation’s overall risk management.
-* Describe how affected stakeholders are engaged by the organisation in its assessment of, and response to, nature-related dependencies, impacts, risks and opportunities.
-#### Metrics and Targets:
-Disclose the metrics and targets used to assess and manage relevant nature-related dependencies, impacts, risks and opportunities where such information is material:
-* Disclose the metrics used by the organisation to assess and manage material nature-related risks and opportunities in line with its strategy and risk management process.
-* Disclose the metrics used by the organisation to assess and manage dependencies and impacts on nature.
-* Describe the targets and goals used by the organisation to manage nature-related dependencies, impacts, risks and opportunities and its performance against these.
+
