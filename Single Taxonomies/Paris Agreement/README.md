@@ -37,6 +37,18 @@ Click [here](https://os-sft.solidatus.com/viewer/650c26788f6f032c7aee4b48) to vi
 ![image]()
 
 ## Further Commentary
+### Agreement Aim 
+
+* The aim of the agreement, as described in Article 2, is to have a stronger response to the danger of climate change; it seeks to enhance the implementation of the United Nations Framework Convention on Climate Change through:
+
+(a) Holding the increase in the global average temperature to well below 2 °C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5 °C above pre-industrial levels, recognizing that this would significantly reduce the risks and impacts of climate change;
+
+(b) Increasing the ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development, in a manner that does not threaten food production;
+
+(c) Making finance flows consistent with a pathway towards low greenhouse gas emissions and climate-resilient development.
+
+Countries furthermore aim to reach "global peaking of greenhouse gas emissions as soon as possible." 
+
 ### Key Principles
 #### NDC - Nationally Determined Contributions:
 
