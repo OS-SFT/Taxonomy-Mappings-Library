@@ -31,7 +31,7 @@ The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for 
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/hZ26grXBOM08dTEKQpGTqYeL4rGC8f7v) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/reference-model/65017fbc8f6f032c7ae99809) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/28ccd9b5-2974-4384-9707-69735a930618)
 
