@@ -37,12 +37,12 @@ Click [here](https://os-sft.solidatus.com/viewer/650c26788f6f032c7aee4b48) to vi
 ![image]()
 
 ## Further Commentary
-#### TNFD recommended disclosures are designed to:
+#### Key Principles
+### Nationally determined contribution:
 
-* Meet the corporate reporting needs of a wide range of organisations across geographies, sectors and jurisdictions, including different approaches to materiality;
-* Help provide better information to support strategy and risk management at the board and management level, and ultimately improve capital allocation and asset valuation decisions;
-* Promote more informed investment, credit and insurance underwriting decisions by financial institutions; 
-* Enable understanding of nature-related risk and opportunities, based on insights into dependencies and impacts on nature
+* A nationally determined contribution (NDC) or intended nationally determined contribution (INDC) is a non-binding national plan highlighting climate change mitigation, including climate-related targets for greenhouse gas emission reductions. These plans also include policies and measures governments aim to implement in response to climate change and as a contribution to achieve the global targets set out in the Paris Agreement.
+
+* NDCs are the first greenhouse gas targets under the UNFCCC that apply equally to both developed and developing countries
 
 #### Taskforce has:
 
