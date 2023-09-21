@@ -31,7 +31,7 @@ The Paris Agreement is an international treaty on climate change. Adopted in 201
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/hZ26grXBOM08dTEKQpGTqYeL4rGC8f7v) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/650c26788f6f032c7aee4b48) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/28ccd9b5-2974-4384-9707-69735a930618)
 
