@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/65017fbc8f6f032c7ae99809) to view an interactive version of the taxonomy 
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/GJI6E50XegmxeGwMqlaElN4pJpMnR5Wo) to view an interactive version of the taxonomy 
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TNFD) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -31,7 +31,7 @@ The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for 
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/reference-model/65017fbc8f6f032c7ae99809) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/share/GJI6E50XegmxeGwMqlaElN4pJpMnR5Wo) to view an interactive version of the taxonomy
 
 ![image]()
 
