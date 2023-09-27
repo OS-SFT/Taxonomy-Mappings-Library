@@ -15,19 +15,20 @@ The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for 
 
 ## Taxonomy versioning
 
-- Taxonomy Version: Draft_1.0
-- Source Documentation: [TNFD](https://framework.tnfd.global/wp-content/uploads/2023/03/23-23882-TNFD_v0.4_Integrated_Framework_v7.pdf)
+#### Taxonomy Version: [TNFD_v0.4](https://os-sft.solidatus.com/viewer/share/GJI6E50XegmxeGwMqlaElN4pJpMnR5Wo)
+- Source Documentation: [TNFD Draft v0.4](https://framework.tnfd.global/wp-content/uploads/2023/03/23-23882-TNFD_v0.4_Integrated_Framework_v7.pdf)
 - Version Date: 20230323
 - Model Source: First Derivative Research
 - Model Date: 20230907
 
 ## Taxonomy Mapping
-* [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD)
+
+* [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - to be completed.
 
 ## Background Links
-- [TNFD](https://tnfd.global/).
-- [LinkedIn Page](https://www.linkedin.com/company/taskforce-on-nature-related-financial-disclosures-tnfd/).
 
+- [TNFD](https://tnfd.global/)
+- [LinkedIn Page](https://www.linkedin.com/company/taskforce-on-nature-related-financial-disclosures-tnfd/)
 
 ## Taxonomy Visualisation
 
