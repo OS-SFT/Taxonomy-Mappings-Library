@@ -11,7 +11,7 @@
 - Link: Use Case(s) - [ADD]
 
 ## Summary Observations
-The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for nature-related risk management and disclosure. It was designed to help organizations act and report on nature-related risks relevant to their direct and indirect operations. Established in 2021, the TNFD aims to assist in shifting the global financial system from one that exploits nature to one that supports and nourishes it
+The Taskforce on Nature-related Financial Disclosures (TNFD) is a framework for nature-related risk management and disclosure. It was designed to help organizations act and report on nature-related risks relevant to their direct and indirect operations. Established in 2021, the TNFD aims to assist in shifting the global financial system from one that exploits nature to one that supports and nourishes it 
 
 ## Taxonomy versioning
 
