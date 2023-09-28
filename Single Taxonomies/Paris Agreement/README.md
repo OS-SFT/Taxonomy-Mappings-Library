@@ -6,7 +6,7 @@
 
 ## Project Summary
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/650c26788f6f032c7aee4b48) to view an interactive version of the taxonomy 
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/IXiHjeqRdWh3chGqOm8bhjoX8OgreYXP) to view an interactive version of the taxonomy 
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/Paris%20Agreement) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -32,7 +32,7 @@ The Paris Agreement is an international treaty on climate change. Adopted in 201
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/650c26788f6f032c7aee4b48) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/share/IXiHjeqRdWh3chGqOm8bhjoX8OgreYXP) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/141912078/76d55785-328c-4fab-9709-16eaf1d41361)
 
