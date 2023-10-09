@@ -7,11 +7,11 @@
 - UNDER DEVELOPMENT -
 ```
 
-# ISSB: IFRS Foundation, International Sustainability Standards Board
+# Imperial CCFI Climate Risk
 
 ## Project Summary
 
-Single taxonomy for the ISSB Standards, IFRS S1 and IFRS S2.
+Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 - Taxonomy Files: See files within this repository
 - Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/yKhNR9KlV6uiiB5SZ1gyplUKU7IbprKf) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/ISSB/README.md#detailed-research) for detailed research
