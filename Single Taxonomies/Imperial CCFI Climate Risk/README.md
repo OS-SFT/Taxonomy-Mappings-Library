@@ -19,12 +19,17 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 
 ## Summary Observations
 
-- The ISSB taxonomy was divided into three sections:
-  - IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information
-  - IFRS S2: Climate-related Disclosures
-  - IFRS S2: Industry-based Guidance on implementing Climate-related Disclosures
-- ISSB aims to develop a comprehensive global baseline of sustainability disclosures. It is built on the recommendations of the TCFD and has absorbed various existing standards and frameworks including the IIRC, SASB, VRF and CBSD.
-- Requirements under IFRS S1 are difficult to map to other existing frameworks given their generic nature. However, IFRS S2 and future topic specific standards will align more closely with frameworks addressing specific areas of sustainability.
+- Climate Risk as an entity has the capability to cause reduction in various asset categories. The impact of this change can resonate into credit risk and can therefore, play a major role in a how a firm makes it's financial decisions. As a result, it is impossible to measure the amount of exposure given a firm's position.
+- The report used for constructing this taxonomy captures three important areas of risk:
+  -  Physical Risks
+  -  Transition Risks (related to adaption and mitigation)
+  -  Natural Capital Risks
+- Physical and Transitions risks are referenced in almost any collection of climate risk information and for convenience, the definitions of acute and chronic physical risks in this taxonomy are set in concrete. Transition adaptation costs also play a major role in this assignment. Even though Natural Capital risks are different to climate risks, they are exponentially having a negative impact that is driven solely by climate risk. Financial activity such as cash flows to profitability are susceptible to these risks and therefore any form of acceleration will originate from either depletion or disruption.
+- (Taxonomy alignment - will update this point)
+
+- The sole purpose of this taxonomy is to enable banks, investors and regulators to assess and review potential risks that are categorised as climate or natural capital.
+  
+ 
 
 ## Taxonomy Versioning
 
