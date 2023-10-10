@@ -26,30 +26,18 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
   -  Natural Capital Risks
 - Physical and Transitions risks are referenced in almost any collection of climate risk information and for convenience, the definitions of acute and chronic physical risks in this taxonomy are set in concrete. Transition adaptation costs also play a major role in this assignment. Even though Natural Capital risks are different to climate risks, they are exponentially having a negative impact that is driven solely by climate risk. Financial activity such as cash flows to profitability are susceptible to these risks and therefore any form of acceleration will originate from either depletion or disruption.
 - (Taxonomy alignment - will update this point)
-
 - The sole purpose of this taxonomy is to enable banks, investors and regulators to assess and review potential risks that are categorised as climate or natural capital.
   
  
 
 ## Taxonomy Versioning
 
-#### Taxonomy Version: [ISSB_v20230626](https://os-sft.solidatus.com/viewer/share/yKhNR9KlV6uiiB5SZ1gyplUKU7IbprKf)
+#### Taxonomy Version: [https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f]
 - Source Documentation:
-  - [IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
-  - [IFRS S2: Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-a/issb-2023-a-ifrs-s2-climate-related-disclosures.pdf)
-  - [IFRS S2: Industry-based Guidance on implementing Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards-issb/english/2023/issued/part-b/ifrs-s2-ibg.pdf)
-- Version Date: 20230626
+  - [populate this]
+- Version Date: 20231005
 - Model Source: First Derivative Research
-- Model Date: 20230822
-
-#### Taxonomy Version: [ISSB_v20220331](https://os-sft.solidatus.com/viewer/share/eYzJlRwxtekLaIQYsC22ISgSaB9hFLTF)
-- Source Documentation:
-  - [Exposure Draft IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information](https://www.ifrs.org/content/dam/ifrs/project/general-sustainability-related-disclosures/exposure-draft-ifrs-s1-general-requirements-for-disclosure-of-sustainability-related-financial-information.pdf)
-  - [Exposure Draft IFRS S2: Climate-related Disclosures](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-climate-related-disclosures.pdf)
-  - [IFRS S2: Climate-related Disclosures Appendix B - Industry-based disclosure requirements](https://www.ifrs.org/content/dam/ifrs/project/climate-related-disclosures/issb-exposure-draft-2022-2-appendix-b.pdf)
-- Version Date: 20220331
-- Model Source: First Derivative Research
-- Model Date: 20220913
+- Model Date: 20231005
 
 ## Taxonomy Mapping(s)
 
