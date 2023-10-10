@@ -33,8 +33,7 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 ## Taxonomy Versioning
 
 #### Taxonomy Version: [https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f]
-- Source Documentation:
-  - Click [here](https://documentcloud.adobe.com/spodintegration/index.html?locale=en-us)
+- Source Documentation: [populate this]
 - Version Date: 20231005
 - Model Source: First Derivative Research
 - Model Date: 20231005
@@ -45,12 +44,11 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 
 ## Background Links
 
-- [About the International Sustainability Standards Board](https://www.ifrs.org/groups/international-sustainability-standards-board/#about)
-- [IFRS Sustainability Standards Navigator](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/?lang=en&year=2023&type=%2Fcontent%2Fcq%3Atags%2Fifrs%2Fproduction%2Fissue-type%2Fissued)
+- To be added
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/yKhNR9KlV6uiiB5SZ1gyplUKU7IbprKf) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/68dc3285-09d6-4cb3-bcd7-3e842e222597)
 
