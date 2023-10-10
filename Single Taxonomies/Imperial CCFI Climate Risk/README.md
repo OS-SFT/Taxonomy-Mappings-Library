@@ -58,10 +58,13 @@ Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to vi
 -	Any climate risk taxonomy should address climate risks that have financial effects at the firm level or that may affect varying measures to financial performance. This taxonomy only addresses risks on a much smaller scale (ie.at the firm level) as opposed to an holistic scale (macro-economic level). The upside to this approach is that investment and financial decisions are made at the firm level. If a risk cannot be specified, it is impossible to quantify and price that climate risk.
 
 ## Defining Risk
--According to the reports, risks apply to both impacts and responses to climate risk.
+- According to the reports, risks apply to both impacts and responses to climate risk. 
 
 ## What are climate physical risks?
--Banks are developing tools and methodologies
+- Banks are developing tools and methodologies to examine physical risk exposure in both corporate and retail settings. Factors such as data uncertainty and knowledge gaps always have an affect on the development of such these tools.
+- There are two types of physical risk, acute and chronic
+  - Acute physical risk refers to an event that causes a signifcant amount of physical damage (wildfires, flooding etc)
+  - Chronic physical risk refers to those that carry a range of physical impacts that has a longer duration than those of acute risks (eg.multiyear drought)
 
 ### Useful Links
 
