@@ -65,6 +65,10 @@ Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to vi
 - There are two types of physical risk, acute and chronic
   - Acute physical risk refers to an event that causes a signifcant amount of physical damage (wildfires, flooding etc)
   - Chronic physical risk refers to those that carry a range of physical impacts that has a longer duration than those of acute risks (eg.multiyear drought)
+    
+## About transition risks
+- This taxonomy appoints adaptation risk as a type of transition risk. Any form of change would cost money hence exposing firms to a wide range of costs is a very high possibility. Sometimes adaptation measures are not practical in come locations, but if they are, it can be extremely expensive to implement. These costs have a degree of uncertainty embedded in them hence they pose potential risks to certain financial measures.
+- Adaptation costs are a broad range ost costs related to climate change impacts over a long period of time.
 
 ### Useful Links
 
