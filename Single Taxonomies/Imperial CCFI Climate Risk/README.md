@@ -55,7 +55,7 @@ Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to vi
 # Detailed Research
 
 ## What are the past assessments of climate risk to firms?
--	Any climate risk taxonomy should address climate risks that have financial effects at the firm level or that may affect varying measures to financial performance. This taxonomy only addresses risks on a much smaller scale (ie.at the firm level) as opposed to an holistic scale (macro-economic level). The upside to this approach is that investment and financial decisions are made at the firm level. If a risk cannot be specified, it is impossible to quantify and price that climate risk.
+-	Any climate risk taxonomy should address climate risks that have financial effects at the firm level or that may affect varying measures to financial performance. This taxonomy only addresses risks on a small scale (ie.firm level) as opposed to an holistic scale (macro-economic level). The upside to this approach is that investment and financial decisions are made at the firm level. If a risk cannot be specified, it is impossible to quantify and price that climate risk.
 
 ## Defining Risk
 - According to the reports, risks apply to both impacts and responses to climate risk. 
