@@ -19,7 +19,7 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 
 ## Summary Observations
 
-- Climate Risk as an entity has the capability to cause reduction in various asset categories. The impact of this change can resonate into credit risk and can therefore, play a major role in how a firm makes it's financial decisions. As a result, it is impossible to measure the amount of exposure given a firm's position.
+- Climate Risk as an entity has the capability to cause reduction in various asset categories. The impact of this change can resonate into credit risk and can therefore, play a major role in how a firm makes it's financial decisions. As a result, it is impossible to measure the amount of exposure attached to a firm's position.
 - The report used for constructing this taxonomy captures three important areas of risk:
   -  Physical Risks
   -  Transition Risks (related to adaption and mitigation)
