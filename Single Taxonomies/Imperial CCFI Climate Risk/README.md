@@ -19,7 +19,7 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 
 ## Summary Observations
 
-- Climate Risk as an entity has the capability to cause reduction in various asset categories. The impact of this change can resonate into credit risk and can therefore, play a major role in a how a firm makes it's financial decisions. As a result, it is impossible to measure the amount of exposure given a firm's position.
+- Climate Risk as an entity has the capability to cause reduction in various asset categories. The impact of this change can resonate into credit risk and can therefore, play a major role in how a firm makes it's financial decisions. As a result, it is impossible to measure the amount of exposure given a firm's position.
 - The report used for constructing this taxonomy captures three important areas of risk:
   -  Physical Risks
   -  Transition Risks (related to adaption and mitigation)
@@ -69,6 +69,13 @@ Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to vi
 ## About transition risks
 - This taxonomy appoints adaptation risk as a type of transition risk. Any form of change would cost money hence exposing firms to a wide range of costs is a very high possibility. Sometimes adaptation measures are not practical in come locations, but if they are, it can be extremely expensive to implement. These costs have a degree of uncertainty embedded in them hence they pose potential risks to certain financial measures.
 - Adaptation costs are a broad range ost costs related to climate change impacts over a long period of time.
+
+## About natural capital risks
+- This collection of risks is currently not explicitly defined. It is expected that as our unstanding of natural capital risks improves, this category will evolve. The four gernal metrics that accommodate for thewide range of natural capital issues currently unfolding are:
+  - Subsidy loss risks
+  - Depletion risks
+  - Boundary condition risks
+  - Geopolitical event risks
 
 ### Useful Links
 
