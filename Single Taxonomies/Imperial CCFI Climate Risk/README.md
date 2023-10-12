@@ -68,7 +68,7 @@ Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to vi
     
 ## About transition risks
 - This taxonomy appoints adaptation risk as a type of transition risk. Any form of change would cost money hence exposing firms to a wide range of costs is a very high possibility. Sometimes adaptation measures are not practical in come locations, but if they are, it can be extremely expensive to implement. These costs have a degree of uncertainty embedded in them hence they pose potential risks to certain financial measures.
-- Adaptation costs are a broad range ost costs related to climate change impacts over a long period of time.
+- Adaptation costs are a broad range of costs related to climate change impacts over a long period of time.
 
 ## About natural capital risks
 - This collection of risks is currently not explicitly defined. It is expected that as our unstanding of natural capital risks improves, this category will evolve. The four gernal metrics that accommodate for thewide range of natural capital issues currently unfolding are:
