@@ -31,7 +31,7 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
  
 ## Taxonomy Versioning
 
-#### Taxonomy Version: [https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f]
+#### Taxonomy Version: [https://os-sft.solidatus.com/viewer/share/uIWmNORLrC2SM8G6vi7zrrxzNWPI98C7]
 - Source Documentation:
     - Click here (https://imperialcollegelondon.app.box.com/s/te5eahz3x47q93vufwwu3ntmf5rxecxs)
 - Version Date: 20231005
