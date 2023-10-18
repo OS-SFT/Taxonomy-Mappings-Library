@@ -13,7 +13,7 @@
 
 Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/uIWmNORLrC2SM8G6vi7zrrxzNWPI98C7) to view an interactive version of the taxonomy
 - Research: See [below]('https://imperialcollegelondon.app.box.com/s/te5eahz3x47q93vufwwu3ntmf5rxecxs') for detailed research
 - Link: Use Case(s) - [ADD]
 
