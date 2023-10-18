@@ -48,7 +48,7 @@ Single taxonomy for the Imperial CCFI Climate Risk Taxonomy Model.
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/651e87908f6f032c7af6636f) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/share/uIWmNORLrC2SM8G6vi7zrrxzNWPI98C7) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/Imperial%20CCFI%20Climate%20Risk/Capture.PNG?raw=true)
 
