@@ -36,12 +36,6 @@ The following draft ESRS were published for consultation:
 
 ## Taxonomy Versioning
 
-- Taxonomy Version: ESRS_E1_v1.0; ESRS_All_v1.0
-- Source Documentation: [First Set of draft ESRS & Basis for conclusions](https://www.efrag.org/lab6#subtitle4)
-- Version Date: 20221130
-- Model Source: First Derivative Research
-- Model Date: 20221130
-
 #### Taxonomy Version: [CSRD-All-ESRS_v20221130](https://os-sft.solidatus.com/viewer/share/qfro9MzUQ53DUiBRx8PKeZu46kP3Va1C)
 - Source Documentation: [First Set of draft ESRS & Basis for conclusions](https://www.efrag.org/lab6#subtitle4)
 - Version Date: 20221130
