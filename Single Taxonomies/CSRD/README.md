@@ -42,7 +42,17 @@ The following draft ESRS were published for consultation:
 - Model Source: First Derivative Research
 - Model Date: 20221130
 
-Note: Model ESRS_E1_v1.0 was built at a more granular level than ESRS_All_v1.0 due to the relative size of each model. The OS-SFT Contributing Partners intend to build a model for the full scope of the ESRS to the same level of detail in the future.
+#### Taxonomy Version: [CSRD-All-ESRS_v20221130](https://os-sft.solidatus.com/viewer/share/qfro9MzUQ53DUiBRx8PKeZu46kP3Va1C)
+- Source Documentation: [First Set of draft ESRS & Basis for conclusions](https://www.efrag.org/lab6#subtitle4)
+- Version Date: 20221130
+- Model Source: First Derivative Research
+- Model Date: 20230719
+
+#### Taxonomy Version: [CSRD-ESRS-E1_v20221130](https://os-sft.solidatus.com/viewer/share/4Jvp250AtNnFtMSBDS5YxIozzjp9pVpe)
+- Source Documentation: [First Set of draft ESRS & Basis for conclusions](https://www.efrag.org/lab6#subtitle4)
+- Version Date: 20221130
+- Model Source: First Derivative Research
+- Model Date: 20230713
 
 ## Taxonomy Visualisation 
 
