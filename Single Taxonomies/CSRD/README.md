@@ -48,6 +48,12 @@ The following draft ESRS were published for consultation:
 - Model Source: First Derivative Research
 - Model Date: 20230713
 
+#### Taxonomy Version: [CSRD-ESRS-E5_v20221130](https://os-sft.solidatus.com/viewer/share/9DzFHPE5N6RsKJwL9PQYSnSr6rPnq6dk)
+- Source Documentation: [First Set of draft ESRS & Basis for conclusions](https://www.efrag.org/lab6#subtitle4)
+- Version Date: 20221130
+- Model Source: First Derivative Research
+- Model Date: 20231103
+
 ## Taxonomy Visualisation 
 
 Note - Partial visualisation only of ESRS E1 - Climate Change. See links above for full interactive versions of each model.
