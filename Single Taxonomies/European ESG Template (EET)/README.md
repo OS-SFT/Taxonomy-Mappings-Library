@@ -32,8 +32,8 @@ Single taxonomy for the European ESG Template (EET).
 
 ## Background Links
 
-- [EUROSIF Summary](https://www.eurosif.org/policies/sfdr/)
-- [Delegated Regulation (EU) 2022/1288 of 6 April 2022](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1288&from=EN)
+- [EET_V20220314](https://findatex.eu/)
+- [FEfundinfo](https://www.fefundinfo.com/en-gb/)
 
 ## Taxonomy Visualisation
 
