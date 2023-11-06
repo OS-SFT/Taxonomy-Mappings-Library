@@ -8,7 +8,7 @@
 
 Single taxonomy for the European ESG Template (EET).
 - Taxonomy Files: See files within this repository
-- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7) to view an interactive version of the taxonomy
+- Taxonomy Tool: Click [here](https://os-sft.solidatus.com/viewer/share/32PVj95MSqdnaPADE9epQtfi3qdKb8V3) to view an interactive version of the taxonomy
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/blob/main/Single%20Taxonomies/European%20ESG%20Template%20(EET)/README.md) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case(s) - [ADD]
 
@@ -38,7 +38,7 @@ Single taxonomy for the European ESG Template (EET).
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/share/32PVj95MSqdnaPADE9epQtfi3qdKb8V3) to view an interactive version of the taxonomy
 
 ![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/112079442/2c677073-6e10-4c0b-ac28-2ce574d6c8e7)
 
