@@ -14,17 +14,16 @@ Single taxonomy for the European ESG Template (EET).
 
 ## Summary Observations
 
-- The Sustainable Finance Disclosure Regulation (SFDR) is an EU regulation introduced to improve transparency in the market for sustainable investment products, to prevent greenwashing and to increase transparency around sustainability claims made by financial market participants.
-- It imposes comprehensive sustainability disclosure requirements covering a broad range of ESG metrics at both entity- and product-level.
-- The main provisions of the SFDR have been applicable as of 10 March 2021, with an accompanying Delegated Act containing more precise disclosure standards published on 6 April 2022.
+- The European ESG Template (EET) is a data exchange template to facilitate the exchange of environmental, social and governance (ESG)-related disclosures required by European financial markets legislation for investment funds.
+- It is a standardised template that harmonises the way ESG-related data on financial products is exchanged and supports compliance with regulatory requirements. - The EET has been developed as an industry initiative designed to standardise data exchange between banking, asset management, structured product, insurance, and pensions industries.
 
 ## Taxonomy Versioning
 
 #### Taxonomy Version: [SFDR_v20220406](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7)
 - Source Documentation: [SFDR Templates](https://www.esma.europa.eu/document/sfdr-templates)
-- Version Date: 20220406
-- Model Source: First Derivative Research
-- Model Date: 20221206
+- Version Date: 20220314
+- Model Source: Solidatus
+- Model Date: 20220314
 
 ## Taxonomy Mapping(s)
 
