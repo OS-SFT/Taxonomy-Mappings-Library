@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-Pairwise taxonomy mapping of the ESRS reportable under CSRD to the Principal Adverse Sustainability Impact statements under SFDR.
+Pairwise taxonomy mappings of the ESRS reportable under CSRD to the Principal Adverse Sustainability Impact statements under SFDR.
 
 - Taxonomy Files: See mapping files within this repository
 - Taxonomy Tool: Click each link below to view an interactive version of the taxonomy
