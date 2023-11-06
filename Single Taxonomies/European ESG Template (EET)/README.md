@@ -15,11 +15,12 @@ Single taxonomy for the European ESG Template (EET).
 ## Summary Observations
 
 - The European ESG Template (EET) is a data exchange template to facilitate the exchange of environmental, social and governance (ESG)-related disclosures required by European financial markets legislation for investment funds.
-- It is a standardised template that harmonises the way ESG-related data on financial products is exchanged and supports compliance with regulatory requirements. - The EET has been developed as an industry initiative designed to standardise data exchange between banking, asset management, structured product, insurance, and pensions industries.
+- It is a standardised template that harmonises the way ESG-related data on financial products is exchanged and supports compliance with regulatory requirements.
+- The EET has been developed as an industry initiative designed to standardise data exchange between banking, asset management, structured product, insurance, and pensions industries.
 
 ## Taxonomy Versioning
 
-#### Taxonomy Version: [SFDR_v20220406](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7)
+#### Taxonomy Version: [EET_v20220314](https://os-sft.solidatus.com/viewer/share/32PVj95MSqdnaPADE9epQtfi3qdKb8V3)
 - Source Documentation: [SFDR Templates](https://www.esma.europa.eu/document/sfdr-templates)
 - Version Date: 20220314
 - Model Source: Solidatus
@@ -27,8 +28,7 @@ Single taxonomy for the European ESG Template (EET).
 
 ## Taxonomy Mapping(s)
 
-- [TCFD - CSRD - SFDR - Supply Chain](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20CSRD%20-%20SFDR%20-%20Supply%20Chain)
-- [CSRD - SFDR Annex I (PAI)](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/CSRD%20-%20SFDR)
+- WIP
 
 ## Background Links
 
