@@ -20,7 +20,7 @@ Single taxonomy for the EU's Sustainable Finance Disclosure Regulation (SFDR).
 
 ## Taxonomy Versioning
 
-- Taxonomy Version: Draft_1.0
+- #### Taxonomy Version: [SFDR_v20220406](https://os-sft.solidatus.com/viewer/share/B56Ob78lrvNdT9PWmt3DnDklv5tWb5S7)
 - Source Documentation: [SFDR Templates](https://www.esma.europa.eu/document/sfdr-templates)
 - Version Date: 20220406
 - Model Source: First Derivative Research
@@ -29,7 +29,7 @@ Single taxonomy for the EU's Sustainable Finance Disclosure Regulation (SFDR).
 ## Taxonomy Mapping(s)
 
 - [TCFD - CSRD - SFDR - Supply Chain](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20CSRD%20-%20SFDR%20-%20Supply%20Chain)
-- [CSRD (All ESRS) - SFDR Annex I (PAI)](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/CSRD%20-%20SFDR)
+- [CSRD - SFDR Annex I (PAI)](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/CSRD%20-%20SFDR)
 
 ## Background Links
 
