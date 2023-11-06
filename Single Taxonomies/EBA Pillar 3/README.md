@@ -21,7 +21,7 @@ Single taxonomy for the final draft Implementing Technical Standards for the EBA
 
 ## Taxonomy Versioning
 
-#### Taxonomy Version: EBA-P3_v20220124
+#### Taxonomy Version: [EBA-P3_v20220124](https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ)
 - Source Documentation: [Final draft implementing technical standards on prudential disclosures on ESG risks in accordance with Article 449a CRR](https://www.eba.europa.eu/sites/default/documents/files/document_library/Publications/Draft%20Technical%20Standards/2022/1026171/EBA%20draft%20ITS%20on%20Pillar%203%20disclosures%20on%20ESG%20risks.pdf)
 - Version Date: 20220124
 - Model Source: First Derivative Research
