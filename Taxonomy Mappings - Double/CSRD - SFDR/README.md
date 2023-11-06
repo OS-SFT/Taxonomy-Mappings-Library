@@ -15,7 +15,7 @@ Pairwise taxonomy mapping of the ESRS reportable under CSRD to the Principal Adv
 - Research: See [below](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/CSRD%20-%20SFDR#further-commentary) for further commentary. **Please note that additional future research on this topic is to be added by OS-SFT Contributing Partners.**
 - Link: Use Case
 
-See also the models for:
+See also the individual taxonomy models for:
 - [CSRD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/CSRD)
 - [SFDR](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/SFDR)
 
