@@ -21,7 +21,7 @@ Single taxonomy for the European ESG Template (EET).
 ## Taxonomy Versioning
 
 #### Taxonomy Version: [EET_v20220314](https://os-sft.solidatus.com/viewer/share/32PVj95MSqdnaPADE9epQtfi3qdKb8V3)
-- Source Documentation: [EET_V20220314](https://findatex.eu/)
+- Source Documentation: [FinDatEx - European ESG Template (EET) Version 1.0](https://findatex.eu/)
 - Version Date: 20220314
 - Model Source: Solidatus
 - Model Date: 20220314
