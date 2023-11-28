@@ -11,3 +11,7 @@
 - Link: Use Case(s) - [ADD]
 
   ## Summary Observations
+- A tool for policy makers and all who work towards net zero greenhouse gas emissions for their business, group or country
+- The Guidelines are based on the latest scientific knowledge, evidence, research, and good practice, and were developed through a broad and open process involving more than 1,200 experts from over 100 countries.
+-  The Guidelines are intended to complement and align existing voluntary initiatives and standards, and to facilitate the adoption of policies and regulations that support net zero.
+-  
