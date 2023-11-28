@@ -14,4 +14,11 @@
 - A tool for policy makers and all who work towards net zero greenhouse gas emissions for their business, group or country
 - The Guidelines are based on the latest scientific knowledge, evidence, research, and good practice, and were developed through a broad and open process involving more than 1,200 experts from over 100 countries.
 -  The Guidelines are intended to complement and align existing voluntary initiatives and standards, and to facilitate the adoption of policies and regulations that support net zero.
--  
+
+  ## Taxonomy Versioning
+  
+#### Taxonomy Version: (https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)
+- Source Documentation: ([https://www.efrag.org/lab6#subtitle4](https://www.iso.org/obp/ui/en/#iso:std:iso:iwa:42:ed-1:v1:en))
+- Version Date: 2022
+- Model Source: First Derivative Research
+- Model Date: 20231106
