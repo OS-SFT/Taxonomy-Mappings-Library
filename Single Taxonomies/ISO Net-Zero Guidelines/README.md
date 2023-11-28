@@ -18,7 +18,7 @@
   ## Taxonomy Versioning
   
 #### Taxonomy Version: (https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)
-- Source Documentation: ([https://www.efrag.org/lab6#subtitle4](https://www.iso.org/obp/ui/en/#iso:std:iso:iwa:42:ed-1:v1:en))
+- Source Documentation: (https://www.iso.org/obp/ui/en/#iso:std:iso:iwa:42:ed-1:v1:en))
 - Version Date: 2022
 - Model Source: First Derivative Research
 - Model Date: 20231106
