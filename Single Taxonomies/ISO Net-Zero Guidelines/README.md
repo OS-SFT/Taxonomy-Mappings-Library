@@ -17,15 +17,20 @@
 
   ## Taxonomy Versioning
   
-#### Taxonomy Version: (https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)
+#### Taxonomy Version:[ISO Net-Zero_v20221111] (https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)
 - Source Documentation: (https://www.iso.org/obp/ui/en/#iso:std:iso:iwa:42:ed-1:v1:en))
-- Version Date: 2022
+- Version Date: 20221111
 - Model Source: First Derivative Research
 - Model Date: 20231106
 
 
+## Taxonomy Mappings
+String:
+- [ISO Net-Zero Guidelines](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/ISO%20Net-Zero%20Guidelines)
 
+  ## Background Links
 
+-[ISO Net-Zero document overview] (https://www.iso.org/contents/data/standard/08/50/85089.html_)
 
 
 
@@ -34,5 +39,5 @@
 
 ## Taxonomy Visualisation
 
-Click [here]([https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ](https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)) to view an interactive version of the taxonomy
+Click [here](https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)) to view an interactive version of the taxonomy
 
