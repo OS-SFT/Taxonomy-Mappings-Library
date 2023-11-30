@@ -39,5 +39,5 @@ String:
 
 ## Taxonomy Visualisation
 
-Click [here](https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)) to view an interactive version of the taxonomy
+Click [here] (https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)) to view an interactive version of the taxonomy
 
