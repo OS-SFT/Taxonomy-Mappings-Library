@@ -18,7 +18,7 @@
   ## Taxonomy Versioning
   
 #### Taxonomy Version:[ISO Net-Zero_v20221111] (https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)
-- Source Documentation: (https://www.iso.org/obp/ui/en/#iso:std:iso:iwa:42:ed-1:v1:en))
+- Source Documentation: (https://www.iso.org/obp/ui/en/#iso:std:iso:iwa:42:ed-1:v1:en)
 - Version Date: 20221111
 - Model Source: First Derivative Research
 - Model Date: 20231106
@@ -41,3 +41,9 @@ String:
 
 Click [here] (https://os-sft.solidatus.com/viewer/653a8f558f6f032c7a03a017)) to view an interactive version of the taxonomy
 
+![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/146960008/b3d5a16d-09f6-4f6d-8c35-cfe15c6f26fc)
+
+
+# Further Commentary
+The ISO net-zero outlook is a vision of how the world can achieve net-zero greenhouse gas emissions by 2050 or sooner, in line with the goals of the Paris Agreement and the latest scientific evidence.
+- The outlook also draws on the analysis and scenarios of the World Energy Outlook report by the International Energy Agency, which explores the pathways and actions needed to transform the global energy system and reduce emissions.
