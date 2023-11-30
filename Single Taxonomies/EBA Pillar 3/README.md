@@ -44,7 +44,7 @@ String:
 
 Click [here](https://os-sft.solidatus.com/viewer/share/I0ETplnHpTRzipz6WS616JdeM2fHfwlZ) to view an interactive version of the taxonomy
 
-![image](![image](https://github.com/OS-SFT/Taxonomy-Mappings-Library/assets/146960008/6c2cc9ee-2c32-43fd-be97-b97a4dbd75c0)
+![image
 
 
 # Further Commentary
