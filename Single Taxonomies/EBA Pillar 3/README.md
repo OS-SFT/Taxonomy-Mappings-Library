@@ -34,7 +34,7 @@ Pairwise:
 - [EBA Pillar 3-TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20Double/TCFD%20-%20EBA%20Pillar%203)
 
 String:
-- [ISSB-TCFD-EBA Pillar 3](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20ISSB%20-%20EBA%20Pillar%203)
+- [TCFD - EBA Pillar 3 - ISSB](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Taxonomy%20Mappings%20-%20String/TCFD%20-%20ISSB%20-%20EBA%20Pillar%203)
 
 ## Background Links
 
