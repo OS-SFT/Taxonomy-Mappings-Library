@@ -19,7 +19,7 @@ Pairwise taxonomy mapping between the TCFD recommendations and the climate risk 
 
 ## Taxonomy Versioning
 
-- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [OSFI](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/OSFI)
+- Individual Taxonomies: [TCFD](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/TCFD) - [OSFI (Canada)](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main/Single%20Taxonomies/OSFI)
 - Model Source: First Derivative Research
 - Model Date: 20221130
 
